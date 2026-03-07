@@ -136,6 +136,7 @@ body,
 
 .md-typeset {
   color: #3d3d3d;
+  text-align: center;
 }
 
 /* Hide both sidebars — site is small, tabs are enough */
@@ -228,7 +229,13 @@ body,
   background-color: #5c3d2e;
 }
 
-/* ── About page ── */
+/* ── About page — left-align text ── */
+.about-hero .md-typeset,
+.about-hero,
+.about-text {
+  text-align: left;
+}
+
 .about-hero {
   display: flex;
   gap: 3rem;
