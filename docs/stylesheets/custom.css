@@ -121,9 +121,17 @@ body,
   color: #3d3d3d;
 }
 
-/* Hide the left sidebar — site is small, tabs are enough */
-.md-sidebar--primary {
+/* Hide both sidebars — site is small, tabs are enough */
+.md-sidebar--primary,
+.md-sidebar--secondary {
   display: none;
+}
+
+/* Keep content centered within the same max-width the sidebars would create */
+.md-content {
+  max-width: 61rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Sidebar nav links (kept for mobile toggle fallback) */
