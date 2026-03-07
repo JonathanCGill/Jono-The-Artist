@@ -14,7 +14,7 @@ body,
   background-color: #f5f0eb;
 }
 
-/* Header bar — light cream, matching the page background */
+/* Header bar -light cream, matching the page background */
 .md-header {
   background-color: #f5f0eb;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
@@ -23,7 +23,7 @@ body,
   z-index: 100;
 }
 
-/* Header — centered logo + title */
+/* Header -centered logo + title */
 .md-header__inner {
   display: flex;
   justify-content: center;
@@ -51,7 +51,7 @@ body,
   right: 0.4rem;
 }
 
-/* Tabs row — light background with brown text, centered, always visible */
+/* Tabs row -light background with brown text, centered, always visible */
 .md-tabs {
   background-color: #f5f0eb;
   border-bottom: 1px solid rgba(92, 61, 46, 0.1);
@@ -140,7 +140,7 @@ body,
   text-align: center;
 }
 
-/* Hide both sidebars — site is small, tabs are enough */
+/* Hide both sidebars -site is small, tabs are enough */
 .md-sidebar--primary,
 .md-sidebar--secondary {
   display: none !important;
@@ -214,7 +214,7 @@ body,
   color: #555;
 }
 
-/* ── Buttons — warm brown ── */
+/* ── Buttons -warm brown ── */
 .md-button {
   border-color: #8b4513 !important;
   color: #8b4513 !important;
@@ -230,7 +230,7 @@ body,
   background-color: #5c3d2e;
 }
 
-/* ── About page — left-align text ── */
+/* ── About page -left-align text ── */
 .about-hero .md-typeset,
 .about-hero,
 .about-text {
