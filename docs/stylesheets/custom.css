@@ -23,7 +23,11 @@ body,
   z-index: 100;
 }
 
-/* Header title / logo text in dark brown */
+/* Header — centered title with logo on far left */
+.md-header__inner {
+  justify-content: center;
+}
+
 .md-header__topic {
   color: #5c3d2e;
 }
@@ -32,10 +36,14 @@ body,
   color: #5c3d2e;
 }
 
-/* Tabs row — light background with brown text */
+/* Tabs row — light background with brown text, centered */
 .md-tabs {
   background-color: #f5f0eb;
   border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+}
+
+.md-tabs__list {
+  justify-content: center;
 }
 
 .md-tabs__link {
