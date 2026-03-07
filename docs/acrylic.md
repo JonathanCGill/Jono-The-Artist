@@ -1,6 +1,6 @@
 # Acrylic Paintings
 
-## Landscapes
+## Places
 
 ---
 
@@ -31,8 +31,6 @@
 **Orchard 2**
 
 </div>
-
-## Cityscapes
 
 ---
 

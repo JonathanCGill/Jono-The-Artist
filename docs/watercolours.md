@@ -1,6 +1,6 @@
 # Watercolours
 
-## Cape Town & Surrounds
+## Places
 
 ---
 
@@ -61,8 +61,6 @@
 **Lavenders, Franschhoek**
 
 </div>
-
-## Western Cape Towns
 
 ---
 
@@ -154,8 +152,6 @@
 
 </div>
 
-## Europe
-
 ---
 
 <div class="painting" markdown>
@@ -203,18 +199,6 @@
 ![Dunnets Head](watercolours/Dunnets%20Head.jpg){ .gallery-img }
 
 **Dunnets Head**
-
-</div>
-
-## Landscapes
-
----
-
-<div class="painting" markdown>
-
-![The Passage](watercolours/The%20Passage.jpg){ .gallery-img }
-
-**The Passage**
 
 </div>
 
@@ -287,6 +271,16 @@
 ![Brain Scan](watercolours/Brain%20Scan.jpg){ .gallery-img }
 
 **Brain Scan**
+
+</div>
+
+---
+
+<div class="painting" markdown>
+
+![The Passage](watercolours/The%20Passage.jpg){ .gallery-img }
+
+**The Passage**
 
 </div>
 
