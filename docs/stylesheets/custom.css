@@ -81,16 +81,16 @@ body,
 }
 
 .md-tabs__link {
-  color: #5c3d2e;
+  color: #5c3d2e !important;
   font-size: 0.82rem;
   letter-spacing: 0.02em;
-  opacity: 0.75;
+  opacity: 1 !important;
 }
 
 .md-tabs__link--active,
 .md-tabs__link:hover {
-  color: #8b4513;
-  opacity: 1;
+  color: #8b4513 !important;
+  opacity: 1 !important;
 }
 
 /* Ellipsis icon in header */
