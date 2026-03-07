@@ -23,7 +23,7 @@ body,
   z-index: 100;
 }
 
-/* Header — centered title text */
+/* Header — centered logo + title */
 .md-header__inner {
   display: flex;
   justify-content: center;
@@ -34,14 +34,15 @@ body,
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  color: #5c3d2e;
 }
 
 .md-header__topic {
   color: #5c3d2e;
-}
-
-.md-header__title {
-  color: #5c3d2e;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
 }
 
 /* Push the ellipsis/options button to not offset the centering */
