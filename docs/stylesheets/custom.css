@@ -50,10 +50,13 @@ body,
   right: 0.4rem;
 }
 
-/* Tabs row — light background with brown text, centered */
+/* Tabs row — light background with brown text, centered, always visible */
 .md-tabs {
   background-color: #f5f0eb;
   border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 99;
 }
 
 .md-tabs__list {
@@ -118,7 +121,12 @@ body,
   color: #3d3d3d;
 }
 
-/* Sidebar nav links */
+/* Hide the left sidebar — site is small, tabs are enough */
+.md-sidebar--primary {
+  display: none;
+}
+
+/* Sidebar nav links (kept for mobile toggle fallback) */
 .md-nav__link {
   color: #5c3d2e;
 }

@@ -12,6 +12,7 @@ theme:
     code: Roboto Mono
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
   favicon: favicon.ico
   logo: favicon.png
