@@ -196,8 +196,6 @@
 
 </div>
 
-## Landscapes
-
 ---
 
 <div class="painting" markdown>
@@ -207,6 +205,8 @@
 **Dunnets Head**
 
 </div>
+
+## Landscapes
 
 ---
 
@@ -218,17 +218,27 @@
 
 </div>
 
+## Surreal
+
 ---
 
 <div class="painting" markdown>
 
 ![SOH](watercolours/SOH.jpg){ .gallery-img }
 
-**SOH**
+**Sydney Opera House**
 
 </div>
 
-## Surreal
+---
+
+<div class="painting" markdown>
+
+![Ultima](watercolours/Ultima.jpg){ .gallery-img }
+
+**Ultima, Sydney**
+
+</div>
 
 ---
 
@@ -277,16 +287,6 @@
 ![Brain Scan](watercolours/Brain%20Scan.jpg){ .gallery-img }
 
 **Brain Scan**
-
-</div>
-
----
-
-<div class="painting" markdown>
-
-![Ultima](watercolours/Ultima.jpg){ .gallery-img }
-
-**Ultima**
 
 </div>
 
