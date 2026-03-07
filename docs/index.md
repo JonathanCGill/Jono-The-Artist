@@ -1,6 +1,6 @@
 # Welcome
 
-I'm Jono — a painter working in acrylics and watercolours.
+I'm Jono, a painter working in acrylics and watercolours.
 
 This site is a collection of selected works. Browse the galleries above to explore.
 

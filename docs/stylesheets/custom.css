@@ -14,7 +14,7 @@ body,
   background-color: #f5f0eb;
 }
 
-/* Header bar — light cream, matching the page background */
+/* Header bar -light cream, matching the page background */
 .md-header {
   background-color: #f5f0eb;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
@@ -23,7 +23,7 @@ body,
   z-index: 100;
 }
 
-/* Header — centered title text */
+/* Header -centered logo + title */
 .md-header__inner {
   display: flex;
   justify-content: center;
@@ -34,14 +34,15 @@ body,
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  color: #5c3d2e;
 }
 
 .md-header__topic {
   color: #5c3d2e;
-}
-
-.md-header__title {
-  color: #5c3d2e;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
 }
 
 /* Push the ellipsis/options button to not offset the centering */
@@ -50,13 +51,30 @@ body,
   right: 0.4rem;
 }
 
-/* Tabs row — light background with brown text, centered, always visible */
+/* Tabs row -light background with brown text, centered, always visible */
 .md-tabs {
   background-color: #f5f0eb;
   border-bottom: 1px solid rgba(92, 61, 46, 0.1);
-  position: sticky;
-  top: 0;
+  position: sticky !important;
+  top: 0 !important;
   z-index: 99;
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+/* Prevent MkDocs Material JS from hiding tabs on scroll */
+.md-tabs[hidden],
+.md-tabs[data-md-state="hidden"] {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  height: auto !important;
+  pointer-events: auto !important;
 }
 
 .md-tabs__list {
@@ -64,16 +82,16 @@ body,
 }
 
 .md-tabs__link {
-  color: #5c3d2e;
+  color: #5c3d2e !important;
   font-size: 0.82rem;
   letter-spacing: 0.02em;
-  opacity: 0.75;
+  opacity: 1 !important;
 }
 
 .md-tabs__link--active,
 .md-tabs__link:hover {
-  color: #8b4513;
-  opacity: 1;
+  color: #8b4513 !important;
+  opacity: 1 !important;
 }
 
 /* Ellipsis icon in header */
@@ -119,19 +137,26 @@ body,
 
 .md-typeset {
   color: #3d3d3d;
+  text-align: center;
 }
 
-/* Hide both sidebars — site is small, tabs are enough */
+/* Hide both sidebars -site is small, tabs are enough */
 .md-sidebar--primary,
 .md-sidebar--secondary {
-  display: none;
+  display: none !important;
 }
 
-/* Keep content centered within the same max-width the sidebars would create */
+/* Full-width grid, centered content */
+.md-main__inner {
+  display: flex;
+  justify-content: center;
+}
+
 .md-content {
   max-width: 61rem;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
 }
 
 /* Sidebar nav links (kept for mobile toggle fallback) */
@@ -189,7 +214,7 @@ body,
   color: #555;
 }
 
-/* ── Buttons — warm brown ── */
+/* ── Buttons -warm brown ── */
 .md-button {
   border-color: #8b4513 !important;
   color: #8b4513 !important;
@@ -205,7 +230,13 @@ body,
   background-color: #5c3d2e;
 }
 
-/* ── About page ── */
+/* ── About page -left-align text ── */
+.about-hero .md-typeset,
+.about-hero,
+.about-text {
+  text-align: left;
+}
+
 .about-hero {
   display: flex;
   gap: 3rem;
