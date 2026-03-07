@@ -1,0 +1,108 @@
+/* ── Off-white palette ── */
+:root {
+  --md-primary-fg-color: #3d3d3d;
+  --md-primary-bg-color: #faf8f5;
+  --md-accent-fg-color: #8c7a6b;
+  --md-default-bg-color: #faf8f5;
+  --md-footer-bg-color: #3d3d3d;
+  --md-footer-fg-color: #faf8f5;
+}
+
+/* Body background */
+body,
+.md-main {
+  background-color: #faf8f5;
+}
+
+/* Header bar — dark charcoal, pinned to top */
+.md-header {
+  background-color: #3d3d3d;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* Tabs row */
+.md-tabs {
+  background-color: #3d3d3d;
+}
+
+/* Remove search */
+.md-search {
+  display: none;
+}
+
+/* Remove repo link */
+.md-header__source {
+  display: none;
+}
+
+/* ── Typography ── */
+.md-typeset h1 {
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #3d3d3d;
+}
+
+/* ── Gallery grid on home page ── */
+.gallery-preview {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.preview-section {
+  text-align: center;
+}
+
+.preview-img {
+  width: 100%;
+  max-width: 480px;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.preview-img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+
+/* ── Individual painting cards ── */
+.painting {
+  text-align: center;
+  max-width: 720px;
+  margin: 2rem auto;
+}
+
+.gallery-img {
+  width: 100%;
+  max-width: 720px;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+.painting p {
+  margin-top: 0.75rem;
+  font-size: 1.05rem;
+  color: #555;
+}
+
+/* ── Buttons ── */
+.md-button {
+  border-color: #8c7a6b !important;
+  color: #8c7a6b !important;
+}
+
+.md-button:hover {
+  background-color: #8c7a6b !important;
+  color: #faf8f5 !important;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .gallery-preview {
+    grid-template-columns: 1fr;
+  }
+}
