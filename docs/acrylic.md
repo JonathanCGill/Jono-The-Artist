@@ -14,7 +14,7 @@
 
 <div class="painting" markdown>
 
-![Hot Air Play](acrylic/Hot Air Play.jpg){ .gallery-img }
+![Hot Air Play](acrylic/Hot%20Air%20Play.jpg){ .gallery-img }
 
 **Hot Air Play**
 
@@ -24,7 +24,7 @@
 
 <div class="painting" markdown>
 
-![The Last Holiday — Amsterdam](acrylic/The Last Holiday - Amsterdam.jpg){ .gallery-img }
+![The Last Holiday — Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }
 
 **The Last Holiday — Amsterdam**
 
@@ -34,7 +34,7 @@
 
 <div class="painting" markdown>
 
-![The Love Vending Machine](acrylic/The Love Vending Machine.jpg){ .gallery-img }
+![The Love Vending Machine](acrylic/The%20Love%20Vending%20Machine.jpg){ .gallery-img }
 
 **The Love Vending Machine**
 
@@ -44,7 +44,7 @@
 
 <div class="painting" markdown>
 
-![The Path](acrylic/The Path.jpg){ .gallery-img }
+![The Path](acrylic/The%20Path.jpg){ .gallery-img }
 
 **The Path**
 
