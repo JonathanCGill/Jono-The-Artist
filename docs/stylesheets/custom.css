@@ -1,30 +1,59 @@
-/* ── Off-white palette ── */
+/* ── Warm cream palette inspired by The Insect Hotel ── */
 :root {
-  --md-primary-fg-color: #3d3d3d;
-  --md-primary-bg-color: #faf8f5;
-  --md-accent-fg-color: #8c7a6b;
-  --md-default-bg-color: #faf8f5;
-  --md-footer-bg-color: #3d3d3d;
-  --md-footer-fg-color: #faf8f5;
+  --md-primary-fg-color: #5c3d2e;
+  --md-primary-bg-color: #f5f0eb;
+  --md-accent-fg-color: #8b4513;
+  --md-default-bg-color: #f5f0eb;
+  --md-footer-bg-color: #5c3d2e;
+  --md-footer-fg-color: #f5f0eb;
 }
 
 /* Body background */
 body,
 .md-main {
-  background-color: #faf8f5;
+  background-color: #f5f0eb;
 }
 
-/* Header bar — dark charcoal, pinned to top */
+/* Header bar — light cream, matching the page background */
 .md-header {
-  background-color: #3d3d3d;
+  background-color: #f5f0eb;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
   position: sticky;
   top: 0;
   z-index: 100;
 }
 
-/* Tabs row */
+/* Header title / logo text in dark brown */
+.md-header__topic {
+  color: #5c3d2e;
+}
+
+.md-header__title {
+  color: #5c3d2e;
+}
+
+/* Tabs row — light background with brown text */
 .md-tabs {
-  background-color: #3d3d3d;
+  background-color: #f5f0eb;
+  border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+}
+
+.md-tabs__link {
+  color: #5c3d2e;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  opacity: 0.75;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #8b4513;
+  opacity: 1;
+}
+
+/* Ellipsis icon in header */
+.md-header .md-icon {
+  color: #5c3d2e;
 }
 
 /* Remove search */
@@ -39,9 +68,33 @@ body,
 
 /* ── Typography ── */
 .md-typeset h1 {
-  font-weight: 300;
-  letter-spacing: 0.02em;
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 2.8rem;
+  letter-spacing: 0.01em;
+  color: #5c3d2e;
+  margin-bottom: 0.5rem;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  color: #5c3d2e;
+}
+
+.md-typeset {
   color: #3d3d3d;
+}
+
+/* Sidebar nav links */
+.md-nav__link {
+  color: #5c3d2e;
+}
+
+.md-nav__link--active {
+  color: #8b4513;
+  font-weight: 600;
 }
 
 /* ── Gallery grid on home page ── */
@@ -89,20 +142,29 @@ body,
   color: #555;
 }
 
-/* ── Buttons ── */
+/* ── Buttons — warm brown ── */
 .md-button {
-  border-color: #8c7a6b !important;
-  color: #8c7a6b !important;
+  border-color: #8b4513 !important;
+  color: #8b4513 !important;
 }
 
 .md-button:hover {
-  background-color: #8c7a6b !important;
-  color: #faf8f5 !important;
+  background-color: #8b4513 !important;
+  color: #f5f0eb !important;
+}
+
+/* ── Footer ── */
+.md-footer {
+  background-color: #5c3d2e;
 }
 
 /* ── Responsive ── */
 @media (max-width: 600px) {
   .gallery-preview {
     grid-template-columns: 1fr;
+  }
+
+  .md-typeset h1 {
+    font-size: 2rem;
   }
 }
