@@ -158,6 +158,35 @@ body,
   background-color: #5c3d2e;
 }
 
+/* ── About page ── */
+.about-hero {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+
+.about-photo {
+  flex: 0 0 280px;
+}
+
+.about-img {
+  width: 280px;
+  border-radius: 6px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about-text {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #3d3d3d;
+}
+
+.about-text p {
+  margin-bottom: 1rem;
+}
+
 /* ── Responsive ── */
 @media (max-width: 600px) {
   .gallery-preview {
@@ -166,5 +195,18 @@ body,
 
   .md-typeset h1 {
     font-size: 2rem;
+  }
+
+  .about-hero {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-photo {
+    flex: none;
+  }
+
+  .about-img {
+    width: 220px;
   }
 }
