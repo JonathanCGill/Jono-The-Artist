@@ -22,7 +22,7 @@ This site is a collection of selected works. Browse the galleries above to explo
 
 ### Watercolours
 
-[![St James](watercolours/St James.jpg){ .preview-img }](watercolours.md)
+[![St James](watercolours/St%20James.jpg){ .preview-img }](watercolours.md)
 
 [View Gallery →](watercolours.md){ .md-button }
 
