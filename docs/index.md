@@ -10,21 +10,21 @@ This site is a collection of selected works. Browse the galleries above to explo
 
 <div class="preview-section" markdown>
 
-### Acrylic Paintings
+### Places
 
-[![Bilboa](acrylic/Bilboa.jpg){ .preview-img }](acrylic.md)
+[![Bilboa](acrylic/Bilboa.jpg){ .preview-img }](places.md)
 
-[View Gallery →](acrylic.md){ .md-button }
+[View Gallery →](places.md){ .md-button }
 
 </div>
 
 <div class="preview-section" markdown>
 
-### Watercolours
+### Surreal
 
-[![St James](watercolours/St%20James.jpg){ .preview-img }](watercolours.md)
+[![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .preview-img }](surreal.md)
 
-[View Gallery →](watercolours.md){ .md-button }
+[View Gallery →](surreal.md){ .md-button }
 
 </div>
 
