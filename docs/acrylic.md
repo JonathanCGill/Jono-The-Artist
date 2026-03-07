@@ -24,9 +24,9 @@
 
 <div class="painting" markdown>
 
-![The Last Holiday — Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }
+![The Last Holiday, Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }
 
-**The Last Holiday — Amsterdam**
+**The Last Holiday, Amsterdam**
 
 </div>
 
