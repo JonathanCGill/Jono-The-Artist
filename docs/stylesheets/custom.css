@@ -54,9 +54,26 @@ body,
 .md-tabs {
   background-color: #f5f0eb;
   border-bottom: 1px solid rgba(92, 61, 46, 0.1);
-  position: sticky;
-  top: 0;
+  position: sticky !important;
+  top: 0 !important;
   z-index: 99;
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+/* Prevent MkDocs Material JS from hiding tabs on scroll */
+.md-tabs[hidden],
+.md-tabs[data-md-state="hidden"] {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  height: auto !important;
+  pointer-events: auto !important;
 }
 
 .md-tabs__list {
@@ -124,14 +141,20 @@ body,
 /* Hide both sidebars — site is small, tabs are enough */
 .md-sidebar--primary,
 .md-sidebar--secondary {
-  display: none;
+  display: none !important;
 }
 
-/* Keep content centered within the same max-width the sidebars would create */
+/* Full-width grid, centered content */
+.md-main__inner {
+  display: flex;
+  justify-content: center;
+}
+
 .md-content {
   max-width: 61rem;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
 }
 
 /* Sidebar nav links (kept for mobile toggle fallback) */
