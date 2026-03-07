@@ -284,7 +284,7 @@
 
 </div>
 
-## Portraits & Figures
+## Portraits
 
 ---
 
