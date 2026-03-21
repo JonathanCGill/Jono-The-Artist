@@ -1,5 +1,3 @@
-# Welcome
-
 <div class="hero" markdown>
 
 <div class="hero-image" markdown>

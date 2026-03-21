@@ -199,6 +199,11 @@ body,
   width: 100%;
 }
 
+/* Remove top padding so hero sits flush against navbar */
+.md-content__inner {
+  margin-top: 0;
+}
+
 .md-nav__link {
   color: var(--brown);
 }
@@ -211,11 +216,17 @@ body,
 /* ══════════════════════════════════════════════════
    HERO SECTION — Home page
    ══════════════════════════════════════════════════ */
+/* Hide the auto-generated h1 on the home page */
+.hero ~ h1,
+.md-content > .md-typeset > h1:first-child {
+  display: none;
+}
+
 .hero {
   position: relative;
-  margin: -0.5rem -0.6rem 0;
+  margin: -1.2rem -0.6rem 0;
   overflow: hidden;
-  border-radius: 8px;
+  border-radius: 0 0 8px 8px;
 }
 
 .hero-image {
