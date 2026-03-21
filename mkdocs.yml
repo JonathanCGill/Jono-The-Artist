@@ -8,7 +8,7 @@ theme:
     primary: custom
     accent: custom
   font:
-    text: Inter
+    text: DM Sans
     code: Roboto Mono
   features:
     - navigation.tabs
