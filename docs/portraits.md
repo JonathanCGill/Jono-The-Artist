@@ -52,3 +52,12 @@ Self-portraits and studies of the human form.
 </div>
 
 </div>
+
+---
+
+<div class="social-links" markdown>
+
+<a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
+<a href="https://www.instagram.com/jonathangi11/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
+
+</div>
