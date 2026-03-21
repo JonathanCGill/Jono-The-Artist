@@ -34,6 +34,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Places: places.md
+  - Landscapes: landscapes.md
   - Surreal: surreal.md
+  - Portraits: portraits.md
   - About: about.md
