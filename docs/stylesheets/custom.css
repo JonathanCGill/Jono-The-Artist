@@ -479,6 +479,32 @@ body,
   margin-bottom: 1rem;
 }
 
+/* Social links */
+.social-links {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--brown) !important;
+  font-size: 1.05rem;
+  text-decoration: none !important;
+  transition: color 0.2s ease;
+}
+
+.social-links a:hover {
+  color: var(--sienna) !important;
+}
+
+.social-links i {
+  font-size: 1.3rem;
+}
+
 /* ══════════════════════════════════════════════════
    RESPONSIVE
    ══════════════════════════════════════════════════ */
