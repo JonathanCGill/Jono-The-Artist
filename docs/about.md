@@ -22,4 +22,8 @@ I paint because it's the best way I know to make sense of the world, and to stop
 
 ---
 
-*Get in touch or follow my work. More details coming soon.*
+**Elsewhere on the web:**
+
+[The Insect Hotel](https://theinsecthotel.co.za) — my other creative playground.
+
+[Airtime Security](https://airuntimesecurity.io) — my professional work in security.
