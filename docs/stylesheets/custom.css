@@ -79,24 +79,29 @@ body,
   right: 0.4rem;
 }
 
-/* Tabs — inline in the header row, pushed to the right */
+/* Tabs — inline in the header row, pushed to the right (desktop only) */
 .md-tabs {
   background-color: transparent;
   border-bottom: none;
-  position: fixed !important;
-  top: 0 !important;
-  right: 0 !important;
-  left: auto !important;
-  z-index: 101;
-  display: flex !important;
-  align-items: center;
-  height: 3rem !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  transform: none !important;
-  overflow: visible !important;
-  width: auto !important;
-  border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+}
+
+@media (min-width: 960.1px) {
+  .md-tabs {
+    position: fixed !important;
+    top: 0 !important;
+    right: 0 !important;
+    left: auto !important;
+    z-index: 101;
+    display: flex !important;
+    align-items: center;
+    height: 3rem !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    overflow: visible !important;
+    width: auto !important;
+    border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+  }
 }
 
 /* Extend the bottom border across the full width via the header */
@@ -104,14 +109,17 @@ body,
   border-bottom: 1px solid rgba(92, 61, 46, 0.1);
 }
 
-.md-tabs[hidden],
-.md-tabs[data-md-state="hidden"] {
-  display: flex !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  transform: none !important;
-  height: 3rem !important;
-  pointer-events: auto !important;
+/* Keep tabs visible on desktop even when Material tries to hide them on scroll */
+@media (min-width: 960.1px) {
+  .md-tabs[hidden],
+  .md-tabs[data-md-state="hidden"] {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    height: 3rem !important;
+    pointer-events: auto !important;
+  }
 }
 
 .md-tabs__list {
@@ -188,17 +196,23 @@ body,
 }
 
 /* Style the mobile nav drawer */
-.md-sidebar--primary .md-nav__link {
-  color: var(--brown);
-  font-family: 'DM Sans', sans-serif;
-  font-size: 0.95rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
+@media (max-width: 960px) {
+  .md-sidebar--primary {
+    background-color: var(--cream);
+  }
 
-.md-sidebar--primary .md-nav__link:hover,
-.md-sidebar--primary .md-nav__link--active {
-  color: var(--sienna);
+  .md-sidebar--primary .md-nav__link {
+    color: var(--brown);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .md-sidebar--primary .md-nav__link:hover,
+  .md-sidebar--primary .md-nav__link--active {
+    color: var(--sienna);
+  }
 }
 
 /* Full-width centered content */
