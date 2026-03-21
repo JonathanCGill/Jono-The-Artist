@@ -331,6 +331,15 @@ body,
   box-shadow: var(--shadow-lg);
 }
 
+/* Strip the <p> wrapper Markdown adds around images */
+.gallery-card > p,
+.hero-image > p,
+.preview-stack > p {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
 .gallery-card .gallery-img {
   width: 100%;
   display: block;
