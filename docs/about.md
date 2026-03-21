@@ -22,6 +22,13 @@ I paint because it's the best way I know to make sense of the world, and to stop
 
 ---
 
+<div class="social-links" markdown>
+
+<a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
+<a href="https://www.instagram.com/jonathangi11/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
+
+</div>
+
 **Elsewhere on the web:**
 
 [The Insect Hotel](https://theinsecthotel.co.za) — my other creative playground.
