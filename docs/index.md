@@ -1,8 +1,22 @@
 # Welcome
 
-I'm Jono, a painter working in acrylics and watercolours.
+<div class="hero" markdown>
 
-This site is a collection of selected works. Browse the galleries above to explore.
+<div class="hero-image" markdown>
+
+![The Path](acrylic/The%20Path.jpg){ .hero-img }
+
+</div>
+
+<div class="hero-text" markdown>
+
+## Jono, The Artist
+
+Acrylics and watercolours exploring landscapes, cityscapes, and the surreal edges of everyday life.
+
+</div>
+
+</div>
 
 ---
 
@@ -12,9 +26,15 @@ This site is a collection of selected works. Browse the galleries above to explo
 
 ### Places
 
-[![Bilboa](acrylic/Bilboa.jpg){ .preview-img }](places.md)
+Landscapes and cityscapes from South Africa, Europe, and beyond.
 
-[View Gallery →](places.md){ .md-button }
+<div class="preview-stack" markdown>
+
+[![Suurbraak](watercolours/Suurbraak.jpg){ .preview-img }](places.md)
+
+</div>
+
+[View Gallery](places.md){ .md-button }
 
 </div>
 
@@ -22,9 +42,15 @@ This site is a collection of selected works. Browse the galleries above to explo
 
 ### Surreal
 
+Where the familiar tips into something stranger.
+
+<div class="preview-stack" markdown>
+
 [![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .preview-img }](surreal.md)
 
-[View Gallery →](surreal.md){ .md-button }
+</div>
+
+[View Gallery](surreal.md){ .md-button }
 
 </div>
 
