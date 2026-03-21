@@ -33,7 +33,6 @@ extra:
   generator: false
 
 nav:
-  - Home: index.md
   - Landscapes: landscapes.md
   - Surreal: surreal.md
   - Portraits: portraits.md
