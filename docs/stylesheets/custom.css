@@ -20,10 +20,10 @@ body,
   background-color: var(--cream);
 }
 
-/* Header bar — fixed to top */
+/* Header bar — fixed to top, single row with tabs */
 .md-header {
   background-color: var(--cream);
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
+  box-shadow: none;
   position: fixed;
   top: 0;
   left: 0;
@@ -31,9 +31,9 @@ body,
   z-index: 100;
 }
 
-/* Push page content below the fixed header + tabs */
+/* Push page content below the single-row header */
 .md-container {
-  padding-top: 5.5rem;
+  padding-top: 3.2rem;
 }
 
 .md-header__inner {
@@ -61,7 +61,7 @@ body,
 .md-header__title {
   flex-grow: 0;
   margin-left: 0;
-  margin-right: auto;
+  margin-right: 0;
   text-align: left;
   color: var(--brown);
 }
@@ -79,35 +79,47 @@ body,
   right: 0.4rem;
 }
 
-/* Tabs row */
+/* Tabs — inline in the header row, pushed to the right */
 .md-tabs {
-  background-color: var(--cream);
-  border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+  background-color: transparent;
+  border-bottom: none;
   position: fixed !important;
-  top: 3rem !important;
-  left: 0;
-  right: 0;
-  z-index: 99;
-  display: block !important;
+  top: 0 !important;
+  right: 0 !important;
+  left: auto !important;
+  z-index: 101;
+  display: flex !important;
+  align-items: center;
+  height: 3rem !important;
   opacity: 1 !important;
   visibility: visible !important;
   transform: none !important;
-  height: auto !important;
   overflow: visible !important;
+  width: auto !important;
+  border-bottom: 1px solid rgba(92, 61, 46, 0.1);
+}
+
+/* Extend the bottom border across the full width via the header */
+.md-header {
+  border-bottom: 1px solid rgba(92, 61, 46, 0.1);
 }
 
 .md-tabs[hidden],
 .md-tabs[data-md-state="hidden"] {
-  display: block !important;
+  display: flex !important;
   opacity: 1 !important;
   visibility: visible !important;
   transform: none !important;
-  height: auto !important;
+  height: 3rem !important;
   pointer-events: auto !important;
 }
 
 .md-tabs__list {
-  justify-content: center;
+  justify-content: flex-end;
+}
+
+.md-tabs__inner {
+  padding: 0;
 }
 
 .md-tabs__link {
@@ -187,6 +199,11 @@ body,
   width: 100%;
 }
 
+/* Remove top padding so hero sits flush against navbar */
+.md-content__inner {
+  margin-top: 0;
+}
+
 .md-nav__link {
   color: var(--brown);
 }
@@ -199,11 +216,17 @@ body,
 /* ══════════════════════════════════════════════════
    HERO SECTION — Home page
    ══════════════════════════════════════════════════ */
+/* Hide the auto-generated h1 on the home page */
+.hero ~ h1,
+.md-content > .md-typeset > h1:first-child {
+  display: none;
+}
+
 .hero {
   position: relative;
-  margin: -0.5rem -0.6rem 0;
+  margin: -1.2rem -0.6rem 0;
   overflow: hidden;
-  border-radius: 8px;
+  border-radius: 0 0 8px 8px;
 }
 
 .hero-image {
@@ -237,6 +260,10 @@ body,
   right: 0;
   padding: 2rem 2.5rem;
   z-index: 2;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .hero-text h2 {
@@ -329,6 +356,15 @@ body,
 .gallery-card:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-lg);
+}
+
+/* Strip the <p> wrapper Markdown adds around images */
+.gallery-card > p,
+.hero-image > p,
+.preview-stack > p {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
 }
 
 .gallery-card .gallery-img {
