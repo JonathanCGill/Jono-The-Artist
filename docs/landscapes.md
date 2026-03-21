@@ -1,6 +1,6 @@
-# Places
+# Landscapes
 
-Landscapes and cityscapes painted in acrylics and watercolours.
+Cityscapes and countryside painted in acrylics and watercolours.
 
 ---
 

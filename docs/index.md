@@ -20,21 +20,21 @@ Acrylics and watercolours exploring landscapes, cityscapes, and the surreal edge
 
 ---
 
-<div class="gallery-preview" markdown>
+<div class="gallery-preview gallery-preview--three" markdown>
 
 <div class="preview-section" markdown>
 
-### Places
+### Landscapes
 
-Landscapes and cityscapes from South Africa, Europe, and beyond.
+Cityscapes and countryside from South Africa, Europe, and beyond.
 
 <div class="preview-stack" markdown>
 
-[![Suurbraak](watercolours/Suurbraak.jpg){ .preview-img }](places.md)
+[![Suurbraak](watercolours/Suurbraak.jpg){ .preview-img }](landscapes.md)
 
 </div>
 
-[View Gallery](places.md){ .md-button }
+[View Gallery](landscapes.md){ .md-button }
 
 </div>
 
@@ -51,6 +51,22 @@ Where the familiar tips into something stranger.
 </div>
 
 [View Gallery](surreal.md){ .md-button }
+
+</div>
+
+<div class="preview-section" markdown>
+
+### Portraits
+
+Self-portraits and studies of the human form.
+
+<div class="preview-stack" markdown>
+
+[![Me](acrylic/Me.jpg){ .preview-img }](portraits.md)
+
+</div>
+
+[View Gallery](portraits.md){ .md-button }
 
 </div>
 
