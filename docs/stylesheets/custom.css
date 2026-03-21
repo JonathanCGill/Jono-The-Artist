@@ -175,10 +175,30 @@ body,
   text-align: center;
 }
 
-/* Hide sidebars */
-.md-sidebar--primary,
+/* Hide secondary sidebar (table of contents) always */
 .md-sidebar--secondary {
   display: none !important;
+}
+
+/* Hide primary sidebar on desktop (hamburger drawer) */
+@media (min-width: 960px) {
+  .md-sidebar--primary {
+    display: none !important;
+  }
+}
+
+/* Style the mobile nav drawer */
+.md-sidebar--primary .md-nav__link {
+  color: var(--brown);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.md-sidebar--primary .md-nav__link:hover,
+.md-sidebar--primary .md-nav__link--active {
+  color: var(--sienna);
 }
 
 /* Full-width centered content */
@@ -508,7 +528,13 @@ body,
 /* ══════════════════════════════════════════════════
    RESPONSIVE
    ══════════════════════════════════════════════════ */
+
+/* On mobile, hide tabs and use hamburger drawer instead */
 @media (max-width: 960px) {
+  .md-tabs {
+    display: none !important;
+  }
+
   .gallery-grid {
     columns: 2;
     column-gap: 1.2rem;
