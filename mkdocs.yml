@@ -15,9 +15,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
   favicon: favicon.ico
-  logo: favicon.png
-  icon:
-    logo: material/palette
+  logo: photos/Jono.jpg
 
 markdown_extensions:
   - attr_list
