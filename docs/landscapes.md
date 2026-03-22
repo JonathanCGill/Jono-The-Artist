@@ -192,7 +192,7 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-The reflections in the potholes after rain are amazing.
+A naval town with more character than it gets credit for.
 
 </div>
 
@@ -209,7 +209,7 @@ The reflections in the potholes after rain are amazing.
 A3 Watercolour
 { .card-medium }
 
-A naval town with more character than it gets credit for.
+The reflections in the potholes after rain are amazing.
 
 </div>
 
