@@ -108,14 +108,16 @@ A3 Watercolour
 
 <div class="gallery-card" markdown>
 
-![Suurbraak 2](watercolours/Suurbraak%202.jpg){ .gallery-img }
+![22 on Church](watercolours/22%20on%20Church.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Suurbraak 2**
+**22 on Church**
 
 A3 Watercolour
 { .card-medium }
+
+A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.
 
 </div>
 
