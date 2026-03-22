@@ -13,7 +13,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **A Black Hole in the Kitchen**
-Acryla Gouache{ .card-medium }
+
+Acryla Gouache
+{ .card-medium }
 
 Inspired by a song.
 
@@ -28,7 +30,9 @@ Inspired by a song.
 <div class="card-info" markdown>
 
 **Black Hole in the Kitchen**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Inspired by a song.
 
@@ -43,7 +47,9 @@ Inspired by a song.
 <div class="card-info" markdown>
 
 **Black Hole in the Lounge**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Pushing the inspiration to other rooms.
 
@@ -58,7 +64,9 @@ Pushing the inspiration to other rooms.
 <div class="card-info" markdown>
 
 **The Love Vending Machine**
-1500mm x 2000mm · Acryla Gouache{ .card-medium }
+
+1500mm x 2000mm · Acryla Gouache
+{ .card-medium }
 
 Channelling the positive energy of the Universe into human endeavours.
 
@@ -73,7 +81,9 @@ Channelling the positive energy of the Universe into human endeavours.
 <div class="card-info" markdown>
 
 **Hot Air Play**
-1000mm x 750mm · Acryla Gouache{ .card-medium }
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
 
 Fantasy world viewed from hot air.
 
@@ -88,7 +98,9 @@ Fantasy world viewed from hot air.
 <div class="card-info" markdown>
 
 **The Global Peace Conference**
-Acryla Gouache{ .card-medium }
+
+Acryla Gouache
+{ .card-medium }
 
 The Universe coming together to sort out the world, and get it to peace.
 
@@ -103,7 +115,9 @@ The Universe coming together to sort out the world, and get it to peace.
 <div class="card-info" markdown>
 
 **Sir Real**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 </div>
 
@@ -116,7 +130,9 @@ A3 Watercolour{ .card-medium }
 <div class="card-info" markdown>
 
 **Sydney Opera House**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 </div>
 
@@ -129,7 +145,9 @@ A3 Watercolour{ .card-medium }
 <div class="card-info" markdown>
 
 **Brain Scan**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Brain scans help you feel better, maybe?
 
@@ -144,7 +162,9 @@ Brain scans help you feel better, maybe?
 <div class="card-info" markdown>
 
 **Eye Field**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Who is checking out the world?
 
@@ -159,7 +179,9 @@ Who is checking out the world?
 <div class="card-info" markdown>
 
 **Listening**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 With all our technology, who is really listening?
 
@@ -174,7 +196,9 @@ With all our technology, who is really listening?
 <div class="card-info" markdown>
 
 **Music Poppy**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 </div>
 
@@ -187,7 +211,9 @@ A3 Watercolour{ .card-medium }
 <div class="card-info" markdown>
 
 **The Passage**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 </div>
 
@@ -200,7 +226,9 @@ A3 Watercolour{ .card-medium }
 <div class="card-info" markdown>
 
 **To The Light 1**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Attracted to the light.
 
@@ -215,7 +243,9 @@ Attracted to the light.
 <div class="card-info" markdown>
 
 **To The Light 2**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Attracted to the light.
 
@@ -230,7 +260,9 @@ Attracted to the light.
 <div class="card-info" markdown>
 
 **To The Light 3**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Attracted to the light.
 
@@ -245,7 +277,9 @@ Attracted to the light.
 <div class="card-info" markdown>
 
 **Aero Mechanica 1**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 A biomechanical plane — eco-friendly.
 
@@ -260,7 +294,9 @@ A biomechanical plane — eco-friendly.
 <div class="card-info" markdown>
 
 **Aero Mechanica 2**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 A biomechanical plane — eco-friendly.
 
@@ -275,7 +311,9 @@ A biomechanical plane — eco-friendly.
 <div class="card-info" markdown>
 
 **Ultima**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 Ultima in Sydney.
 
