@@ -13,9 +13,9 @@ Cityscapes and countryside painted in acrylics and watercolours.
 <div class="card-info" markdown>
 
 **St James**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
 
 </div>
 
@@ -28,9 +28,9 @@ Cityscapes and countryside painted in acrylics and watercolours.
 <div class="card-info" markdown>
 
 **Bilboa**
-{ .card-medium }
+750mm x 1000mm · Acryla Gouache{ .card-medium }
 
-<!-- Add your description here -->
+The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
 
 </div>
 
@@ -73,9 +73,9 @@ Cityscapes and countryside painted in acrylics and watercolours.
 <div class="card-info" markdown>
 
 **Suurbraak**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+A charming village near Swellendam.
 
 </div>
 
@@ -255,7 +255,7 @@ Cityscapes and countryside painted in acrylics and watercolours.
 **Lavenders, Franschhoek**
 { .card-medium }
 
-<!-- Add your description here -->
+The lavender fields and charming cottage are always a must-see.
 
 </div>
 
@@ -328,9 +328,9 @@ Cityscapes and countryside painted in acrylics and watercolours.
 <div class="card-info" markdown>
 
 **The Path**
-{ .card-medium }
+1000mm x 750mm · Acryla Gouache{ .card-medium }
 
-<!-- Add your description here -->
+A path to the Moon.
 
 </div>
 

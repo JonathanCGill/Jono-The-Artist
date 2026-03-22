@@ -13,9 +13,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **A Black Hole in the Kitchen**
-{ .card-medium }
+Acryla Gouache{ .card-medium }
 
-<!-- Add your description here -->
+Inspired by a song.
 
 </div>
 
@@ -28,9 +28,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Black Hole in the Kitchen**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Inspired by a song.
 
 </div>
 
@@ -43,9 +43,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Black Hole in the Lounge**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Pushing the inspiration to other rooms.
 
 </div>
 
@@ -58,9 +58,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **The Love Vending Machine**
-{ .card-medium }
+1500mm x 2000mm · Acryla Gouache{ .card-medium }
 
-<!-- Add your description here -->
+Channelling the positive energy of the Universe into human endeavours.
 
 </div>
 
@@ -73,9 +73,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Hot Air Play**
-{ .card-medium }
+1000mm x 750mm · Acryla Gouache{ .card-medium }
 
-<!-- Add your description here -->
+Fantasy world viewed from hot air.
 
 </div>
 
@@ -88,9 +88,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **The Global Peace Conference**
-{ .card-medium }
+Acryla Gouache{ .card-medium }
 
-<!-- Add your description here -->
+The Universe coming together to sort out the world, and get it to peace.
 
 </div>
 
@@ -103,9 +103,7 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Sir Real**
-{ .card-medium }
-
-<!-- Add your description here -->
+A3 Watercolour{ .card-medium }
 
 </div>
 
@@ -118,9 +116,7 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Sydney Opera House**
-{ .card-medium }
-
-<!-- Add your description here -->
+A3 Watercolour{ .card-medium }
 
 </div>
 
@@ -133,9 +129,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Brain Scan**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Brain scans help you feel better, maybe?
 
 </div>
 
@@ -148,9 +144,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Eye Field**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Who is checking out the world?
 
 </div>
 
@@ -163,9 +159,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Listening**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+With all our technology, who is really listening?
 
 </div>
 
@@ -178,9 +174,7 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Music Poppy**
-{ .card-medium }
-
-<!-- Add your description here -->
+A3 Watercolour{ .card-medium }
 
 </div>
 
@@ -193,9 +187,7 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **The Passage**
-{ .card-medium }
-
-<!-- Add your description here -->
+A3 Watercolour{ .card-medium }
 
 </div>
 
@@ -208,9 +200,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **To The Light 1**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Attracted to the light.
 
 </div>
 
@@ -223,9 +215,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **To The Light 2**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Attracted to the light.
 
 </div>
 
@@ -238,9 +230,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **To The Light 3**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Attracted to the light.
 
 </div>
 
@@ -253,9 +245,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Aero Mechanica 1**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+A biomechanical plane — eco-friendly.
 
 </div>
 
@@ -268,9 +260,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Aero Mechanica 2**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+A biomechanical plane — eco-friendly.
 
 </div>
 
@@ -283,9 +275,9 @@ Where the familiar tips into something stranger.
 <div class="card-info" markdown>
 
 **Ultima**
-{ .card-medium }
+A3 Watercolour{ .card-medium }
 
-<!-- Add your description here -->
+Ultima in Sydney.
 
 </div>
 
