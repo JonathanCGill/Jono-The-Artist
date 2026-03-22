@@ -10,7 +10,7 @@
 
 <div class="about-text" markdown>
 
-I'm Jono, a painter based in Cape Town's South Peninsula, drawn to colour, place, and the unexpected.
+I'm Jono, a painter drawn to colour, place, and the unexpected.
 
 My work moves between acrylics and watercolours, exploring landscapes, cityscapes, and the surreal edges of everyday life. Whether it's the light over a Cape Town beach or a black hole opening up in the kitchen, I'm always chasing the moment where the familiar tips into something stranger.
 
@@ -19,8 +19,6 @@ I paint because it's the best way I know to make sense of the world, and to stop
 My favourite medium is Holbein Acryla Gouache. It's the vibrant colours that inspire me. I don't mind mixing and matching with normal acrylics and chromatic paints, too. For my watercolours, I mostly use Mungyo. I am not formally trained in art, which means I don't really know the rules, but who needs rules?
 
 My surrealistic paintings are generally inspired by real people, and things they say or do.
-
-Painting is purely a hobby for me, done for personal pleasure. Perhaps one day I will sell my paintings, but for now, the joy is in the creation of the art and in its ability to let me be creative, something which working in IT does not always allow. I am also a keen photographer, when time allows.
 
 </div>
 
