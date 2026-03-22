@@ -16,6 +16,14 @@ Acrylics and watercolours exploring landscapes, cityscapes, and the surreal edge
 
 </div>
 
+<div class="artist-statement" markdown>
+
+The most unsettling realities are the ones that look normal.
+
+These paintings sit in that space. Familiar scenes, altered just enough to feel wrong. Narratives that don't fully resolve. A world that behaves, but not quite as expected.
+
+</div>
+
 ---
 
 <div class="gallery-preview gallery-preview--three" markdown>
