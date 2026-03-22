@@ -13,7 +13,9 @@ Cityscapes and countryside painted in acrylics and watercolours.
 <div class="card-info" markdown>
 
 **St James**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
 
@@ -28,7 +30,9 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 <div class="card-info" markdown>
 
 **Bilboa**
-750mm x 1000mm · Acryla Gouache{ .card-medium }
+
+750mm x 1000mm · Acryla Gouache
+{ .card-medium }
 
 The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
 
@@ -73,7 +77,9 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 <div class="card-info" markdown>
 
 **Suurbraak**
-A3 Watercolour{ .card-medium }
+
+A3 Watercolour
+{ .card-medium }
 
 A charming village near Swellendam.
 
@@ -328,7 +334,9 @@ The lavender fields and charming cottage are always a must-see.
 <div class="card-info" markdown>
 
 **The Path**
-1000mm x 750mm · Acryla Gouache{ .card-medium }
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
 
 A path to the Moon.
 
