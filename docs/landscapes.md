@@ -47,9 +47,11 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 <div class="card-info" markdown>
 
 **The Last Holiday, Amsterdam**
+
+1000mm x 750mm · Acryla Gouache
 { .card-medium }
 
-<!-- Add your description here -->
+Overlooking a pond in Amsterdam Nord.
 
 </div>
 
@@ -66,7 +68,7 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
+Canal Scene.
 
 </div>
 
@@ -100,8 +102,6 @@ A charming village near Swellendam.
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -116,8 +116,6 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
-
-<!-- Add your description here -->
 
 </div>
 
@@ -134,8 +132,6 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -150,8 +146,6 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
-
-<!-- Add your description here -->
 
 </div>
 
@@ -168,8 +162,6 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -184,8 +176,6 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
-
-<!-- Add your description here -->
 
 </div>
 
@@ -202,7 +192,7 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
+The reflections in the potholes after rain are amazing.
 
 </div>
 
@@ -219,7 +209,7 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
+A naval town with more character than it gets credit for.
 
 </div>
 
@@ -236,8 +226,6 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -249,9 +237,11 @@ A3 Watercolour
 <div class="card-info" markdown>
 
 **Orchards**
+
+1000mm x 750mm
 { .card-medium }
 
-<!-- Add your description here -->
+Reimagining the R62.
 
 </div>
 
@@ -264,9 +254,11 @@ A3 Watercolour
 <div class="card-info" markdown>
 
 **Orchard 2**
+
+1000mm x 750mm
 { .card-medium }
 
-<!-- Add your description here -->
+Reimagining the R62.
 
 </div>
 
@@ -300,7 +292,7 @@ The lavender fields and charming cottage are always a must-see.
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
+A village that time forgot, at the end of a road that doesn't go anywhere else.
 
 </div>
 
@@ -317,7 +309,7 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
+Route 62 country. Mountains and Victorian storefronts.
 
 </div>
 
@@ -334,8 +326,6 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -350,8 +340,6 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
-
-<!-- Add your description here -->
 
 </div>
 
@@ -385,8 +373,6 @@ A path to the Moon.
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -402,8 +388,6 @@ A3 Watercolour
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
-
 </div>
 
 </div>
@@ -418,8 +402,6 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
-
-<!-- Add your description here -->
 
 </div>
 

@@ -15,7 +15,7 @@ Self-portraits and studies of the human form.
 **Me**
 { .card-medium }
 
-<!-- Add your description here -->
+A self-portrait.
 
 </div>
 
@@ -32,7 +32,7 @@ Self-portraits and studies of the human form.
 A3 Watercolour
 { .card-medium }
 
-<!-- Add your description here -->
+Another self-portrait.
 
 </div>
 
@@ -47,7 +47,7 @@ A3 Watercolour
 **Portrait**
 { .card-medium }
 
-<!-- Add your description here -->
+A cheeky take on The Girl with the Pearl Earring by Vermeer. Perhaps the Girl with the Plastic Earring by Jono.
 
 </div>
 

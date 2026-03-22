@@ -119,6 +119,8 @@ The Universe coming together to sort out the world, and get it to peace.
 A3 Watercolour
 { .card-medium }
 
+A watercolour pun made visible.
+
 </div>
 
 </div>
@@ -133,6 +135,8 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
+
+The Opera House reimagined.
 
 </div>
 
