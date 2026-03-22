@@ -29,7 +29,7 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 
 <div class="card-info" markdown>
 
-**Bilboa**
+**Bilbao - Guggenheim Museum**
 
 750mm x 1000mm · Acryla Gouache
 { .card-medium }
