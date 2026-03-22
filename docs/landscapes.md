@@ -51,7 +51,7 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 1000mm x 750mm · Acryla Gouache
 { .card-medium }
 
-Overlooking a pond in Amsterdam Nord.
+Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
 
 </div>
 
