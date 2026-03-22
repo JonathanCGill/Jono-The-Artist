@@ -305,6 +305,30 @@ body,
 }
 
 /* ══════════════════════════════════════════════════
+   ARTIST STATEMENT — Home page
+   ══════════════════════════════════════════════════ */
+.artist-statement {
+  max-width: 620px;
+  margin: 2.5rem auto 1rem;
+  text-align: center;
+  padding: 0 1.5rem;
+}
+
+.artist-statement p:first-child {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
+  font-style: italic;
+  color: var(--brown);
+  margin-bottom: 1rem;
+}
+
+.artist-statement p:last-child {
+  color: rgba(92, 61, 46, 0.8);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* ══════════════════════════════════════════════════
    GALLERY PREVIEW — Home page cards
    ══════════════════════════════════════════════════ */
 .gallery-preview {
