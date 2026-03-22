@@ -17,7 +17,7 @@ Where the familiar tips into something stranger.
 Acryla Gouache
 { .card-medium }
 
-Inspired by a song.
+Inspired by "Not Strong Enough" by Boy Genius.
 
 </div>
 
@@ -34,7 +34,7 @@ Inspired by a song.
 A3 Watercolour
 { .card-medium }
 
-Inspired by a song.
+Inspired by "Not Strong Enough" by Boy Genius.
 
 </div>
 
@@ -51,7 +51,7 @@ Inspired by a song.
 A3 Watercolour
 { .card-medium }
 
-Pushing the inspiration to other rooms.
+Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 </div>
 
@@ -119,6 +119,8 @@ The Universe coming together to sort out the world, and get it to peace.
 A3 Watercolour
 { .card-medium }
 
+A watercolour pun made visible.
+
 </div>
 
 </div>
@@ -133,6 +135,8 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
+
+The Opera House reimagined.
 
 </div>
 
