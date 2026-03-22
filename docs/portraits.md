@@ -28,6 +28,8 @@ Self-portraits and studies of the human form.
 <div class="card-info" markdown>
 
 **Me 2**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->

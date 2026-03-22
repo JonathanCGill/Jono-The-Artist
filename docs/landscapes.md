@@ -62,6 +62,8 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 <div class="card-info" markdown>
 
 **Amsterdam**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -94,6 +96,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Suurbraak 1**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -109,6 +113,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Suurbraak 2**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -124,6 +130,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Suurbraak 3**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -139,6 +147,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Suurbraak 4**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -154,6 +164,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Suurbraak 5**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -169,6 +181,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Bo-Kaap**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -184,6 +198,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Simons Town 1**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -199,6 +215,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Simons Town 2**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -214,6 +232,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Woodstock**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -259,6 +279,8 @@ A charming village near Swellendam.
 <div class="card-info" markdown>
 
 **Lavenders, Franschhoek**
+
+A3 Watercolour
 { .card-medium }
 
 The lavender fields and charming cottage are always a must-see.
@@ -274,6 +296,8 @@ The lavender fields and charming cottage are always a must-see.
 <div class="card-info" markdown>
 
 **McGregor**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -289,6 +313,8 @@ The lavender fields and charming cottage are always a must-see.
 <div class="card-info" markdown>
 
 **Montagu**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -304,6 +330,8 @@ The lavender fields and charming cottage are always a must-see.
 <div class="card-info" markdown>
 
 **Swellendam**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -319,6 +347,8 @@ The lavender fields and charming cottage are always a must-see.
 <div class="card-info" markdown>
 
 **Liewe Hier**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -351,6 +381,8 @@ A path to the Moon.
 <div class="card-info" markdown>
 
 **Dunnets Head**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -366,6 +398,8 @@ A path to the Moon.
 <div class="card-info" markdown>
 
 **Rotterdam**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
@@ -381,6 +415,8 @@ A path to the Moon.
 <div class="card-info" markdown>
 
 **The Hague**
+
+A3 Watercolour
 { .card-medium }
 
 <!-- Add your description here -->
