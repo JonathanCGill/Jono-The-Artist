@@ -16,6 +16,10 @@ My work moves between acrylics and watercolours, exploring landscapes, cityscape
 
 I paint because it's the best way I know to make sense of the world, and to stop making sense of it.
 
+My favourite medium is Holbein Acryla Gouache. It's the vibrant colours that inspire me. I don't mind mixing and matching with normal acrylics and chromatic paints, too. For my watercolours, I mostly use Mungyo. I am not formally trained in art, which means I don't really know the rules, but who needs rules?
+
+My surrealistic paintings are generally inspired by real people, and things they say or do.
+
 </div>
 
 </div>
@@ -31,6 +35,6 @@ I paint because it's the best way I know to make sense of the world, and to stop
 
 **Elsewhere on the web:**
 
-[The Insect Hotel](https://theinsecthotel.co.za) — my other creative playground.
+[The Insect Hotel](https://theinsecthotel.co.za), my other creative playground.
 
-[Airtime Security](https://airuntimesecurity.io) — my professional work in security.
+[Airtime Security](https://airuntimesecurity.io), my professional work in security.
