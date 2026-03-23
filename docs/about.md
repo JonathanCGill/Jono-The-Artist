@@ -37,4 +37,4 @@ My surrealistic paintings are generally inspired by real people, and things they
 
 [The Insect Hotel](https://theinsecthotel.co.za), my other creative playground.
 
-[Airtime Security](https://airuntimesecurity.io), my professional work in security.
+[Ai Runtime Security](https://airuntimesecurity.io), my professional work in security.
