@@ -22,4 +22,18 @@ On air as the most fundamental commons, how rational actors collectively destroy
 
 </div>
 
+<div class="essay-card" markdown>
+
+<div class="essay-card-content" markdown>
+
+### [The Delegation Trap: AI, Cognitive Offloading, and the Erosion of Human Agency](essays/ai_overdependence_and_system_one_thinking.md)
+
+Jonathan Gill, March 2026
+
+On how AI outputs mimic careful reasoning while humans default to fast acceptance, why the competence gap is the primary failure condition, and what it takes to keep System 2 in the loop.
+
+</div>
+
+</div>
+
 </div>
