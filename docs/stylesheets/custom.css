@@ -198,10 +198,7 @@ body,
 /* Hide header when mobile drawer is open */
 @media (max-width: 960px) {
   [data-md-toggle="drawer"]:checked ~ .md-header {
-    display: none;
-  }
-  body:has([data-md-toggle="drawer"]:checked) .md-header {
-    display: none;
+    display: none !important;
   }
 }
 
