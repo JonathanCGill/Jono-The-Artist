@@ -196,8 +196,13 @@ body,
 }
 
 /* Hide header when mobile drawer is open */
-[data-md-toggle="drawer"]:checked ~ .md-header {
-  display: none;
+@media (max-width: 960px) {
+  [data-md-toggle="drawer"]:checked ~ .md-header {
+    display: none;
+  }
+  body:has([data-md-toggle="drawer"]:checked) .md-header {
+    display: none;
+  }
 }
 
 /* Style the mobile nav drawer */
