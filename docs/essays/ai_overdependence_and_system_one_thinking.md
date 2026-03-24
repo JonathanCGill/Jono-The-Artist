@@ -6,8 +6,6 @@
 
 Jonathan Gill, March 2026
 
-*This is a personal essay. The views are my own.*
-
 </div>
 
 There is a pattern emerging in how people interact with AI that mirrors something Daniel Kahneman spent decades studying in human cognition: the gravitational pull toward the path of least cognitive effort. As AI tools become more capable and more embedded in professional and personal decision-making, they are not merely augmenting human thought. In many cases, they are replacing it.
@@ -122,8 +120,8 @@ I wrote parts of this essay with AI assistance. I would be a hypocrite to preten
 
 The default is acceptance. The default is speed. The default is System 1. And the machine will meet you there every time.
 
----
+*The Delegation Trap: AI, Cognitive Offloading, and the Erosion of Human Agency*
 
-*Jonathan Gill, Cape Town, 2026*
+*This is a personal essay. The views are my own.*
 
 </div>
