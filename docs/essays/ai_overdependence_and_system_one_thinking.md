@@ -1,10 +1,9 @@
 # The Delegation Trap: AI, Cognitive Offloading, and the Erosion of Human Agency
 
 <div class="essay" markdown>
-
 <div class="essay-meta" markdown>
 
-Jonathan Gill, March 2026
+### Jonathan Gill, March 2026
 
 </div>
 
@@ -119,8 +118,6 @@ Everyone else will get faster. Whether they get better is an open question, and 
 I wrote parts of this essay with AI assistance. I would be a hypocrite to pretend otherwise. The difference, and I think it is the only difference that matters, is that I argued with it, restructured it, threw parts away, and made it say what I actually think. I supplied the System 2. The machine cannot.
 
 The default is acceptance. The default is speed. The default is System 1. And the machine will meet you there every time.
-
-*The Delegation Trap: AI, Cognitive Offloading, and the Erosion of Human Agency*
 
 *This is a personal essay. The views are my own.*
 
