@@ -26,9 +26,9 @@ Essays use this structure:
 
 1. H1: Essay title (used by MkDocs as the page heading)
 2. `<div class="essay" markdown>` wrapper
-3. `<div class="essay-meta" markdown>` containing H3 with author name and date
+3. `<div class="essay-meta" markdown>` containing H2 essay title then H3 author name and date, minimal whitespace
 4. Essay body (H2 section headings, prose paragraphs)
 5. Disclaimer in italics at the bottom: *This is a personal essay. The views are my own.*
 6. Closing `</div>` for the essay wrapper
 
-Minimise whitespace between structural elements. No horizontal rules. No repeated title at the end.
+Minimise whitespace between structural elements. No horizontal rules. No border lines in the meta block.
