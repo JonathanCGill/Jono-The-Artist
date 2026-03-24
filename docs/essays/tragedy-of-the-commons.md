@@ -2,9 +2,8 @@
 
 <div class="essay" markdown>
 <div class="essay-meta" markdown>
-
+## The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action
 ### Jonathan Gill, March 2026
-
 </div>
 
 ## The Invisible Commons
