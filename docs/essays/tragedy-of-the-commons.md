@@ -1,10 +1,9 @@
 # The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action
 
 <div class="essay" markdown>
-
 <div class="essay-meta" markdown>
 
-Jonathan Gill, March 2026
+### Jonathan Gill, March 2026
 
 </div>
 
@@ -103,8 +102,6 @@ Hardin's essay ended with a call for "mutual coercion, mutually agreed upon." He
 The commons cannot be restored. But it can be managed. If we stop pretending it does not exist, stop arguing about whether it is degrading, and start making practical decisions about how to live in a world where it already has.
 
 The air is still there. We still breathe it. What we put into it, and how we prepare for what it returns to us, remains within our agency.
-
-*The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action*
 
 *This is a personal essay. The views are my own.*
 

@@ -19,3 +19,16 @@ Admit what you do not know. Admit when the counterargument is strong. Admit when
 Do not summarise at the end what was already said. End hard. The last line should land, not recap.
 
 British English spelling throughout.
+
+## Essay Page Structure
+
+Essays use this structure:
+
+1. H1: Essay title (used by MkDocs as the page heading)
+2. `<div class="essay" markdown>` wrapper
+3. `<div class="essay-meta" markdown>` containing H3 with author name and date
+4. Essay body (H2 section headings, prose paragraphs)
+5. Disclaimer in italics at the bottom: *This is a personal essay. The views are my own.*
+6. Closing `</div>` for the essay wrapper
+
+Minimise whitespace between structural elements. No horizontal rules. No repeated title at the end.
