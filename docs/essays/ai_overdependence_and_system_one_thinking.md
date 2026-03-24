@@ -14,7 +14,7 @@ Except it is worse than an inversion. Because the machine is not actually doing 
 
 ## Kahneman's Framework and the AI Parallel
 
-Kahneman's *Thinking, Fast and Slow* describes two modes of cognitive processing. System 1 is fast, automatic, effortless: the engine of intuition and snap judgement. System 2 is slow, deliberate, effortful: the engine of logic, calculation, and critical evaluation. Humans default to System 1 wherever possible. System 2 is lazy. It will accept the suggestions of System 1 unless something forces it to engage.
+Kahneman's *Thinking, Fast and Slow* describes two modes of cognitive processing. System 1 is fast, automatic, effortless: the engine of intuition and snap judgement. System 2 is slow, deliberate, effortful: the engine of logic, calculation, and critical evaluation. Humans default to System 1 wherever possible. System 2 is lazy. It will accept the suggestions of System 1 unless something in the environment forces it to engage: novelty, contradiction, a sense that the stakes are high, or the simple friction of material that resists easy processing.
 
 AI outputs have the surface characteristics of System 2 reasoning. They are structured, evidence-based, analytically framed, and articulate. They look like the product of careful thought. But large language models generate text token by token based on statistical patterns learned from training data. There is no internal process that distinguishes a hard problem from an easy one or an uncertain claim from a well-established fact. What looks like careful reasoning is sophisticated pattern matching at scale.
 
