@@ -1,5 +1,15 @@
 # The Delegation Trap: AI, Cognitive Offloading, and the Erosion of Human Agency
 
+<div class="essay" markdown>
+
+<div class="essay-meta" markdown>
+
+Jonathan Gill, March 2026
+
+*This is a personal essay. The views are my own.*
+
+</div>
+
 There is a pattern emerging in how people interact with AI that mirrors something Daniel Kahneman spent decades studying in human cognition: the gravitational pull toward the path of least cognitive effort. As AI tools become more capable and more embedded in professional and personal decision-making, they are not merely augmenting human thought. In many cases, they are replacing it.
 
 The tool itself is not the issue. AI can genuinely make people think better. The danger is in a specific failure mode that is becoming the norm: AI producing what looks like careful analysis while the human scans the output and accepts it. The machine appears to do System 2. The human does System 1. And nobody notices the inversion.
@@ -115,3 +125,5 @@ The default is acceptance. The default is speed. The default is System 1. And th
 ---
 
 *Jonathan Gill, Cape Town, 2026*
+
+</div>
