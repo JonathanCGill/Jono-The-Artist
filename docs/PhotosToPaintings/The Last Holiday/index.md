@@ -1,28 +1,32 @@
 # The Last Holiday
 
-<div class="triptych" markdown>
+<div class="story" markdown>
 
-<div class="triptych-panel triptych-photo" markdown>
+<div class="story-images" markdown>
 
-<div class="panel-label">The Scene</div>
+<div class="story-image" markdown>
 
-![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .triptych-img }
+<div class="image-label">The Scene</div>
 
-<div class="panel-caption" markdown>
+![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .story-img }
 
-Amsterdam Noord. Late afternoon, the light doing what it does on Dutch water. The houses sit quietly, the church spire anchors the skyline, and the canal gives everything back as a perfect mirror. A still, honest moment.
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">The Painting</div>
+
+![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .story-img }
 
 </div>
 
 </div>
 
-<div class="triptych-panel triptych-bridge" markdown>
-
-<div class="panel-label">The Transformation</div>
-
-<div class="bridge-content" markdown>
+<div class="story-text" markdown>
 
 The photograph gives you the scene. The painting gives you what the scene felt like.
+
+Amsterdam Noord. Late afternoon, the light doing what it does on Dutch water. The houses sit quietly, the church spire anchors the skyline, and the canal gives everything back as a perfect mirror. A still, honest moment. And then I painted over it.
 
 The muted Dutch palette goes. In its place: cadmium reds, cerulean blues, chrome yellows. The houses find their personality. The sky catches fire at the edges.
 
@@ -37,22 +41,6 @@ And in the boat, floating calmly in the canal: ES Cargo. My snail. He turns up i
 Poppies flood the foreground because a canal bank without wildflowers felt like a lie. Daisies and sunflowers crowd in beside them. The reeds from the photograph are still there, but now they compete for space with everything else.
 
 This is what the photo to painting process does. It is not illustration. It is translation.
-
-</div>
-
-</div>
-
-<div class="triptych-panel triptych-painting" markdown>
-
-<div class="panel-label">The Painting</div>
-
-![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .triptych-img }
-
-<div class="panel-caption" markdown>
-
-The Last Holiday, Amsterdam. Acrylic on canvas. The same canal, the same houses, the same reflection. Everything else: invented, remembered, or exaggerated until it told the truth.
-
-</div>
 
 </div>
 
