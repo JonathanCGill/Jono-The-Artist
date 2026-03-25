@@ -12,6 +12,20 @@ Personal essays, written to express my own opinions on things of concern or inte
 
 <div class="essay-card-content" markdown>
 
+### [The Architecture of Trust](essays/the-architecture-of-trust.md)
+
+Jonathan Gill, March 2026
+
+On why trust is a design problem not a communications problem, how a single software glitch can undo decades of institutional credibility, and what it means to build systems that deserve the confidence people place in them.
+
+</div>
+
+</div>
+
+<div class="essay-card" markdown>
+
+<div class="essay-card-content" markdown>
+
 ### [The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action](essays/tragedy-of-the-commons.md)
 
 Jonathan Gill, March 2026
