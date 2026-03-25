@@ -746,3 +746,120 @@ body,
     margin-bottom: 1.2rem;
   }
 }
+
+/* ══════════════════════════════════════════════════
+   TRIPTYCH — Photo to Painting comparison
+   ══════════════════════════════════════════════════ */
+.triptych {
+  display: grid;
+  grid-template-columns: 1fr 0.8fr 1fr;
+  gap: 1.5rem;
+  margin: 1rem auto 2rem;
+  max-width: 90rem;
+  align-items: start;
+}
+
+.triptych .md-typeset,
+.triptych p,
+.triptych h2,
+.triptych h3 {
+  text-align: left;
+}
+
+.triptych-panel {
+  background: white;
+  border-radius: 8px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
+}
+
+.triptych-panel:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.panel-label {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--sienna);
+  padding: 0.8rem 1rem 0.4rem;
+  text-align: center;
+}
+
+.triptych-img {
+  width: 100%;
+  display: block;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: none;
+}
+
+/* Strip <p> wrapper from images in triptych */
+.triptych-panel > p {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.panel-caption {
+  padding: 0.8rem 1rem 1rem;
+  font-size: 0.88rem;
+  color: #666;
+  line-height: 1.6;
+  text-align: left;
+}
+
+.panel-caption p {
+  margin: 0;
+}
+
+/* Centre bridge panel */
+.triptych-bridge {
+  background: white;
+}
+
+.bridge-content {
+  padding: 0.6rem 1.2rem 1.4rem;
+  font-size: 0.92rem;
+  line-height: 1.75;
+  color: #3d3d3d;
+  text-align: left;
+}
+
+.bridge-content p {
+  margin-bottom: 0.8rem;
+}
+
+.bridge-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Triptych responsive */
+@media (max-width: 1100px) {
+  .triptych {
+    grid-template-columns: 1fr;
+    max-width: 680px;
+    gap: 1.2rem;
+  }
+
+  .triptych-bridge {
+    order: -1;
+  }
+
+  .bridge-content {
+    font-size: 1rem;
+    padding: 0.8rem 1.5rem 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .panel-caption {
+    padding: 0.6rem 0.8rem 0.8rem;
+  }
+
+  .bridge-content {
+    padding: 0.6rem 1rem 1.2rem;
+  }
+}
