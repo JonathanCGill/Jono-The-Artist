@@ -748,25 +748,29 @@ body,
 }
 
 /* ══════════════════════════════════════════════════
-   TRIPTYCH — Photo to Painting comparison
+   STORY — Photo + Painting with narrative below
    ══════════════════════════════════════════════════ */
-.triptych {
-  display: grid;
-  grid-template-columns: 1fr 0.8fr 1fr;
-  gap: 1.5rem;
+.story {
+  max-width: 72rem;
   margin: 1rem auto 2rem;
-  max-width: 90rem;
-  align-items: start;
 }
 
-.triptych .md-typeset,
-.triptych p,
-.triptych h2,
-.triptych h3 {
+.story .md-typeset,
+.story p,
+.story h2,
+.story h3 {
   text-align: left;
 }
 
-.triptych-panel {
+/* Side-by-side images */
+.story-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.story-image {
   background: white;
   border-radius: 8px;
   box-shadow: var(--shadow-sm);
@@ -774,11 +778,11 @@ body,
   transition: box-shadow 0.3s ease;
 }
 
-.triptych-panel:hover {
+.story-image:hover {
   box-shadow: var(--shadow-md);
 }
 
-.panel-label {
+.image-label {
   font-family: 'DM Sans', sans-serif;
   font-size: 0.75rem;
   text-transform: uppercase;
@@ -788,7 +792,7 @@ body,
   text-align: center;
 }
 
-.triptych-img {
+.story-img {
   width: 100%;
   display: block;
   border-radius: 0;
@@ -796,70 +800,41 @@ body,
   max-width: none;
 }
 
-/* Strip <p> wrapper from images in triptych */
-.triptych-panel > p {
+/* Strip <p> wrapper from images */
+.story-image > p {
   margin: 0;
   padding: 0;
   line-height: 0;
 }
 
-.panel-caption {
-  padding: 0.8rem 1rem 1rem;
-  font-size: 0.88rem;
-  color: #666;
-  line-height: 1.6;
-  text-align: left;
-}
-
-.panel-caption p {
-  margin: 0;
-}
-
-/* Centre bridge panel */
-.triptych-bridge {
-  background: white;
-}
-
-.bridge-content {
-  padding: 0.6rem 1.2rem 1.4rem;
-  font-size: 0.92rem;
-  line-height: 1.75;
+/* Narrative text below images */
+.story-text {
+  max-width: 680px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.85;
   color: #3d3d3d;
   text-align: left;
 }
 
-.bridge-content p {
-  margin-bottom: 0.8rem;
+.story-text p {
+  margin-bottom: 1.2rem;
+  text-align: left;
 }
 
-.bridge-content p:last-child {
+.story-text p:last-child {
   margin-bottom: 0;
 }
 
-/* Triptych responsive */
-@media (max-width: 1100px) {
-  .triptych {
+/* Story responsive */
+@media (max-width: 700px) {
+  .story-images {
     grid-template-columns: 1fr;
-    max-width: 680px;
     gap: 1.2rem;
   }
 
-  .triptych-bridge {
-    order: -1;
-  }
-
-  .bridge-content {
+  .story-text {
     font-size: 1rem;
-    padding: 0.8rem 1.5rem 1.5rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .panel-caption {
-    padding: 0.6rem 0.8rem 0.8rem;
-  }
-
-  .bridge-content {
-    padding: 0.6rem 1rem 1.2rem;
+    padding: 0 0.5rem;
   }
 }
