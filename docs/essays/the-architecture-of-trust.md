@@ -1,8 +1,10 @@
 # The Architecture of Trust
 
-*Why a single software glitch can undo what took decades to build*
-
----
+<div class="essay" markdown>
+<div class="essay-meta" markdown>
+## The Architecture of Trust
+### Jonathan Gill, March 2026
+</div>
 
 Trust is not a policy. It is not a compliance checkbox or a brand campaign. It is, as Rachel Botsman puts it, "a confident relationship with the unknown." That definition has stayed with me since I first encountered her work. It captures something that most institutional thinking about trust misses entirely: trust is not about certainty. It is about what we are willing to accept in the absence of certainty.
 
@@ -64,7 +66,7 @@ The research on this is sobering. People initially show a degree of appreciation
 
 But visible errors are only half the problem. The more corrosive threat is the silent failure: the system that appears to be working correctly but is not. An AI model that confidently approves loans it should decline. A fraud detection engine that drifts out of calibration and nobody notices for months. These failures do not trigger alarms. They do not generate incident reports. They erode trust invisibly, and by the time anyone realises, the damage is structural. The hardest trust to repair is the trust people did not know they had lost.
 
-This is the landscape I work in every day. Building frameworks for AI security is, at its core, an exercise in trust architecture. Not just technical controls, but the structures that allow a human being to maintain a confident relationship with a system whose inner workings they will never fully understand.
+This is where I work every day. Building frameworks for AI security is, at its core, an exercise in trust architecture. Not just technical controls, but the structures that allow a human being to maintain a confident relationship with a system whose inner workings they will never fully understand.
 
 ## Trust as a Design Problem
 
@@ -80,6 +82,6 @@ A confident relationship with the unknown requires knowing what you do not know,
 
 Trust is not a metric. It is not a KPI. It is the thing that makes everything else possible, and the thing most easily destroyed by people who think it is someone else's problem.
 
----
+*This is a personal essay. The views are my own.*
 
-*Jono Gill writes about technology, trust, and the spaces between systems and the people who depend on them. He is a cybersecurity professional based in Cape Town and the creator of the AI Runtime Security (AIRS) framework.*
+</div>

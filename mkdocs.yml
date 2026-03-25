@@ -3,6 +3,7 @@ site_description: Art Portfolio - Acrylic & Watercolour Paintings
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     scheme: default
     primary: custom
