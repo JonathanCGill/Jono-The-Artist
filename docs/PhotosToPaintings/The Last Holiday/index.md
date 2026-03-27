@@ -2,7 +2,9 @@
 
 <div class="story" markdown>
 
-<div class="story-images" markdown>
+<div class="story-split" markdown>
+
+<div class="story-photos" markdown>
 
 <div class="story-image" markdown>
 
@@ -12,11 +14,17 @@
 
 </div>
 
+</div>
+
+<div class="story-painting" markdown>
+
 <div class="story-image" markdown>
 
 <div class="image-label">The Painting</div>
 
 ![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .story-img }
+
+</div>
 
 </div>
 
