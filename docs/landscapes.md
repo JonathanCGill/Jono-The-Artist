@@ -1,4 +1,4 @@
-# Rurbam
+# Rurban
 
 Cityscapes and countryside painted in acrylics and watercolours.
 
