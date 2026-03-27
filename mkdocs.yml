@@ -38,8 +38,6 @@ nav:
   - Rurban: landscapes.md
   - Surreal: surreal.md
   - Portraits: portraits.md
-  - Stories:
-    - The Last Holiday: PhotosToPaintings/The Last Holiday/index.md
-    - Guggenheim: PhotosToPaintings/Guggenheim/index.md
+  - Stories: PhotosToPaintings/index.md
   - Essays: essays.md
   - About: about.md
