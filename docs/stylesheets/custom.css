@@ -746,3 +746,95 @@ body,
     margin-bottom: 1.2rem;
   }
 }
+
+/* ══════════════════════════════════════════════════
+   STORY — Photo + Painting with narrative below
+   ══════════════════════════════════════════════════ */
+.story {
+  max-width: 72rem;
+  margin: 1rem auto 2rem;
+}
+
+.story .md-typeset,
+.story p,
+.story h2,
+.story h3 {
+  text-align: left;
+}
+
+/* Side-by-side images */
+.story-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.story-image {
+  background: white;
+  border-radius: 8px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
+}
+
+.story-image:hover {
+  box-shadow: var(--shadow-md);
+}
+
+.image-label {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--sienna);
+  padding: 0.8rem 1rem 0.4rem;
+  text-align: center;
+}
+
+.story-img {
+  width: 100%;
+  display: block;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: none;
+}
+
+/* Strip <p> wrapper from images */
+.story-image > p {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+/* Narrative text below images */
+.story-text {
+  max-width: 680px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: #3d3d3d;
+  text-align: left;
+}
+
+.story-text p {
+  margin-bottom: 1.2rem;
+  text-align: left;
+}
+
+.story-text p:last-child {
+  margin-bottom: 0;
+}
+
+/* Story responsive */
+@media (max-width: 700px) {
+  .story-images {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+
+  .story-text {
+    font-size: 1rem;
+    padding: 0 0.5rem;
+  }
+}

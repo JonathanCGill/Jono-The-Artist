@@ -1,4 +1,4 @@
-# Landscapes
+# Rurban
 
 Cityscapes and countryside painted in acrylics and watercolours.
 
@@ -404,6 +404,23 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Ultima](watercolours/Ultima.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Ultima**
+
+A3 Watercolour
+{ .card-medium }
+
+Ultima in Sydney.
 
 </div>
 

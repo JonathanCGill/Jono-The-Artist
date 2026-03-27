@@ -30,7 +30,7 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 <div class="preview-section" markdown>
 
-### Landscapes
+### Rurban
 
 Cityscapes and countryside from South Africa, Europe, and beyond.
 

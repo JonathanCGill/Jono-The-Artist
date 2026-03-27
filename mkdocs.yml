@@ -35,8 +35,10 @@ extra:
   generator: false
 
 nav:
-  - Landscapes: landscapes.md
+  - Rurban: landscapes.md
   - Surreal: surreal.md
   - Portraits: portraits.md
+  - Stories:
+    - The Last Holiday: PhotosToPaintings/The Last Holiday/index.md
   - Essays: essays.md
   - About: about.md
