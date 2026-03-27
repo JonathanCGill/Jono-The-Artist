@@ -35,7 +35,7 @@ extra:
   generator: false
 
 nav:
-  - Landscapes: landscapes.md
+  - Rurbam: landscapes.md
   - Surreal: surreal.md
   - Portraits: portraits.md
   - Stories:
