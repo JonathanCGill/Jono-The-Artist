@@ -72,21 +72,6 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 </div>
 
-<div class="gallery-card" markdown>
-
-[![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img }](Cantabrian%20Mountains/)
-
-<div class="card-info" markdown>
-
-**Cantabrian Mountains**
-
-Acryla Gouache
-{ .card-medium }
-
-</div>
-
-</div>
-
 </div>
 
 ---
