@@ -2,9 +2,15 @@
 
 <div class="story" markdown>
 
-<div class="story-split" markdown>
+<div class="story-image" markdown>
 
-<div class="story-photos" markdown>
+<div class="image-label">Cantabrian Mountains - Painting</div>
+
+![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img }
+
+</div>
+
+<div class="story-images" style="grid-template-columns: repeat(3, 1fr);" markdown>
 
 <div class="story-image" markdown>
 
@@ -38,26 +44,6 @@
 
 </div>
 
-</div>
-
-<div class="story-painting" markdown>
-
-<div class="story-image" markdown>
-
-<div class="image-label">Cantabrian Mountains - Painting</div>
-
-![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img }
-
-</div>
-
-</div>
-
-</div>
-
-<div class="story-split" markdown>
-
-<div class="story-photos" markdown>
-
 <div class="story-image" markdown>
 
 <div class="image-label">Floral</div>
@@ -90,17 +76,11 @@
 
 </div>
 
-</div>
-
-<div class="story-painting" markdown>
-
 <div class="story-image" markdown>
 
 <div class="image-label">Gigantes</div>
 
 ![Gigantes festival figure in northern Spain](Gigantes.jpg){ .story-img }
-
-</div>
 
 </div>
 
