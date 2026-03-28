@@ -2,22 +2,6 @@
 
 <div class="story" markdown>
 
-<div class="story-split" markdown>
-
-<div class="story-photos" markdown>
-
-<div class="story-image" markdown>
-
-<div class="image-label">The Scene</div>
-
-![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .story-img }
-
-</div>
-
-</div>
-
-<div class="story-painting" markdown>
-
 <div class="story-image" markdown>
 
 <div class="image-label">The Painting</div>
@@ -25,6 +9,14 @@
 ![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .story-img }
 
 </div>
+
+<div class="story-images" style="grid-template-columns: repeat(3, 1fr);" markdown>
+
+<div class="story-image" markdown>
+
+<div class="image-label">The Scene</div>
+
+![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .story-img }
 
 </div>
 

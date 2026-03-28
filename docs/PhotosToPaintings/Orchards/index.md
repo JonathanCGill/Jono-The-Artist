@@ -2,9 +2,27 @@
 
 <div class="story" markdown>
 
-<div class="story-split" markdown>
+<div class="story-images" markdown>
 
-<div class="story-photos" markdown>
+<div class="story-image" markdown>
+
+<div class="image-label">Orchards I</div>
+
+![Orchards I - acrylic painting](Orchards.jpg){ .story-img }
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Orchards II</div>
+
+![Orchards II - acrylic painting](Orchard%202.jpg){ .story-img }
+
+</div>
+
+</div>
+
+<div class="story-images" style="grid-template-columns: repeat(3, 1fr);" markdown>
 
 <div class="story-image" markdown>
 
@@ -22,26 +40,6 @@
 
 </div>
 
-</div>
-
-<div class="story-painting" markdown>
-
-<div class="story-image" markdown>
-
-<div class="image-label">Orchards I</div>
-
-![Orchards I - acrylic painting](Orchards.jpg){ .story-img }
-
-</div>
-
-</div>
-
-</div>
-
-<div class="story-split" markdown>
-
-<div class="story-photos" markdown>
-
 <div class="story-image" markdown>
 
 <div class="image-label">Orchards</div>
@@ -55,20 +53,6 @@
 <div class="image-label">Farmstead</div>
 
 ![Cape Dutch farmstead against the mountain wall](R62%20-%20Farm.jpg){ .story-img }
-
-</div>
-
-</div>
-
-<div class="story-painting" markdown>
-
-<div class="story-image" markdown>
-
-<div class="image-label">Orchards II</div>
-
-![Orchards II - acrylic painting](Orchard%202.jpg){ .story-img }
-
-</div>
 
 </div>
 

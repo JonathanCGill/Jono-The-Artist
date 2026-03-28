@@ -2,9 +2,15 @@
 
 <div class="story" markdown>
 
-<div class="story-split" markdown>
+<div class="story-image" markdown>
 
-<div class="story-photos" markdown>
+<div class="image-label">The Painting</div>
+
+![Guggenheim Bilbao - acrylic painting](Bilboa.jpg){ .story-img }
+
+</div>
+
+<div class="story-images" style="grid-template-columns: repeat(3, 1fr);" markdown>
 
 <div class="story-image" markdown>
 
@@ -27,20 +33,6 @@
 <div class="image-label">The Museum</div>
 
 ![Guggenheim Museum Bilbao reflected in rain puddles](Gugg4.jpg){ .story-img }
-
-</div>
-
-</div>
-
-<div class="story-painting" markdown>
-
-<div class="story-image" markdown>
-
-<div class="image-label">The Painting</div>
-
-![Guggenheim Bilbao - acrylic painting](Bilboa.jpg){ .story-img }
-
-</div>
 
 </div>
 
