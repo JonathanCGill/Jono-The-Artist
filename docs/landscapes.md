@@ -8,23 +8,6 @@ Cityscapes and countryside painted in acrylics and watercolours.
 
 <div class="gallery-card" markdown>
 
-![St James](watercolours/St%20James.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**St James**
-
-A3 Watercolour
-{ .card-medium }
-
-St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -69,6 +52,80 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 { .card-medium }
 
 Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Orchards](acrylic/Orchards.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Orchards**
+
+1000mm x 750mm
+{ .card-medium }
+
+Reimagining the R62.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Orchard 2](acrylic/Orchard%202.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Orchard 2**
+
+1000mm x 750mm
+{ .card-medium }
+
+Reimagining the R62.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![The Path](acrylic/The%20Path.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Path**
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
+
+A path to the Moon.
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![St James](watercolours/St%20James.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**St James**
+
+A3 Watercolour
+{ .card-medium }
+
+St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
 
 </div>
 
@@ -251,40 +308,6 @@ A3 Watercolour
 
 <div class="gallery-card" markdown>
 
-![Orchards](acrylic/Orchards.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Orchards**
-
-1000mm x 750mm
-{ .card-medium }
-
-Reimagining the R62.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Orchard 2](acrylic/Orchard%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Orchard 2**
-
-1000mm x 750mm
-{ .card-medium }
-
-Reimagining the R62.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Lavenders Franschhoek](watercolours/Lavenders%20Franschhoek.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -359,23 +382,6 @@ A3 Watercolour
 
 A3 Watercolour
 { .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![The Path](acrylic/The%20Path.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**The Path**
-
-1000mm x 750mm · Acryla Gouache
-{ .card-medium }
-
-A path to the Moon.
 
 </div>
 
