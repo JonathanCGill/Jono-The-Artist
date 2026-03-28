@@ -1,6 +1,12 @@
 # Stories
 
-From photo to painting. Each piece starts with a photograph and becomes something else entirely.
+Every painting starts with a photograph. I shoot architecture and landscapes, mostly. Buildings with presence, water that holds light, skylines that frame a place. The camera captures the scene. Then the painting departs from it.
+
+The colours shift first. Muted stone becomes cadmium red. A grey sky fills with cerulean and gold. I am not correcting the photograph. I am replacing its palette with something closer to how the place felt, or how I wanted it to feel. Accuracy is the camera's job. The painting gets to be something else.
+
+Then the scene itself changes. Details that were peripheral in the photograph move to the centre. A bird I saw but did not shoot. A sculpture from the other side of the building. Flowers that were three streets away. The painting becomes a composite of the whole visit, not a single frame from it. Things that caught my eye find their way in, whether the lens saw them or not.
+
+The result is a version of a real place that never quite existed. Familiar enough to recognise, different enough to look twice.
 
 ---
 
