@@ -10,7 +10,7 @@
 
 </div>
 
-<div class="story-images" style="grid-template-columns: repeat(3, 1fr);" markdown>
+<div class="story-images story-images--three" markdown>
 
 <div class="story-image" markdown>
 
