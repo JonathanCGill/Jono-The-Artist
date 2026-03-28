@@ -1,6 +1,6 @@
 # Rurban
 
-Cityscapes and countryside painted in acrylics and watercolours.
+Buildings, hills, and the occasional tree, scenes reduced to what I actually noticed.
 
 ---
 
