@@ -397,6 +397,10 @@ body,
   margin-top: 1rem;
 }
 
+.gallery-grid--three {
+  columns: 3;
+}
+
 .gallery-card {
   break-inside: avoid;
   margin-bottom: 1.8rem;
@@ -689,6 +693,10 @@ body,
     columns: 2;
     column-gap: 1.2rem;
   }
+
+  .gallery-grid--three {
+    columns: 2;
+  }
 }
 
 @media (max-width: 960px) {
@@ -704,6 +712,10 @@ body,
   }
 
   .gallery-grid {
+    columns: 1;
+  }
+
+  .gallery-grid--three {
     columns: 1;
   }
 
