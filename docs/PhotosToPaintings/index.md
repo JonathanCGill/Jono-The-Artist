@@ -10,7 +10,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 ---
 
-<div class="gallery-grid" markdown>
+<div class="gallery-grid" style="columns: 1;" markdown>
 
 <div class="gallery-card" markdown>
 

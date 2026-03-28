@@ -22,6 +22,26 @@
 
 </div>
 
+</div>
+
+<div class="story-painting" markdown>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Orchards I</div>
+
+![Orchards I - acrylic painting](Orchards.jpg){ .story-img }
+
+</div>
+
+</div>
+
+</div>
+
+<div class="story-split" markdown>
+
+<div class="story-photos" markdown>
+
 <div class="story-image" markdown>
 
 <div class="image-label">Orchards</div>
@@ -41,14 +61,6 @@
 </div>
 
 <div class="story-painting" markdown>
-
-<div class="story-image" markdown>
-
-<div class="image-label">Orchards I</div>
-
-![Orchards I - acrylic painting](Orchards.jpg){ .story-img }
-
-</div>
 
 <div class="story-image" markdown>
 
