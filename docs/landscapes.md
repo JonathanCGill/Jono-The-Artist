@@ -25,6 +25,23 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 
 <div class="gallery-card" markdown>
 
+![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Cantabrian Mountains**
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
+
+A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![Bilboa](acrylic/Bilboa.jpg){ .gallery-img }
 
 <div class="card-info" markdown>

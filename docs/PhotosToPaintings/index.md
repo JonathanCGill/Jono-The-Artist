@@ -14,6 +14,21 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
+[![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img }](Cantabrian%20Mountains/)
+
+<div class="card-info" markdown>
+
+**Cantabrian Mountains, Espinosa de los Monteros**
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 [![The Last Holiday - Amsterdam](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }](The%20Last%20Holiday/)
 
 <div class="card-info" markdown>
