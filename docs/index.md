@@ -2,7 +2,7 @@
 
 <div class="hero-image" markdown>
 
-![The Path](acrylic/The%20Path.jpg){ .hero-img }
+![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .hero-img }
 
 </div>
 
@@ -52,7 +52,7 @@ Where the familiar tips into something stranger.
 
 <div class="preview-stack" markdown>
 
-[![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .preview-img }](surreal.md)
+[![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .preview-img }](surreal.md)
 
 </div>
 
