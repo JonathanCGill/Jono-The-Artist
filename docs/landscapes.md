@@ -1,6 +1,6 @@
 # Rurban
 
-Cityscapes and countryside painted in acrylics and watercolours.
+Buildings, hills, and the occasional tree, scenes reduced to what I actually noticed.
 
 ---
 
@@ -19,6 +19,8 @@ Cityscapes and countryside painted in acrylics and watercolours.
 
 A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
 
+[Read the story](PhotosToPaintings/Cantabrian%20Mountains/index.md){ .card-story-link }
+
 </div>
 
 </div>
@@ -35,6 +37,8 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 { .card-medium }
 
 The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
+
+[Read the story](PhotosToPaintings/Guggenheim/index.md){ .card-story-link }
 
 </div>
 
@@ -53,6 +57,8 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 
 Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
 
+[Read the story](PhotosToPaintings/The%20Last%20Holiday/index.md){ .card-story-link }
+
 </div>
 
 </div>
@@ -70,6 +76,8 @@ Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interes
 
 Reimagining the R62.
 
+[Read the story](PhotosToPaintings/Orchards/index.md){ .card-story-link }
+
 </div>
 
 </div>
@@ -86,6 +94,8 @@ Reimagining the R62.
 { .card-medium }
 
 Reimagining the R62.
+
+[Read the story](PhotosToPaintings/Orchards/index.md){ .card-story-link }
 
 </div>
 
