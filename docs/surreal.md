@@ -8,6 +8,23 @@ Where the familiar tips into something stranger.
 
 <div class="gallery-card" markdown>
 
+![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Grand Insect Hotel**
+
+750mm x 1000mm · Acryla Gouache
+{ .card-medium }
+
+The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
