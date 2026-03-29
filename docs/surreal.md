@@ -44,40 +44,6 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 <div class="gallery-card" markdown>
 
-![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Black Hole in the Kitchen**
-
-A3 Watercolour
-{ .card-medium }
-
-Inspired by "Not Strong Enough" by Boy Genius.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Black Hole in the Lounge](watercolours/Black%20Hole%20in%20the%20Lounge.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Black Hole in the Lounge**
-
-A3 Watercolour
-{ .card-medium }
-
-Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![The Love Vending Machine](acrylic/The%20Love%20Vending%20Machine.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -122,6 +88,46 @@ Acryla Gouache
 { .card-medium }
 
 The Universe coming together to sort out the world, and get it to peace.
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Black Hole in the Kitchen**
+
+A3 Watercolour
+{ .card-medium }
+
+Inspired by "Not Strong Enough" by Boy Genius.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Black Hole in the Lounge](watercolours/Black%20Hole%20in%20the%20Lounge.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Black Hole in the Lounge**
+
+A3 Watercolour
+{ .card-medium }
+
+Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 </div>
 
