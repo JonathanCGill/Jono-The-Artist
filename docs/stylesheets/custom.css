@@ -457,6 +457,23 @@ body,
   display: none;
 }
 
+/* Story link inside gallery card */
+.card-story-link {
+  display: inline-block;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--sienna) !important;
+  text-decoration: none !important;
+  margin-top: 0.4rem;
+  transition: color 0.2s ease;
+}
+
+.card-story-link:hover {
+  color: var(--brown) !important;
+}
+
 /* Description text — will appear when you add content */
 .card-info > p:not(:empty):not(.card-medium) {
   font-size: 0.92rem;
