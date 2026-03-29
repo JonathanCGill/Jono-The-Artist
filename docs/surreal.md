@@ -1,6 +1,6 @@
 # Surreal
 
-Where the familiar tips into something stranger.
+I start with what I see and what I hear. Then I paint, and the painting starts making its own decisions. Colours push harder, geometry tightens, and what was a real place becomes something that was always hiding inside it.
 
 ---
 
