@@ -1,6 +1,6 @@
 # Surreal
 
-Where the familiar tips into something stranger.
+I start with what I see and what I hear. Then I paint, and the painting starts making its own decisions. Colours push harder, geometry tightens, and what was a real place becomes something that was always hiding inside it.
 
 ---
 
@@ -18,6 +18,8 @@ Where the familiar tips into something stranger.
 { .card-medium }
 
 The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
+
+[Read the story](PhotosToPaintings/The%20Insect%20Hotel/index.md){ .card-story-link }
 
 </div>
 

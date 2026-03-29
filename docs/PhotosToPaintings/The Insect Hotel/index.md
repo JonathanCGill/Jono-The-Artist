@@ -10,6 +10,50 @@
 
 </div>
 
+<div class="story-images story-images--three" markdown>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Insect House</div>
+
+![Insect house with bamboo tubes and compartments](20260228_124032.jpg){ .story-img }
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Bee Hotel</div>
+
+![Wooden bee hotel with drilled holes](BeeHotel3.jpg){ .story-img }
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Ladybird</div>
+
+![Ladybird on a thorny stem](20240709_104642~2.jpg){ .story-img }
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Butterfly</div>
+
+![Butterfly on blue flowers](_DSC9690.jpg){ .story-img }
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Wildflowers</div>
+
+![Wildflowers against the coast](2024-02-05(7).jpg){ .story-img }
+
+</div>
+
+</div>
+
 <div class="story-text" markdown>
 
 The insect project started it. A proper insect house, built to attract solitary bees, ladybirds, lacewings, and whatever else fancied moving in. Tubes and hollows and stacked compartments, each one a different invitation. Functional, deliberate, and surprisingly beautiful once you look closely.
