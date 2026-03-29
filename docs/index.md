@@ -2,7 +2,7 @@
 
 <div class="hero-image" markdown>
 
-![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .hero-img }
+![Aero Mechanica 2](watercolours/Aero%20Mechanica%202.jpg){ .hero-img }
 
 </div>
 
