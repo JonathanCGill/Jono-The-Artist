@@ -19,6 +19,8 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
 
+[Read the story](PhotosToPaintings/The%20Insect%20Hotel/index.md){ .card-story-link }
+
 </div>
 
 </div>
