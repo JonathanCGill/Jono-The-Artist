@@ -8,7 +8,7 @@
 
 <div class="hero-text" markdown>
 
-# Jono, The Artist
+## Jono, The Artist
 
 </div>
 
