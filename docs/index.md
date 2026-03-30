@@ -6,14 +6,6 @@
 
 </div>
 
-<div class="hero-text" markdown>
-
-## Jono, The Artist
-
-Acrylics and watercolours exploring landscapes, cityscapes, and the surreal edges of everyday life.
-
-</div>
-
 </div>
 
 <div class="artist-statement" markdown>
