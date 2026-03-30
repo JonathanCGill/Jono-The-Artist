@@ -6,6 +6,12 @@
 
 </div>
 
+<div class="hero-text" markdown>
+
+# Jono, The Artist
+
+</div>
+
 </div>
 
 <div class="artist-statement" markdown>
