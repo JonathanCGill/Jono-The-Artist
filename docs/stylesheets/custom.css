@@ -299,14 +299,14 @@ body,
 .hero-text h1,
 .hero-text h2 {
   font-family: 'Playfair Display', serif !important;
-  color: #1a2a4a !important;
+  color: #b91c1c !important;
   font-size: 2.2rem !important;
   margin-bottom: 0.3rem !important;
   text-shadow: 0 1px 4px rgba(255, 255, 255, 0.6);
 }
 
 .hero-text p {
-  color: #1a2a4a !important;
+  color: #b91c1c !important;
   font-size: 1.1rem;
   max-width: 500px;
   text-shadow: 0 1px 4px rgba(255, 255, 255, 0.6);
