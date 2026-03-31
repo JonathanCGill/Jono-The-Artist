@@ -66,6 +66,20 @@ body,
   color: var(--brown);
 }
 
+/* Always show site name, even when Material tries to swap to page title */
+.md-header__title--active .md-header__topic:first-child {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  transform: none !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Hide the page-title topic so only the site name shows */
+.md-header__topic + .md-header__topic {
+  display: none !important;
+}
+
 .md-header__topic {
   color: var(--brown);
   font-family: 'Playfair Display', serif;
