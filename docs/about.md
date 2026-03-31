@@ -12,13 +12,15 @@
 
 I'm Jono, a painter drawn to colour, place, and the unexpected.
 
-My work moves between acrylics and watercolours, exploring landscapes, cityscapes, and the surreal edges of everyday life. Whether it's the light over a Cape Town beach or a black hole opening up in the kitchen, I'm always chasing the moment where the familiar tips into something stranger.
+I work in acrylics and watercolours. My favourite medium is Holbein Acryla Gouache for its vibrancy, though I will mix in normal acrylics, chromatic paints, whatever the painting needs. For watercolours, mostly Mungyo.
 
-I paint because it's the best way I know to make sense of the world, and to stop making sense of it.
+I have no formal training, which means I learned by doing things wrong until they started looking right. The upside is I never learned what I was not supposed to try.
 
-My favourite medium is Holbein Acryla Gouache. It's the vibrant colours that inspire me. I don't mind mixing and matching with normal acrylics and chromatic paints, too. For my watercolours, I mostly use Mungyo. I am not formally trained in art, which means I don't really know the rules, but who needs rules?
+My subjects range from Cape Town beaches to kitchen black holes. The surreal work usually starts with real people, something someone said or did that lodged in my head and would not leave until I painted it out.
 
-My surrealistic paintings are generally inspired by real people, and things they say or do.
+The essays on this site are not about art. They are about things I care enough about to write down: governance, technology, how institutions actually work (or fail to). They are here because this is my site and these things matter to me.
+
+I paint because it is the best way I know to make sense of the world, and to stop making sense of it.
 
 </div>
 
