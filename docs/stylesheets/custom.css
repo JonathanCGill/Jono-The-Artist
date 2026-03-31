@@ -58,34 +58,16 @@ body,
   margin-right: 0.3rem;
 }
 
-.md-header__title {
-  flex-grow: 0;
-  margin-left: 0;
-  margin-right: 0;
-  text-align: left;
-  color: var(--brown);
-}
-
-/* Always show site name, even when Material tries to swap to page title */
-.md-header__title--active .md-header__topic:first-child {
-  opacity: 1 !important;
-  pointer-events: auto !important;
-  transform: none !important;
-  position: relative !important;
-  z-index: 1 !important;
-}
-
-/* Hide the page-title topic so only the site name shows */
-.md-header__topic + .md-header__topic {
-  display: none !important;
-}
-
-.md-header__topic {
-  color: var(--brown);
+/* Site name next to logo */
+.site-name-link {
   font-family: 'Playfair Display', serif;
   font-size: 1.3rem;
   font-weight: 400;
   letter-spacing: 0.02em;
+  color: var(--brown) !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  line-height: 3rem;
 }
 
 .md-header__option {
