@@ -14,6 +14,21 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
+[![Avis Aeromechanica Chocolatus](Avis%20Aeromechanica%20Chocolatus/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }](Avis%20Aeromechanica%20Chocolatus/)
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Chocolatus**
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 [![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img }](Cantabrian%20Mountains/)
 
 <div class="card-info" markdown>
