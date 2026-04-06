@@ -2,15 +2,7 @@
 
 <div class="hero-image" markdown>
 
-![Aero Mechanica 2](watercolours/Aero%20Mechanica%202.jpg){ .hero-img }
-
-</div>
-
-<div class="hero-text" markdown>
-
-## Jono, The Artist
-
-Acrylics and watercolours exploring landscapes, cityscapes, and the surreal edges of everyday life.
+![The Passage](watercolours/The%20Passage.jpg){ .hero-img }
 
 </div>
 

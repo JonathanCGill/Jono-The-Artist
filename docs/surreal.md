@@ -1,6 +1,6 @@
 # Surreal
 
-Where the familiar tips into something stranger.
+I start with what I see and what I hear. Then I paint, and the painting starts making its own decisions. Colours push harder, geometry tightens, and what was a real place becomes something that was always hiding inside it.
 
 ---
 
@@ -19,6 +19,8 @@ Where the familiar tips into something stranger.
 
 The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
 
+[Read the story](PhotosToPaintings/The%20Insect%20Hotel/index.md){ .card-story-link }
+
 </div>
 
 </div>
@@ -35,40 +37,6 @@ Acryla Gouache
 { .card-medium }
 
 Inspired by "Not Strong Enough" by Boy Genius.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Black Hole in the Kitchen**
-
-A3 Watercolour
-{ .card-medium }
-
-Inspired by "Not Strong Enough" by Boy Genius.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Black Hole in the Lounge](watercolours/Black%20Hole%20in%20the%20Lounge.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Black Hole in the Lounge**
-
-A3 Watercolour
-{ .card-medium }
-
-Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 </div>
 
@@ -120,6 +88,46 @@ Acryla Gouache
 { .card-medium }
 
 The Universe coming together to sort out the world, and get it to peace.
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Black Hole in the Kitchen**
+
+A3 Watercolour
+{ .card-medium }
+
+Inspired by "Not Strong Enough" by Boy Genius.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Black Hole in the Lounge](watercolours/Black%20Hole%20in%20the%20Lounge.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Black Hole in the Lounge**
+
+A3 Watercolour
+{ .card-medium }
+
+Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 </div>
 

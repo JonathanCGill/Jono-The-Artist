@@ -58,20 +58,16 @@ body,
   margin-right: 0.3rem;
 }
 
-.md-header__title {
-  flex-grow: 0;
-  margin-left: 0;
-  margin-right: 0;
-  text-align: left;
-  color: var(--brown);
-}
-
-.md-header__topic {
-  color: var(--brown);
+/* Site name next to logo */
+.site-name-link {
   font-family: 'Playfair Display', serif;
   font-size: 1.3rem;
   font-weight: 400;
   letter-spacing: 0.02em;
+  color: var(--brown) !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  line-height: 3rem;
 }
 
 .md-header__option {
@@ -264,15 +260,7 @@ body,
 }
 
 .hero-image::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60%;
-  background: linear-gradient(to top, rgba(22, 40, 60, 0.88), transparent);
-  pointer-events: none;
-  border-radius: 0 0 8px 8px;
+  display: none;
 }
 
 .hero-img {
@@ -283,33 +271,6 @@ body,
   border-radius: 8px;
 }
 
-.hero-text {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 2rem 2.5rem;
-  z-index: 2;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.hero-text h2 {
-  font-family: 'Playfair Display', serif !important;
-  color: #ffffff !important;
-  font-size: 2.2rem !important;
-  margin-bottom: 0.3rem !important;
-  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3);
-}
-
-.hero-text p {
-  color: #ffffff !important;
-  font-size: 1.1rem;
-  max-width: 500px;
-  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3);
-}
 
 /* ══════════════════════════════════════════════════
    ARTIST STATEMENT — Home page
@@ -740,14 +701,6 @@ body,
     font-size: 2rem;
   }
 
-  .hero-text h2 {
-    font-size: 1.6rem !important;
-  }
-
-  .hero-text p {
-    font-size: 0.95rem;
-  }
-
   .hero-img {
     max-height: 360px;
   }
@@ -767,10 +720,6 @@ body,
 }
 
 @media (max-width: 480px) {
-  .hero-text {
-    padding: 1.2rem 1.5rem;
-  }
-
   .gallery-card {
     margin-bottom: 1.2rem;
   }

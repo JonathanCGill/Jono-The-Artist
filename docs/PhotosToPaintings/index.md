@@ -72,6 +72,21 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 </div>
 
+<div class="gallery-card" markdown>
+
+[![The Grand Insect Hotel](The%20Insect%20Hotel/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }](The%20Insect%20Hotel/)
+
+<div class="card-info" markdown>
+
+**The Grand Insect Hotel**
+
+750mm x 1000mm · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
 </div>
 
 ---
