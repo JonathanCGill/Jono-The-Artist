@@ -10,17 +10,17 @@
 
 <div class="about-text" markdown>
 
-I'm Jono, a painter drawn to colour, place, and the unexpected.
+I'm Jono. I paint because the real world is more interesting than anything I could invent, and because it looks better when you stop being faithful to it.
 
-I work in acrylics and watercolours. My favourite medium is Holbein Acryla Gouache for its vibrancy, though I will mix in normal acrylics, chromatic paints, whatever the painting needs. For watercolours, mostly Mungyo.
+I work from observation. Landscapes, buildings, people, insects: things I have actually seen and stood in front of. The painting starts there and then departs. Colours shift. Elements migrate from other places, other days. What arrives on the canvas is a composite of experience, not a copy of a single moment.
 
-I have no formal training, which means I learned by doing things wrong until they started looking right. The upside is I never learned what I was not supposed to try.
+The surrealism is intentional but not decorative. I am drawn to naive art as a discipline, not a limitation. Flat colour, visible construction, the refusal to hide the hand behind the image. Holbein Acryla Gouache gives me the saturation and opacity to work this way. When I need something looser, Mungyo watercolours.
 
-My subjects range from Cape Town beaches to kitchen black holes. The surreal work usually starts with real people, something someone said or did that lodged in my head and would not leave until I painted it out.
+The intent is to keep exploring the real world and to apply surrealistic views where the scene asks for it. Not as a style imposed from outside, but as something that emerges when you look at a place long enough and honestly enough. The kitchen really does have a black hole in it. The insect hotel really is that grand. The bird plane was always there in the blueprints.
 
-The essays on this site are not about art. They are about things I care enough about to write down: governance, technology, how institutions actually work (or fail to). They are here because this is my site and these things matter to me.
+I have no formal training. I learned by doing things wrong until they started looking right. The upside is that nobody told me what I was not supposed to try.
 
-I paint because it is the best way I know to make sense of the world, and to stop making sense of it.
+The essays on this site are not about art. They are about things I care enough to write down: governance, technology, how institutions work or fail to. They are here because this is my site and these things matter to me.
 
 </div>
 
