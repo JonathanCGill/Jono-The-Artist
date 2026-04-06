@@ -14,6 +14,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.top
   favicon: favicon.ico
   logo: photos/Jono.jpg
@@ -38,6 +39,13 @@ nav:
   - Rurban: landscapes.md
   - Surreal: surreal.md
   - Portraits: portraits.md
-  - Stories: PhotosToPaintings/index.md
+  - Stories:
+    - PhotosToPaintings/index.md
+    - Avis Aeromechanica Chocolatus: PhotosToPaintings/Avis Aeromechanica Chocolatus/index.md
+    - Cantabrian Mountains: PhotosToPaintings/Cantabrian Mountains/index.md
+    - Guggenheim: PhotosToPaintings/Guggenheim/index.md
+    - Orchards: PhotosToPaintings/Orchards/index.md
+    - The Grand Insect Hotel: PhotosToPaintings/The Insect Hotel/index.md
+    - The Last Holiday: PhotosToPaintings/The Last Holiday/index.md
   - Essays: essays.md
   - About: about.md

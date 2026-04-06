@@ -8,6 +8,25 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
+![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Chocolatus**
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
+
+A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
+
+[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .card-story-link }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -88,25 +107,6 @@ Acryla Gouache
 { .card-medium }
 
 The Universe coming together to sort out the world, and get it to peace.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm x 750mm · Acryla Gouache
-{ .card-medium }
-
-A chocolate bird plane. The watercolour blueprints became something bigger.
-
-[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .card-story-link }
 
 </div>
 
