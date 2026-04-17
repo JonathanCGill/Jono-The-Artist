@@ -2,7 +2,7 @@
 
 <div class="hero-image" markdown>
 
-![The Passage](watercolours/The%20Passage.jpg){ .hero-img }
+![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .hero-img }
 
 </div>
 
