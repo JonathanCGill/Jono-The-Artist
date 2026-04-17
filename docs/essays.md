@@ -12,6 +12,20 @@ Personal essays, written to express my own opinions on things of concern or inte
 
 <div class="essay-card-content" markdown>
 
+### [Painting with a Critic](essays/painting-with-a-critic.md)
+
+Jonathan Gill, April 2026
+
+On how I use an AI as a sitting curator for my paintings, what it actually does, what it does not, and why structured critique has sharpened the naive voice rather than eroded it.
+
+</div>
+
+</div>
+
+<div class="essay-card" markdown>
+
+<div class="essay-card-content" markdown>
+
 ### [The Architecture of Trust](essays/the-architecture-of-trust.md)
 
 Jonathan Gill, March 2026
