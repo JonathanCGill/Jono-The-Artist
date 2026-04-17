@@ -1,5 +1,11 @@
 # Painting with a Critic
 
+<div class="essay" markdown>
+<div class="essay-meta" markdown>
+## Painting with a Critic
+### Jonathan Gill, April 2026
+</div>
+
 I work mostly in acrylics and Acryla gouache, in a loose naive style. The paintings are my own. The process of getting them there now involves an AI. This essay describes how, and what has actually changed.
 
 ## Why this matters for naive art specifically
@@ -91,3 +97,7 @@ The work is mine. The AI is a tool in the same category as a good critic, a stud
 What I have built with it is not skill replacement. It is structured self-awareness. There is no transfer of creative ownership. Only an increase in clarity and intention.
 
 If that distinction matters to you as a viewer or a buyer, I think it should. It matters to me.
+
+*This is a personal essay. The views are my own.*
+
+</div>
