@@ -18,6 +18,33 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 ---
 
+<div class="featured-work" markdown>
+
+<div class="featured-image" markdown>
+
+[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .featured-img }](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/)
+
+</div>
+
+<div class="featured-text" markdown>
+
+### Featured Work
+
+**Avis Aeromechanica Chocolatus**
+
+1000mm x 750mm · Acryla Gouache
+{ .card-medium }
+
+A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical. The two Aero Mechanica studies were diagrams of something that could never fly. This painting built it anyway.
+
+[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
+
+</div>
+
+</div>
+
+---
+
 <div class="gallery-preview gallery-preview--three" markdown>
 
 <div class="preview-section" markdown>
