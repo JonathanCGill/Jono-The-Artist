@@ -352,6 +352,21 @@ A village that time forgot, at the end of a road that doesn't go anywhere else.
 
 <div class="gallery-card" markdown>
 
+![McGregor NG Kerk](watercolours/McGregor%20NG%20Kerk.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**McGregor NG Kerk**
+
+A3 Watercolour
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![Montagu](watercolours/Montagu.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -362,6 +377,21 @@ A3 Watercolour
 { .card-medium }
 
 Route 62 country. Mountains and Victorian storefronts.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![R62 - Prickly Pair Farm](watercolours/R62%20-%20Prickly%20Pair%20Farm.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**R62 - Prickly Pair Farm**
+
+A3 Watercolour
+{ .card-medium }
 
 </div>
 
