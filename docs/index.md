@@ -55,7 +55,7 @@ Cityscapes and countryside from South Africa, Europe, and beyond.
 
 <div class="preview-stack" markdown>
 
-[![Suurbraak](watercolours/Suurbraak.jpg){ .preview-img }](landscapes.md)
+[![R62 - Prickly Pair Farm](watercolours/R62%20-%20Prickly%20Pair%20Farm.jpg){ .preview-img }](landscapes.md)
 
 </div>
 
