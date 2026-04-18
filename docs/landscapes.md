@@ -118,6 +118,23 @@ A path to the Moon.
 
 </div>
 
+<div class="gallery-card" markdown>
+
+![Suurbraak](acrylic/Suurbraak.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+1000mm x 750mm · Acrylic & Acryla Gouache
+{ .card-medium }
+
+A charming village near Swellendam.
+
+</div>
+
+</div>
+
 </div>
 
 ---
@@ -153,23 +170,6 @@ A3 Watercolour
 { .card-medium }
 
 Canal Scene.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak](watercolours/Suurbraak.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 Watercolour
-{ .card-medium }
-
-A charming village near Swellendam.
 
 </div>
 
