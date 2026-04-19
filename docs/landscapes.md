@@ -474,16 +474,16 @@ A3 Watercolour
 
 <div class="gallery-card" markdown>
 
-![Ultima](watercolours/Ultima.jpg){ .gallery-img }
+![Ultimo](watercolours/Ultimo.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Ultima**
+**Ultimo**
 
 A3 Watercolour
 { .card-medium }
 
-Ultima in Sydney.
+Ultimo in Sydney.
 
 </div>
 
