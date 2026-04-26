@@ -27,6 +27,23 @@ A chocolate bird plane, built from watercolour blueprints. Part avian, part mech
 
 <div class="gallery-card" markdown>
 
+![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Libellula Aviatica**
+
+762mm x 1016mm · Acryla Gouache on Canvas
+{ .card-medium }
+
+A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
