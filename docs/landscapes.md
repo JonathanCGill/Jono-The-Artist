@@ -177,6 +177,57 @@ Canal Scene.
 
 <div class="gallery-card" markdown>
 
+![Cafe T'Sluisje](watercolours/Cafe%20T'Sluisje.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Cafe T'Sluisje**
+
+A3 Watercolour
+{ .card-medium }
+
+A lovely cafe on the canals in Amsterdam Noord.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Amsterdam General](watercolours/Amsterdam%20General.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Amsterdam General**
+
+A3 Watercolour
+{ .card-medium }
+
+A set of sketches and drawings inspired by Amsterdam.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Spanish Windows](watercolours/Spanish%20Windows.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Spanish Windows**
+
+A3 Watercolour
+{ .card-medium }
+
+The windows of Espinosa de los Monteros.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![Suurbraak 1](watercolours/Suurbraak%201.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
