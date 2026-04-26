@@ -369,6 +369,40 @@ A biomechanical plane — eco-friendly.
 
 </div>
 
+<div class="gallery-card" markdown>
+
+![Culex Aeromechanica De Havillandii](watercolours/Culex%20Aeromechnica%20de%20Havillandii.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Culex Aeromechanica De Havillandii**
+
+A3 Watercolour
+{ .card-medium }
+
+A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![LightHouse](watercolours/LightHouse.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**LightHouse**
+
+A3 Watercolour
+{ .card-medium }
+
+A house made of light, or a lighthouse made into a home.
+
+</div>
+
+</div>
+
 </div>
 
 ---
