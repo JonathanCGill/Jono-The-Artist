@@ -36,7 +36,7 @@ extra:
   generator: false
 
 nav:
-  - Rurban: landscapes.md
+  - Rurban: rurban.md
   - Surreal: surreal.md
   - Portraits: portraits.md
   - Series: series.md

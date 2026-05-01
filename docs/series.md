@@ -58,7 +58,7 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 
 **Aero Mechanica 1**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A biomechanical plane, eco-friendly.
@@ -75,7 +75,7 @@ A biomechanical plane, eco-friendly.
 
 **Aero Mechanica 2**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A biomechanical plane, eco-friendly.
@@ -92,7 +92,7 @@ A biomechanical plane, eco-friendly.
 
 **Avis Aeromechanica Avronis**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A bird grafted onto an Avro airframe. Part avian, part British aviation.
@@ -109,7 +109,7 @@ A bird grafted onto an Avro airframe. Part avian, part British aviation.
 
 **Avis Aeromechanica Crabro**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A bird wearing hornet stripes. The taxonomy keeps slipping.
@@ -126,7 +126,7 @@ A bird wearing hornet stripes. The taxonomy keeps slipping.
 
 **Culex Aeromechanica De Havillandii**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
@@ -143,7 +143,7 @@ A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 
 **Culex Aeromechanica Promachus**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A mosquito crossed with a robber fly. Predator imitating predator.

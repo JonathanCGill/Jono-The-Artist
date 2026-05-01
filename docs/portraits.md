@@ -29,7 +29,7 @@ A self-portrait.
 
 **Me 2**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 Another self-portrait.
