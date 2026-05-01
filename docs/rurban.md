@@ -19,7 +19,7 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
 
-[Read the story](PhotosToPaintings/Cantabrian%20Mountains/index.md){ .card-story-link }
+[Read the story](stories/Cantabrian%20Mountains/index.md){ .card-story-link }
 
 </div>
 
@@ -38,7 +38,7 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 
 The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
 
-[Read the story](PhotosToPaintings/Guggenheim/index.md){ .card-story-link }
+[Read the story](stories/Guggenheim/index.md){ .card-story-link }
 
 </div>
 
@@ -57,7 +57,7 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 
 Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
 
-[Read the story](PhotosToPaintings/The%20Last%20Holiday/index.md){ .card-story-link }
+[Read the story](stories/The%20Last%20Holiday/index.md){ .card-story-link }
 
 </div>
 
@@ -76,7 +76,7 @@ Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interes
 
 Reimagining the R62.
 
-[Read the story](PhotosToPaintings/Orchards/index.md){ .card-story-link }
+[Read the story](stories/Orchards/index.md){ .card-story-link }
 
 </div>
 
@@ -95,7 +95,7 @@ Reimagining the R62.
 
 Reimagining the R62.
 
-[Read the story](PhotosToPaintings/Orchards/index.md){ .card-story-link }
+[Read the story](stories/Orchards/index.md){ .card-story-link }
 
 </div>
 
