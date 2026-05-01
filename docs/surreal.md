@@ -19,7 +19,7 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
 
-[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .card-story-link }
+[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/){ .card-story-link }
 
 </div>
 
@@ -55,7 +55,7 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 
 The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
 
-[Read the story](PhotosToPaintings/The%20Insect%20Hotel/index.md){ .card-story-link }
+[Read the story](stories/The%20Insect%20Hotel/index.md){ .card-story-link }
 
 </div>
 

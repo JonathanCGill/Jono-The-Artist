@@ -22,7 +22,7 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 <div class="featured-image" markdown>
 
-[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .featured-img }](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/)
+[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .featured-img }](stories/Avis%20Aeromechanica%20Chocolatus/)
 
 </div>
 
@@ -37,7 +37,7 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical. The two Aero Mechanica studies were diagrams of something that could never fly. This painting built it anyway.
 
-[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
+[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
 
 </div>
 
