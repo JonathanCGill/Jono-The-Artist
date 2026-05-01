@@ -13,6 +13,8 @@ Self-portraits and studies of the human form.
 <div class="card-info" markdown>
 
 **Me**
+
+Canvas
 { .card-medium }
 
 A self-portrait.
@@ -29,7 +31,7 @@ A self-portrait.
 
 **Me 2**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Another self-portrait.
@@ -45,6 +47,8 @@ Another self-portrait.
 <div class="card-info" markdown>
 
 **Portrait**
+
+Canvas
 { .card-medium }
 
 A cheeky take on The Girl with the Pearl Earring by Vermeer. Perhaps the Girl with the Plastic Earring by Jono.

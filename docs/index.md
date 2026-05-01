@@ -32,7 +32,7 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 **Avis Aeromechanica Chocolatus**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical. The two Aero Mechanica studies were diagrams of something that could never fly. This painting built it anyway.

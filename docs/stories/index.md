@@ -20,7 +20,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Avis Aeromechanica Chocolatus**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -35,7 +35,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Cantabrian Mountains, Espinosa de los Monteros**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -50,7 +50,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **The Last Holiday, Amsterdam**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -65,7 +65,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Guggenheim, Bilbao**
 
-750mm x 1000mm · Acryla Gouache
+750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -80,7 +80,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Orchards, R62**
 
-750mm x 1000mm · Acryla Gouache
+750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -95,7 +95,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **The Grand Insect Hotel**
 
-750mm x 1000mm · Acryla Gouache
+750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>

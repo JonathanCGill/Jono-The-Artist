@@ -18,7 +18,7 @@ Creatures that decided to fly, or flying machines that grew legs and wings. Each
 
 **Avis Aeromechanica Chocolatus**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
@@ -37,7 +37,7 @@ A chocolate bird plane, built from watercolour blueprints. Part avian, part mech
 
 **Libellula Aviatica**
 
-762mm x 1016mm · Acryla Gouache on Canvas
+762mm x 1016mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
@@ -58,7 +58,7 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 
 **Aero Mechanica 1**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A biomechanical plane, eco-friendly.
@@ -75,7 +75,7 @@ A biomechanical plane, eco-friendly.
 
 **Aero Mechanica 2**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A biomechanical plane, eco-friendly.
@@ -92,7 +92,7 @@ A biomechanical plane, eco-friendly.
 
 **Avis Aeromechanica Avronis**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A bird grafted onto an Avro airframe. Part avian, part British aviation.
@@ -109,7 +109,7 @@ A bird grafted onto an Avro airframe. Part avian, part British aviation.
 
 **Avis Aeromechanica Crabro**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A bird wearing hornet stripes. The taxonomy keeps slipping.
@@ -126,7 +126,7 @@ A bird wearing hornet stripes. The taxonomy keeps slipping.
 
 **Culex Aeromechanica De Havillandii**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
@@ -143,7 +143,7 @@ A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 
 **Culex Aeromechanica Promachus**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A mosquito crossed with a robber fly. Predator imitating predator.

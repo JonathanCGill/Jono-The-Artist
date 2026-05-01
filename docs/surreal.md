@@ -14,7 +14,7 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 **Avis Aeromechanica Chocolatus**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
@@ -33,7 +33,7 @@ A chocolate bird plane, built from watercolour blueprints. Part avian, part mech
 
 **Libellula Aviatica**
 
-762mm x 1016mm · Acryla Gouache on Canvas
+762mm x 1016mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
@@ -50,7 +50,7 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 
 **The Grand Insect Hotel**
 
-750mm x 1000mm · Acryla Gouache
+750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
 
 The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
@@ -69,7 +69,7 @@ The official painting commemorating [The Insect Hotel](https://theinsecthotel.co
 
 **A Black Hole in the Kitchen**
 
-Acryla Gouache
+Acryla Gouache · Canvas
 { .card-medium }
 
 Inspired by "Not Strong Enough" by Boy Genius.
@@ -86,7 +86,7 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 **The Love Vending Machine**
 
-1500mm x 2000mm · Acryla Gouache
+1500mm x 2000mm · Acryla Gouache · Canvas
 { .card-medium }
 
 Channelling the positive energy of the Universe into human endeavours.
@@ -103,7 +103,7 @@ Channelling the positive energy of the Universe into human endeavours.
 
 **Hot Air Play**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 Fantasy world viewed from hot air.
@@ -120,7 +120,7 @@ Fantasy world viewed from hot air.
 
 **The Global Peace Conference**
 
-Acryla Gouache
+Acryla Gouache · Canvas
 { .card-medium }
 
 The Universe coming together to sort out the world, and get it to peace.
@@ -143,7 +143,7 @@ The Universe coming together to sort out the world, and get it to peace.
 
 **Black Hole in the Kitchen**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Inspired by "Not Strong Enough" by Boy Genius.
@@ -160,7 +160,7 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 **Black Hole in the Lounge**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
@@ -177,7 +177,7 @@ Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 **Sir Real**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A watercolour pun made visible.
@@ -194,7 +194,7 @@ A watercolour pun made visible.
 
 **Sydney Opera House**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 The Opera House reimagined.
@@ -211,7 +211,7 @@ The Opera House reimagined.
 
 **Brain Scan**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Brain scans help you feel better, maybe?
@@ -228,7 +228,7 @@ Brain scans help you feel better, maybe?
 
 **Eye Field**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Who is checking out the world?
@@ -245,7 +245,7 @@ Who is checking out the world?
 
 **Listening**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 With all our technology, who is really listening?
@@ -262,7 +262,7 @@ With all our technology, who is really listening?
 
 **Music Poppy**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -277,7 +277,7 @@ A3 · Watercolour
 
 **The Passage**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -292,7 +292,7 @@ A3 · Watercolour
 
 **To The Light 1**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Attracted to the light.
@@ -309,7 +309,7 @@ Attracted to the light.
 
 **To The Light 2**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Attracted to the light.
@@ -326,7 +326,7 @@ Attracted to the light.
 
 **To The Light 3**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Attracted to the light.
@@ -343,7 +343,7 @@ Attracted to the light.
 
 **Aero Mechanica 1**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A biomechanical plane — eco-friendly.
@@ -360,7 +360,7 @@ A biomechanical plane — eco-friendly.
 
 **Aero Mechanica 2**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A biomechanical plane — eco-friendly.
@@ -377,7 +377,7 @@ A biomechanical plane — eco-friendly.
 
 **Avis Aeromechanica Avronis**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A bird grafted onto an Avro airframe. Part avian, part British aviation.
@@ -394,7 +394,7 @@ A bird grafted onto an Avro airframe. Part avian, part British aviation.
 
 **Avis Aeromechanica Crabro**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A bird wearing hornet stripes. The taxonomy keeps slipping.
@@ -411,7 +411,7 @@ A bird wearing hornet stripes. The taxonomy keeps slipping.
 
 **Culex Aeromechanica De Havillandii**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
@@ -428,7 +428,7 @@ A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 
 **Culex Aeromechanica Promachus**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A mosquito crossed with a robber fly. Predator imitating predator.
@@ -445,7 +445,7 @@ A mosquito crossed with a robber fly. Predator imitating predator.
 
 **LightHouse**
 
-A3 · Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A house made of light, or a lighthouse made into a home.
