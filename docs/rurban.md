@@ -149,7 +149,7 @@ A charming village near Swellendam.
 
 **St James**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
@@ -166,7 +166,7 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 
 **Amsterdam**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 Canal Scene.
@@ -183,7 +183,7 @@ Canal Scene.
 
 **Cafe T'Sluisje**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A lovely cafe on the canals in Amsterdam Noord.
@@ -200,7 +200,7 @@ A lovely cafe on the canals in Amsterdam Noord.
 
 **Amsterdam General**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A set of sketches and drawings inspired by Amsterdam.
@@ -217,7 +217,7 @@ A set of sketches and drawings inspired by Amsterdam.
 
 **Spanish Windows**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 The windows of Espinosa de los Monteros.
@@ -234,7 +234,7 @@ The windows of Espinosa de los Monteros.
 
 **Suurbraak 1**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -249,7 +249,7 @@ A3 Watercolour
 
 **22 on Church**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.
@@ -266,7 +266,7 @@ A charming restaurant in Montagu, serving up delicious food. One of my personal 
 
 **Suurbraak 3**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -281,7 +281,7 @@ A3 Watercolour
 
 **Suurbraak 4**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -296,7 +296,7 @@ A3 Watercolour
 
 **Suurbraak 5**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -311,7 +311,7 @@ A3 Watercolour
 
 **Bo-Kaap**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -326,7 +326,7 @@ A3 Watercolour
 
 **Simons Town 1**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A naval town with more character than it gets credit for.
@@ -343,7 +343,7 @@ A naval town with more character than it gets credit for.
 
 **Simons Town 2**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 The reflections in the potholes after rain are amazing.
@@ -360,7 +360,7 @@ The reflections in the potholes after rain are amazing.
 
 **Woodstock**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -375,7 +375,7 @@ A3 Watercolour
 
 **Lavenders, Franschhoek**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 The lavender fields and charming cottage are always a must-see.
@@ -392,7 +392,7 @@ The lavender fields and charming cottage are always a must-see.
 
 **McGregor**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 A village that time forgot, at the end of a road that doesn't go anywhere else.
@@ -409,7 +409,7 @@ A village that time forgot, at the end of a road that doesn't go anywhere else.
 
 **McGregor NG Kerk**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -424,7 +424,7 @@ A3 Watercolour
 
 **Montagu**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 Route 62 country. Mountains and Victorian storefronts.
@@ -441,7 +441,7 @@ Route 62 country. Mountains and Victorian storefronts.
 
 **R62 - Prickly Pear Farm**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -456,7 +456,7 @@ A3 Watercolour
 
 **Swellendam**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -471,7 +471,7 @@ A3 Watercolour
 
 **Liewe Hier**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -486,7 +486,7 @@ A3 Watercolour
 
 **Dunnets Head**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -501,7 +501,7 @@ A3 Watercolour
 
 **Rotterdam**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -516,7 +516,7 @@ A3 Watercolour
 
 **The Hague**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 </div>
@@ -531,7 +531,7 @@ A3 Watercolour
 
 **Ultimo**
 
-A3 Watercolour
+A3 · Watercolour
 { .card-medium }
 
 Ultimo in Sydney.

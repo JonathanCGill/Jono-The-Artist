@@ -55,11 +55,11 @@ Cityscapes and countryside from South Africa, Europe, and beyond.
 
 <div class="preview-stack" markdown>
 
-[![R62 - Prickly Pear Farm](watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg){ .preview-img }](landscapes.md)
+[![R62 - Prickly Pear Farm](watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg){ .preview-img }](rurban.md)
 
 </div>
 
-[View Gallery](landscapes.md){ .md-button }
+[View Gallery](rurban.md){ .md-button }
 
 </div>
 
