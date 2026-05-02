@@ -14,12 +14,12 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 **Cantabrian Mountains**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
 
-[Read the story](PhotosToPaintings/Cantabrian%20Mountains/index.md){ .card-story-link }
+[Read the story](stories/Cantabrian%20Mountains/index.md){ .card-story-link }
 
 </div>
 
@@ -33,12 +33,12 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 
 **Bilbao - Guggenheim Museum**
 
-750mm x 1000mm · Acryla Gouache
+750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
 
 The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
 
-[Read the story](PhotosToPaintings/Guggenheim/index.md){ .card-story-link }
+[Read the story](stories/Guggenheim/index.md){ .card-story-link }
 
 </div>
 
@@ -52,12 +52,12 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 
 **The Last Holiday, Amsterdam**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
 
-[Read the story](PhotosToPaintings/The%20Last%20Holiday/index.md){ .card-story-link }
+[Read the story](stories/The%20Last%20Holiday/index.md){ .card-story-link }
 
 </div>
 
@@ -71,12 +71,12 @@ Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interes
 
 **Orchards**
 
-1000mm x 750mm
+1000mm x 750mm · Canvas
 { .card-medium }
 
 Reimagining the R62.
 
-[Read the story](PhotosToPaintings/Orchards/index.md){ .card-story-link }
+[Read the story](stories/Orchards/index.md){ .card-story-link }
 
 </div>
 
@@ -90,12 +90,12 @@ Reimagining the R62.
 
 **Orchard 2**
 
-1000mm x 750mm
+1000mm x 750mm · Canvas
 { .card-medium }
 
 Reimagining the R62.
 
-[Read the story](PhotosToPaintings/Orchards/index.md){ .card-story-link }
+[Read the story](stories/Orchards/index.md){ .card-story-link }
 
 </div>
 
@@ -109,7 +109,7 @@ Reimagining the R62.
 
 **The Path**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A path to the Moon.
@@ -126,7 +126,7 @@ A path to the Moon.
 
 **Suurbraak**
 
-1000mm x 750mm · Acrylic & Acryla Gouache
+1000mm x 750mm · Acrylic & Acryla Gouache · Canvas
 { .card-medium }
 
 A charming village near Swellendam.
@@ -149,7 +149,7 @@ A charming village near Swellendam.
 
 **St James**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
@@ -166,7 +166,7 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 
 **Amsterdam**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Canal Scene.
@@ -183,7 +183,7 @@ Canal Scene.
 
 **Cafe T'Sluisje**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A lovely cafe on the canals in Amsterdam Noord.
@@ -200,7 +200,7 @@ A lovely cafe on the canals in Amsterdam Noord.
 
 **Amsterdam General**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A set of sketches and drawings inspired by Amsterdam.
@@ -217,7 +217,7 @@ A set of sketches and drawings inspired by Amsterdam.
 
 **Spanish Windows**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 The windows of Espinosa de los Monteros.
@@ -234,7 +234,7 @@ The windows of Espinosa de los Monteros.
 
 **Suurbraak 1**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -249,7 +249,7 @@ A3 Watercolour
 
 **22 on Church**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.
@@ -266,7 +266,7 @@ A charming restaurant in Montagu, serving up delicious food. One of my personal 
 
 **Suurbraak 3**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -281,7 +281,7 @@ A3 Watercolour
 
 **Suurbraak 4**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -296,7 +296,7 @@ A3 Watercolour
 
 **Suurbraak 5**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -311,7 +311,7 @@ A3 Watercolour
 
 **Bo-Kaap**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -326,7 +326,7 @@ A3 Watercolour
 
 **Simons Town 1**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A naval town with more character than it gets credit for.
@@ -343,7 +343,7 @@ A naval town with more character than it gets credit for.
 
 **Simons Town 2**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 The reflections in the potholes after rain are amazing.
@@ -360,7 +360,7 @@ The reflections in the potholes after rain are amazing.
 
 **Woodstock**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -375,7 +375,7 @@ A3 Watercolour
 
 **Lavenders, Franschhoek**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 The lavender fields and charming cottage are always a must-see.
@@ -392,7 +392,7 @@ The lavender fields and charming cottage are always a must-see.
 
 **McGregor**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A village that time forgot, at the end of a road that doesn't go anywhere else.
@@ -409,7 +409,7 @@ A village that time forgot, at the end of a road that doesn't go anywhere else.
 
 **McGregor NG Kerk**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -424,7 +424,7 @@ A3 Watercolour
 
 **Montagu**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Route 62 country. Mountains and Victorian storefronts.
@@ -441,7 +441,7 @@ Route 62 country. Mountains and Victorian storefronts.
 
 **R62 - Prickly Pear Farm**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -456,7 +456,7 @@ A3 Watercolour
 
 **Swellendam**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -471,7 +471,7 @@ A3 Watercolour
 
 **Liewe Hier**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -486,7 +486,7 @@ A3 Watercolour
 
 **Dunnets Head**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -501,7 +501,7 @@ A3 Watercolour
 
 **Rotterdam**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -516,7 +516,7 @@ A3 Watercolour
 
 **The Hague**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 </div>
@@ -531,7 +531,7 @@ A3 Watercolour
 
 **Ultimo**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Ultimo in Sydney.

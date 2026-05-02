@@ -18,12 +18,12 @@ Creatures that decided to fly, or flying machines that grew legs and wings. Each
 
 **Avis Aeromechanica Chocolatus**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
 
-[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .card-story-link }
+[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/){ .card-story-link }
 
 </div>
 
@@ -37,7 +37,7 @@ A chocolate bird plane, built from watercolour blueprints. Part avian, part mech
 
 **Libellula Aviatica**
 
-762mm x 1016mm · Acryla Gouache on Canvas
+762mm x 1016mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
@@ -58,7 +58,7 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 
 **Aero Mechanica 1**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A biomechanical plane, eco-friendly.
@@ -75,7 +75,7 @@ A biomechanical plane, eco-friendly.
 
 **Aero Mechanica 2**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A biomechanical plane, eco-friendly.
@@ -86,16 +86,67 @@ A biomechanical plane, eco-friendly.
 
 <div class="gallery-card" markdown>
 
-![Culex Aeromechanica De Havillandii](watercolours/Culex%20Aeromechnica%20de%20Havillandii.jpg){ .gallery-img }
+![Avis Aeromechanica Avronis](watercolours/Avis%20Aeromechanica%20Avronis.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Avronis**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A bird grafted onto an Avro airframe. Part avian, part British aviation.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Avis Aeromechanica Crabro](watercolours/Avis%20Aeromechanica%20Crabro.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Crabro**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A bird wearing hornet stripes. The taxonomy keeps slipping.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Culex Aeromechanica De Havillandii](watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
 **Culex Aeromechanica De Havillandii**
 
-A3 Watercolour
+A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Culex Aeromechanica Promachus](watercolours/Culex%20Aeromechanica%20Promachus.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Culex Aeromechanica Promachus**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A mosquito crossed with a robber fly. Predator imitating predator.
 
 </div>
 

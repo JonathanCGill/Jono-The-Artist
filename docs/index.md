@@ -22,7 +22,7 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 <div class="featured-image" markdown>
 
-[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .featured-img }](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/)
+[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .featured-img }](stories/Avis%20Aeromechanica%20Chocolatus/)
 
 </div>
 
@@ -32,12 +32,12 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 **Avis Aeromechanica Chocolatus**
 
-1000mm x 750mm · Acryla Gouache
+1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical. The two Aero Mechanica studies were diagrams of something that could never fly. This painting built it anyway.
 
-[Read the story](PhotosToPaintings/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
+[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
 
 </div>
 
@@ -55,11 +55,11 @@ Cityscapes and countryside from South Africa, Europe, and beyond.
 
 <div class="preview-stack" markdown>
 
-[![R62 - Prickly Pear Farm](watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg){ .preview-img }](landscapes.md)
+[![R62 - Prickly Pear Farm](watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg){ .preview-img }](rurban.md)
 
 </div>
 
-[View Gallery](landscapes.md){ .md-button }
+[View Gallery](rurban.md){ .md-button }
 
 </div>
 

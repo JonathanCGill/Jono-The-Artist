@@ -36,17 +36,17 @@ extra:
   generator: false
 
 nav:
-  - Rurban: landscapes.md
+  - Rurban: rurban.md
   - Surreal: surreal.md
   - Portraits: portraits.md
   - Series: series.md
   - Stories:
-    - PhotosToPaintings/index.md
-    - Avis Aeromechanica Chocolatus: PhotosToPaintings/Avis Aeromechanica Chocolatus/index.md
-    - Cantabrian Mountains: PhotosToPaintings/Cantabrian Mountains/index.md
-    - Guggenheim: PhotosToPaintings/Guggenheim/index.md
-    - Orchards: PhotosToPaintings/Orchards/index.md
-    - The Grand Insect Hotel: PhotosToPaintings/The Insect Hotel/index.md
-    - The Last Holiday: PhotosToPaintings/The Last Holiday/index.md
+    - stories/index.md
+    - Avis Aeromechanica Chocolatus: stories/Avis Aeromechanica Chocolatus/index.md
+    - Cantabrian Mountains: stories/Cantabrian Mountains/index.md
+    - Guggenheim: stories/Guggenheim/index.md
+    - Orchards: stories/Orchards/index.md
+    - The Grand Insect Hotel: stories/The Insect Hotel/index.md
+    - The Last Holiday: stories/The Last Holiday/index.md
   - Essays: essays.md
   - About: about.md
