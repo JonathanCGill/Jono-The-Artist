@@ -337,11 +337,11 @@ Attracted to the light.
 
 <div class="gallery-card" markdown>
 
-![Aero Mechanica 1](watercolours/Aero%20Mechanica%201.jpg){ .gallery-img }
+![Aeromechanica side profile](watercolours/Aero%20Mechanica%201.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Aero Mechanica 1**
+**Aeromechanica (side profile)**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -354,11 +354,11 @@ A biomechanical plane — eco-friendly.
 
 <div class="gallery-card" markdown>
 
-![Aero Mechanica 2](watercolours/Aero%20Mechanica%202.jpg){ .gallery-img }
+![Aeromechanica top profile](watercolours/Aero%20Mechanica%202.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Aero Mechanica 2**
+**Aeromechanica (top profile)**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
