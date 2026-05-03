@@ -187,6 +187,31 @@ Another robber fly in Luftwaffe colours. A variant on the Crucifer, same Raubfli
 
 </div>
 
+### Jet Age
+
+Past propellers. Delta wings, supersonic speeds, post-war intent.
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![Avis Aeromechanica Paciferus](watercolours/avis-aeromechanica-paciferus.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Paciferus**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A bird with delta wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.
+
+</div>
+
+</div>
+
+</div>
+
 ---
 
 <div class="social-links" markdown>
