@@ -828,6 +828,19 @@ body,
   text-align: left;
 }
 
+.story > h2 {
+  max-width: 680px;
+  margin: 3rem auto 1.25rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--sienna);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding-bottom: 0.4rem;
+}
+
 /* Side-by-side images */
 .story-images {
   display: grid;

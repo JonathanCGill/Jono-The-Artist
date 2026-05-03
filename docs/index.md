@@ -35,7 +35,7 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
-A bird plane powered by chocolate, built from watercolour blueprints. Part avian, part mechanical, fully impractical. The two Aeromechanica studies were diagrams of something that could never fly. This painting built it anyway.
+Painting, schematics, and integration drawings for one bird plane. Part avian, part mechanical, runs on chocolate, fully impractical. Ongoing.
 
 [Read the story](stories/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
 
