@@ -864,6 +864,16 @@ body,
   overflow-wrap: normal;
 }
 
+.image-meta {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  color: #999;
+  text-align: center;
+  padding: 0 0.5rem 0.5rem;
+  text-transform: uppercase;
+}
+
 .story-img {
   width: 100%;
   display: block;

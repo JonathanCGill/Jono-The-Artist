@@ -6,47 +6,11 @@ Some ideas will not let go after one painting. They turn into a series, where ea
 
 ## Aeromechanica
 
-Creatures that decided to fly, or flying machines that grew legs and wings. Each one starts from something biological, a bird, a dragonfly, a mosquito, then borrows whatever airframe seems to fit. Half engineering, half nonsense, all impractical.
+Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small WWII air war fought by birds, beetles, mosquitos, robber flies and hornets. Half engineering, half nonsense, all impractical.
 
-<div class="gallery-grid" markdown>
+### Origin
 
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A bird plane powered by chocolate, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
-
-[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Libellula Aviatica**
-
-762mm x 1016mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
-
-</div>
-
-</div>
-
-</div>
+The two watercolour blueprints came first. The painting built one of them.
 
 <div class="gallery-grid gallery-grid--three" markdown>
 
@@ -61,7 +25,7 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A biomechanical plane, eco-friendly.
+Side elevation. ILS trees on either side of the runway. Annotated for free flight, slurp, smoothie and feed.
 
 </div>
 
@@ -78,7 +42,7 @@ A biomechanical plane, eco-friendly.
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A biomechanical plane, eco-friendly.
+Top elevation. The high-nutrition bypass propulsion engine, with mixer, microwave and CO2 extractor.
 
 </div>
 
@@ -86,16 +50,43 @@ A biomechanical plane, eco-friendly.
 
 <div class="gallery-card" markdown>
 
-![Avis Aeromechanica Avronis](watercolours/Avis%20Aeromechanica%20Avronis.jpg){ .gallery-img }
+![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Avis Aeromechanica Avronis**
+**Avis Aeromechanica Chocolatus**
+
+1000mm × 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A bird plane powered by chocolate, built from the watercolour blueprints.
+
+[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
+
+</div>
+
+</div>
+
+</div>
+
+### Allied
+
+RAF roundels. British airframes.
+
+<div class="gallery-grid" markdown>
+
+<div class="gallery-card" markdown>
+
+![Lucanus Aeromechanica Avronis](watercolours/Avis%20Aeromechanica%20Avronis.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Lucanus Aeromechanica Avronis**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A bird grafted onto an Avro airframe. Part avian, part British aviation.
+A stag beetle on the airframe of an Avro. Mandibles up, RAF roundels, bombs slung beneath.
 
 </div>
 
@@ -112,11 +103,19 @@ A bird grafted onto an Avro airframe. Part avian, part British aviation.
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
+A mosquito turned De Havilland Mosquito. Two Merlins, three crew, RAF roundels. The pun does its own work.
 
 </div>
 
 </div>
+
+</div>
+
+### Axis
+
+Luftwaffe Balkenkreuze. German markings.
+
+<div class="gallery-grid gallery-grid--three" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -129,7 +128,64 @@ A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A robber fly fitted with cruciform wings. Predator built like a fighter.
+A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Avis Aeromechanica Crabro](watercolours/Avis%20Aeromechanica%20Crabro.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Crabro**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Avis Aeromechanica Promachus](watercolours/Culex%20Aeromechanica%20Promachus.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Avis Aeromechanica Promachus**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+Another robber fly in Luftwaffe colours. A variant on the Crucifer, same Raubfliege label.
+
+</div>
+
+</div>
+
+</div>
+
+### Outlier
+
+<div class="gallery-grid" markdown>
+
+<div class="gallery-card" markdown>
+
+![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Libellula Aviatica**
+
+762mm × 1016mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, mountains under a high moon.
 
 </div>
 
