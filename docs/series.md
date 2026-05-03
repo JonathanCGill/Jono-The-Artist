@@ -52,11 +52,11 @@ A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six
 
 <div class="gallery-card" markdown>
 
-![Aero Mechanica 1](watercolours/Aero%20Mechanica%201.jpg){ .gallery-img }
+![Aeromechanica side profile](watercolours/Aero%20Mechanica%201.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Aero Mechanica 1**
+**Aeromechanica (side profile)**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -69,11 +69,11 @@ A biomechanical plane, eco-friendly.
 
 <div class="gallery-card" markdown>
 
-![Aero Mechanica 2](watercolours/Aero%20Mechanica%202.jpg){ .gallery-img }
+![Aeromechanica top profile](watercolours/Aero%20Mechanica%202.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Aero Mechanica 2**
+**Aeromechanica (top profile)**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -103,23 +103,6 @@ A bird grafted onto an Avro airframe. Part avian, part British aviation.
 
 <div class="gallery-card" markdown>
 
-![Avis Aeromechanica Crabro](watercolours/Avis%20Aeromechanica%20Crabro.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Crabro**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A bird wearing hornet stripes. The taxonomy keeps slipping.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Culex Aeromechanica De Havillandii](watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -137,16 +120,16 @@ A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 
 <div class="gallery-card" markdown>
 
-![Culex Aeromechanica Promachus](watercolours/Culex%20Aeromechanica%20Promachus.jpg){ .gallery-img }
+![Promachus Aeromechanicus Crucifer](watercolours/promachus-aeromechanicus-crucifer.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Culex Aeromechanica Promachus**
+**Promachus Aeromechanicus Crucifer**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A mosquito crossed with a robber fly. Predator imitating predator.
+A robber fly fitted with cruciform wings. Predator built like a fighter.
 
 </div>
 
