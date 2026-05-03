@@ -204,7 +204,7 @@ Past propellers. Delta wings, supersonic speeds, post-war intent.
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A bird with delta wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.
+A bird with swept gull-wing planform wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.
 
 </div>
 
