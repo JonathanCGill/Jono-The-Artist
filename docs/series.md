@@ -142,7 +142,7 @@ Luftwaffe Balkenkreuze. German markings.
 
 **Promachus Aeromechanicus Crucifer**
 
-A3 · Watercolour · 300gsm Hot Press Paper
+A4 · Watercolour · Vellum Paper
 { .card-medium }
 
 A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.
@@ -163,23 +163,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Promachus](watercolours/Culex%20Aeromechanica%20Promachus.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Promachus**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Another robber fly in Luftwaffe colours. A variant on the Crucifer, same Raubfliege label.
 
 </div>
 
