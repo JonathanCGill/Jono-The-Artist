@@ -73,7 +73,7 @@ A bird plane powered by chocolate, built from the watercolour blueprints.
 
 RAF roundels. British airframes.
 
-<div class="gallery-grid" markdown>
+<div class="gallery-grid gallery-grid--three" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -104,6 +104,23 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A mosquito turned De Havilland Mosquito. Two Merlins, three crew, RAF roundels. The pun does its own work.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Libellula Aviatica**
+
+762mm × 1016mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RAF roundels, mountains under a high moon.
 
 </div>
 
@@ -163,29 +180,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Another robber fly in Luftwaffe colours. A variant on the Crucifer, same Raubfliege label.
-
-</div>
-
-</div>
-
-</div>
-
-### Outlier
-
-<div class="gallery-grid" markdown>
-
-<div class="gallery-card" markdown>
-
-![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Libellula Aviatica**
-
-762mm × 1016mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, mountains under a high moon.
 
 </div>
 
