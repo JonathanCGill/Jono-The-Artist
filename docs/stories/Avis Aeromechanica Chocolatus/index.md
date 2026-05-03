@@ -2,22 +2,6 @@
 
 <div class="story" markdown>
 
-<div class="story-toc" markdown>
-
-[Plane](#plane) · [Profiles](#profiles) · [Brains](#brains)
-
-</div>
-
-## Plane { #plane }
-
-<div class="story-text" markdown>
-
-A bright orange bird plane with pink wings, on a beach at sunset. A lighthouse to one side, a container ship on the horizon, two figures at the waterline, a foreground that reads as either a fence or a wave. The creature is moving past all of this rather than landing or taking off.
-
-The name says what it is. Avis, bird. Aeromechanica, a machine that flies. Chocolatus, because chocolate is its fuel. The orange livery is there because orange is a bright, cheerful colour, and a bird plane that runs on chocolate ought to look the part.
-
-</div>
-
 <div class="story-image" markdown>
 
 <div class="image-label">Avis Aeromechanica Chocolatus</div>
@@ -27,24 +11,25 @@ The name says what it is. Avis, bird. Aeromechanica, a machine that flies. Choco
 
 </div>
 
-## Profiles { #profiles }
+## Introduction
 
 <div class="story-text" markdown>
 
-The blueprints came first. Side and top elevations, drawn the way you would plan a machine: cross-sections, callouts, annotations that look technical because they are. Wings are still feathered. The high-nutrition bypass propulsion engine runs on chocolate, fats, greens and protein, mixes them in a microwave, and vents through a CO2 extractor that is a literal pot plant. ILS trees stand on either side of the runway.
+A bird plane on a beach at sunset, where a bird plane has no business being. A lighthouse, a container ship on the horizon, two figures at the waterline, a foreground that reads as either a fence or a wave. The creature is moving past all of this rather than landing or taking off, and nothing in the painting suggests anyone is surprised.
+
+The name says what it is. Avis, bird. Aeromechanica, a machine that flies. Chocolatus, because chocolate is its fuel. The orange livery is there because orange is a bright, cheerful colour, and a bird plane that runs on chocolate ought to look the part.
 
 </div>
 
-<div class="story-images story-images--three" markdown>
+## Profiles
 
-<div class="story-image" markdown>
+<div class="story-text" markdown>
 
-<div class="image-label">Side Profile</div>
-<div class="image-meta">A3 · Watercolour · 300gsm Hot Press</div>
-
-![Aeromechanica side profile - watercolour blueprint of the bird plane](Aero%20Mechanica%201.jpg){ .story-img }
+The blueprints came first. Top and side elevations, drawn the way you would plan a machine: cross-sections, callouts, annotations that look technical because they are. Wings are still feathered. The high-nutrition bypass propulsion engine runs on chocolate, fats, greens and protein, mixes them in a microwave, and vents through a CO2 extractor that is a literal pot plant. ILS trees stand on either side of the runway.
 
 </div>
+
+<div class="story-images" markdown>
 
 <div class="story-image" markdown>
 
@@ -55,9 +40,18 @@ The blueprints came first. Side and top elevations, drawn the way you would plan
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">Side Profile</div>
+<div class="image-meta">A3 · Watercolour · 300gsm Hot Press</div>
+
+![Aeromechanica side profile - watercolour blueprint of the bird plane](Aero%20Mechanica%201.jpg){ .story-img }
+
 </div>
 
-## Brains { #brains }
+</div>
+
+## Brains
 
 <div class="story-text" markdown>
 
