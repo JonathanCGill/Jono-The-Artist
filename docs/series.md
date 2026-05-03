@@ -142,7 +142,7 @@ Luftwaffe Balkenkreuze. German markings.
 
 **Promachus Aeromechanicus Crucifer**
 
-A3 · Watercolour · 300gsm Hot Press Paper
+A4 · Watercolour · Vellum Paper
 { .card-medium }
 
 A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.
