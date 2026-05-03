@@ -17,7 +17,7 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
-A chocolate bird plane, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
+A bird plane powered by chocolate, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
 
 [Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
 
