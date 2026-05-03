@@ -422,23 +422,6 @@ A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 
 <div class="gallery-card" markdown>
 
-![Culex Aeromechanica Promachus](watercolours/Culex%20Aeromechanica%20Promachus.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Culex Aeromechanica Promachus**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A mosquito crossed with a robber fly. Predator imitating predator.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![LightHouse](watercolours/LightHouse.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
