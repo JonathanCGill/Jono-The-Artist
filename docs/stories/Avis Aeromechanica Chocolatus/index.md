@@ -81,6 +81,23 @@ FlightGPT 0.4 and 1.0 are two passes at the same problem: how the bird's brain a
 
 </div>
 
+## Cockpit
+
+<div class="story-text" markdown>
+
+The cockpit is where the bird makes decisions. Emergency feeding pulls from the seed and cacao reserves when the engine runs lean. Migration urges, the ones that make a creature drop everything and head south, are held in check here. Overextended thermal hangouts, when the aircraft has been circling lift for too long, are regulated from the same panel. The bird brain, the flightGPT LLM and Foodec all report into this space. Thinking is controlled and marshalled, not left to itself.
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">Cockpit</div>
+<div class="image-meta">Watercolour and ink · Paper</div>
+
+![Aeromechanica Chocolatus Cockpit - the control panel where bird brain, flightGPT and Foodec are marshalled](Aeromechanica%20Chocolatus%20Cockpit.jpg){ .story-img }
+
+</div>
+
 <div class="story-text" markdown>
 
 *Other systems will be drawn as they are understood.*
