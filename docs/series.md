@@ -69,6 +69,31 @@ A bird plane powered by chocolate, built from the watercolour blueprints.
 
 </div>
 
+### Cockpit
+
+Where the thinking happens. The panel that runs the Chocolatus.
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![Aeromechanica Chocolatus Cockpit](watercolours/Aeromechanica%20Chocolatus%20Cockpit.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Aeromechanica Chocolatus Cockpit**
+
+Watercolour and ink · Paper
+{ .card-medium }
+
+The control panel of the Chocolatus. Emergency feeding draws from the seed and cacao reserves. Migration urges are held in check. Overextended thermal hangouts are regulated. The bird brain, the flightGPT LLM and Foodec are all marshalled from here. Thinking, controlled.
+
+</div>
+
+</div>
+
+</div>
+
 ### Allied
 
 RAF roundels. British airframes.

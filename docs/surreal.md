@@ -371,6 +371,23 @@ A biomechanical plane — eco-friendly.
 
 <div class="gallery-card" markdown>
 
+![Aeromechanica Chocolatus Cockpit](watercolours/Aeromechanica%20Chocolatus%20Cockpit.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Aeromechanica Chocolatus Cockpit**
+
+Watercolour and ink · Paper
+{ .card-medium }
+
+The control panel of the Chocolatus. Emergency feeding, migration urges, thermal regulation, bird brain, flightGPT and Foodec, all marshalled from here.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![Avis Aeromechanica Avronis](watercolours/Avis%20Aeromechanica%20Avronis.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
