@@ -69,7 +69,7 @@ Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interes
 
 <div class="card-info" markdown>
 
-**Orchards**
+**R62 Orchard**
 
 1000mm x 750mm · Canvas
 { .card-medium }
@@ -88,7 +88,7 @@ Reimagining the R62.
 
 <div class="card-info" markdown>
 
-**Orchard 2**
+**R62 Orchard**
 
 1000mm x 750mm · Canvas
 { .card-medium }
@@ -214,7 +214,7 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-Canal Scene.
+The flower blossoms add to the beauty of Amsterdam.
 
 </div>
 
@@ -243,7 +243,7 @@ A lovely cafe on the canals in Amsterdam Noord.
 
 <div class="card-info" markdown>
 
-**Amsterdam General**
+**Amsterdam Sketches**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -358,12 +358,12 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="card-info" markdown>
 
-**Lavenders, Franschhoek**
+**Lavenders in Franschhoek**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-The lavender fields and charming cottage are always a must-see.
+The lavender field and charming cottage, on the way into Franschhoek, are a must-see.
 
 </div>
 
