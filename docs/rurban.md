@@ -118,23 +118,6 @@ Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interes
 
 </div>
 
-<div class="gallery-card" markdown>
-
-![The Path](acrylic/The%20Path.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**The Path**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A path to the Moon.
-
-</div>
-
-</div>
-
 </div>
 
 ---

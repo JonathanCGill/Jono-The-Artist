@@ -129,11 +129,45 @@ Channelling the positive energy of the Universe into human endeavours.
 
 </div>
 
+<div class="gallery-card" markdown>
+
+![The Path](acrylic/The%20Path.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Path**
+
+1000mm x 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A path to the Moon.
+
+</div>
+
+</div>
+
 </div>
 
 ---
 
 <div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![To The Light 1](watercolours/To%20The%20Light%201.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**A Light House**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+Attracted to the light.
+
+</div>
+
+</div>
 
 <div class="gallery-card" markdown>
 
@@ -307,6 +341,23 @@ Who is checking out the world?
 
 <div class="gallery-card" markdown>
 
+![To The Light 2](watercolours/To%20The%20Light%202.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Light Attraction**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+Attracted to the light.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![LightHouse](watercolours/LightHouse.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -398,40 +449,6 @@ The Opera House reimagined.
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![To The Light 1](watercolours/To%20The%20Light%201.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**A Light House**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![To The Light 2](watercolours/To%20The%20Light%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Light Attraction**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
 
 </div>
 
