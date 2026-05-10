@@ -10,6 +10,30 @@ There is a class of hope that does not fit at human scale. World peace. Climate 
 
 Two of my paintings sit in that uncomfortable place. *The Love Vending Machine*, a 1500 by 2000mm canvas where positive energy is dispensed from the Universe into human hands. *The Global Peace Conference*, where a saucer convenes the world into an agreement no government has been able to deliver. Both take a wish that is too big to carry, and treat it as if a method exists. The methods are absurd. The wishes are not.
 
+<div class="essay-paintings" markdown>
+
+<div class="essay-image" markdown>
+
+![The Love Vending Machine](../acrylic/The%20Love%20Vending%20Machine.jpg)
+
+<div class="essay-image-caption" markdown>
+The Love Vending Machine. 1500 × 2000mm, Acryla Gouache on canvas.
+</div>
+
+</div>
+
+<div class="essay-image" markdown>
+
+![The Global Peace Conference](../acrylic/The%20Global%20Peace%20Conference.jpg)
+
+<div class="essay-image-caption" markdown>
+The Global Peace Conference. Acryla Gouache on canvas.
+</div>
+
+</div>
+
+</div>
+
 ## The wishes are not the problem
 
 It is fashionable to treat large hopes as naive. Adults are supposed to scale their ambitions down to what they can deliver. Climate hope becomes a series of small consumer choices. Peace becomes diplomatic process. Love becomes the people in the next room. There is a sense in which that is correct, and a sense in which it is the source of the problem.
