@@ -44,6 +44,25 @@ A bird plane powered by chocolate, built from watercolour blueprints. Part avian
 
 <div class="gallery-card" markdown>
 
+![Bilboa](acrylic/Bilboa.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Bilbao - Guggenheim Museum**
+
+750mm x 1000mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
+
+[Read the story](stories/Guggenheim/index.md){ .card-story-link }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![Hot Air Play](acrylic/Hot%20Air%20Play.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
