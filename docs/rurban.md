@@ -143,6 +143,51 @@ A charming village near Swellendam.
 
 <div class="gallery-card" markdown>
 
+![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Suurbraak 4](watercolours/Suurbraak%204.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Suurbraak 5](watercolours/Suurbraak%205.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![St James](watercolours/St%20James.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -238,51 +283,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 4](watercolours/Suurbraak%204.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 5](watercolours/Suurbraak%205.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
 
 </div>
 
