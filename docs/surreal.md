@@ -409,7 +409,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="card-info" markdown>
 
-**To The Light 1**
+**A Light House**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -426,7 +426,7 @@ Attracted to the light.
 
 <div class="card-info" markdown>
 
-**To The Light 2**
+**Light Attraction**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
