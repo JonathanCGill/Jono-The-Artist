@@ -407,6 +407,23 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
+![Pollinating Light](watercolours/To%20The%20Light%203.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Pollinating Light**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+Attracted to the light.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![Sir Real](watercolours/Sir%20Real.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -449,23 +466,6 @@ The Opera House reimagined.
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![To The Light 3](watercolours/To%20The%20Light%203.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**To The Light 3**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
 
 </div>
 
