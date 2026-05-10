@@ -8,25 +8,6 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 <div class="gallery-card" markdown>
 
-![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Cantabrian Mountains**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
-
-[Read the story](stories/Cantabrian%20Mountains/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Bilboa](acrylic/Bilboa.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -46,18 +27,18 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 
 <div class="gallery-card" markdown>
 
-![The Last Holiday - Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }
+![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**The Last Holiday, Amsterdam**
+**Cantabrian Mountains**
 
 1000mm x 750mm · Acryla Gouache · Canvas
 { .card-medium }
 
-Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
+A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
 
-[Read the story](stories/The%20Last%20Holiday/index.md){ .card-story-link }
+[Read the story](stories/Cantabrian%20Mountains/index.md){ .card-story-link }
 
 </div>
 
@@ -103,23 +84,6 @@ Reimagining the R62.
 
 <div class="gallery-card" markdown>
 
-![The Path](acrylic/The%20Path.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**The Path**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A path to the Moon.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Suurbraak](acrylic/Suurbraak.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -135,6 +99,42 @@ A charming village near Swellendam.
 
 </div>
 
+<div class="gallery-card" markdown>
+
+![The Last Holiday - Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Last Holiday, Amsterdam**
+
+1000mm x 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.
+
+[Read the story](stories/The%20Last%20Holiday/index.md){ .card-story-link }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![The Path](acrylic/The%20Path.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Path**
+
+1000mm x 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A path to the Moon.
+
+</div>
+
+</div>
+
 </div>
 
 ---
@@ -143,61 +143,16 @@ A charming village near Swellendam.
 
 <div class="gallery-card" markdown>
 
-![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img }
+![22 on Church](watercolours/22%20on%20Church.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Suurbraak**
+**22 on Church**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 4](watercolours/Suurbraak%204.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 5](watercolours/Suurbraak%205.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![St James](watercolours/St%20James.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**St James**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
+A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.
 
 </div>
 
@@ -222,23 +177,6 @@ The flower blossoms add to the beauty of Amsterdam.
 
 <div class="gallery-card" markdown>
 
-![Cafe T'Sluisje](watercolours/Cafe%20T'Sluisje.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Cafe T'Sluisje**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A lovely cafe on the canals in Amsterdam Noord.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Amsterdam General](watercolours/Amsterdam%20General.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -249,40 +187,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A set of sketches and drawings inspired by Amsterdam.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Spanish Windows](watercolours/Spanish%20Windows.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Spanish Windows**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-The windows of Espinosa de los Monteros.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![22 on Church](watercolours/22%20on%20Church.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**22 on Church**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.
 
 </div>
 
@@ -305,16 +209,16 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Simons Town 1](watercolours/Simons%20Town%201.jpg){ .gallery-img }
+![Cafe T'Sluisje](watercolours/Cafe%20T'Sluisje.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Simons Town**
+**Cafe T'Sluisje**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-A naval town with more character than it gets credit for.
+A lovely cafe on the canals in Amsterdam Noord.
 
 </div>
 
@@ -322,28 +226,11 @@ A naval town with more character than it gets credit for.
 
 <div class="gallery-card" markdown>
 
-![Simons Town 2](watercolours/Simons%20Town%202.jpg){ .gallery-img }
+![Dunnets Head](watercolours/Dunnets%20Head.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Simons Town**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-The architecture reflections in the puddles after rain are amazing.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Woodstock](watercolours/Woodstock.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Woodstock**
+**Dunnets Head Lighthouse**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -364,6 +251,21 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 The lavender field and charming cottage, on the way into Franschhoek, are a must-see.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Liewe Hier](watercolours/Liewe%20Hier.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Liewe Hier**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
 
 </div>
 
@@ -435,56 +337,139 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Swellendam](watercolours/Swellendam.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Swellendam**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Liewe Hier](watercolours/Liewe%20Hier.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Liewe Hier**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Dunnets Head](watercolours/Dunnets%20Head.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Dunnets Head Lighthouse**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Rotterdam](watercolours/Rotterdam.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
 **Rotterdam**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Simons Town 1](watercolours/Simons%20Town%201.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Simons Town**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A naval town with more character than it gets credit for.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Simons Town 2](watercolours/Simons%20Town%202.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Simons Town**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+The architecture reflections in the puddles after rain are amazing.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Spanish Windows](watercolours/Spanish%20Windows.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Spanish Windows**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+The windows of Espinosa de los Monteros.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![St James](watercolours/St%20James.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**St James**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet for painting.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Suurbraak 4](watercolours/Suurbraak%204.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Suurbraak 5](watercolours/Suurbraak%205.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Suurbraak**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Swellendam](watercolours/Swellendam.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Swellendam**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -520,6 +505,21 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Ultimo in Sydney.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Woodstock](watercolours/Woodstock.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Woodstock**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
 
 </div>
 
