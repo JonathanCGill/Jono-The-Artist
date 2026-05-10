@@ -25,23 +25,6 @@ A self-portrait.
 
 <div class="gallery-card" markdown>
 
-![Me 2](watercolours/Me%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Jono**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Another self-portrait.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Portrait](acrylic/Portrait.jpg){ .gallery-img }
 
 <div class="card-info" markdown>

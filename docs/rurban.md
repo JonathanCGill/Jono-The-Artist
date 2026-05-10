@@ -27,25 +27,6 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 
 <div class="gallery-card" markdown>
 
-![Orchards](acrylic/Orchards.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**R62 Orchard**
-
-1000mm x 750mm · Canvas
-{ .card-medium }
-
-Reimagining the R62.
-
-[Read the story](stories/Orchards/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Orchard 2](acrylic/Orchard%202.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -134,23 +115,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 The flower blossoms add to the beauty of Amsterdam.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Amsterdam General](watercolours/Amsterdam%20General.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Amsterdam Sketches**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A set of sketches and drawings inspired by Amsterdam.
 
 </div>
 
@@ -385,36 +349,6 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 <div class="gallery-card" markdown>
 
 ![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 4](watercolours/Suurbraak%204.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Suurbraak 5](watercolours/Suurbraak%205.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 

@@ -25,25 +25,6 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 <div class="gallery-card" markdown>
 
-![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A bird plane powered by chocolate, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
-
-[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Bilboa](acrylic/Bilboa.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -73,23 +54,6 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 { .card-medium }
 
 Fantasy world viewed from hot air.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Libellula Aviatica**
-
-762mm x 1016mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
 
 </div>
 
@@ -173,108 +137,6 @@ A path to the Moon.
 
 <div class="gallery-card" markdown>
 
-![To The Light 1](watercolours/To%20The%20Light%201.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**A Light House**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Aeromechanica side profile](watercolours/Aero%20Mechanica%201.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Aeromechanica (side profile)**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A biomechanical plane — eco-friendly.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Aeromechanica top profile](watercolours/Aero%20Mechanica%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Aeromechanica (top profile)**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A biomechanical plane — eco-friendly.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Aeromechanica Chocolatus Cockpit](watercolours/Aeromechanica%20Chocolatus%20Cockpit.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Aeromechanica Chocolatus Cockpit**
-
-Watercolour and ink · Paper
-{ .card-medium }
-
-The control panel of the Chocolatus. Emergency feeding, migration urges, thermal regulation, bird brain, flightGPT and Foodec, all marshalled from here.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Avronis](watercolours/Avis%20Aeromechanica%20Avronis.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Avronis**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A bird grafted onto an Avro airframe. Part avian, part British aviation.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Crabro](watercolours/Avis%20Aeromechanica%20Crabro.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Crabro**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A bird wearing hornet stripes. The taxonomy keeps slipping.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -319,23 +181,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Brain scans help you feel better, maybe?
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Culex Aeromechanica De Havillandii](watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Culex Aeromechanica De Havillandii**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
 
 </div>
 
@@ -453,23 +298,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 A watercolour pun made visible.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Sydney Opera House](watercolours/SOH.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Sydney Opera House**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-The Opera House reimagined.
 
 </div>
 
