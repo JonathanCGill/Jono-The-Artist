@@ -8,61 +8,6 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
-![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A bird plane powered by chocolate, built from watercolour blueprints. Part avian, part mechanical, fully impractical.
-
-[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Libellula Aviatica](acrylic/Libellula%20Aviatica.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Libellula Aviatica**
-
-762mm x 1016mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A dragonfly reimagined as a flying machine. The Aeromechanica idea, now with six legs and four wings.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**The Grand Insect Hotel**
-
-750mm x 1000mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
-
-[Read the story](stories/The%20Insect%20Hotel/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -80,16 +25,18 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 <div class="gallery-card" markdown>
 
-![The Love Vending Machine](acrylic/The%20Love%20Vending%20Machine.jpg){ .gallery-img }
+![Bilboa](acrylic/Bilboa.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**The Love Vending Machine**
+**Bilbao - Guggenheim Museum**
 
-1500mm x 2000mm · Acryla Gouache · Canvas
+750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
 
-Channelling the positive energy of the Universe into human endeavours.
+The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
+
+[Read the story](stories/Guggenheim/index.md){ .card-story-link }
 
 </div>
 
@@ -124,6 +71,59 @@ Acryla Gouache · Canvas
 { .card-medium }
 
 The Universe coming together to sort out the world, and get it to peace.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Grand Insect Hotel**
+
+750mm x 1000mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
+
+[Read the story](stories/The%20Insect%20Hotel/index.md){ .card-story-link }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![The Love Vending Machine](acrylic/The%20Love%20Vending%20Machine.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Love Vending Machine**
+
+1500mm x 2000mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+Channelling the positive energy of the Universe into human endeavours.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![The Path](acrylic/The%20Path.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Path**
+
+1000mm x 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A path to the Moon.
 
 </div>
 
@@ -171,40 +171,6 @@ Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 <div class="gallery-card" markdown>
 
-![Sir Real](watercolours/Sir%20Real.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Sir Real**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A watercolour pun made visible.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Sydney Opera House](watercolours/SOH.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Sydney Opera House**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-The Opera House reimagined.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Brain Scan](watercolours/Brain%20Scan.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -232,6 +198,40 @@ A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
 Who is checking out the world?
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![To The Light 2](watercolours/To%20The%20Light%202.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Light Attraction**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+Attracted to the light.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![LightHouse](watercolours/LightHouse.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**LightHouse**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A house made of light, or a lighthouse made into a home.
 
 </div>
 
@@ -271,6 +271,40 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
+![Pollinating Light](watercolours/To%20The%20Light%203.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Pollinating Light**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+Attracted to the light.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Sir Real](watercolours/Sir%20Real.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Sir Real**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+A watercolour pun made visible.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![The Passage](watercolours/The%20Passage.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -279,159 +313,6 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![To The Light 1](watercolours/To%20The%20Light%201.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**To The Light 1**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![To The Light 2](watercolours/To%20The%20Light%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**To The Light 2**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![To The Light 3](watercolours/To%20The%20Light%203.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**To The Light 3**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Attracted to the light.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Aeromechanica side profile](watercolours/Aero%20Mechanica%201.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Aeromechanica (side profile)**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A biomechanical plane — eco-friendly.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Aeromechanica top profile](watercolours/Aero%20Mechanica%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Aeromechanica (top profile)**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A biomechanical plane — eco-friendly.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Avronis](watercolours/Avis%20Aeromechanica%20Avronis.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Avronis**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A bird grafted onto an Avro airframe. Part avian, part British aviation.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Crabro](watercolours/Avis%20Aeromechanica%20Crabro.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Crabro**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A bird wearing hornet stripes. The taxonomy keeps slipping.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![Culex Aeromechanica De Havillandii](watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Culex Aeromechanica De Havillandii**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A mosquito reworked as a De Havilland. Another from the Aeromechanica series.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![LightHouse](watercolours/LightHouse.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**LightHouse**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-A house made of light, or a lighthouse made into a home.
 
 </div>
 

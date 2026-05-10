@@ -12,7 +12,7 @@ Self-portraits and studies of the human form.
 
 <div class="card-info" markdown>
 
-**Me**
+**Catching the Cold in Amsterdam**
 
 Canvas
 { .card-medium }
@@ -25,28 +25,11 @@ A self-portrait.
 
 <div class="gallery-card" markdown>
 
-![Me 2](watercolours/Me%202.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Me 2**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-Another self-portrait.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![Portrait](acrylic/Portrait.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Portrait**
+**The Girl with the Plastic Earrings**
 
 Canvas
 { .card-medium }
