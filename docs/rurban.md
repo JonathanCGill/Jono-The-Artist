@@ -228,21 +228,6 @@ The windows of Espinosa de los Monteros.
 
 <div class="gallery-card" markdown>
 
-![Suurbraak 1](watercolours/Suurbraak%201.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Suurbraak 1**
-
-A3 · Watercolour · 300gsm Hot Press Paper
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![22 on Church](watercolours/22%20on%20Church.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -264,7 +249,7 @@ A charming restaurant in Montagu, serving up delicious food. One of my personal 
 
 <div class="card-info" markdown>
 
-**Suurbraak 3**
+**Suurbraak**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -279,7 +264,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="card-info" markdown>
 
-**Suurbraak 4**
+**Suurbraak**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -294,7 +279,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="card-info" markdown>
 
-**Suurbraak 5**
+**Suurbraak**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -324,7 +309,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="card-info" markdown>
 
-**Simons Town 1**
+**Simons Town**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
@@ -341,12 +326,12 @@ A naval town with more character than it gets credit for.
 
 <div class="card-info" markdown>
 
-**Simons Town 2**
+**Simons Town**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-The reflections in the potholes after rain are amazing.
+The architecture reflections in the puddles after rain are amazing.
 
 </div>
 
@@ -484,7 +469,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="card-info" markdown>
 
-**Dunnets Head**
+**Dunnets Head Lighthouse**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
