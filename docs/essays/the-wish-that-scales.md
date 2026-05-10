@@ -17,7 +17,7 @@ Two of my paintings sit in that uncomfortable place. *The Love Vending Machine*,
 ![The Love Vending Machine](../acrylic/The%20Love%20Vending%20Machine.jpg)
 
 <div class="essay-image-caption" markdown>
-The Love Vending Machine. 1500 × 2000mm, Acryla Gouache on canvas.
+The Love Vending Machine
 </div>
 
 </div>
@@ -27,7 +27,7 @@ The Love Vending Machine. 1500 × 2000mm, Acryla Gouache on canvas.
 ![The Global Peace Conference](../acrylic/The%20Global%20Peace%20Conference.jpg)
 
 <div class="essay-image-caption" markdown>
-The Global Peace Conference. Acryla Gouache on canvas.
+The Global Peace Conference
 </div>
 
 </div>
