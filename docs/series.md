@@ -18,7 +18,7 @@ The Avis Aeromechanica Chocolatus is the series in the air. Years of blueprints,
 
 Fifty-four years from a paper aeroplane to the real thing.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -43,7 +43,7 @@ The story in four pictures. 1972, a paper aeroplane. 1976, a sturdier Lego build
 
 The two watercolour blueprints came first. The painting built one of them.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -104,7 +104,7 @@ A bird plane powered by chocolate, built from the watercolour blueprints.
 
 The structure underneath. How the Chocolatus holds together in the air.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -129,7 +129,7 @@ A cutaway of the Chocolatus airframe. The structure follows a bird's rib strateg
 
 Where the thinking happens. The panel that runs the Chocolatus.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -154,7 +154,7 @@ The control panel of the Chocolatus. Emergency feeding draws from the seed and c
 
 RAF roundels. British airframes.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -213,7 +213,7 @@ A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RA
 
 Luftwaffe Balkenkreuze. German markings.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -255,7 +255,7 @@ A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.
 
 Past propellers. Delta wings, supersonic speeds, post-war intent.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
