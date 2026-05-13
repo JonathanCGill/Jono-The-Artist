@@ -745,6 +745,49 @@ body,
   margin-bottom: 1.2rem;
 }
 
+.essay-paintings {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0 2.5rem;
+}
+
+.essay-image {
+  margin: 0;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.essay-image > p {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.essay-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.essay-image-caption {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+  color: var(--brown);
+  text-align: center;
+  padding: 0.8rem 1rem;
+  line-height: 1.3;
+}
+
+@media (max-width: 600px) {
+  .essay-paintings {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
 /* ══════════════════════════════════════════════════
    RESPONSIVE
    ══════════════════════════════════════════════════ */
