@@ -450,6 +450,41 @@ body,
   columns: 3;
 }
 
+/* Stacked variant: one card per row, image left, text right */
+.gallery-grid--stacked {
+  columns: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  max-width: 64rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gallery-grid--stacked .gallery-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.gallery-grid--stacked .gallery-card > p:first-of-type {
+  flex: 0 0 60%;
+  margin: 0;
+  line-height: 0;
+}
+
+.gallery-grid--stacked .gallery-card .gallery-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.gallery-grid--stacked .card-info {
+  flex: 1;
+  padding: 1.2rem 1.6rem;
+}
+
 .gallery-card {
   break-inside: avoid;
   margin-bottom: 1.8rem;
@@ -826,6 +861,15 @@ body,
 
   .gallery-grid--three {
     columns: 1;
+  }
+
+  .gallery-grid--stacked .gallery-card {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .gallery-grid--stacked .gallery-card > p:first-of-type {
+    flex: none;
   }
 
   .md-typeset h1 {
