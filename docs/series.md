@@ -1,18 +1,49 @@
-# Series
+# Aeromechanica
 
-Some ideas will not let go after one painting. They turn into a series, where each piece is another angle on the same question. This is where those collections live.
+<div class="hero" markdown>
 
----
+<div class="hero-image" markdown>
 
-## Aeromechanica
+[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .hero-img }](stories/Avis%20Aeromechanica%20Chocolatus/index.md)
+
+</div>
+
+</div>
 
 Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small WWII air war fought by birds, beetles, mosquitos, robber flies and hornets. Half engineering, half nonsense, all impractical.
+
+The Avis Aeromechanica Chocolatus is the series in the air. Years of blueprints, cockpits and cutaways folded into one bird plane, finally flying.
+
+### Evolution
+
+Fifty-four years from a paper aeroplane to the real thing.
+
+<div class="gallery-grid gallery-grid--stacked" markdown>
+
+<div class="gallery-card" markdown>
+
+![Aeromechanica Chocolatus Evolution](watercolours/Aeromechanica%20Chocolatus%20Evolution.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Aeromechanica Chocolatus Evolution**
+
+Watercolour · Paper
+{ .card-medium }
+
+The story in four pictures. 1972, a paper aeroplane. 1976, a sturdier Lego build. 1985, the first remote controlled version, flying. 2026, the real thing in the sky, navigating by lighthouses.
+
+</div>
+
+</div>
+
+</div>
 
 ### Origin
 
 The two watercolour blueprints came first. The painting built one of them.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -48,32 +79,13 @@ Top elevation. The high-nutrition bypass propulsion engine, with mixer, microwav
 
 </div>
 
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm × 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A bird plane powered by chocolate, built from the watercolour blueprints.
-
-[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
 </div>
 
 ### Airframe
 
 The structure underneath. How the Chocolatus holds together in the air.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -98,7 +110,7 @@ A cutaway of the Chocolatus airframe. The structure follows a bird's rib strateg
 
 Where the thinking happens. The panel that runs the Chocolatus.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -123,7 +135,7 @@ The control panel of the Chocolatus. Emergency feeding draws from the seed and c
 
 RAF roundels. British airframes.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -182,7 +194,7 @@ A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RA
 
 Luftwaffe Balkenkreuze. German markings.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -224,7 +236,7 @@ A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.
 
 Past propellers. Delta wings, supersonic speeds, post-war intent.
 
-<div class="gallery-grid gallery-grid--three" markdown>
+<div class="gallery-grid gallery-grid--stacked" markdown>
 
 <div class="gallery-card" markdown>
 

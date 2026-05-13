@@ -265,8 +265,7 @@ body,
 
 .hero-img {
   width: 100%;
-  max-height: 520px;
-  object-fit: cover;
+  height: auto;
   display: block;
   border-radius: 8px;
 }
@@ -448,6 +447,41 @@ body,
 
 .gallery-grid--three {
   columns: 3;
+}
+
+/* Stacked variant: one card per row, image left, text right */
+.gallery-grid--stacked {
+  columns: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  max-width: 64rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gallery-grid--stacked .gallery-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.gallery-grid--stacked .gallery-card > p:first-of-type {
+  flex: 0 0 60%;
+  margin: 0;
+  line-height: 0;
+}
+
+.gallery-grid--stacked .gallery-card .gallery-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.gallery-grid--stacked .card-info {
+  flex: 1;
+  padding: 1.2rem 1.6rem;
 }
 
 .gallery-card {
@@ -828,12 +862,17 @@ body,
     columns: 1;
   }
 
-  .md-typeset h1 {
-    font-size: 2rem;
+  .gallery-grid--stacked .gallery-card {
+    flex-direction: column;
+    align-items: stretch;
   }
 
-  .hero-img {
-    max-height: 360px;
+  .gallery-grid--stacked .gallery-card > p:first-of-type {
+    flex: none;
+  }
+
+  .md-typeset h1 {
+    font-size: 2rem;
   }
 
   .about-hero {
