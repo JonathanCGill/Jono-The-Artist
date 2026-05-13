@@ -1,10 +1,4 @@
-# Series
-
-Some ideas will not let go after one painting. They turn into a series, where each piece is another angle on the same question. This is where those collections live.
-
----
-
-## Aeromechanica
+# Aeromechanica
 
 <div class="hero" markdown>
 
