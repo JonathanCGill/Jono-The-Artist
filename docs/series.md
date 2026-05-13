@@ -20,6 +20,31 @@ Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, s
 
 The Avis Aeromechanica Chocolatus is the series in the air. Years of blueprints, cockpits and cutaways folded into one bird plane, finally flying.
 
+### Evolution
+
+Fifty-four years from a paper aeroplane to the real thing.
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![Aeromechanica Chocolatus Evolution](watercolours/Aeromechanica%20Chocolatus%20Evolution.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Aeromechanica Chocolatus Evolution**
+
+Watercolour · Paper
+{ .card-medium }
+
+The story in four pictures. 1972, a paper aeroplane. 1976, a sturdier Lego build. 1985, the first remote controlled version, flying. 2026, the real thing in the sky, navigating by lighthouses.
+
+</div>
+
+</div>
+
+</div>
+
 ### Origin
 
 The two watercolour blueprints came first. The painting built one of them.
