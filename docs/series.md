@@ -6,7 +6,19 @@ Some ideas will not let go after one painting. They turn into a series, where ea
 
 ## Aeromechanica
 
+<div class="hero" markdown>
+
+<div class="hero-image" markdown>
+
+[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .hero-img }](stories/Avis%20Aeromechanica%20Chocolatus/index.md)
+
+</div>
+
+</div>
+
 Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small WWII air war fought by birds, beetles, mosquitos, robber flies and hornets. Half engineering, half nonsense, all impractical.
+
+The Avis Aeromechanica Chocolatus is the series in the air. Years of blueprints, cockpits and cutaways folded into one bird plane, finally flying.
 
 ### Origin
 
