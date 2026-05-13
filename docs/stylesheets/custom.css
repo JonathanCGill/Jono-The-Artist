@@ -265,8 +265,7 @@ body,
 
 .hero-img {
   width: 100%;
-  max-height: 520px;
-  object-fit: cover;
+  height: auto;
   display: block;
   border-radius: 8px;
 }
@@ -874,10 +873,6 @@ body,
 
   .md-typeset h1 {
     font-size: 2rem;
-  }
-
-  .hero-img {
-    max-height: 360px;
   }
 
   .about-hero {
