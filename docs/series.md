@@ -4,7 +4,7 @@
 
 <div class="hero-image" markdown>
 
-[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .hero-img }](stories/Avis%20Aeromechanica%20Chocolatus/index.md)
+![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .hero-img }
 
 </div>
 

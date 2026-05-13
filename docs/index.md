@@ -18,33 +18,6 @@ These paintings sit in that space. Familiar scenes, altered just enough to feel 
 
 ---
 
-<div class="featured-work" markdown>
-
-<div class="featured-image" markdown>
-
-[![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .featured-img }](stories/Avis%20Aeromechanica%20Chocolatus/)
-
-</div>
-
-<div class="featured-text" markdown>
-
-### Featured Work
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-Painting, schematics, and integration drawings for one bird plane. Part avian, part mechanical, runs on chocolate, fully impractical. Ongoing.
-
-[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/){ .md-button }
-
-</div>
-
-</div>
-
----
-
 <div class="gallery-preview gallery-preview--three" markdown>
 
 <div class="preview-section" markdown>
