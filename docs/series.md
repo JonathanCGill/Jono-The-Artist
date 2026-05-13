@@ -79,25 +79,6 @@ Top elevation. The high-nutrition bypass propulsion engine, with mixer, microwav
 
 </div>
 
-<div class="gallery-card" markdown>
-
-![Avis Aeromechanica Chocolatus](acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Avis Aeromechanica Chocolatus**
-
-1000mm × 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A bird plane powered by chocolate, built from the watercolour blueprints.
-
-[Read the story](stories/Avis%20Aeromechanica%20Chocolatus/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
 </div>
 
 ### Airframe
