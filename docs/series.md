@@ -69,6 +69,31 @@ A bird plane powered by chocolate, built from the watercolour blueprints.
 
 </div>
 
+### Airframe
+
+The structure underneath. How the Chocolatus holds together in the air.
+
+<div class="gallery-grid gallery-grid--three" markdown>
+
+<div class="gallery-card" markdown>
+
+![Aeromechanica Chocolatus Airframe Cutaway](watercolours/Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Aeromechanica Chocolatus Airframe Cutaway**
+
+A3 · Ink, pastel and watercolour · Hot Press Paper
+{ .card-medium }
+
+A cutaway of the Chocolatus airframe. The structure follows a bird's rib strategy, with the wings mounted to the airframe and driven by the Flaperon Engine. Fuel is carried in bags. The Dove Tail keeps the flight stable.
+
+</div>
+
+</div>
+
+</div>
+
 ### Cockpit
 
 Where the thinking happens. The panel that runs the Chocolatus.
