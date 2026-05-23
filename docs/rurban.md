@@ -122,11 +122,11 @@ The flower blossoms add to the beauty of Amsterdam.
 
 <div class="gallery-card" markdown>
 
-![Ancienne Mosquee du Vendredri Banjanani](watercolours/Moroni%20Grand%20Mosque.jpg){ .gallery-img }
+![Ancienne Mosquee du Vendredi Banjanani](watercolours/Moroni%20Grand%20Mosque.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**Ancienne Mosquee du Vendredri Banjanani**
+**Ancienne Mosquee du Vendredi Banjanani**
 
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
