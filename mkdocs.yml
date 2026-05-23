@@ -36,13 +36,12 @@ extra:
   generator: false
 
 nav:
+  - Aeromechanica: index.md
   - Rurban: rurban.md
   - Surreal: surreal.md
   - Portraits: portraits.md
-  - Aeromechanica: series.md
   - Stories:
     - stories/index.md
-    - Avis Aeromechanica Chocolatus: stories/Avis Aeromechanica Chocolatus/index.md
     - Cantabrian Mountains: stories/Cantabrian Mountains/index.md
     - Guggenheim: stories/Guggenheim/index.md
     - Orchards: stories/Orchards/index.md
