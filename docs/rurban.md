@@ -122,6 +122,21 @@ The flower blossoms add to the beauty of Amsterdam.
 
 <div class="gallery-card" markdown>
 
+![Ancienne Mosquee du Vendredri Banjanani](watercolours/Moroni%20Grand%20Mosque.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Ancienne Mosquee du Vendredri Banjanani**
+
+A3 · Watercolour · 300gsm Hot Press Paper
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![BoKaap](watercolours/BoKaap%201.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
