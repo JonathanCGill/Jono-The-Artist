@@ -129,6 +129,23 @@ A path to the Moon.
 
 </div>
 
+<div class="gallery-card" markdown>
+
+![The Road to Know Where?](acrylic/The%20Road%20to%20Know%20Where.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**The Road to Know Where?**
+
+Holbein Acryla Gouache · Canvas
+{ .card-medium }
+
+At a crossroads. A path chosen, but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you get there.
+
+</div>
+
+</div>
+
 </div>
 
 ---
