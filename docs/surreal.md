@@ -8,6 +8,21 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
+![A Starling Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**A Starling Reformation at Five to Midnight**
+
+750mm x 1000mm · Holbein Acryla Gouache · Canvas
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -141,21 +156,6 @@ Holbein Acryla Gouache · Canvas
 { .card-medium }
 
 At a crossroads. A path chosen, but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you get there.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-![A Starling Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**A Starling Reformation at Five to Midnight**
-
-750mm x 1000mm · Holbein Acryla Gouache · Canvas
-{ .card-medium }
 
 </div>
 
