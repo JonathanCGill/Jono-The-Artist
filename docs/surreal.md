@@ -146,6 +146,21 @@ At a crossroads. A path chosen, but the destination unknown. It is a little fore
 
 </div>
 
+<div class="gallery-card" markdown>
+
+![A Starling Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**A Starling Reformation at Five to Midnight**
+
+750mm x 1000mm · Holbein Acryla Gouache · Canvas
+{ .card-medium }
+
+</div>
+
+</div>
+
 </div>
 
 ---
