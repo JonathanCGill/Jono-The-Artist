@@ -17,6 +17,8 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 750mm x 1000mm · Holbein Acryla Gouache · Canvas
 { .card-medium }
 
+To me the painting symbolises how nature can conspire to take things away, even important things, and no matter the extent of your authority or influence you cannot get it back, no matter the urgency to you, or the fact time is running out. It's kind of a universal reckoning system.
+
 </div>
 
 </div>
