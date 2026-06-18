@@ -8,11 +8,11 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
-![A Starling Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
+![A Starling's Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**A Starling Reformation at Five to Midnight**
+**A Starling's Reformation at Five to Midnight**
 
 750mm x 1000mm · Holbein Acryla Gouache · Canvas
 { .card-medium }
