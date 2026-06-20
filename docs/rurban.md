@@ -27,11 +27,11 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 
 <div class="gallery-card" markdown>
 
-![Orchard 2](acrylic/Orchard%202.jpg){ .gallery-img }
+![The Road to Somewhere One](acrylic/The%20Road%20to%20Somewhere%20One.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**R62 Orchard**
+**The Road to Somewhere One**
 
 1000mm x 750mm · Canvas
 { .card-medium }
