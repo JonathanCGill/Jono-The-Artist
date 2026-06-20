@@ -8,6 +8,23 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
+![A Starling's Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**A Starling's Reformation at Five to Midnight**
+
+750mm x 1000mm · Holbein Acryla Gouache · Canvas
+{ .card-medium }
+
+To me the painting symbolises how nature can conspire to take things away, even important things, and no matter the extent of your authority or influence you cannot get it back, no matter the urgency to you, or the fact time is running out. It's kind of a universal reckoning system.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
