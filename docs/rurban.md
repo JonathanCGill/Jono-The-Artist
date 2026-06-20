@@ -8,25 +8,6 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 <div class="gallery-card" markdown>
 
-![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**Cantabrian Mountains**
-
-1000mm x 750mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
-
-[Read the story](stories/Cantabrian%20Mountains/index.md){ .card-story-link }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![The Road to Somewhere One](acrylic/The%20Road%20to%20Somewhere%20One.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
@@ -39,6 +20,25 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 Reimagining the R62.
 
 [Read the story](stories/Orchards/index.md){ .card-story-link }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
+
+<div class="card-info" markdown>
+
+**Cantabrian Mountains**
+
+1000mm x 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
+
+[Read the story](stories/Cantabrian%20Mountains/index.md){ .card-story-link }
 
 </div>
 
