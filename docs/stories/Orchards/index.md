@@ -14,9 +14,9 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">Orchards II</div>
+<div class="image-label">The Road to Somewhere One</div>
 
-![Orchards II - acrylic painting](Orchard%202.jpg){ .story-img }
+![The Road to Somewhere One - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img }
 
 </div>
 
