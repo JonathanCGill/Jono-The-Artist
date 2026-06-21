@@ -10,7 +10,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 ---
 
-<div class="gallery-grid" style="columns: 1;" markdown>
+<div class="gallery-grid" markdown>
 
 <div class="gallery-card" markdown>
 
@@ -64,21 +64,6 @@ The result is a version of a real place that never quite existed. Familiar enoug
 <div class="card-info" markdown>
 
 **Guggenheim, Bilbao**
-
-750mm x 1000mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
-[![Orchards](Orchards/Orchards.jpg){ .gallery-img }](Orchards/)
-
-<div class="card-info" markdown>
-
-**Orchards, R62**
 
 750mm x 1000mm · Acryla Gouache · Canvas
 { .card-medium }
