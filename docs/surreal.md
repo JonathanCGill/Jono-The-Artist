@@ -17,7 +17,7 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 750mm x 1000mm · Holbein Acryla Gouache · Canvas
 { .card-medium }
 
-To me the painting symbolises how nature can conspire to take things away, even important things, and no matter the extent of your authority or influence you cannot get it back, no matter the urgency to you, or the fact time is running out. It's kind of a universal reckoning system.
+This painting symbolises the way nature can take from us, often without warning, even the things we value most. No authority, influence, or urgency can reclaim what has been lost once time begins to run out. It is, to me, a reflection on universal reckoning, and the limits of human control.
 
 </div>
 
