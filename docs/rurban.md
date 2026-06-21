@@ -8,11 +8,11 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 <div class="gallery-card" markdown>
 
-![The Road to Somewhere One](acrylic/The%20Road%20to%20Somewhere%20One.jpg){ .gallery-img }
+![The Road to Somewhere (Part One)](acrylic/The%20Road%20to%20Somewhere%20One.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
 
-**The Road to Somewhere One**
+**The Road to Somewhere (Part One)**
 
 1000mm x 750mm · Canvas
 { .card-medium }

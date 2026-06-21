@@ -78,23 +78,6 @@ Fantasy world viewed from hot air.
 
 <div class="gallery-card" markdown>
 
-![The Global Peace Conference](acrylic/The%20Global%20Peace%20Conference.jpg){ .gallery-img }
-
-<div class="card-info" markdown>
-
-**The Global Peace Conference**
-
-Acryla Gouache · Canvas
-{ .card-medium }
-
-The Universe coming together to sort out the world, and get it to peace.
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 ![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
 
 <div class="card-info" markdown>
