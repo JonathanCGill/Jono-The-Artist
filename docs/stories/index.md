@@ -44,6 +44,21 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
+[![The Road to Know Where?](The%20Road%20to%20Know%20Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img }](The%20Road%20to%20Know%20Where/)
+
+<div class="card-info" markdown>
+
+**The Road to Know Where**
+
+1000mm x 750mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 [![Guggenheim Bilbao](Guggenheim/Bilboa.jpg){ .gallery-img }](Guggenheim/)
 
 <div class="card-info" markdown>
