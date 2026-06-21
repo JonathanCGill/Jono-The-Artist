@@ -44,7 +44,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Road to Know Where?](The%20Road%20to%20Know%20Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img }](The%20Road%20to%20Know%20Where/)
+[![The Road to Know Where?](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img }](The-Road-to-Know-Where/)
 
 <div class="card-info" markdown>
 

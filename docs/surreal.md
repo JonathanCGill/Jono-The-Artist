@@ -142,7 +142,7 @@ Holbein Acryla Gouache · Canvas
 
 At a crossroads. A path chosen, but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you get there.
 
-[Read the story](stories/The%20Road%20to%20Know%20Where/index.md){ .card-story-link }
+[Read the story](stories/The-Road-to-Know-Where/index.md){ .card-story-link }
 
 </div>
 
