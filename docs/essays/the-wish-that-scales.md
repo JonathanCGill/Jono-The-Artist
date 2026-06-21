@@ -8,7 +8,7 @@
 
 There is a class of hope that does not fit at human scale. World peace. Climate stability. More love in circulation. Each of them is reasonable. Each of them is also too large for any one person to hold. The standard adult responses are irony, paralysis, or quiet abandonment. None of those work either.
 
-Two of my paintings sit in that uncomfortable place. *The Love Vending Machine*, a 1500 by 2000mm canvas where positive energy is dispensed from the Universe into human hands. *The Global Peace Conference*, where a saucer convenes the world into an agreement no government has been able to deliver. Both take a wish that is too big to carry, and treat it as if a method exists. The methods are absurd. The wishes are not.
+One of my paintings sits in that uncomfortable place. *The Love Vending Machine*, a 1500 by 2000mm canvas where positive energy is dispensed from the Universe into human hands. It takes a wish that is too big to carry, and treats it as if a method exists. The method is absurd. The wish is not.
 
 <div class="essay-paintings" markdown>
 
@@ -22,16 +22,6 @@ The Love Vending Machine
 
 </div>
 
-<div class="essay-image" markdown>
-
-![The Global Peace Conference](../acrylic/The%20Global%20Peace%20Conference.jpg)
-
-<div class="essay-image-caption" markdown>
-The Global Peace Conference
-</div>
-
-</div>
-
 </div>
 
 ## The wishes are not the problem
@@ -40,11 +30,11 @@ It is fashionable to treat large hopes as naive. Adults are supposed to scale th
 
 A wish at world-scale is the only wish proportionate to a world-scale problem. World peace is the only condition that ends the recurrent collapse of all the smaller settlements. Love at scale is what every credible religious tradition has asked for, and what every successful one delivers in some form. These wishes are not childish. The childish move is to pretend they are not necessary.
 
-## The methods are the giveaway
+## The method is the giveaway
 
-What is wrong with these paintings, as practical proposals, is the methods. Vending machines do not dispense love. Saucers do not negotiate peace.
+What is wrong with this painting, as a practical proposal, is the method. Vending machines do not dispense love.
 
-That is the painting telling on itself. The method is wrong on purpose. The painting is not a manual. It is the visible shape of a wish that has nowhere reasonable to land. The Universe in *The Love Vending Machine* is doing the work because no human institution will. The saucer in *The Global Peace Conference* is doing the work because no government has.
+That is the painting telling on itself. The method is wrong on purpose. The painting is not a manual. It is the visible shape of a wish that has nowhere reasonable to land. The Universe in *The Love Vending Machine* is doing the work because no human institution will.
 
 That is not a flaw in the wish. It is a description of where we are.
 
@@ -54,19 +44,17 @@ The default register of contemporary culture for hopes of this size is the smirk
 
 I am not religious in any organised sense, and I am not optimistic by temperament. I am sceptical of grand schemes, including the ones I paint. I have spent enough time around enterprise governance to know how slowly anything actually changes, and how often the people promising to change it are the obstacle.
 
-The paintings are not arguing that the wishes will be fulfilled. They are arguing that the wishes deserve to be held without irony. That is harder than it sounds.
+The painting is not arguing that the wish will be fulfilled. It is arguing that the wish deserves to be held without irony. That is harder than it sounds.
 
 If that reads as naive, I am content with the charge. Naive art is allowed to take things at face value. It is one of the few permissions still available.
 
-## What the paintings ask of you
+## What the painting asks of you
 
 Standing in front of *The Love Vending Machine*, the question is not whether the device works. It is whether the world it imagines is desirable. If it is, the painting has done its job. The mechanism is a placeholder for whatever real mechanism would be required, and that real mechanism has not yet been invented.
 
-*The Global Peace Conference* asks the same question in a different costume. If the only body capable of convening world peace is one that does not exist on this planet, that says something about the planet, not about the painting.
-
 ## What I am not arguing
 
-I am not arguing that wishing makes a thing happen. The paintings know better than that.
+I am not arguing that wishing makes a thing happen. The painting knows better than that.
 
 I am also not arguing that scale-wishing is a substitute for the small, boring, unglamorous work of diplomacy, of policy, of the kindness in the next room. It is not. Those are the actual paths, when they are paths at all.
 
@@ -76,7 +64,7 @@ What I am arguing is that the wish has a function. It anchors the work. It tells
 
 You can keep your hopes small and have them fulfilled. You can hold larger hopes and watch them fail in detail, repeatedly, for a lifetime. The first is more comfortable. The second is the only one proportionate to the size of what is actually wrong.
 
-These paintings are for the second.
+This painting is for the second.
 
 *This is a personal essay. The views are my own.*
 

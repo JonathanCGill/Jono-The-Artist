@@ -14,9 +14,9 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">The Road to Somewhere One</div>
+<div class="image-label">The Road to Somewhere (Part One)</div>
 
-![The Road to Somewhere One - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img }
+![The Road to Somewhere (Part One) - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img }
 
 </div>
 
