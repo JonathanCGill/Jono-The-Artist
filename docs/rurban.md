@@ -19,6 +19,8 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 Reimagining the R62.
 
+Sometimes on life's journey, we reach a destination that brings joy, abundant fruit, colour, a beautiful house at the end of the road. The journey to Know Where is not over, but this is a good stopping point, a chance to reset and think.
+
 [Read the story](stories/Orchards/index.md){ .card-story-link }
 
 </div>
