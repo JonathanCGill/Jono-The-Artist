@@ -74,21 +74,6 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![Orchards](Orchards/Orchards.jpg){ .gallery-img }](Orchards/)
-
-<div class="card-info" markdown>
-
-**Orchards, R62**
-
-750mm x 1000mm · Acryla Gouache · Canvas
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 [![The Grand Insect Hotel](The%20Insect%20Hotel/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }](The%20Insect%20Hotel/)
 
 <div class="card-info" markdown>
