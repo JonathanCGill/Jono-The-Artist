@@ -10,3 +10,18 @@
   gtag('config', 'G-8ZCXGPG3K5');
 </script>
 {% endblock %}
+
+{% block tabs %}{% endblock %}
+
+{% block footer %}
+<footer class="jono-footer">
+  <div class="jono-footer__inner">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" class="jono-wordmark jono-wordmark--footer">
+      <span class="jono-wordmark__name">Jono</span>
+      <span class="jono-wordmark__sub">the artist</span>
+    </a>
+    <span class="jono-footer__mid">Acrylic &amp; Watercolour</span>
+    <span class="jono-footer__copy">© 2026 Jonathan Gill</span>
+  </div>
+</footer>
+{% endblock %}
