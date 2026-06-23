@@ -1,6 +1,25 @@
 {#-
-  Custom header — site name always visible next to logo
+  Custom header.
+  - Home page: the single-page "blueprint" header (sticky wordmark + anchor nav).
+  - Every other page: the original header (site name always visible next to logo).
 -#}
+{% if page and page.is_homepage %}
+<header class="jono-header" data-md-component="header">
+  <div class="jono-header__inner">
+    <a class="jono-wordmark" href="#top" aria-label="{{ config.site_name | e }}">
+      <span class="name">Jono</span>
+      <span class="sub">the artist</span>
+    </a>
+    <nav class="jono-nav" aria-label="{{ lang.t('header') }}">
+      <a href="#aeromechanica">Aeromechanica</a>
+      <a href="#rurban">Rurban</a>
+      <a href="#surreal">Surreal</a>
+      <a href="#stories">Stories</a>
+      <a href="#about">About</a>
+    </nav>
+  </div>
+</header>
+{% else %}
 {% set class = "md-header" %}
 {% if "navigation.tabs.sticky" in features %}
   {% set class = class ~ " md-header--shadow md-header--lifted" %}
@@ -52,3 +71,4 @@
     {% endif %}
   {% endif %}
 </header>
+{% endif %}
