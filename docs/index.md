@@ -323,6 +323,8 @@ template: home.html
       <p class="jono-eyebrow">§ About Jono</p>
       <p class="jono-about__quote">I draw before I paint (a blueprint, a cutaway, an annotation), and then I let the colour break the rules the drawing set.</p>
       <p class="jono-about__body">I work in acrylic, Holbein Acryla Gouache and watercolour. Mostly from the Western Cape: the villages along Route 62, the harbours after rain, the light on a hillside. I draw the plan first, then let the colour disobey it. None of the images here are AI-generated. Every piece is a physical object, real paint on real canvas or paper.</p>
+      <p class="jono-about__body">I also write. The essays here are not about art. They are about the things I care enough to write down: governance, technology, and how institutions work or fail to.</p>
+      <a class="jono-textlink" href="essays/">Read the essays →</a>
     </div>
     <div class="jono-about__right">
       <p class="jono-sublabel">Originals &amp; prints</p>

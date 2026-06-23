@@ -736,7 +736,12 @@ body,
   font-size: 15px;
   line-height: 1.8;
   color: var(--j-mutedark);
-  margin: 0;
+  margin: 0 0 16px;
+}
+.jono-about .jono-textlink {
+  color: var(--j-accent2);
+  border-bottom-color: var(--j-accent2);
+  margin-top: 6px;
 }
 .jono-about__right {
   border-left: 1px solid var(--j-darkhair);
