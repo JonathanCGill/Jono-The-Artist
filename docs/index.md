@@ -289,27 +289,27 @@ template: home.html
   </div>
   <h2 class="jono-stories__h2">The places and ideas behind the paintings.</h2>
   <div class="jono-storylist">
-    <a class="jono-storyrow" href="stories/Cantabrian%20Mountains/" target="_blank" rel="noopener">
+    <a class="jono-storyrow" href="/stories/Cantabrian%20Mountains/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">01</span>
       <span class="jono-storyrow__title">Cantabrian Mountains</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
-    <a class="jono-storyrow" href="stories/The%20Last%20Holiday/" target="_blank" rel="noopener">
+    <a class="jono-storyrow" href="/stories/The%20Last%20Holiday/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">02</span>
       <span class="jono-storyrow__title">The Last Holiday, Amsterdam</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
-    <a class="jono-storyrow" href="stories/The-Road-to-Know-Where/" target="_blank" rel="noopener">
+    <a class="jono-storyrow" href="/stories/The-Road-to-Know-Where/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">03</span>
       <span class="jono-storyrow__title">The Road to Know Where</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
-    <a class="jono-storyrow" href="stories/Guggenheim/" target="_blank" rel="noopener">
+    <a class="jono-storyrow" href="/stories/Guggenheim/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">04</span>
       <span class="jono-storyrow__title">Guggenheim, Bilbao</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
-    <a class="jono-storyrow" href="stories/The%20Insect%20Hotel/" target="_blank" rel="noopener">
+    <a class="jono-storyrow" href="/stories/The%20Insect%20Hotel/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">05</span>
       <span class="jono-storyrow__title">The Grand Insect Hotel</span>
       <span class="jono-storyrow__read">Read →</span>
@@ -324,7 +324,7 @@ template: home.html
       <p class="jono-about__quote">I draw before I paint (a blueprint, a cutaway, an annotation), and then I let the colour break the rules the drawing set.</p>
       <p class="jono-about__body">I work in acrylic, Holbein Acryla Gouache and watercolour. Mostly from the Western Cape: the villages along Route 62, the harbours after rain, the light on a hillside. I draw the plan first, then let the colour disobey it. None of the images here are AI-generated. Every piece is a physical object, real paint on real canvas or paper.</p>
       <p class="jono-about__body">I also write. The essays here are not about art. They are about the things I care enough to write down: governance, technology, and how institutions work or fail to.</p>
-      <a class="jono-textlink" href="essays/">Read the essays →</a>
+      <a class="jono-textlink" href="/essays/">Read the essays →</a>
     </div>
     <div class="jono-about__right">
       <p class="jono-sublabel">Originals &amp; prints</p>

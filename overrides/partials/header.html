@@ -1,12 +1,12 @@
 {#-
   Custom header — blueprint wordmark + section nav, shown on every page.
   Sticky, in-flow, with a CSS-only mobile menu (no JS).
-  Nav links resolve to the home-page section anchors from any page.
+  The site is served at the domain root, so links are absolute: the
+  section anchors always resolve to the home page from any sub-page.
 -#}
-{% set jono_home = config.extra.homepage | d(nav.homepage.url, true) | url %}
 <header class="jono-header" data-md-component="header">
   <div class="jono-header__inner">
-    <a href="{{ jono_home }}" class="jono-wordmark" title="{{ config.site_name | e }}">
+    <a href="/" class="jono-wordmark" title="{{ config.site_name | e }}">
       <span class="jono-wordmark__name">Jono</span>
       <span class="jono-wordmark__sub">the artist</span>
     </a>
@@ -15,12 +15,12 @@
       <span></span><span></span><span></span>
     </label>
     <nav class="jono-nav" aria-label="Sections">
-      <a href="{{ jono_home }}#aeromechanica">Aeromechanica</a>
-      <a href="{{ jono_home }}#rurban">Rurban</a>
-      <a href="{{ jono_home }}#surreal">Surreal</a>
-      <a href="{{ jono_home }}#stories">Stories</a>
-      <a href="{{ jono_home }}essays/">Essays</a>
-      <a href="{{ jono_home }}#about">About</a>
+      <a href="/#aeromechanica">Aeromechanica</a>
+      <a href="/#rurban">Rurban</a>
+      <a href="/#surreal">Surreal</a>
+      <a href="/#stories">Stories</a>
+      <a href="/essays/">Essays</a>
+      <a href="/#about">About</a>
     </nav>
   </div>
 </header>
