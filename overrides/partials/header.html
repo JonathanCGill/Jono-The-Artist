@@ -1,54 +1,26 @@
 {#-
-  Custom header — site name always visible next to logo
+  Custom header — blueprint wordmark + section nav, shown on every page.
+  Sticky, in-flow, with a CSS-only mobile menu (no JS).
+  Nav links resolve to the home-page section anchors from any page.
 -#}
-{% set class = "md-header" %}
-{% if "navigation.tabs.sticky" in features %}
-  {% set class = class ~ " md-header--shadow md-header--lifted" %}
-{% elif "navigation.tabs" not in features %}
-  {% set class = class ~ " md-header--shadow" %}
-{% endif %}
-<header class="{{ class }}" data-md-component="header">
-  <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header') }}">
-    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
-      {% include "partials/logo.html" %}
+{% set jono_home = config.extra.homepage | d(nav.homepage.url, true) | url %}
+<header class="jono-header" data-md-component="header">
+  <div class="jono-header__inner">
+    <a href="{{ jono_home }}" class="jono-wordmark" title="{{ config.site_name | e }}">
+      <span class="jono-wordmark__name">Jono</span>
+      <span class="jono-wordmark__sub">the artist</span>
     </a>
-    <label class="md-header__button md-icon" for="__drawer">
-      {% set icon = config.theme.icon.menu or "material/menu" %}
-      {% include ".icons/" ~ icon ~ ".svg" %}
+    <input type="checkbox" id="jono-menu" class="jono-menu-toggle" hidden>
+    <label for="jono-menu" class="jono-burger" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
     </label>
-    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" class="site-name-link">
-      Jono, the Artist
-    </a>
-    {% if config.theme.palette %}
-      {% if not config.theme.palette is mapping %}
-        {% include "partials/palette.html" %}
-      {% endif %}
-    {% endif %}
-    {% if not config.theme.palette is mapping %}
-      {% include "partials/javascripts/palette.html" %}
-    {% endif %}
-    {% if config.extra.alternate %}
-      {% include "partials/alternate.html" %}
-    {% endif %}
-    {% if "material/search" in config.plugins %}
-      {% set search = config.plugins["material/search"] | attr("config") %}
-      {% if search.enabled %}
-        <label class="md-header__button md-icon" for="__search">
-          {% set icon = config.theme.icon.search or "material/magnify" %}
-          {% include ".icons/" ~ icon ~ ".svg" %}
-        </label>
-        {% include "partials/search.html" %}
-      {% endif %}
-    {% endif %}
-    {% if config.repo_url %}
-      <div class="md-header__source">
-        {% include "partials/source.html" %}
-      </div>
-    {% endif %}
-  </nav>
-  {% if "navigation.tabs.sticky" in features %}
-    {% if "navigation.tabs" in features %}
-      {% include "partials/tabs.html" %}
-    {% endif %}
-  {% endif %}
+    <nav class="jono-nav" aria-label="Sections">
+      <a href="{{ jono_home }}#aeromechanica">Aeromechanica</a>
+      <a href="{{ jono_home }}#rurban">Rurban</a>
+      <a href="{{ jono_home }}#surreal">Surreal</a>
+      <a href="{{ jono_home }}#stories">Stories</a>
+      <a href="{{ jono_home }}essays/">Essays</a>
+      <a href="{{ jono_home }}#about">About</a>
+    </nav>
+  </div>
 </header>

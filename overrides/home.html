@@ -1,48 +1,14 @@
 {#-
   Home template — the single-page blueprint design.
-  Replaces Material's header / tabs / footer with the bespoke
-  gallery chrome and renders the page content full-bleed.
-  Extends main.html so the Google Analytics tag is preserved.
+  Renders the page content full-bleed (no sidebars, no md-typeset wrapper).
+  Header and footer come from the site-wide overrides (header.html / main.html).
 -#}
 {% extends "main.html" %}
 
-{% block header %}
-<header class="jono-header">
-  <div class="jono-header__inner">
-    <a href="#top" class="jono-wordmark">
-      <span class="jono-wordmark__name">Jono</span>
-      <span class="jono-wordmark__sub">the artist</span>
-    </a>
-    <nav class="jono-nav" aria-label="Sections">
-      <a href="#aeromechanica">Aeromechanica</a>
-      <a href="#rurban">Rurban</a>
-      <a href="#surreal">Surreal</a>
-      <a href="#stories">Stories</a>
-      <a href="#about">About</a>
-    </nav>
-  </div>
-</header>
-{% endblock %}
+{% block site_nav %}{% endblock %}
 
-{% block tabs %}{% endblock %}
-
-{% block main %}
-<main class="md-main jono-main" data-md-component="main">
-  <div class="jono">
-    {{ page.content }}
-  </div>
-</main>
-{% endblock %}
-
-{% block footer %}
-<footer class="jono-footer">
-  <div class="jono-footer__inner">
-    <a href="#top" class="jono-wordmark jono-wordmark--footer">
-      <span class="jono-wordmark__name">Jono</span>
-      <span class="jono-wordmark__sub">the artist</span>
-    </a>
-    <span class="jono-footer__mid">Acrylic &amp; Watercolour</span>
-    <span class="jono-footer__copy">© 2026 Jonathan Gill</span>
-  </div>
-</footer>
+{% block container %}
+<div class="jono">
+  {{ page.content }}
+</div>
 {% endblock %}

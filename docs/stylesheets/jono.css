@@ -30,13 +30,37 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Home page only: drop Material's fixed-header offset + recolour the wall */
-.md-container:has(.jono-main) {
+/* ── Site-wide chrome: blueprint header is sticky/in-flow, recolour wall ── */
+body,
+.md-main,
+.md-container {
+  background-color: var(--j-wall);
+}
+.md-container {
   padding-top: 0;
 }
-body:has(.jono-main),
-.md-main.jono-main {
-  background-color: var(--j-wall);
+/* Material chrome we no longer use */
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  display: none !important;
+}
+
+/* Home page (.jono): full-bleed — escape Material's centred grid */
+.md-main__inner:has(.jono) {
+  display: block;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+/* Content pages: blueprint container width, left-aligned */
+.md-main__inner:not(:has(.jono)) {
+  display: block;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 40px 32px 64px;
+}
+.md-main__inner:not(:has(.jono)) .md-content {
+  max-width: none;
 }
 
 .jono {
@@ -161,6 +185,33 @@ body:has(.jono-main),
 .jono-nav a:hover {
   color: var(--j-ink);
   border-bottom-color: var(--j-accent);
+}
+
+/* Mobile menu toggle (CSS-only, no JS) */
+.jono-burger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.jono-burger span {
+  display: block;
+  height: 1.5px;
+  width: 22px;
+  background: var(--j-ink);
+  transition: transform 0.25s ease, opacity 0.2s ease;
+}
+.jono-menu-toggle:checked ~ .jono-burger span:nth-child(1) {
+  transform: translateY(6.5px) rotate(45deg);
+}
+.jono-menu-toggle:checked ~ .jono-burger span:nth-child(2) {
+  opacity: 0;
+}
+.jono-menu-toggle:checked ~ .jono-burger span:nth-child(3) {
+  transform: translateY(-6.5px) rotate(-45deg);
 }
 
 /* ══ Hero ═══════════════════════════════════════════════════════ */
@@ -757,16 +808,288 @@ body:has(.jono-main),
 }
 
 /* ════════════════════════════════════════════════════════════════
+   CONTENT PAGES — restyle the existing markdown pages (Rurban,
+   Surreal, Stories, Essays, About) into the blueprint format.
+   These render inside .md-content__inner.md-typeset.
+   ════════════════════════════════════════════════════════════════ */
+.md-content__inner.md-typeset {
+  color: var(--j-body);
+  font-family: var(--j-sans);
+  text-align: left;
+}
+.md-content__inner.md-typeset h2,
+.md-content__inner.md-typeset h3 {
+  font-family: var(--j-serif);
+  font-weight: 500;
+  color: var(--j-ink);
+  text-align: left;
+}
+/* Lead / intro paragraphs */
+.md-content__inner.md-typeset > p {
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--j-body);
+  max-width: 760px;
+  text-align: left;
+}
+.md-content__inner.md-typeset a {
+  color: var(--j-accent);
+}
+.md-content__inner.md-typeset a:hover {
+  color: var(--j-ink);
+}
+.md-content__inner.md-typeset hr {
+  border: none;
+  border-top: 1px solid var(--j-hair);
+  margin: 48px 0;
+}
+
+/* ── Galleries → blueprint grid + flat cards + hover zoom ── */
+.md-typeset .gallery-grid {
+  columns: initial;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px 28px;
+  margin-top: 8px;
+}
+.md-typeset .gallery-grid--three {
+  grid-template-columns: repeat(3, 1fr);
+}
+.md-typeset .gallery-card {
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+  margin-bottom: 0;
+  transition: none;
+}
+.md-typeset .gallery-card:hover {
+  transform: none;
+  box-shadow: none;
+}
+.md-typeset .gallery-card .gallery-img {
+  border-radius: 0;
+  transition: transform 0.9s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.md-typeset .gallery-card:hover .gallery-img {
+  transform: scale(1.04);
+}
+.md-typeset .card-info {
+  padding: 16px 2px 0;
+}
+.md-typeset .card-info strong {
+  font-family: var(--j-serif);
+  font-weight: 500;
+  font-size: 20px;
+  color: var(--j-ink);
+}
+.md-typeset .card-medium {
+  font-family: var(--j-mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--j-muted2);
+  margin-top: 6px;
+}
+.md-typeset .card-info > p:not(:empty):not(.card-medium) {
+  font-size: 14px;
+  color: var(--j-muted);
+  line-height: 1.6;
+}
+.md-typeset .card-story-link {
+  font-family: var(--j-mono) !important;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--j-accent) !important;
+}
+.md-typeset .card-story-link:hover {
+  color: var(--j-ink) !important;
+}
+
+/* ── Stories ── */
+.md-typeset .story > h2 {
+  font-family: var(--j-mono);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  color: var(--j-accent);
+  border-bottom: 1px solid var(--j-hair);
+}
+.md-typeset .story-image {
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+.md-typeset .image-label {
+  font-family: var(--j-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--j-accent);
+}
+.md-typeset .image-meta {
+  font-family: var(--j-mono);
+  color: var(--j-muted2);
+}
+.md-typeset .story-text {
+  font-family: var(--j-sans);
+  color: var(--j-body);
+}
+
+/* ── Essays ── */
+.md-typeset .essay,
+.md-typeset .essay-list {
+  max-width: 760px;
+}
+.md-typeset .essay,
+.md-typeset .essay-text {
+  font-family: var(--j-sans);
+  color: var(--j-body);
+}
+.md-typeset .essay-meta h2,
+.md-typeset .essay h2 {
+  font-family: var(--j-serif);
+  font-weight: 500;
+  color: var(--j-ink);
+}
+.md-typeset .essay-meta h3 {
+  font-family: var(--j-mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--j-accent);
+}
+.md-typeset .essay-card {
+  background: none;
+  border-radius: 0;
+  border-top: 1px solid var(--j-hair);
+  box-shadow: none;
+  margin-bottom: 0;
+  transition: padding-left 0.25s ease;
+}
+.md-typeset .essay-list .essay-card:last-child {
+  border-bottom: 1px solid var(--j-hair);
+}
+.md-typeset .essay-card:hover {
+  transform: none;
+  box-shadow: none;
+  padding-left: 12px;
+}
+.md-typeset .essay-card-content {
+  padding: 24px 0;
+}
+.md-typeset .essay-card-content h3 {
+  font-family: var(--j-serif);
+  font-weight: 500;
+  font-size: 22px;
+  color: var(--j-ink);
+}
+.md-typeset .essay-card-content > p:first-of-type {
+  font-family: var(--j-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--j-accent);
+}
+.md-typeset .essay-image {
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+.md-typeset .essay-image-caption {
+  font-family: var(--j-serif);
+  color: var(--j-ink);
+}
+
+/* ── About ── */
+.md-typeset .about-img {
+  border-radius: 0;
+  box-shadow: none;
+}
+.md-typeset .about-text {
+  font-family: var(--j-sans);
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--j-body);
+}
+
+/* ── Social links → blueprint ── */
+.md-typeset .social-links {
+  justify-content: flex-start;
+  border-top: 1px solid var(--j-hair);
+  padding-top: 28px;
+  margin-top: 40px;
+}
+.md-typeset .social-links a {
+  font-family: var(--j-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--j-accent) !important;
+}
+.md-typeset .social-links a:hover {
+  color: var(--j-ink) !important;
+}
+.md-typeset .social-links i {
+  font-size: 0.95rem;
+}
+
+/* ── "Back to top" button (navigation.top) → blueprint ── */
+.md-top {
+  background: var(--j-wall);
+  color: var(--j-ink);
+  border: 1px solid var(--j-hair);
+  border-radius: 999px;
+  box-shadow: none;
+  font-family: var(--j-mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.md-top:hover {
+  background: var(--j-ink);
+  color: var(--j-light);
+}
+
+/* ════════════════════════════════════════════════════════════════
    RESPONSIVE
    ════════════════════════════════════════════════════════════════ */
 @media (max-width: 1000px) {
   .jono-wc { grid-template-columns: repeat(3, 1fr); }
 }
 
-@media (max-width: 860px) {
-  .jono-nav { gap: 18px; }
-  .jono-nav a { font-size: 10px; letter-spacing: 0.1em; }
+@media (max-width: 900px) {
+  /* Collapse the nav into a CSS-only dropdown menu */
+  .jono-header__inner { position: relative; }
+  .jono-burger { display: flex; }
+  .jono-nav {
+    position: absolute;
+    top: 64px;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: 0;
+    background: var(--j-wall);
+    border-bottom: 1px solid var(--j-hair);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+  .jono-menu-toggle:checked ~ .jono-nav {
+    max-height: 70vh;
+  }
+  .jono-nav a {
+    padding: 16px 32px;
+    border-bottom: none;
+    border-top: 1px solid var(--j-hair);
+    font-size: 12px;
+    letter-spacing: 0.16em;
+  }
+  .jono-nav a:first-child { border-top: none; }
+  .jono-nav a:hover { border-bottom-color: transparent; color: var(--j-accent); }
+}
 
+@media (max-width: 860px) {
   .jono-statement,
   .jono-intro,
   .jono-evo__caption,
@@ -796,7 +1119,7 @@ body:has(.jono-main),
 
 @media (max-width: 560px) {
   .jono-header__inner { padding: 0 18px; }
-  .jono-nav { gap: 12px; }
+  .jono-nav a { padding: 15px 18px; }
   .jono__container,
   .jono-statement,
   .jono-rurban,
@@ -815,4 +1138,15 @@ body:has(.jono-main),
   }
   .jono-storyrow { grid-template-columns: 40px 1fr auto; gap: 16px; }
   .jono-footer__inner { flex-direction: column; align-items: flex-start; gap: 12px; }
+}
+
+/* Content-page galleries */
+@media (max-width: 860px) {
+  .md-main__inner:not(:has(.jono)) { padding: 32px 24px 56px; }
+  .md-typeset .gallery-grid--three { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .md-main__inner:not(:has(.jono)) { padding: 28px 18px 48px; }
+  .md-typeset .gallery-grid,
+  .md-typeset .gallery-grid--three { grid-template-columns: 1fr; }
 }
