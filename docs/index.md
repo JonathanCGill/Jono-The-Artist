@@ -151,13 +151,13 @@ template: home.html
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Crabro.jpg" alt="Avis Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Crabro</h3>
-          <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
           <p class="jono-item__desc">A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.</p>
         </div>
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Jet Age</span><img loading="lazy" decoding="async" src="watercolours/avis-aeromechanica-paciferus.jpg" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Paciferus</h3>
-          <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
           <p class="jono-item__desc">A bird with swept gull-wing wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.</p>
         </div>
       </div>
