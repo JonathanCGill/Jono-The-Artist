@@ -8,7 +8,7 @@ Self-portraits and studies of the human form.
 
 <div class="gallery-card" markdown>
 
-![Me](acrylic/Me.jpg){ .gallery-img }
+![Me](acrylic/Me.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -25,7 +25,7 @@ A self-portrait.
 
 <div class="gallery-card" markdown>
 
-![Portrait](acrylic/Portrait.jpg){ .gallery-img }
+![Portrait](acrylic/Portrait.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 

@@ -1,0 +1,14 @@
+{#-
+  Home template — the single-page blueprint design.
+  Renders the page content full-bleed (no sidebars, no md-typeset wrapper).
+  Header and footer come from the site-wide overrides (header.html / main.html).
+-#}
+{% extends "main.html" %}
+
+{% block site_nav %}{% endblock %}
+
+{% block container %}
+<div class="jono">
+  {{ page.content }}
+</div>
+{% endblock %}

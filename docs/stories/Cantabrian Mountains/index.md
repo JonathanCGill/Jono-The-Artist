@@ -6,7 +6,7 @@
 
 <div class="image-label">Cantabrian Mountains - Painting</div>
 
-![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img }
+![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div class="image-label">Farmstead</div>
 
-![Stone farmstead in the Cantabrian Mountains](Farmstead1.jpg){ .story-img }
+![Stone farmstead in the Cantabrian Mountains](Farmstead1.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div class="image-label">Farmstead</div>
 
-![Rural stone buildings in the Cantabrian countryside](Farmstead2.jpg){ .story-img }
+![Rural stone buildings in the Cantabrian countryside](Farmstead2.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div class="image-label">Farmstead</div>
 
-![Stone farm buildings set against green hills](Farmstead3.jpg){ .story-img }
+![Stone farm buildings set against green hills](Farmstead3.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div class="image-label">Farmstead</div>
 
-![Cantabrian farmstead with surrounding fields](Farmstead4.jpg){ .story-img }
+![Cantabrian farmstead with surrounding fields](Farmstead4.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div class="image-label">Floral</div>
 
-![Wildflowers in the Cantabrian Mountains](Floral1.jpg){ .story-img }
+![Wildflowers in the Cantabrian Mountains](Floral1.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div class="image-label">Floral</div>
 
-![Flowers growing in the Cantabrian countryside](Floral2.jpg){ .story-img }
+![Flowers growing in the Cantabrian countryside](Floral2.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div class="image-label">Floral</div>
 
-![Floral abundance in the Cantabrian Mountains](Floral3.jpg){ .story-img }
+![Floral abundance in the Cantabrian Mountains](Floral3.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div class="image-label">Floral</div>
 
-![Cantabrian wildflowers in bloom](Floral4.jpg){ .story-img }
+![Cantabrian wildflowers in bloom](Floral4.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div class="image-label">Gigantes</div>
 
-![Gigantes festival figure in northern Spain](Gigantes.jpg){ .story-img }
+![Gigantes festival figure in northern Spain](Gigantes.jpg){ .story-img loading=lazy }
 
 </div>
 

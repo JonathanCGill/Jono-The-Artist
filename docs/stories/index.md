@@ -14,7 +14,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img }](Cantabrian%20Mountains/)
+[![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img loading=lazy }](Cantabrian%20Mountains/)
 
 <div class="card-info" markdown>
 
@@ -29,7 +29,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Last Holiday - Amsterdam](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }](The%20Last%20Holiday/)
+[![The Last Holiday - Amsterdam](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img loading=lazy }](The%20Last%20Holiday/)
 
 <div class="card-info" markdown>
 
@@ -44,7 +44,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Road to Know Where?](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img }](The-Road-to-Know-Where/)
+[![The Road to Know Where?](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
 
 <div class="card-info" markdown>
 
@@ -59,7 +59,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![Guggenheim Bilbao](Guggenheim/Bilboa.jpg){ .gallery-img }](Guggenheim/)
+[![Guggenheim Bilbao](Guggenheim/Bilboa.jpg){ .gallery-img loading=lazy }](Guggenheim/)
 
 <div class="card-info" markdown>
 
@@ -74,7 +74,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Grand Insect Hotel](The%20Insect%20Hotel/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }](The%20Insect%20Hotel/)
+[![The Grand Insect Hotel](The%20Insect%20Hotel/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img loading=lazy }](The%20Insect%20Hotel/)
 
 <div class="card-info" markdown>
 
