@@ -6,7 +6,7 @@
 
 <div class="image-label">The Painting</div>
 
-![The Grand Insect Hotel](The%20Grand%20Insect%20Hotel.jpg){ .story-img }
+![The Grand Insect Hotel](The%20Grand%20Insect%20Hotel.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div class="image-label">Insect House</div>
 
-![Insect house with bamboo tubes and compartments](20260228_124032.jpg){ .story-img }
+![Insect house with bamboo tubes and compartments](20260228_124032.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div class="image-label">Bee Hotel</div>
 
-![Wooden bee hotel with drilled holes](BeeHotel3.jpg){ .story-img }
+![Wooden bee hotel with drilled holes](BeeHotel3.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div class="image-label">Ladybird</div>
 
-![Ladybird on a thorny stem](20240709_104642~2.jpg){ .story-img }
+![Ladybird on a thorny stem](20240709_104642~2.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div class="image-label">Butterfly</div>
 
-![Butterfly on blue flowers](_DSC9690.jpg){ .story-img }
+![Butterfly on blue flowers](_DSC9690.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div class="image-label">Wildflowers</div>
 
-![Wildflowers against the coast](2024-02-05(7).jpg){ .story-img }
+![Wildflowers against the coast](2024-02-05(7).jpg){ .story-img loading=lazy }
 
 </div>
 

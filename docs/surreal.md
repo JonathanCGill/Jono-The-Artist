@@ -8,7 +8,7 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
-![A Starling's Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img }
+![A Starling's Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -25,7 +25,7 @@ This painting symbolises the way nature can take from us, often without warning,
 
 <div class="gallery-card" markdown>
 
-![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
+![A Black Hole in the Kitchen](acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -42,7 +42,7 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 <div class="gallery-card" markdown>
 
-![Bilboa](acrylic/Bilboa.jpg){ .gallery-img }
+![Bilboa](acrylic/Bilboa.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -61,7 +61,7 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 
 <div class="gallery-card" markdown>
 
-![Hot Air Play](acrylic/Hot%20Air%20Play.jpg){ .gallery-img }
+![Hot Air Play](acrylic/Hot%20Air%20Play.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -78,7 +78,7 @@ Fantasy world viewed from hot air.
 
 <div class="gallery-card" markdown>
 
-![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img }
+![The Grand Insect Hotel](acrylic/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -97,7 +97,7 @@ The official painting commemorating [The Insect Hotel](https://theinsecthotel.co
 
 <div class="gallery-card" markdown>
 
-![The Love Vending Machine](acrylic/The%20Love%20Vending%20Machine.jpg){ .gallery-img }
+![The Love Vending Machine](acrylic/The%20Love%20Vending%20Machine.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -114,7 +114,7 @@ Channelling the positive energy of the Universe into human endeavours.
 
 <div class="gallery-card" markdown>
 
-![The Path](acrylic/The%20Path.jpg){ .gallery-img }
+![The Path](acrylic/The%20Path.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -131,7 +131,7 @@ A path to the Moon.
 
 <div class="gallery-card" markdown>
 
-![The Road to Know Where?](acrylic/The%20Road%20to%20Know%20Where.jpg){ .gallery-img }
+![The Road to Know Where?](acrylic/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -156,7 +156,7 @@ At a crossroads. A path chosen, but the destination unknown. It is a little fore
 
 <div class="gallery-card" markdown>
 
-![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img }
+![Black Hole in the Kitchen](watercolours/Black%20Hole%20in%20the%20Kitchen.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -173,7 +173,7 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 <div class="gallery-card" markdown>
 
-![Black Hole in the Lounge](watercolours/Black%20Hole%20in%20the%20Lounge.jpg){ .gallery-img }
+![Black Hole in the Lounge](watercolours/Black%20Hole%20in%20the%20Lounge.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -190,7 +190,7 @@ Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.
 
 <div class="gallery-card" markdown>
 
-![Brain Scan](watercolours/Brain%20Scan.jpg){ .gallery-img }
+![Brain Scan](watercolours/Brain%20Scan.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -207,7 +207,7 @@ Brain scans help you feel better, maybe?
 
 <div class="gallery-card" markdown>
 
-![Eye Field](watercolours/Eye%20Field.jpg){ .gallery-img }
+![Eye Field](watercolours/Eye%20Field.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -224,7 +224,7 @@ Who is checking out the world?
 
 <div class="gallery-card" markdown>
 
-![To The Light 2](watercolours/To%20The%20Light%202.jpg){ .gallery-img }
+![To The Light 2](watercolours/To%20The%20Light%202.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -241,7 +241,7 @@ Attracted to the light.
 
 <div class="gallery-card" markdown>
 
-![LightHouse](watercolours/LightHouse.jpg){ .gallery-img }
+![LightHouse](watercolours/LightHouse.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -258,7 +258,7 @@ A house made of light, or a lighthouse made into a home.
 
 <div class="gallery-card" markdown>
 
-![Listening](watercolours/Listening.jpg){ .gallery-img }
+![Listening](watercolours/Listening.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -275,7 +275,7 @@ With all our technology, who is really listening?
 
 <div class="gallery-card" markdown>
 
-![Music Poppy](watercolours/Music%20Poppy.jpg){ .gallery-img }
+![Music Poppy](watercolours/Music%20Poppy.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -290,7 +290,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Pollinating Light](watercolours/To%20The%20Light%203.jpg){ .gallery-img }
+![Pollinating Light](watercolours/To%20The%20Light%203.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -307,7 +307,7 @@ Attracted to the light.
 
 <div class="gallery-card" markdown>
 
-![Sir Real](watercolours/Sir%20Real.jpg){ .gallery-img }
+![Sir Real](watercolours/Sir%20Real.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -324,7 +324,7 @@ A watercolour pun made visible.
 
 <div class="gallery-card" markdown>
 
-![The Passage](watercolours/The%20Passage.jpg){ .gallery-img }
+![The Passage](watercolours/The%20Passage.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 

@@ -6,7 +6,7 @@
 
 <div class="image-label">The Painting</div>
 
-![Guggenheim Bilbao - acrylic painting](Bilboa.jpg){ .story-img }
+![Guggenheim Bilbao - acrylic painting](Bilboa.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div class="image-label">Maman</div>
 
-![Louise Bourgeois' Maman spider sculpture silhouetted against the sky](Gugg1.jpg){ .story-img }
+![Louise Bourgeois' Maman spider sculpture silhouetted against the sky](Gugg1.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div class="image-label">Tall Tree and the Eye</div>
 
-![Guggenheim Museum with Anish Kapoor's Tall Tree and the Eye and the Puente de la Salve](Gugg2.jpg){ .story-img }
+![Guggenheim Museum with Anish Kapoor's Tall Tree and the Eye and the Puente de la Salve](Gugg2.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div class="image-label">The Museum</div>
 
-![Guggenheim Museum Bilbao reflected in rain puddles](Gugg4.jpg){ .story-img }
+![Guggenheim Museum Bilbao reflected in rain puddles](Gugg4.jpg){ .story-img loading=lazy }
 
 </div>
 

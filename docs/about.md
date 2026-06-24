@@ -4,7 +4,7 @@
 
 <div class="about-photo" markdown>
 
-![Jono, Self Portrait](acrylic/Me.jpg){ .about-img }
+![Jono, Self Portrait](acrylic/Me.jpg){ .about-img loading=lazy }
 
 </div>
 
