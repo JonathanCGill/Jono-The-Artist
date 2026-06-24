@@ -97,7 +97,7 @@ template: home.html
         <div class="jono-item">
           <div class="jono-item__frame"><img loading="lazy" decoding="async" src="watercolours/Aero%20Mechanica%201.jpg" alt="Aeromechanica side profile blueprint"></div>
           <h3 class="jono-item__title">Aeromechanica (side profile)</h3>
-          <p class="jono-item__spec jono-spec">A3 · Watercolour · Hot Press</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Hot Press</p>
           <p class="jono-item__desc">Side elevation. ILS trees on either side of the runway. Annotated for free flight, slurp, smoothie and feed.</p>
         </div>
         <div class="jono-item">
@@ -127,13 +127,13 @@ template: home.html
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Avronis.jpg" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
           <h3 class="jono-item__title">Lucanus Aeromechanica Avronis</h3>
-          <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
           <p class="jono-item__desc">A stag beetle on the airframe of an Avro. Mandibles up, RAF roundels, bombs slung beneath.</p>
         </div>
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg" alt="Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"></div>
           <h3 class="jono-item__title">Culex Aeromechanica De Havillandii</h3>
-          <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
           <p class="jono-item__desc">A mosquito turned De Havilland Mosquito. Two Merlins, three crew, RAF roundels.</p>
         </div>
         <div class="jono-item">
