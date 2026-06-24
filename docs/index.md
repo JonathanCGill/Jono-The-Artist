@@ -73,16 +73,21 @@ template: home.html
     </div>
 
     <div class="jono-aero__block jono-evo">
-      <p class="jono-sublabel">Evolution — fifty-four years from a paper aeroplane</p>
-      <div class="jono-evo__frame">
-        <img loading="lazy" decoding="async" src="watercolours/Aeromechanica%20Chocolatus%20Evolution.jpg" alt="Aeromechanica Chocolatus Evolution, the story of the bird plane in four pictures">
+      <p class="jono-sublabel">FlightGPT — a bird brain and language model, coupled</p>
+      <div class="jono-evo__frames">
+        <div class="jono-evo__frame">
+          <img loading="lazy" decoding="async" src="watercolours/FlightGPT1.jpg" alt="FlightGPT schematic: a bird brain wired to a language model driving a biomechanical aircraft, with sensory inputs feeding a perception builder">
+        </div>
+        <div class="jono-evo__frame">
+          <img loading="lazy" decoding="async" src="watercolours/FlightGPT2.jpg" alt="FlightGPT schematic, second version: the emotional-technical coupler linking the bird brain, the stochastic language model and the physical plane controls">
+        </div>
       </div>
       <div class="jono-evo__caption">
         <div>
-          <h3 class="jono-evo__title">Aeromechanica Chocolatus Evolution</h3>
+          <h3 class="jono-evo__title">FlightGPT</h3>
           <p class="jono-evo__spec jono-spec">Watercolour · Paper</p>
         </div>
-        <p class="jono-evo__desc">The story in four pictures. 1972, a paper aeroplane. 1976, a sturdier Lego build. 1985, the first remote controlled version, flying. 2026, the real thing in the sky, navigating by lighthouses.</p>
+        <p class="jono-evo__desc">A bird brain and language model combination, designed to power a biomechanical aircraft. The senses feed a perception builder, the language model mixes reality against the flight plan, and the physical controls translate it all into wings, cabin and fuel.</p>
       </div>
     </div>
 

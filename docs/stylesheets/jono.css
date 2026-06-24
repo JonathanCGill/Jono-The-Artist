@@ -479,7 +479,13 @@ body,
   background: var(--j-ink2);
   overflow: hidden;
 }
-.jono-evo__frame img { width: 100%; }
+.jono-evo__frame img { width: 100%; display: block; }
+.jono-evo__frames {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32px;
+  align-items: start;
+}
 .jono-evo__caption {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1104,6 +1110,7 @@ body,
     gap: 32px;
   }
   .jono-statement { padding: 72px 32px 64px; }
+  .jono-evo__frames { grid-template-columns: 1fr; }
   .jono-evo__desc { justify-self: start; max-width: none; }
 
   .jono-draw__grid,
