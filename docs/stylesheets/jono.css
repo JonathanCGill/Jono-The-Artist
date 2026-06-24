@@ -1112,6 +1112,7 @@ body,
   .jono-row3 {
     grid-template-columns: repeat(2, 1fr);
   }
+  .jono-series__grid { grid-template-columns: repeat(2, 1fr); gap: 24px; }
   .jono-wc { grid-template-columns: repeat(2, 1fr); }
 
   .jono-about__right {
@@ -1130,6 +1131,8 @@ body,
   .jono-rurban,
   .jono-surreal,
   .jono-stories,
+  .jono-series,
+  .jono-labelrow,
   .jono-aero .jono__container,
   .jono-about__inner { padding-left: 18px; padding-right: 18px; }
   .jono-hero__band { padding: 0 18px 28px; flex-direction: column; align-items: flex-start; gap: 16px; }
@@ -1138,6 +1141,7 @@ body,
   .jono-draw__grid,
   .jono-squad__grid,
   .jono-row3,
+  .jono-series__grid,
   .jono-wc {
     grid-template-columns: 1fr;
   }
