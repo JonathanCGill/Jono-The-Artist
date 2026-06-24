@@ -68,7 +68,7 @@ template: home.html
   <div class="jono__container">
     <p class="jono-eyebrow">§ 01 — Aeromechanica</p>
     <div class="jono-intro">
-      <h2 class="jono-h2">A small WWII air war, fought by insects.</h2>
+      <h2 class="jono-h2">From the WWII air wars, fought by aeromechanica insects to modern commercial jets powered by cocoa.</h2>
       <p class="jono-intro__body">Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small war fought by birds, beetles, mosquitos, robber flies and hornets. Half engineering, half nonsense, all impractical.</p>
     </div>
 
