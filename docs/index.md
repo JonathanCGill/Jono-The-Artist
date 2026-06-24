@@ -69,7 +69,7 @@ template: home.html
     <p class="jono-eyebrow">§ 01 — Aeromechanica</p>
     <div class="jono-intro">
       <h2 class="jono-h2">From the WWII air wars, fought by aeromechanica insects to modern commercial jets powered by cocoa.</h2>
-      <p class="jono-intro__body">Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small war fought by birds, beetles, mosquitos, robber flies and hornets. Half engineering, half nonsense, all impractical.</p>
+      <p class="jono-intro__body">Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small war fought by birds, beetles, mosquitos, robber flies and hornets. A commercial, passenger-carrying, biomechanical plane, using large language models. Half engineering, half nonsense, all impractical.</p>
     </div>
 
     <div class="jono-aero__block jono-evo">
