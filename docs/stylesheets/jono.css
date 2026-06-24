@@ -377,6 +377,7 @@ body,
   grid-template-columns: repeat(3, 1fr);
   gap: 28px;
   margin-top: 28px;
+  align-items: start;
 }
 .jono-card {
   text-decoration: none;
@@ -389,18 +390,16 @@ body,
 }
 .jono-frame img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  display: block;
   transition: transform 0.9s cubic-bezier(0.2, 0.7, 0.2, 1);
 }
 .jono-card:hover .jono-frame img,
 .jono-tile:hover .jono-frame img {
   transform: scale(1.05);
 }
-.jono-frame--45 { aspect-ratio: 4 / 5; }
-.jono-frame--34 { aspect-ratio: 3 / 4; }
-.jono-frame--43 { aspect-ratio: 4 / 3; }
-.jono-frame--11 { aspect-ratio: 1 / 1; }
+/* Frames hug the painting's own proportions — show the work in full,
+   no cropping. (The --45/34/43/11 classes are kept inert in the markup.) */
 
 .jono-card__num {
   font-family: var(--j-mono);
@@ -510,6 +509,7 @@ body,
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 40px 32px;
+  align-items: start;
 }
 .jono-item__frame { background: var(--j-ink2); overflow: hidden; }
 .jono-item__frame img {
@@ -537,6 +537,7 @@ body,
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 36px 28px;
+  align-items: start;
 }
 .jono-squad .jono-frame { background: var(--j-ink2); position: relative; }
 .jono-squad .jono-frame img:hover,
@@ -599,6 +600,7 @@ body,
   grid-template-columns: repeat(3, 1fr);
   gap: 28px;
   margin-top: 64px;
+  align-items: start;
 }
 .jono-row3 .jono-item__title {
   font-family: var(--j-serif);
@@ -616,6 +618,7 @@ body,
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
   margin-top: 24px;
+  align-items: start;
 }
 .jono-wc .jono-tile { text-decoration: none; color: inherit; }
 .jono-wc .jono-frame { background: #e7e3d9; }

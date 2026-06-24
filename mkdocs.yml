@@ -1,5 +1,6 @@
 site_name: Jono, the Artist
 site_description: Art Portfolio - Acrylic & Watercolour Paintings
+site_url: https://jonoart.co.za/
 
 theme:
   name: material

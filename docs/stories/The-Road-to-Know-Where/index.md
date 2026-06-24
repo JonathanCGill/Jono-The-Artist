@@ -8,7 +8,7 @@
 
 <div class="image-label">The Road to Know Where?</div>
 
-![The Road to Know Where? - acrylic painting](The%20Road%20to%20Know%20Where.jpg){ .story-img }
+![The Road to Know Where? - acrylic painting](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div class="image-label">The Road to Somewhere (Part One)</div>
 
-![The Road to Somewhere (Part One) - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img }
+![The Road to Somewhere (Part One) - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img loading=lazy }
 
 </div>
 

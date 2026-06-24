@@ -6,7 +6,7 @@
 
 <div class="image-label">The Painting</div>
 
-![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .story-img }
+![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div class="image-label">The Scene</div>
 
-![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .story-img }
+![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .story-img loading=lazy }
 
 </div>
 

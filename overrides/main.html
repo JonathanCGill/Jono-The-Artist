@@ -1,6 +1,20 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+{# Social sharing / SEO: Open Graph + Twitter Card #}
+{% set og_title = config.site_name if page.is_homepage else (page.title ~ " · " ~ config.site_name) %}
+{% set og_image = "https://jonoart.co.za/acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg" %}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ config.site_name }}">
+<meta property="og:title" content="{{ og_title }}">
+<meta property="og:description" content="{{ config.site_description }}">
+<meta property="og:image" content="{{ og_image }}">
+{% if page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url }}">{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ og_title }}">
+<meta name="twitter:description" content="{{ config.site_description }}">
+<meta name="twitter:image" content="{{ og_image }}">
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8ZCXGPG3K5"></script>
 <script>

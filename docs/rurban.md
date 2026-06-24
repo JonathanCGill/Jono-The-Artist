@@ -8,7 +8,7 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 <div class="gallery-card" markdown>
 
-![The Road to Somewhere (Part One)](acrylic/The%20Road%20to%20Somewhere%20One.jpg){ .gallery-img }
+![The Road to Somewhere (Part One)](acrylic/The%20Road%20to%20Somewhere%20One.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -27,7 +27,7 @@ Sometimes on life's journey, we reach a destination that brings joy, abundant fr
 
 <div class="gallery-card" markdown>
 
-![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img }
+![Cantabrian Mountains](acrylic/Cantabrian%20Mountains.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -46,7 +46,7 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 
 <div class="gallery-card" markdown>
 
-![Suurbraak](acrylic/Suurbraak.jpg){ .gallery-img }
+![Suurbraak](acrylic/Suurbraak.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -63,7 +63,7 @@ A charming village near Swellendam.
 
 <div class="gallery-card" markdown>
 
-![The Last Holiday - Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img }
+![The Last Holiday - Amsterdam](acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -88,7 +88,7 @@ Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interes
 
 <div class="gallery-card" markdown>
 
-![22 on Church](watercolours/22%20on%20Church.jpg){ .gallery-img }
+![22 on Church](watercolours/22%20on%20Church.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -105,7 +105,7 @@ A charming restaurant in Montagu, serving up delicious food. One of my personal 
 
 <div class="gallery-card" markdown>
 
-![Amsterdam](watercolours/Amsterdam%202.jpg){ .gallery-img }
+![Amsterdam](watercolours/Amsterdam%202.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -122,7 +122,7 @@ The flower blossoms add to the beauty of Amsterdam.
 
 <div class="gallery-card" markdown>
 
-![Ancienne Mosquee du Vendredi Banjanani](watercolours/Moroni%20Grand%20Mosque.jpg){ .gallery-img }
+![Ancienne Mosquee du Vendredi Banjanani](watercolours/Moroni%20Grand%20Mosque.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -137,7 +137,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![BoKaap](watercolours/BoKaap%201.jpg){ .gallery-img }
+![BoKaap](watercolours/BoKaap%201.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -152,7 +152,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Cafe T'Sluisje](watercolours/Cafe%20T'Sluisje.jpg){ .gallery-img }
+![Cafe T'Sluisje](watercolours/Cafe%20T'Sluisje.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -169,7 +169,7 @@ A lovely cafe on the canals in Amsterdam Noord.
 
 <div class="gallery-card" markdown>
 
-![Dunnets Head](watercolours/Dunnets%20Head.jpg){ .gallery-img }
+![Dunnets Head](watercolours/Dunnets%20Head.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -184,7 +184,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Lavenders Franschhoek](watercolours/Lavenders%20Franschhoek.jpg){ .gallery-img }
+![Lavenders Franschhoek](watercolours/Lavenders%20Franschhoek.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -201,7 +201,7 @@ The lavender field and charming cottage, on the way into Franschhoek, are a must
 
 <div class="gallery-card" markdown>
 
-![Liewe Hier](watercolours/Liewe%20Hier.jpg){ .gallery-img }
+![Liewe Hier](watercolours/Liewe%20Hier.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -216,7 +216,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![McGregor](watercolours/McGregor.jpg){ .gallery-img }
+![McGregor](watercolours/McGregor.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -233,7 +233,7 @@ A village that time forgot, at the end of a road that doesn't go anywhere else.
 
 <div class="gallery-card" markdown>
 
-![McGregor NG Kerk](watercolours/McGregor%20NG%20Kerk.jpg){ .gallery-img }
+![McGregor NG Kerk](watercolours/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -248,7 +248,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Montagu](watercolours/Montagu.jpg){ .gallery-img }
+![Montagu](watercolours/Montagu.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -265,7 +265,7 @@ Route 62 country. Mountains and Victorian storefronts.
 
 <div class="gallery-card" markdown>
 
-![R62 - Prickly Pear Farm](watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg){ .gallery-img }
+![R62 - Prickly Pear Farm](watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -280,7 +280,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Rotterdam](watercolours/Rotterdam.jpg){ .gallery-img }
+![Rotterdam](watercolours/Rotterdam.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -295,7 +295,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Simons Town 1](watercolours/Simons%20Town%201.jpg){ .gallery-img }
+![Simons Town 1](watercolours/Simons%20Town%201.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -312,7 +312,7 @@ A naval town with more character than it gets credit for.
 
 <div class="gallery-card" markdown>
 
-![Simons Town 2](watercolours/Simons%20Town%202.jpg){ .gallery-img }
+![Simons Town 2](watercolours/Simons%20Town%202.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -329,7 +329,7 @@ The architecture reflections in the puddles after rain are amazing.
 
 <div class="gallery-card" markdown>
 
-![Spanish Windows](watercolours/Spanish%20Windows.jpg){ .gallery-img }
+![Spanish Windows](watercolours/Spanish%20Windows.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -346,7 +346,7 @@ The windows of Espinosa de los Monteros.
 
 <div class="gallery-card" markdown>
 
-![St James](watercolours/St%20James.jpg){ .gallery-img }
+![St James](watercolours/St%20James.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -363,7 +363,7 @@ St James lies between Muizenburg and Kalk Bay. The colourful huts are a magnet f
 
 <div class="gallery-card" markdown>
 
-![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img }
+![Suurbraak 3](watercolours/Suurbraak%203.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -378,7 +378,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Swellendam](watercolours/Swellendam.jpg){ .gallery-img }
+![Swellendam](watercolours/Swellendam.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -393,7 +393,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![The Hague](watercolours/The%20Hague.jpg){ .gallery-img }
+![The Hague](watercolours/The%20Hague.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -408,7 +408,7 @@ A3 · Watercolour · 300gsm Hot Press Paper
 
 <div class="gallery-card" markdown>
 
-![Ultimo](watercolours/Ultimo.jpg){ .gallery-img }
+![Ultimo](watercolours/Ultimo.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
@@ -425,7 +425,7 @@ Ultimo in Sydney.
 
 <div class="gallery-card" markdown>
 
-![Woodstock](watercolours/Woodstock.jpg){ .gallery-img }
+![Woodstock](watercolours/Woodstock.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
 
