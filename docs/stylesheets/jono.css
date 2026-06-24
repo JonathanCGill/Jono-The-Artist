@@ -615,8 +615,8 @@ body,
 
 .jono-wc {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 24px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
   margin-top: 24px;
   align-items: start;
 }
@@ -1062,10 +1062,6 @@ body,
 /* ════════════════════════════════════════════════════════════════
    RESPONSIVE
    ════════════════════════════════════════════════════════════════ */
-@media (max-width: 1000px) {
-  .jono-wc { grid-template-columns: repeat(3, 1fr); }
-}
-
 @media (max-width: 900px) {
   /* Collapse the nav into a CSS-only dropdown menu */
   .jono-header__inner { position: relative; }
