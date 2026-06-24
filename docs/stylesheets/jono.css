@@ -1112,6 +1112,7 @@ body,
   .jono-row3 {
     grid-template-columns: repeat(2, 1fr);
   }
+  .jono-series__grid { grid-template-columns: repeat(2, 1fr); gap: 24px; }
   .jono-wc { grid-template-columns: repeat(2, 1fr); }
 
   .jono-about__right {
@@ -1122,6 +1123,21 @@ body,
   }
 }
 
+/* Tighten the generous desktop vertical rhythm on small screens */
+@media (max-width: 700px) {
+  .jono-statement { padding: 56px 32px 56px; }
+  .jono-series { padding-bottom: 24px; }
+  .jono-aero { margin-top: 56px; padding: 64px 0 68px; }
+  .jono-aero__block { margin-top: 48px; }
+  .jono-rurban,
+  .jono-surreal { padding-top: 64px; }
+  .jono-rurban__feature,
+  .jono-surreal__feature { margin-top: 48px; }
+  .jono-row3 { margin-top: 40px !important; }
+  .jono-stories { padding-top: 72px; }
+  .jono-about { margin-top: 56px; padding: 64px 0; }
+}
+
 @media (max-width: 560px) {
   .jono-header__inner { padding: 0 18px; }
   .jono-nav a { padding: 15px 18px; }
@@ -1130,6 +1146,8 @@ body,
   .jono-rurban,
   .jono-surreal,
   .jono-stories,
+  .jono-series,
+  .jono-labelrow,
   .jono-aero .jono__container,
   .jono-about__inner { padding-left: 18px; padding-right: 18px; }
   .jono-hero__band { padding: 0 18px 28px; flex-direction: column; align-items: flex-start; gap: 16px; }
@@ -1138,6 +1156,7 @@ body,
   .jono-draw__grid,
   .jono-squad__grid,
   .jono-row3,
+  .jono-series__grid,
   .jono-wc {
     grid-template-columns: 1fr;
   }
