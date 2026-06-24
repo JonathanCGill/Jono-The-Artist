@@ -201,43 +201,18 @@ template: home.html
     <p class="jono-sublabel" style="color:var(--j-accent)">Watercolours on paper</p>
     <div class="jono-wc">
       <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/St%20James.jpg" alt="St James watercolour"></div>
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/St%20James.jpg" alt="St James watercolour"></div>
         <h3 class="jono-item__title">St James</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
       </div>
       <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/Simons%20Town%202.jpg" alt="Simons Town watercolour"></div>
-        <h3 class="jono-item__title">Simons Town</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
-      </div>
-      <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/BoKaap%201.jpg" alt="Bo-Kaap watercolour"></div>
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/BoKaap%201.jpg" alt="Bo-Kaap watercolour"></div>
         <h3 class="jono-item__title">Bo-Kaap</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
       </div>
       <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/Montagu.jpg" alt="Montagu watercolour"></div>
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Montagu.jpg" alt="Montagu watercolour"></div>
         <h3 class="jono-item__title">Montagu</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
-      </div>
-      <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/McGregor.jpg" alt="McGregor watercolour"></div>
-        <h3 class="jono-item__title">McGregor</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
-      </div>
-      <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/Lavenders%20Franschhoek.jpg" alt="Lavenders in Franschhoek watercolour"></div>
-        <h3 class="jono-item__title">Lavenders in Franschhoek</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
-      </div>
-      <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/22%20on%20Church.jpg" alt="22 on Church watercolour"></div>
-        <h3 class="jono-item__title">22 on Church</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
-      </div>
-      <div class="jono-tile">
-        <div class="jono-frame jono-frame--11"><img loading="lazy" decoding="async" src="watercolours/Cafe%20T'Sluisje.jpg" alt="Cafe T'Sluisje watercolour"></div>
-        <h3 class="jono-item__title">Cafe T'Sluisje</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
       </div>
     </div>
@@ -278,6 +253,27 @@ template: home.html
       <h3 class="jono-item__title">The Road to Know Where?</h3>
       <p class="jono-item__spec jono-spec">Holbein Acryla Gouache · Canvas</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
+    </div>
+  </div>
+
+  <div style="margin-top:64px">
+    <p class="jono-sublabel" style="color:var(--j-accent)">Watercolours on paper</p>
+    <div class="jono-wc">
+      <div class="jono-tile">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Sir%20Real.jpg" alt="Sir Real watercolour"></div>
+        <h3 class="jono-item__title">Sir Real</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+      </div>
+      <div class="jono-tile">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Eye%20Field.jpg" alt="Eye Field watercolour"></div>
+        <h3 class="jono-item__title">Eye Field</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+      </div>
+      <div class="jono-tile">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Listening.jpg" alt="Listening watercolour"></div>
+        <h3 class="jono-item__title">Listening</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+      </div>
     </div>
   </div>
 </section>
