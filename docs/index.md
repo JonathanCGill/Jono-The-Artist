@@ -289,6 +289,15 @@ template: home.html
   </div>
 </section>
 
+<section class="jono-morework">
+  <div class="jono-morework__inner">
+    <p class="jono-eyebrow">§ More to see</p>
+    <h2 class="jono-h2">This is a selection. There is more.</h2>
+    <p class="jono-intro__body">The villages and harbours, the surreal pieces and the portraits, the watercolours that did not fit above. The full collection lives on its own page.</p>
+    <a class="jono-textlink" href="/collection/">Browse the full collection →</a>
+  </div>
+</section>
+
 <section id="stories" class="jono-stories">
   <div class="jono-labelrow" style="padding:18px 0 0;max-width:none;margin:0">
     <span class="l">§ Stories</span>
