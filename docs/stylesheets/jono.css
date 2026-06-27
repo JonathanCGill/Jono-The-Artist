@@ -420,6 +420,18 @@ body,
   font-size: 14px;
   color: var(--j-muted);
   margin: 0;
+  transition: opacity 0.25s ease;
+}
+/* Desktop: show the descriptor at rest (dimmed), brighten on hover/focus —
+   matching the mobile behaviour where it is always visible. */
+@media (min-width: 861px) {
+  .jono-card__desc {
+    opacity: 0.85;
+  }
+  .jono-card:hover .jono-card__desc,
+  .jono-card:focus-visible .jono-card__desc {
+    opacity: 1;
+  }
 }
 
 /* striped placeholder (kept for fallback use) */
