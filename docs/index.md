@@ -259,6 +259,12 @@ template: home.html
       <p class="jono-item__spec jono-spec">Holbein Acryla Gouache · Canvas</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
     </div>
+    <div class="jono-item">
+      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Love%20Vending%20Machine.jpg" alt="The Love Vending Machine, an acrylic painting"></div>
+      <h3 class="jono-item__title">The Love Vending Machine</h3>
+      <p class="jono-item__spec jono-spec">1500 × 2000 mm · Acryla Gouache · Canvas</p>
+      <p class="jono-item__desc">Channelling the positive energy of the Universe into human endeavours.</p>
+    </div>
   </div>
 
   <div style="margin-top:64px">
