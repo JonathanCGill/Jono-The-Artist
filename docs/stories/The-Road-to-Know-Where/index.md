@@ -1,8 +1,8 @@
-# The Road to Know Where
+# The Know Where Series
 
 <div class="story" markdown>
 
-<div class="story-images" markdown>
+<div class="story-images story-images--three" markdown>
 
 <div class="story-image" markdown>
 
@@ -20,17 +20,27 @@
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">The Drop to Know Where</div>
+
+![The Drop to Know Where - acrylic painting](The%20Drop%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+
+</div>
+
 </div>
 
 <div class="story-text" markdown>
 
-These two paintings are a pair, though they were not planned that way. They have ended up describing the two halves of the same journey: the uncertain step, and the arrival.
+These three paintings are one journey. They were not planned as a set, but they have arranged themselves into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
 
-*The Road to Know Where?* is the crossroads. The path is chosen but the destination is not. I find that moment more honest than the comfortable version of decision-making people like to describe afterwards, where every choice looks deliberate in hindsight. At the time, it rarely is. You step off the safe ground because staying still has become its own kind of risk, not because you can see where the road goes.
+*The Road to Know Where?* is the start. It is the crossroads, the path chosen but the destination unknown. I find that moment more honest than the comfortable version of decision-making people like to describe afterwards, where every choice looks deliberate in hindsight. At the time, it rarely is. You step off the safe ground because staying still has become its own kind of risk, not because you can see where the road goes.
 
-*The Road to Somewhere (Part One)* is what waits at the other end, or at least what I want to wait at the other end. Abundant fruit, colour, a beautiful house at the end of the road. It is aspirational rather than documentary. The R62 gave me the bones of the composition, but the destination in the painting is better than the one in the photograph, because the photograph was never the point.
+*The Road to Somewhere (Part One)* is what waits at the other end, or at least what I want to wait at the other end. Abundant fruit, colour, a beautiful house at the end of the road. It is aspirational rather than documentary. The R62 gave me the bones of the composition, but the destination in the painting is better than the one in the photograph, because the photograph was never the point. This is the arrival, the somewhere positive that makes the uncertain step worth taking.
 
-Together they are the same road, looked at from both directions. One painting does not know where it is going. The other has arrived somewhere worth arriving at. Neither is finished with the journey. The "Part One" in the title is not decorative. The road continues past the frame, in both paintings, in both directions.
+*The Drop to Know Where* is what happens in between, and it is the part nobody plans for. While you look for your destination, things happen outside your control. The weather is the obvious one. You are living in a bubble, a comfort zone, or in this case a droplet. It looks safe from the inside. But gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it. The point is not that the drop is unfair. The point is that it was always coming, and comfort is exactly what stops you seeing it.
+
+So the series reads in three beats. The uncertain start. The arrival worth arriving at. And the reminder, sitting between them, that the road has its own plans and the weather does not ask permission. The "Part One" was never decorative. The road continues past the frame, in every direction, and something unexpected is already on its way.
 
 </div>
 

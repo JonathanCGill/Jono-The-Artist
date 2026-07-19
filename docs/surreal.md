@@ -19,6 +19,8 @@ Acrylic · Holbein Acryla Gouache · Canvas
 
 The third painting in the "Know Where" series, after The Road to Know Where? and The Road to Somewhere (One). While you look for your destination, things happen outside your control, like the weather. You are living in a bubble, a comfort zone, or in this case a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.
 
+[Read the story](stories/The-Road-to-Know-Where/index.md){ .card-story-link }
+
 </div>
 
 </div>
