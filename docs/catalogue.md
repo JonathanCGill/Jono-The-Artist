@@ -6,11 +6,23 @@ template: home.html
 
   <p class="jono-eyebrow">§ Catalogue</p>
   <h1 class="jono-h2">The full catalogue.</h1>
-  <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
-  <div class="jono-catalog__meta">
-    <span class="jono-catalog__count">63 works catalogued</span>
-    <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
+  <div class="jono-catalog__statement">
+    <p class="jono-sublabel">Artist statement</p>
+    <p>I paint from what I have actually seen. Villages along Route 62, harbours after the rain, the light on a Spanish hillside, an insect hotel at the foot of a garden. The painting begins there and then leaves. Colour shifts, elements arrive from other days, and a real place becomes the version of itself that was hiding underneath.</p>
+    <p>I work in acrylic, Holbein Acryla Gouache and watercolour. I draw before I paint, a blueprint or a cutaway or an annotation, and then I let the colour break the rules the drawing set. The surrealism is deliberate, not decoration. I am drawn to naive art as a discipline: flat colour, visible construction, no attempt to hide the hand behind the image.</p>
+    <p>Every piece in this catalogue is a physical object. Real paint on real canvas or paper, and none of it AI-generated. I have no formal training, which means nobody told me what I was not supposed to try.</p>
+    <p class="jono-catalog__sign">Jonathan Gill</p>
+  </div>
+
+  <div class="jono-catalog__about">
+    <p class="jono-sublabel">About this catalogue</p>
+    <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
+
+    <div class="jono-catalog__meta">
+      <span class="jono-catalog__count">63 works catalogued</span>
+      <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
+    </div>
   </div>
 
   <div class="jono-catalog__group">
