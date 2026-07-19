@@ -8,6 +8,23 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 <div class="gallery-card" markdown>
 
+![The Drop to Know Where](acrylic/The%20Drop%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }
+
+<div class="card-info" markdown>
+
+**The Drop to Know Where**
+
+Acrylic · Holbein Acryla Gouache · Canvas
+{ .card-medium }
+
+The third painting in the "Know Where" series, after The Road to Know Where? and The Road to Somewhere (One). While you look for your destination, things happen outside your control, like the weather. You are living in a bubble, a comfort zone, or in this case a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 ![A Starling's Reformation at Five to Midnight](acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg){ .gallery-img loading=lazy }
 
 <div class="card-info" markdown>
