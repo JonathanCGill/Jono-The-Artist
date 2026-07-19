@@ -30,6 +30,10 @@ The essays on this site are not about art. They are about things I care enough t
 
 ---
 
+Galleries and collectors can browse the full [catalogue](catalogue.md): title, medium, support, size and year for every piece, with a downloadable CSV.
+
+---
+
 <div class="social-links" markdown>
 
 <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
