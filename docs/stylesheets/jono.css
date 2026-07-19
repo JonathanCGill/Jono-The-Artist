@@ -374,7 +374,7 @@ body,
 }
 .jono-series__grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 28px;
   margin-top: 28px;
   align-items: start;
@@ -675,6 +675,34 @@ body,
   line-height: 1.75;
   color: var(--j-body);
   margin: 0;
+}
+
+/* ══ Know Where ═════════════════════════════════════════════════ */
+.jono-knowwhere {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 110px 32px 40px;
+}
+.jono-knowwhere__feature {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 48px;
+  align-items: center;
+  margin-top: 72px;
+}
+.jono-knowwhere__ftext .title {
+  font-family: var(--j-serif);
+  font-weight: 500;
+  font-size: 27px;
+  color: var(--j-ink);
+  margin: 0 0 8px;
+}
+.jono-knowwhere__ftext .jono-spec { color: var(--j-muted2); margin: 0 0 14px; }
+.jono-knowwhere__ftext .desc {
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--j-body);
+  margin: 0 0 18px;
 }
 
 /* ══ Stories ════════════════════════════════════════════════════ */
@@ -1130,6 +1158,7 @@ body,
   .jono-evo__caption,
   .jono-rurban__feature,
   .jono-surreal__feature,
+  .jono-knowwhere__feature,
   .jono-about__inner {
     grid-template-columns: 1fr;
     gap: 32px;
@@ -1161,9 +1190,11 @@ body,
   .jono-aero { margin-top: 56px; padding: 64px 0 68px; }
   .jono-aero__block { margin-top: 48px; }
   .jono-rurban,
-  .jono-surreal { padding-top: 64px; }
+  .jono-surreal,
+  .jono-knowwhere { padding-top: 64px; }
   .jono-rurban__feature,
-  .jono-surreal__feature { margin-top: 48px; }
+  .jono-surreal__feature,
+  .jono-knowwhere__feature { margin-top: 48px; }
   .jono-row3 { margin-top: 40px !important; }
   .jono-stories { padding-top: 72px; }
   .jono-about { margin-top: 56px; padding: 64px 0; }
@@ -1176,6 +1207,7 @@ body,
   .jono-statement,
   .jono-rurban,
   .jono-surreal,
+  .jono-knowwhere,
   .jono-stories,
   .jono-series,
   .jono-labelrow,
