@@ -387,6 +387,7 @@ template: home.html
       <p class="jono-sublabel">Originals &amp; prints</p>
       <p>Most pieces are available as originals or prints. There is no pressure to buy. If something here speaks to you, send a message and we can talk about it.</p>
       <a class="jono-cta" href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Enquire about a piece →</a>
+      <p style="margin-top:18px"><a class="jono-textlink" href="/catalogue/">See the full catalogue →</a></p>
       <div class="jono-about__social">
         <a href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Instagram</a>
         <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank" rel="noopener">Facebook</a>
