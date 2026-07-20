@@ -50,7 +50,7 @@ template: home.html
     <tr>
       <td class="cat-ref" data-label="Ref">KW-03</td>
       <td data-label="Title"><span class="cat-title">The Drop to Know Where<small>The unexpected. A droplet gravity was always going to take.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Holbein Acryla Gouache</td>
+      <td class="cat-spec" data-label="Medium">Acrylic &amp; Holbein Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
       <td class="cat-spec" data-label="Year">2026</td>
