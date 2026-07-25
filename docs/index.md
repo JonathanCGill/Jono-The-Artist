@@ -243,7 +243,7 @@ template: home.html
     <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="750" height="1000" alt="A Starling's Reformation at Five to Midnight"></div>
     <div class="jono-surreal__ftext">
       <h3 class="title">A Starling's Reformation at Five to Midnight</h3>
-      <p class="jono-spec">750 × 1000 mm · Holbein Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="desc">A reflection on the way nature can take from us, often without warning, even the things we value most. No authority, influence or urgency can reclaim what has been lost once time begins to run out. To me it is about universal reckoning, and the limits of human control.</p>
     </div>
   </div>
@@ -264,7 +264,7 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2149" height="2824" alt="The Road to Know Where, an acrylic painting"></div>
       <h3 class="jono-item__title">The Road to Know Where?</h3>
-      <p class="jono-item__spec jono-spec">Holbein Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
     </div>
     <div class="jono-item">
@@ -308,7 +308,7 @@ template: home.html
     <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2149" height="2824" alt="The Road to Know Where?, an acrylic painting of a crossroads"></div>
     <div class="jono-knowwhere__ftext">
       <h3 class="title">The Road to Know Where?</h3>
-      <p class="jono-spec">Holbein Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-spec">Acryla Gouache · Canvas · 2026</p>
       <p class="desc">The start. At a crossroads, a path chosen but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you arrive.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
@@ -324,7 +324,7 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Drop%20to%20Know%20Where.jpg" width="2083" height="2648" alt="The Drop to Know Where, an acrylic painting of a droplet about to fall"></div>
       <h3 class="jono-item__title">The Drop to Know Where</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Holbein Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-item__spec jono-spec">Acrylic · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">The unexpected. You live in a bubble, a comfort zone, or here a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.</p>
     </div>
   </div>
