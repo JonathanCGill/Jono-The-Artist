@@ -182,7 +182,7 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg" alt="A Black Hole in the Kitchen, a surreal acrylic"></div>
       <h3 class="jono-item__title">A Black Hole in the Kitchen</h3>
       <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas</p>
-      <p class="jono-item__desc">Inspired by "Not Strong Enough" by Boy Genius.</p>
+      <p class="jono-item__desc">Inspired by "Not Strong Enough" by boygenius.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Bilboa.jpg" alt="Bilbao Guggenheim Museum, an acrylic"></div>
@@ -228,7 +228,7 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Black%20Hole%20in%20the%20Kitchen.jpg" alt="Black Hole in the Kitchen, a watercolour"></div>
       <h3 class="jono-item__title">Black Hole in the Kitchen</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press</p>
-      <p class="jono-item__desc">Inspired by "Not Strong Enough" by Boy Genius.</p>
+      <p class="jono-item__desc">Inspired by "Not Strong Enough" by boygenius.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Black%20Hole%20in%20the%20Lounge.jpg" alt="Black Hole in the Lounge, a watercolour"></div>

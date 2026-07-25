@@ -14,7 +14,7 @@ Buildings, hills, and the occasional tree, scenes reduced to what I actually not
 
 **The Road to Somewhere (Part One)**
 
-1000mm x 750mm · Canvas
+1000 × 750 mm · Canvas
 { .card-medium }
 
 Reimagining the R62.
@@ -33,7 +33,7 @@ Sometimes on life's journey, we reach a destination that brings joy, abundant fr
 
 **Cantabrian Mountains**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.
@@ -52,7 +52,7 @@ A rural farm setting near Espinosa de los Monteros. One of the best places I hav
 
 **Suurbraak**
 
-1000mm x 750mm · Acrylic & Acryla Gouache · Canvas
+1000 × 750 mm · Acrylic & Acryla Gouache · Canvas
 { .card-medium }
 
 A charming village near Swellendam.
@@ -69,7 +69,7 @@ A charming village near Swellendam.
 
 **The Last Holiday, Amsterdam**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 Overlooking a pond in Amsterdam Noord. Amsterdam has a lot of small, but interesting things to see, if you look for them.

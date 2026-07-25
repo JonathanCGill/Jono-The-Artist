@@ -20,7 +20,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Cantabrian Mountains, Espinosa de los Monteros**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -35,7 +35,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **The Last Holiday, Amsterdam**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -65,7 +65,7 @@ Acryla Gouache · Canvas
 
 **Guggenheim, Bilbao**
 
-750mm x 1000mm · Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -80,7 +80,7 @@ Acryla Gouache · Canvas
 
 **The Grand Insect Hotel**
 
-750mm x 1000mm · Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>

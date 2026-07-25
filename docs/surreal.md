@@ -33,7 +33,7 @@ The third painting in the "Know Where" series, after The Road to Know Where? and
 
 **A Starling's Reformation at Five to Midnight**
 
-750mm x 1000mm · Holbein Acryla Gouache · Canvas
+750 × 1000 mm · Holbein Acryla Gouache · Canvas
 { .card-medium }
 
 This painting symbolises the way nature can take from us, often without warning, even the things we value most. No authority, influence, or urgency can reclaim what has been lost once time begins to run out. It is, to me, a reflection on universal reckoning, and the limits of human control.
@@ -53,7 +53,7 @@ This painting symbolises the way nature can take from us, often without warning,
 Acryla Gouache · Canvas
 { .card-medium }
 
-Inspired by "Not Strong Enough" by Boy Genius.
+Inspired by "Not Strong Enough" by boygenius.
 
 </div>
 
@@ -67,7 +67,7 @@ Inspired by "Not Strong Enough" by Boy Genius.
 
 **Bilbao - Guggenheim Museum**
 
-750mm x 1000mm · Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 The Guggenheim Museum is one of my favourite buildings, with its titanium-clad exterior and distinctive shapes. This painting is about elevating the building and art exhibits to new levels.
@@ -86,7 +86,7 @@ The Guggenheim Museum is one of my favourite buildings, with its titanium-clad e
 
 **Hot Air Play**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 Fantasy world viewed from hot air.
@@ -103,7 +103,7 @@ Fantasy world viewed from hot air.
 
 **The Grand Insect Hotel**
 
-750mm x 1000mm · Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 The official painting commemorating [The Insect Hotel](https://theinsecthotel.co.za).
@@ -122,7 +122,7 @@ The official painting commemorating [The Insect Hotel](https://theinsecthotel.co
 
 **The Love Vending Machine**
 
-1500mm x 2000mm · Acryla Gouache · Canvas
+1500 × 2000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 Channelling the positive energy of the Universe into human endeavours.
@@ -139,7 +139,7 @@ Channelling the positive energy of the Universe into human endeavours.
 
 **The Path**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 A path to the Moon.
@@ -184,7 +184,7 @@ At a crossroads. A path chosen, but the destination unknown. It is a little fore
 A3 · Watercolour · 300gsm Hot Press Paper
 { .card-medium }
 
-Inspired by "Not Strong Enough" by Boy Genius.
+Inspired by "Not Strong Enough" by boygenius.
 
 </div>
 
