@@ -146,7 +146,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-11</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -405,7 +405,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-02</td>
-      <td data-label="Title"><span class="cat-title">A Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by Boy Genius.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by boygenius.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -462,7 +462,7 @@ template: home.html
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-01</td>
-      <td data-label="Title"><span class="cat-title">Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by Boy Genius.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by boygenius.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>

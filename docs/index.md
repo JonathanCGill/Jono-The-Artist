@@ -12,7 +12,7 @@ template: home.html
     <div class="jono-hero__credit">
       <div class="l1">FIG. 01 — SERIES IN THE AIR</div>
       <div class="l2">Avis Aeromechanica Chocolatus</div>
-      <div class="l3">Acryla Gouache · Canvas</div>
+      <div class="l3">Acryla Gouache · Canvas · 2026</div>
     </div>
     <a class="jono-hero__btn" href="#statement">Enter the gallery ↓</a>
   </div>
@@ -93,7 +93,7 @@ template: home.html
       <div class="jono-evo__caption">
         <div>
           <h3 class="jono-evo__title">FlightGPT</h3>
-          <p class="jono-evo__spec jono-spec">Watercolour · Paper</p>
+          <p class="jono-evo__spec jono-spec">Watercolour · Paper · 2026</p>
         </div>
         <p class="jono-evo__desc">A bird brain and language model combination, designed to power a biomechanical aircraft. The senses feed a perception builder, the language model mixes reality against the flight plan, and the physical controls translate it all into wings, cabin and fuel.</p>
       </div>
@@ -105,25 +105,25 @@ template: home.html
         <div class="jono-item">
           <div class="jono-item__frame"><img loading="lazy" decoding="async" src="watercolours/Aero%20Mechanica%201.jpg" width="297" height="210" alt="Aeromechanica side profile blueprint"></div>
           <h3 class="jono-item__title">Aeromechanica (side profile)</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour · Hot Press</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Hot Press · 2025</p>
           <p class="jono-item__desc">Side elevation. ILS trees on either side of the runway. Annotated for free flight, slurp, smoothie and feed.</p>
         </div>
         <div class="jono-item">
           <div class="jono-item__frame"><img loading="lazy" decoding="async" src="watercolours/Aero%20Mechanica%202.jpg" width="420" height="297" alt="Aeromechanica top profile blueprint"></div>
           <h3 class="jono-item__title">Aeromechanica (top profile)</h3>
-          <p class="jono-item__spec jono-spec">A3 · Watercolour · Hot Press</p>
+          <p class="jono-item__spec jono-spec">A3 · Watercolour · Hot Press · 2025</p>
           <p class="jono-item__desc">Top elevation. The high-nutrition bypass propulsion engine, with mixer, microwave and CO2 extractor.</p>
         </div>
         <div class="jono-item">
           <div class="jono-item__frame"><img loading="lazy" decoding="async" src="watercolours/Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg" width="420" height="297" alt="Aeromechanica Chocolatus airframe cutaway"></div>
           <h3 class="jono-item__title">Aeromechanica Chocolatus Airframe Cutaway</h3>
-          <p class="jono-item__spec jono-spec">A3 · Ink, Pastel &amp; Watercolour</p>
+          <p class="jono-item__spec jono-spec">A3 · Ink, Pastel &amp; Watercolour · 2026</p>
           <p class="jono-item__desc">A cutaway of the airframe. The structure follows a bird's rib strategy, with the wings mounted to the airframe and driven by the Flaperon Engine. Fuel is carried in bags. The Dove Tail keeps the flight stable.</p>
         </div>
         <div class="jono-item">
           <div class="jono-item__frame"><img loading="lazy" decoding="async" src="watercolours/Aeromechanica%20Chocolatus%20Cockpit.jpg" width="2443" height="1765" alt="Aeromechanica Chocolatus cockpit panel"></div>
           <h3 class="jono-item__title">Aeromechanica Chocolatus Cockpit</h3>
-          <p class="jono-item__spec jono-spec">Watercolour &amp; Ink · Paper</p>
+          <p class="jono-item__spec jono-spec">Watercolour &amp; Ink · Paper · 2026</p>
           <p class="jono-item__desc">The control panel of the Chocolatus. Emergency feeding draws from the seed and cacao reserves. The bird brain, the flightGPT LLM and Foodec are all marshalled from here.</p>
         </div>
       </div>
@@ -135,37 +135,37 @@ template: home.html
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Avronis.jpg" width="297" height="210" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
           <h3 class="jono-item__title">Lucanus Aeromechanica Avronis</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A stag beetle on the airframe of an Avro. Mandibles up, RAF roundels, bombs slung beneath.</p>
         </div>
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg" width="297" height="210" alt="Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"></div>
           <h3 class="jono-item__title">Culex Aeromechanica De Havillandii</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A mosquito turned De Havilland Mosquito. Two Merlins, three crew, RAF roundels.</p>
         </div>
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="acrylic/Libellula%20Aviatica.jpg" width="2440" height="1963" alt="Libellula Aviatica, a dragonfly as a biplane"></div>
           <h3 class="jono-item__title">Libellula Aviatica</h3>
-          <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas</p>
+          <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
           <p class="jono-item__desc">A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RAF roundels.</p>
         </div>
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/promachus-aeromechanicus-crucifer.jpg" width="297" height="210" alt="Promachus Aeromechanicus Crucifer, a robber fly fighter"></div>
           <h3 class="jono-item__title">Promachus Aeromechanicus Crucifer</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Crabro.jpg" width="297" height="210" alt="Avis Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
-          <h3 class="jono-item__title">Avis Aeromechanica Crabro</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
+          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Crabro.jpg" width="297" height="210" alt="Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
+          <h3 class="jono-item__title">Vespa Aeromechanica Crabro</h3>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.</p>
         </div>
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Jet Age</span><img loading="lazy" decoding="async" src="watercolours/avis-aeromechanica-paciferus.jpg" width="297" height="210" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Paciferus</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour  · Vellum</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A bird with swept gull-wing wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.</p>
         </div>
       </div>
@@ -184,7 +184,7 @@ template: home.html
     <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Somewhere%20One.jpg" width="1000" height="750" alt="The Road to Somewhere (Part One), an acrylic landscape"></div>
     <div class="jono-rurban__ftext">
       <h3 class="title">The Road to Somewhere <em>(Part One)</em></h3>
-      <p class="jono-spec">1000 × 750 mm · Canvas</p>
+      <p class="jono-spec">1000 × 750 mm · Canvas · 2026</p>
       <p class="desc">Reimagining the R62. Sometimes on life's journey we reach a destination that brings joy, abundant fruit, colour, a beautiful house at the end of the road. The journey to Know Where is not over, but this is a good stopping point.</p>
     </div>
   </div>
@@ -193,19 +193,19 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/Cantabrian%20Mountains.jpg" width="1000" height="750" alt="Cantabrian Mountains, an acrylic of a Spanish farm setting"></div>
       <h3 class="jono-item__title">Cantabrian Mountains</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2026</p>
       <p class="jono-item__desc">A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/Suurbraak.jpg" width="1000" height="750" alt="Suurbraak, an acrylic of a village near Swellendam"></div>
       <h3 class="jono-item__title">Suurbraak</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="1000" height="750" alt="The Last Holiday, Amsterdam, an acrylic landscape"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2025</p>
       <p class="jono-item__desc">Overlooking a pond in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
     </div>
   </div>
@@ -216,17 +216,17 @@ template: home.html
       <div class="jono-tile">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/St%20James.jpg" width="420" height="297" alt="St James watercolour"></div>
         <h3 class="jono-item__title">St James</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
       <div class="jono-tile">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/BoKaap%201.jpg" width="420" height="297" alt="Bo-Kaap watercolour"></div>
         <h3 class="jono-item__title">Bo-Kaap</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
       <div class="jono-tile">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Montagu.jpg" width="420" height="297" alt="Montagu watercolour"></div>
         <h3 class="jono-item__title">Montagu</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
     </div>
   </div>
@@ -243,7 +243,7 @@ template: home.html
     <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="750" height="1000" alt="A Starling's Reformation at Five to Midnight"></div>
     <div class="jono-surreal__ftext">
       <h3 class="title">A Starling's Reformation at Five to Midnight</h3>
-      <p class="jono-spec">750 × 1000 mm · Holbein Acryla Gouache · Canvas</p>
+      <p class="jono-spec">750 × 1000 mm · Holbein Acryla Gouache · Canvas · 2026</p>
       <p class="desc">A reflection on the way nature can take from us, often without warning, even the things we value most. No authority, influence or urgency can reclaim what has been lost once time begins to run out. To me it is about universal reckoning, and the limits of human control.</p>
     </div>
   </div>
@@ -252,25 +252,25 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/Bilboa.jpg" width="750" height="1000" alt="Bilbao Guggenheim Museum, an acrylic painting"></div>
       <h3 class="jono-item__title">Bilbao, Guggenheim Museum</h3>
-      <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">Elevating the titanium-clad building and its art to new levels.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Grand%20Insect%20Hotel.jpg" width="750" height="1000" alt="The Grand Insect Hotel, an acrylic painting"></div>
       <h3 class="jono-item__title">The Grand Insect Hotel</h3>
-      <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">The official painting commemorating The Insect Hotel.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2149" height="2824" alt="The Road to Know Where, an acrylic painting"></div>
       <h3 class="jono-item__title">The Road to Know Where?</h3>
-      <p class="jono-item__spec jono-spec">Holbein Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">Holbein Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Love%20Vending%20Machine.jpg" width="1500" height="2000" alt="The Love Vending Machine, an acrylic painting"></div>
       <h3 class="jono-item__title">The Love Vending Machine</h3>
-      <p class="jono-item__spec jono-spec">1500 × 2000 mm · Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">1500 × 2000 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">Channelling the positive energy of the Universe into human endeavours.</p>
     </div>
   </div>
@@ -281,17 +281,17 @@ template: home.html
       <div class="jono-tile">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Sir%20Real.jpg" width="420" height="297" alt="Sir Real watercolour"></div>
         <h3 class="jono-item__title">Sir Real</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
       <div class="jono-tile">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Eye%20Field.jpg" width="297" height="420" alt="Eye Field watercolour"></div>
         <h3 class="jono-item__title">Eye Field</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
       <div class="jono-tile">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Listening.jpg" width="420" height="297" alt="Listening watercolour"></div>
         <h3 class="jono-item__title">Listening</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
     </div>
   </div>
@@ -308,7 +308,7 @@ template: home.html
     <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2149" height="2824" alt="The Road to Know Where?, an acrylic painting of a crossroads"></div>
     <div class="jono-knowwhere__ftext">
       <h3 class="title">The Road to Know Where?</h3>
-      <p class="jono-spec">Holbein Acryla Gouache · Canvas</p>
+      <p class="jono-spec">Holbein Acryla Gouache · Canvas · 2026</p>
       <p class="desc">The start. At a crossroads, a path chosen but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you arrive.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
@@ -318,13 +318,13 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Somewhere%20One.jpg" width="1000" height="750" alt="The Road to Somewhere (Part One), an acrylic landscape reimagining the R62"></div>
       <h3 class="jono-item__title">The Road to Somewhere (Part One)</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">The arrival. Abundant fruit, colour, a beautiful house at the end of the road. Aspirational rather than documentary, and a good place to stop, though the journey is not over.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Drop%20to%20Know%20Where.jpg" width="2083" height="2648" alt="The Drop to Know Where, an acrylic painting of a droplet about to fall"></div>
       <h3 class="jono-item__title">The Drop to Know Where</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Holbein Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">Acrylic · Holbein Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">The unexpected. You live in a bubble, a comfort zone, or here a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.</p>
     </div>
   </div>
