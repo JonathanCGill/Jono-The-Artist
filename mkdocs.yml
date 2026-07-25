@@ -38,8 +38,6 @@ extra:
 
 nav:
   - Home: index.md
-  - Rurban: rurban.md
-  - Surreal: surreal.md
   - Collection: collection.md
   - Stories:
     - stories/index.md

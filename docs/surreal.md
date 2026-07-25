@@ -14,7 +14,7 @@ I start with what I see and what I hear. Then I paint, and the painting starts m
 
 **The Drop to Know Where**
 
-Acrylic · Holbein Acryla Gouache · Canvas
+Acrylic · Acryla Gouache · Canvas
 { .card-medium }
 
 The third painting in the "Know Where" series, after The Road to Know Where? and The Road to Somewhere (One). While you look for your destination, things happen outside your control, like the weather. You are living in a bubble, a comfort zone, or in this case a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.
@@ -33,7 +33,7 @@ The third painting in the "Know Where" series, after The Road to Know Where? and
 
 **A Starling's Reformation at Five to Midnight**
 
-750 × 1000 mm · Holbein Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 This painting symbolises the way nature can take from us, often without warning, even the things we value most. No authority, influence, or urgency can reclaim what has been lost once time begins to run out. It is, to me, a reflection on universal reckoning, and the limits of human control.
@@ -156,7 +156,7 @@ A path to the Moon.
 
 **The Road to Know Where?**
 
-Holbein Acryla Gouache · Canvas
+Acryla Gouache · Canvas
 { .card-medium }
 
 At a crossroads. A path chosen, but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you get there.

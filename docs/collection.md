@@ -175,7 +175,7 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic"></div>
       <h3 class="jono-item__title">A Starling's Reformation at Five to Midnight</h3>
-      <p class="jono-item__spec jono-spec">750 × 1000 mm · Holbein Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas</p>
       <p class="jono-item__desc">A reflection on the way nature can take from us, often without warning, even the things we value most. No authority, influence or urgency can reclaim what has been lost once time begins to run out.</p>
     </div>
     <div class="jono-item">
@@ -217,7 +217,7 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" alt="The Road to Know Where, an acrylic of a crossroads"></div>
       <h3 class="jono-item__title">The Road to Know Where?</h3>
-      <p class="jono-item__spec jono-spec">Holbein Acryla Gouache · Canvas</p>
+      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
     </div>
   </div>
