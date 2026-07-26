@@ -522,6 +522,35 @@ body,
   justify-self: end;
 }
 
+/* Flagship feature */
+.jono-flagship {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 44px;
+  align-items: center;
+  margin-top: 24px;
+}
+.jono-flagship__frame {
+  background: var(--j-ink2);
+  overflow: hidden;
+}
+.jono-flagship__frame img { width: 100%; height: auto; display: block; }
+.jono-flagship__title {
+  font-family: var(--j-serif);
+  font-size: 30px;
+  font-weight: 500;
+  color: var(--j-light);
+  margin: 0 0 8px;
+}
+.jono-flagship__spec { color: var(--j-monodark); margin: 0 0 20px; }
+.jono-flagship__desc {
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--j-mutedark);
+  max-width: 520px;
+  margin: 0;
+}
+
 /* The drawings 2x2 */
 .jono-draw__grid {
   display: grid;
@@ -1157,6 +1186,7 @@ body,
   .jono-statement,
   .jono-intro,
   .jono-evo__caption,
+  .jono-flagship,
   .jono-rurban__feature,
   .jono-surreal__feature,
   .jono-knowwhere__feature,
