@@ -390,7 +390,7 @@ template: home.html
     </table>
   </div>
   <div class="jono-catalog__group">
-    <p class="jono-sublabel">Surreal — acrylics on canvas</p>
+    <p class="jono-sublabel">Parareal — acrylics on canvas</p>
     <p class="jono-catalog__grouplead">Where the brush wanders off the map.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
@@ -455,7 +455,7 @@ template: home.html
     </table>
   </div>
   <div class="jono-catalog__group">
-    <p class="jono-sublabel">Surreal — watercolours on paper</p>
+    <p class="jono-sublabel">Parareal — watercolours on paper</p>
     <p class="jono-catalog__grouplead">All A3 on 300gsm Hot Press paper.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
