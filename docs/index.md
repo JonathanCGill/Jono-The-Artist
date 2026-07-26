@@ -21,7 +21,7 @@ template: home.html
 <section id="statement" class="jono-statement">
   <div>
     <p class="jono-eyebrow">§ Welcome</p>
-    <h1 class="jono-statement__head">Half engineering,<br>half nonsense,<br><span class="accent">all impractical.</span></h1>
+    <h1 class="jono-statement__head">Half real,<br>half made up,<br><span class="accent">painted the way I think they should be.</span></h1>
   </div>
   <div class="jono-statement__body">
     <p>I paint in acrylic and watercolour: birds fitted with the airframes of real aircraft, villages along Route 62, and the occasional impossible thing. Some of it is invented carefully, like a blueprint. Some of it is just what I noticed and wanted to keep.</p>
