@@ -6,7 +6,7 @@ template: home.html
   <p class="jono-eyebrow">§ The full collection</p>
   <div class="jono-intro">
     <h2 class="jono-h2">The rest of the work.</h2>
-    <p class="jono-intro__body">The home page keeps to a handful of pieces. Here is everything else: the Route 62 villages and the harbours after rain, the surreal detours, and the portraits. Acrylic on canvas and watercolour on paper. Most are available as originals or prints.</p>
+    <p class="jono-intro__body">The home page keeps to a handful of pieces. Here is everything else: the Route 62 villages and the harbours after rain, the Parareal pieces, and the portraits. Acrylic on canvas and watercolour on paper. Most are available as originals or prints.</p>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Rurban — acrylics on canvas</p>
@@ -164,13 +164,13 @@ template: home.html
 </section>
 
 <section class="jono-surreal">
-  <p class="jono-eyebrow">§ Surreal</p>
+  <p class="jono-eyebrow">§ Parareal</p>
   <div class="jono-intro">
-    <h2 class="jono-h2">Where the brush wanders off the map.</h2>
-    <p class="jono-intro__body">I start with what I see and what I hear. Then I paint, and the painting starts making its own decisions. Colours push harder, geometry tightens, and what was a real place becomes something that was always hiding inside it.</p>
+    <h2 class="jono-h2">Real to someone. Just not the version you expected.</h2>
+    <p class="jono-intro__body">A reality running parallel to the ordinary one, and no less real to the person inside it. Nothing here is wrong. It is only seen from a different seat. I see a phone; someone else sees a listening device, and they are not mistaken. I see the Guggenheim; they see the art come alive. The same world, read differently.</p>
   </div>
 
-  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Surreal — acrylics on canvas</p>
+  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — acrylics on canvas</p>
   <div class="jono-row3">
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic"></div>
@@ -222,7 +222,7 @@ template: home.html
     </div>
   </div>
 
-  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Surreal — watercolours on paper</p>
+  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — watercolours on paper</p>
   <div class="jono-row3">
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Black%20Hole%20in%20the%20Kitchen.jpg" alt="Black Hole in the Kitchen, a watercolour"></div>

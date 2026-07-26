@@ -53,13 +53,13 @@ template: home.html
       <h3 class="jono-card__title">Rurban</h3>
       <p class="jono-card__desc">Buildings, hills, and the occasional tree.</p>
     </a>
-    <a class="jono-card" href="#surreal">
+    <a class="jono-card" href="#parareal">
       <div class="jono-frame jono-frame--45">
         <img loading="lazy" decoding="async" src="acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="750" height="1000" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic painting">
       </div>
       <p class="jono-card__num">03</p>
-      <h3 class="jono-card__title">Surreal</h3>
-      <p class="jono-card__desc">Where the brush wanders off the map.</p>
+      <h3 class="jono-card__title">Parareal</h3>
+      <p class="jono-card__desc">The same world, seen from a different seat.</p>
     </a>
     <a class="jono-card" href="#know-where">
       <div class="jono-frame jono-frame--45">
@@ -232,11 +232,11 @@ template: home.html
   </div>
 </section>
 
-<section id="surreal" class="jono-surreal">
-  <p class="jono-eyebrow">§ 03 — Surreal</p>
+<section id="parareal" class="jono-surreal">
+  <p class="jono-eyebrow">§ 03 — Parareal</p>
   <div class="jono-intro">
-    <h2 class="jono-h2">Where the brush wanders off the map.</h2>
-    <p class="jono-intro__body">I start with what I see and what I hear. Then I paint, and the painting starts making its own decisions. Colours push harder, geometry tightens, and what was a real place becomes something that was always hiding inside it.</p>
+    <h2 class="jono-h2">Real to someone. Just not the version you expected.</h2>
+    <p class="jono-intro__body">A reality running parallel to the ordinary one, and no less real to the person inside it. Nothing here is wrong. It is only seen from a different seat. I see a phone; someone else sees a listening device, and they are not mistaken. I see the Guggenheim; they see the art come alive. The same world, read differently.</p>
   </div>
 
   <div class="jono-surreal__feature">
@@ -334,7 +334,7 @@ template: home.html
   <div class="jono-morework__inner">
     <p class="jono-eyebrow">§ More to see</p>
     <h2 class="jono-h2">This is a selection. There is more.</h2>
-    <p class="jono-intro__body">The villages and harbours, the surreal pieces and the portraits, the watercolours that did not fit above. The full collection lives on its own page.</p>
+    <p class="jono-intro__body">The villages and harbours, the Parareal pieces and the portraits, the watercolours that did not fit above. The full collection lives on its own page.</p>
     <a class="jono-textlink" href="/collection/">Browse the full collection →</a>
   </div>
 </section>
