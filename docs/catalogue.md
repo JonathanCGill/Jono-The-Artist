@@ -10,7 +10,7 @@ template: home.html
   <div class="jono-catalog__statement">
     <p class="jono-sublabel">Artist statement</p>
     <p>I paint from what I have actually seen. Villages along Route 62, harbours after the rain, the light on a Spanish hillside, an insect hotel at the foot of a garden. The painting begins there and then leaves. Colour shifts, elements arrive from other days, and a real place becomes the version of itself that was hiding underneath.</p>
-    <p>I work in acrylic, Holbein Acryla Gouache and watercolour. I draw before I paint, a blueprint or a cutaway or an annotation, and then I let the colour break the rules the drawing set. The surrealism is deliberate, not decoration. I am drawn to naive art as a discipline: flat colour, visible construction, no attempt to hide the hand behind the image.</p>
+    <p>I work in acrylic, Holbein Acryla Gouache and watercolour. I draw before I paint, a blueprint or a cutaway or an annotation, and then I let the colour break the rules the drawing set. What looks surreal is not decoration or a borrowed style; it is the world seen from a vantage that is not the usual one, painted as plainly as anything else here. I am drawn to naive art as a discipline: flat colour, visible construction, no attempt to hide the hand behind the image.</p>
     <p>Every piece in this catalogue is a physical object. Real paint on real canvas or paper, and none of it AI-generated. I have no formal training, which means nobody told me what I was not supposed to try.</p>
     <p class="jono-catalog__sign">Jonathan Gill</p>
   </div>
