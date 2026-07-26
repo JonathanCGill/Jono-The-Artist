@@ -491,7 +491,7 @@ body,
   background: var(--j-ink2);
   overflow: hidden;
 }
-.jono-evo__frame img { width: 100%; display: block; }
+.jono-evo__frame img { width: 100%; height: auto; display: block; }
 .jono-evo__frames {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -532,6 +532,7 @@ body,
 .jono-item__frame { background: var(--j-ink2); overflow: hidden; }
 .jono-item__frame img {
   width: 100%;
+  height: auto;
   transition: transform 0.9s cubic-bezier(0.2, 0.7, 0.2, 1);
 }
 .jono-item:hover .jono-item__frame img { transform: scale(1.03); }
