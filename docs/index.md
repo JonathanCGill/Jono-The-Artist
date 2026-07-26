@@ -80,6 +80,20 @@ template: home.html
       <p class="jono-intro__body">Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small war fought by birds, beetles, mosquitos, robber flies and hornets. A commercial, passenger-carrying, biomechanical plane, using large language models. Half engineering, half nonsense, all impractical.</p>
     </div>
 
+    <div class="jono-aero__block jono-flagship-block">
+      <p class="jono-sublabel">The flagship — cocoa-powered, whale-sized</p>
+      <div class="jono-flagship">
+        <div class="jono-flagship__frame">
+          <img loading="lazy" decoding="async" src="acrylic/Aeromechanica%20Musculus.jpg" width="1863" height="2597" alt="Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from a fogbound London">
+        </div>
+        <div class="jono-flagship__body">
+          <h3 class="jono-flagship__title">Aeromechanica Musculus</h3>
+          <p class="jono-flagship__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
+          <p class="jono-flagship__desc">The flagship. A double-decker behemoth of the skies, wingspan and body length sized well past anything sensible, and built to carry five hundred people or more. Cocoa-powered, like its sister the Avis Aeromechanica Chocolatus, and a cleaner way to fly for it. I designed it with whales in mind. Picture the engineering it takes to get a blue whale off the ground and keep it there. Here it works the fog over London, climbing out and setting down at once, the metropolis dissolving underneath.</p>
+        </div>
+      </div>
+    </div>
+
     <div class="jono-aero__block jono-evo">
       <p class="jono-sublabel">FlightGPT — a bird brain and language model, coupled</p>
       <div class="jono-evo__frames">

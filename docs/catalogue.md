@@ -74,7 +74,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-02</td>
-      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>A dragonfly given the airframe of a biplane. RAF roundels.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The cocoa-powered, whale-sized double-decker flagship. Sister to the Chocolatus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -82,6 +82,14 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-03</td>
+      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>A dragonfly given the airframe of a biplane. RAF roundels.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas</td>
+      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">AM-04</td>
       <td data-label="Title"><span class="cat-title">FlightGPT<small>Bird-brain and language-model schematics (two sheets).</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Paper</td>
@@ -89,7 +97,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-04</td>
+      <td class="cat-ref" data-label="Ref">AM-05</td>
       <td data-label="Title"><span class="cat-title">Aeromechanica (side profile)<small>Side-elevation blueprint.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Hot Press Paper</td>
@@ -97,7 +105,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-05</td>
+      <td class="cat-ref" data-label="Ref">AM-06</td>
       <td data-label="Title"><span class="cat-title">Aeromechanica (top profile)<small>Top-elevation blueprint.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Hot Press Paper</td>
@@ -105,7 +113,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-06</td>
+      <td class="cat-ref" data-label="Ref">AM-07</td>
       <td data-label="Title"><span class="cat-title">Aeromechanica Chocolatus Airframe Cutaway<small>Airframe cutaway following a bird&#x27;s rib strategy.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink, Pastel &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">Paper</td>
@@ -113,7 +121,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-07</td>
+      <td class="cat-ref" data-label="Ref">AM-08</td>
       <td data-label="Title"><span class="cat-title">Aeromechanica Chocolatus Cockpit<small>The control panel of the Chocolatus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour &amp; Ink</td>
       <td class="cat-spec" data-label="Support">Paper</td>
@@ -121,7 +129,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-08</td>
+      <td class="cat-ref" data-label="Ref">AM-09</td>
       <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
@@ -129,7 +137,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-09</td>
+      <td class="cat-ref" data-label="Ref">AM-10</td>
       <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
@@ -137,7 +145,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-10</td>
+      <td class="cat-ref" data-label="Ref">AM-11</td>
       <td data-label="Title"><span class="cat-title">Promachus Aeromechanicus Crucifer<small>Axis. A robber fly with cruciform wings.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
@@ -145,7 +153,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-11</td>
+      <td class="cat-ref" data-label="Ref">AM-12</td>
       <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
@@ -153,7 +161,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">AM-12</td>
+      <td class="cat-ref" data-label="Ref">AM-13</td>
       <td data-label="Title"><span class="cat-title">Avis Aeromechanica Paciferus<small>Jet Age. A swept-wing jet bird.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
