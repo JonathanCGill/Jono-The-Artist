@@ -20,7 +20,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Cantabrian Mountains, Espinosa de los Monteros**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -35,7 +35,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **The Last Holiday, Amsterdam**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -44,13 +44,13 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Road to Know Where?](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
+[![The Know Where Series](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
 
 <div class="card-info" markdown>
 
-**The Road to Know Where**
+**The Know Where Series**
 
-1000mm x 750mm · Acryla Gouache · Canvas
+Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -65,7 +65,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **Guggenheim, Bilbao**
 
-750mm x 1000mm · Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
@@ -80,7 +80,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 **The Grand Insect Hotel**
 
-750mm x 1000mm · Acryla Gouache · Canvas
+750 × 1000 mm · Acryla Gouache · Canvas
 { .card-medium }
 
 </div>
