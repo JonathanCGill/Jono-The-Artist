@@ -10,17 +10,17 @@
 
 <div class="about-text" markdown>
 
-I'm Jono. I paint because the real world is more interesting than anything I could invent, and because it looks better when you stop being faithful to it.
+I paint because it is the best way I know to make sense of the world, and to stop making sense of it.
 
-I work from observation. Landscapes, buildings, people, insects: things I have actually seen and stood in front of. The painting starts there and then departs. Colours shift. Elements migrate from other places, other days. What arrives on the canvas is a composite of experience, not a copy of a single moment.
+The work begins with observation. Real landscapes, buildings, roads and skies come first, and the improbable arrives later, through the painting rather than ahead of it. The result is not dream imagery but a world with its own internal consistency, where the extraordinary is met matter-of-factly.
 
-What reads as surreal is not a style I lay over the work. It is the world seen from a different seat, painted as plainly as I would paint a village. I am drawn to naive art as a discipline, not a limitation. Flat colour, visible construction, the refusal to hide the hand behind the image. Holbein Acryla Gouache gives me the saturation and opacity to work this way. When I need something looser, Mungyo watercolours.
+I work in Acryla gouache: flat matte colour, confident line, complementary contrasts pushed past naturalism and held together by one warm accent.
+
+Separate series share a single vocabulary. Avis Aeromechanica invents an aviation-derived natural history with its own mock-Latin taxonomy. The Starling Reformation nocturnes sit at the eleventh hour. The Rurban landscapes occupy the seam between farm and suburb. Apertures and impossible structures open onto elsewhere. A figure in a red shirt and broad-brimmed hat moves through most of them, not as protagonist but as witness.
+
+The theme underneath is that the world carries on regardless of us. Time, weather and chance run to their own rules, and ordinary life continues beneath the absurd, the ominous and the unexplained. The paintings are less about catastrophe than about how people keep walking through uncertainty. Rooted in the Cape vernacular, governed by their own quiet logic.
 
 Every painting on this site is a physical object. Real acrylic on real canvas, real watercolour on real paper. None of the images are AI-generated. I get asked, so it is worth saying plainly. If you want the longer version of how AI does and does not figure into my process, I wrote about it in [Painting with a Critic](essays/painting-with-a-critic.md).
-
-The intent is to keep exploring the real world and to paint what is there when you look at it from an angle most people do not take. Not a style imposed from outside, but something that emerges when you look at a place long enough and honestly enough. The kitchen really does have a black hole in it. The insect hotel really is that grand. The bird plane was always there in the blueprints.
-
-I have no formal training. I learned by doing things wrong until they started looking right. The upside is that nobody told me what I was not supposed to try.
 
 The essays on this site are not about art. They are about things I care enough to write down: governance, technology, how institutions work or fail to. They are here because this is my site and these things matter to me.
 
