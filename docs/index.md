@@ -242,6 +242,11 @@ template: home.html
         <h3 class="jono-item__title">Montagu</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
+      <div class="jono-tile">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Robertvlei.jpg" width="420" height="297" alt="Robertvlei watercolour"></div>
+        <h3 class="jono-item__title">Robertvlei</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+      </div>
     </div>
   </div>
 </section>
