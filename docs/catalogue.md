@@ -396,7 +396,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-24</td>
-      <td data-label="Title"><span class="cat-title">Robertvlei<small>A farm scene with a dog, cattle and a barn beside the vlei.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Robertsvlei<small>A farm scene with a dog, cattle and a barn beside the vlei.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
