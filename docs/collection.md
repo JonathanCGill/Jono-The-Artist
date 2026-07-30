@@ -106,8 +106,8 @@ template: home.html
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Robertvlei.jpg" alt="Robertvlei, a watercolour of a farm scene with a dog, cattle and a barn"></div>
-      <h3 class="jono-item__title">Robertvlei</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Robertsvlei.jpg" alt="Robertsvlei, a watercolour of a farm scene with a dog, cattle and a barn"></div>
+      <h3 class="jono-item__title">Robertsvlei</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
