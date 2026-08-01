@@ -402,6 +402,14 @@ template: home.html
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RW-25</td>
+      <td data-label="Title"><span class="cat-title">Hemelsbreed<small>A farm near Greyton.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
       </tbody>
     </table>
   </div>
