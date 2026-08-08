@@ -36,6 +36,14 @@
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">The Pilgrimage to Know Where Too</div>
+
+![The Pilgrimage to Know Where Too - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where%20Too.jpg){ .story-img loading=lazy }
+
+</div>
+
 </div>
 
 <div class="story-text" markdown>
@@ -53,6 +61,10 @@ So the series reads in three beats. The uncertain start. The arrival worth arriv
 *The Pilgrimage to Know Where* is the fourth work, and the first drawing. The three paintings lay out the journey. This one puts a person inside it. A pilgrim stands in the square with a stick and a pack, the cathedral ahead, the mountains behind it, the cafe tables carrying on with their ordinary afternoon. He has stopped. Everyone else is seated or moving, and he is the only one facing the distance.
 
 I drew it in ink and left the whole scene in black and white, except the figure. He gets the watercolour. That was the decision the drawing turned on. The road, the weather and the destination belong to the paintings. The pilgrim is the one carrying all of it, so he is the one who gets the colour.
+
+*The Pilgrimage to Know Where Too* is the fifth work, and the second drawing. The first put the pilgrim in the open square, the cathedral one building among many and the mountains still showing behind it. Here the town has closed in. He stands in a narrow street, the buildings climbing steep on both sides, and the perspective runs straight to the cathedral door at the far end. There is nowhere else for the eye to go.
+
+Same figure, same pack and stick, still the only thing given colour. Two people walk on ahead of him, further down, black and white like the rest. He has not caught them and is not trying to. In the square he could still have turned back. In the street the turning is behind him, and the only direction left is forward, into the door.
 
 </div>
 
