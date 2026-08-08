@@ -316,6 +316,12 @@ template: home.html
       <p class="jono-item__desc">The fourth work in the Know Where series, and the first drawing. A pilgrim on foot in the square, the only figure given colour.</p>
     </div>
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/The%20Pilgrimage%20to%20Know%20Where%20Too.jpg" alt="The Pilgrimage to Know Where Too, an ink and watercolour drawing of a pilgrim in a narrow street facing a cathedral"></div>
+      <h3 class="jono-item__title">The Pilgrimage to Know Where Too</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The fifth work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/Amsterdam.jpg" alt="Amsterdam, an ink drawing of canal houses and moored boats reflected in the water"></div>
       <h3 class="jono-item__title">Amsterdam</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>

@@ -591,6 +591,14 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-02</td>
+      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where Too<small>The fifth Know Where work, the second drawing. The pilgrim in a narrow street, the cathedral ahead.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-03</td>
       <td data-label="Title"><span class="cat-title">Amsterdam<small>Canal houses and moored boats, held in their reflection.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
