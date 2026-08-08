@@ -44,4 +44,20 @@ So the series reads in three beats. The uncertain start. The arrival worth arriv
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">The Pilgrimage to Know Where</div>
+
+![The Pilgrimage to Know Where - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+
+</div>
+
+<div class="story-text" markdown>
+
+*The Pilgrimage to Know Where* is the fourth work, and the first drawing. The three paintings lay out the journey. This one puts a person inside it. A pilgrim stands in the square with a stick and a pack, the cathedral ahead, the mountains behind it, the cafe tables carrying on with their ordinary afternoon. He has stopped. Everyone else is seated or moving, and he is the only one facing the distance.
+
+I drew it in ink and left the whole scene in black and white, except the figure. He gets the watercolour. That was the decision the drawing turned on. The road, the weather and the destination belong to the paintings. The pilgrim is the one carrying all of it, so he is the one who gets the colour.
+
+</div>
+
 </div>
