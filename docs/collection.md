@@ -73,6 +73,12 @@ template: home.html
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Hemelsbreed.jpg" alt="Hemelsbreed, a watercolour of a farmhouse reflected in a dam near Greyton"></div>
+      <h3 class="jono-item__title">Hemelsbreed</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+      <p class="jono-item__desc">A farm near Greyton.</p>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Lavenders%20Franschhoek.jpg" alt="Lavenders in Franschhoek, a watercolour of a lavender field and cottage"></div>
       <h3 class="jono-item__title">Lavenders in Franschhoek</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
@@ -103,6 +109,11 @@ template: home.html
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg" alt="R62 Prickly Pear Farm, a watercolour"></div>
       <h3 class="jono-item__title">R62 — Prickly Pear Farm</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Robertsvlei.jpg" alt="Robertsvlei, a watercolour of a farm scene with a dog, cattle and a barn"></div>
+      <h3 class="jono-item__title">Robertsvlei</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
