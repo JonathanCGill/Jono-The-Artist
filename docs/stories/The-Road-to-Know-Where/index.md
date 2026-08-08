@@ -28,6 +28,14 @@
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">The Pilgrimage to Know Where</div>
+
+![The Pilgrimage to Know Where - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+
+</div>
+
 </div>
 
 <div class="story-text" markdown>
@@ -41,18 +49,6 @@ These three paintings are one journey. They were not planned as a set, but they 
 *The Drop to Know Where* is what happens in between, and it is the part nobody plans for. While you look for your destination, things happen outside your control. The weather is the obvious one. You are living in a bubble, a comfort zone, or in this case a droplet. It looks safe from the inside. But gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it. The point is not that the drop is unfair. The point is that it was always coming, and comfort is exactly what stops you seeing it.
 
 So the series reads in three beats. The uncertain start. The arrival worth arriving at. And the reminder, sitting between them, that the road has its own plans and the weather does not ask permission. The "Part One" was never decorative. The road continues past the frame, in every direction, and something unexpected is already on its way.
-
-</div>
-
-<div class="story-image" markdown>
-
-<div class="image-label">The Pilgrimage to Know Where</div>
-
-![The Pilgrimage to Know Where - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy }
-
-</div>
-
-<div class="story-text" markdown>
 
 *The Pilgrimage to Know Where* is the fourth work, and the first drawing. The three paintings lay out the journey. This one puts a person inside it. A pilgrim stands in the square with a stick and a pack, the cathedral ahead, the mountains behind it, the cafe tables carrying on with their ordinary afternoon. He has stopped. Everyone else is seated or moving, and he is the only one facing the distance.
 
