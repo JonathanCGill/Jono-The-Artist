@@ -322,6 +322,24 @@ template: home.html
       <p class="jono-item__desc">The fifth work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
     </div>
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/The%20Pilgrimage%20to%20Know%20Where%20Continues.jpg" alt="The Pilgrimage to Know Where Continues, an ink and watercolour drawing of a pilgrim closer to an ornate cathedral facade in a narrow street"></div>
+      <h3 class="jono-item__title">The Pilgrimage to Know Where Continues</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The sixth work in the Know Where series, and the third drawing. The pilgrim closer in, the cathedral facade in full detail, the door still ahead.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/A%20Lighthouse%20to%20Know%20Where.jpg" alt="A Lighthouse to Know Where, an ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse"></div>
+      <h3 class="jono-item__title">A Lighthouse to Know Where</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The seventh work in the Know Where series. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/A%20Reflection%20on%20Know%20Where.jpg" alt="A Reflection on Know Where, an ink and watercolour drawing of a pilgrim at the water in a city, the buildings doubled in the surface"></div>
+      <h3 class="jono-item__title">A Reflection on Know Where</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The eighth work in the Know Where series. The pilgrim at the water in a city, the place doubled in the surface behind him.</p>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/Amsterdam.jpg" alt="Amsterdam, an ink drawing of canal houses and moored boats reflected in the water"></div>
       <h3 class="jono-item__title">Amsterdam</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>
