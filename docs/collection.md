@@ -303,6 +303,34 @@ template: home.html
 </section>
 
 <section class="jono-rurban">
+  <p class="jono-eyebrow">§ Drawings</p>
+  <div class="jono-intro">
+    <h2 class="jono-h2">Line first, colour only where it earns its place.</h2>
+    <p class="jono-intro__body">Ink on paper, A3 on 200gsm. I draw before I paint, and now and then the drawing turns out to be the finished work. So it stays as it is: black and white, built from line, with colour let in only where the picture needs it.</p>
+  </div>
+  <div class="jono-row3" style="margin-top:48px">
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/The%20Pilgrimage%20to%20Know%20Where.jpg" alt="The Pilgrimage to Know Where, an ink and watercolour drawing of a pilgrim in a town square"></div>
+      <h3 class="jono-item__title">The Pilgrimage to Know Where</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The fourth work in the Know Where series, and the first drawing. A pilgrim on foot in the square, the only figure given colour.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/The%20Pilgrimage%20to%20Know%20Where%20Too.jpg" alt="The Pilgrimage to Know Where Too, an ink and watercolour drawing of a pilgrim in a narrow street facing a cathedral"></div>
+      <h3 class="jono-item__title">The Pilgrimage to Know Where Too</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The fifth work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/drawings/Amsterdam.jpg" alt="Amsterdam, an ink drawing of canal houses and moored boats reflected in the water"></div>
+      <h3 class="jono-item__title">Amsterdam</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>
+      <p class="jono-item__desc">The canal houses and the moored boats, drawn in ink and held in their own reflection.</p>
+    </div>
+  </div>
+</section>
+
+<section class="jono-rurban">
   <p class="jono-eyebrow">§ Portraits</p>
   <div class="jono-intro">
     <h2 class="jono-h2">Self-portraits and studies of the human form.</h2>
