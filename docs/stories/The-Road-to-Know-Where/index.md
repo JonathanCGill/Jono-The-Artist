@@ -46,14 +46,6 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">The Pilgrimage to Know Where Continues</div>
-
-![The Pilgrimage to Know Where Continues - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where%20Continues.jpg){ .story-img loading=lazy }
-
-</div>
-
-<div class="story-image" markdown>
-
 <div class="image-label">A Lighthouse to Know Where</div>
 
 ![A Lighthouse to Know Where - ink and watercolour drawing](A%20Lighthouse%20to%20Know%20Where.jpg){ .story-img loading=lazy }
@@ -89,8 +81,6 @@ I drew it in ink and left the whole scene in black and white, except the figure.
 *The Pilgrimage to Know Where Too* is the fifth work, and the second drawing. The first put the pilgrim in the open square, the cathedral one building among many and the mountains still showing behind it. Here the town has closed in. He stands in a narrow street, the buildings climbing steep on both sides, and the perspective runs straight to the cathedral door at the far end. There is nowhere else for the eye to go.
 
 Same figure, same pack and stick, still the only thing given colour. Two people walk on ahead of him, further down, black and white like the rest. He has not caught them and is not trying to. In the square he could still have turned back. In the street the turning is behind him, and the only direction left is forward, into the door.
-
-*The Pilgrimage to Know Where Continues* is the sixth work, and the third drawing. The street is the same kind of street, narrower still, and this time the cathedral is not a shape at the end but a face. The whole facade has come into focus: the clock, the carved niches, the saints in their alcoves, the door at the bottom small and dark. He is close enough now to read the building. He has not gone in. Two figures move ahead of him as before, and he keeps his distance, the stick in his hand, the pack on his back, still the only colour in the picture. Getting closer to the door is not the same as arriving. The detail sharpens and the destination does not.
 
 *A Lighthouse to Know Where* takes him out of the town. A boardwalk runs across a field of stones to a lighthouse on the headland, and the saucer clouds that have drifted through the whole series are massed overhead, heavier here, low over the hills. A lighthouse is the honest version of a destination. It is not the end of the journey. It is a fixed light that tells you where you are and warns you off the rocks, and then you keep going. He walks the planks toward it with the same pack and the same colour, and the light is something to steer by, not something to reach.
 
