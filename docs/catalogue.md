@@ -607,7 +607,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-04</td>
-      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where Continues<small>The sixth Know Where work, the third drawing. The pilgrim closer in, the cathedral facade in full detail, the door still ahead.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Lighthouse to Know Where<small>The sixth Know Where work, the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -615,15 +615,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-05</td>
-      <td data-label="Title"><span class="cat-title">A Lighthouse to Know Where<small>The seventh Know Where work. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
-      <td class="cat-spec" data-label="Support">200gsm Paper</td>
-      <td class="cat-spec" data-label="Size">A3</td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">DR-06</td>
-      <td data-label="Title"><span class="cat-title">A Reflection on Know Where<small>The eighth Know Where work. The pilgrim at the water in a city, the place doubled in the surface behind him.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Reflection on Know Where<small>The seventh Know Where work, the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
