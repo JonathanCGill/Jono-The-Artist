@@ -621,6 +621,14 @@ template: home.html
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-06</td>
+      <td data-label="Title"><span class="cat-title">Know Where My Mind's At<small>The eighth Know Where work, the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
       </tbody>
     </table>
   </div>

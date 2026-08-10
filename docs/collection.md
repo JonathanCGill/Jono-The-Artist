@@ -338,6 +338,13 @@ template: home.html
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Know%20Where%20My%20Mind's%20At.jpg" alt="Know Where My Mind's At, an ink and watercolour drawing of a pilgrim walking a formal garden avenue toward Bedlam"></div>
+      <h3 class="jono-item__title">Know Where My Mind's At</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The eighth work in the Know Where series, and the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Amsterdam.jpg" alt="Amsterdam, an ink drawing of canal houses and moored boats reflected in the water"></div>
       <h3 class="jono-item__title">Amsterdam</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>
