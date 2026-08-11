@@ -8,6 +8,8 @@
 
 <div class="image-label">The Road to Know Where?</div>
 
+<div class="jono-status">No longer available</div>
+
 ![The Road to Know Where? - acrylic painting](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy }
 
 </div>
@@ -23,6 +25,8 @@
 <div class="story-image" markdown>
 
 <div class="image-label">The Drop to Know Where</div>
+
+<div class="jono-status">No longer available</div>
 
 ![The Drop to Know Where - acrylic painting](The%20Drop%20to%20Know%20Where.jpg){ .story-img loading=lazy }
 

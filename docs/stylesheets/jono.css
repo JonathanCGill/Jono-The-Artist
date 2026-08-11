@@ -121,6 +121,22 @@ body,
   text-transform: uppercase;
 }
 
+/* Status badge — for works no longer available (e.g. originals destroyed).
+   Understated, reads on the cream sections and in the catalogue table. */
+.jono-status {
+  display: inline-block;
+  font-family: var(--j-mono);
+  font-size: 9.5px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--j-muted);
+  background: rgba(52, 92, 120, 0.06);
+  border: 1px solid var(--j-hair);
+  border-radius: 2px;
+  padding: 3px 8px;
+  margin: 2px 0 4px;
+}
+
 /* ══ Header ═════════════════════════════════════════════════════ */
 .jono-header {
   position: sticky;

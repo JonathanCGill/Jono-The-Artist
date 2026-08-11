@@ -194,6 +194,7 @@ template: home.html
       <h3 class="jono-item__title">A Black Hole in the Kitchen</h3>
       <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">Inspired by "Not Strong Enough" by boygenius.</p>
+      <p class="jono-status">No longer available</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Bilboa.jpg" alt="Bilbao Guggenheim Museum, an acrylic"></div>
@@ -230,6 +231,7 @@ template: home.html
       <h3 class="jono-item__title">The Road to Know Where?</h3>
       <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
+      <p class="jono-status">No longer available</p>
     </div>
   </div>
 

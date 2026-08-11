@@ -33,7 +33,7 @@ template: home.html
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">KW-01</td>
-      <td data-label="Title"><span class="cat-title">The Road to Know Where?<small>The crossroads. Start of the series.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Road to Know Where?<small>The crossroads. Start of the series.</small><span class="jono-status">No longer available</span></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -49,7 +49,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">KW-03</td>
-      <td data-label="Title"><span class="cat-title">The Drop to Know Where<small>The unexpected. A droplet gravity was always going to take.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Drop to Know Where<small>The unexpected. A droplet gravity was always going to take.</small><span class="jono-status">No longer available</span></span></td>
       <td class="cat-spec" data-label="Medium">Acrylic &amp; Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -429,7 +429,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-02</td>
-      <td data-label="Title"><span class="cat-title">A Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by boygenius.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by boygenius.</small><span class="jono-status">No longer available</span></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>

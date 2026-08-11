@@ -285,6 +285,7 @@ template: home.html
       <h3 class="jono-item__title">The Road to Know Where?</h3>
       <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
+      <p class="jono-status">No longer available</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Love%20Vending%20Machine.jpg" width="1500" height="2000" alt="The Love Vending Machine, an acrylic painting"></div>
@@ -329,6 +330,7 @@ template: home.html
       <h3 class="title">The Road to Know Where?</h3>
       <p class="jono-spec">Acryla Gouache · Canvas · 2026</p>
       <p class="desc">The start. At a crossroads, a path chosen but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you arrive.</p>
+      <p class="jono-status">No longer available</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
   </div>
@@ -345,6 +347,7 @@ template: home.html
       <h3 class="jono-item__title">The Drop to Know Where</h3>
       <p class="jono-item__spec jono-spec">Acrylic · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">The unexpected. You live in a bubble, a comfort zone, or here a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.</p>
+      <p class="jono-status">No longer available</p>
     </div>
   </div>
 </section>
