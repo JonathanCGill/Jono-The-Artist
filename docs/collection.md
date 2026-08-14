@@ -215,12 +215,6 @@ template: home.html
       <p class="jono-item__desc">The official painting commemorating The Insect Hotel.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Love%20Vending%20Machine.jpg" alt="The Love Vending Machine, an acrylic"></div>
-      <h3 class="jono-item__title">The Love Vending Machine</h3>
-      <p class="jono-item__spec jono-spec">1500 × 2000 mm · Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">Channelling the positive energy of the Universe into human endeavours.</p>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Path.jpg" alt="The Path, an acrylic of a path to the Moon"></div>
       <h3 class="jono-item__title">The Path</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
@@ -248,12 +242,6 @@ template: home.html
       <h3 class="jono-item__title">Black Hole in the Lounge</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
       <p class="jono-item__desc">Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Brain%20Scan.jpg" alt="Brain Scan, a watercolour"></div>
-      <h3 class="jono-item__title">Brain Scan</h3>
-      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
-      <p class="jono-item__desc">Brain scans help you feel better, maybe?</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Eye%20Field.jpg" alt="Eye Field, a watercolour"></div>
