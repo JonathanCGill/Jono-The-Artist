@@ -363,19 +363,6 @@ template: home.html
     </div>
   </div>
 
-  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Other works</p>
-  <div class="jono-row3">
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Saving%20Thwaites%20Glacier.jpg" alt="Saving Thwaites Glacier, an acrylic painting"></div>
-      <h3 class="jono-item__title">Saving Thwaites Glacier</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Canvas · 2026</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Global%20Peace%20Conference.jpg" alt="The Global Peace Conference, an acrylic painting"></div>
-      <h3 class="jono-item__title">The Global Peace Conference</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Canvas · 2025</p>
-    </div>
-  </div>
 
 <div class="social-links" style="margin-top:80px">
   <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
