@@ -460,7 +460,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-07</td>
+      <td class="cat-ref" data-label="Ref">SA-06</td>
       <td data-label="Title"><span class="cat-title">The Path<small>A path to the Moon.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -493,7 +493,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-04</td>
+      <td class="cat-ref" data-label="Ref">SW-03</td>
       <td data-label="Title"><span class="cat-title">Eye Field<small>Who is checking out the world?</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -501,7 +501,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-05</td>
+      <td class="cat-ref" data-label="Ref">SW-04</td>
       <td data-label="Title"><span class="cat-title">Light Attraction<small>Attracted to the light.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -509,7 +509,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-06</td>
+      <td class="cat-ref" data-label="Ref">SW-05</td>
       <td data-label="Title"><span class="cat-title">LightHouse<small>A house made of light.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -517,7 +517,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-07</td>
+      <td class="cat-ref" data-label="Ref">SW-06</td>
       <td data-label="Title"><span class="cat-title">Listening<small>With all our technology, who is really listening?</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -525,7 +525,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-08</td>
+      <td class="cat-ref" data-label="Ref">SW-07</td>
       <td data-label="Title"><span class="cat-title">Music Poppy</span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -533,7 +533,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-09</td>
+      <td class="cat-ref" data-label="Ref">SW-08</td>
       <td data-label="Title"><span class="cat-title">Pollinating Light<small>Attracted to the light.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -541,7 +541,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-10</td>
+      <td class="cat-ref" data-label="Ref">SW-09</td>
       <td data-label="Title"><span class="cat-title">Sir Real<small>A watercolour pun made visible.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -549,7 +549,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-11</td>
+      <td class="cat-ref" data-label="Ref">SW-10</td>
       <td data-label="Title"><span class="cat-title">The Passage</span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
