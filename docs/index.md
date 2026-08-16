@@ -32,7 +32,7 @@ template: home.html
 
 <div class="jono-labelrow">
   <span class="l">§ The collections</span>
-  <span class="r">Four series</span>
+  <span class="r">Three series</span>
 </div>
 
 <section class="jono-series">
@@ -60,14 +60,6 @@ template: home.html
       <p class="jono-card__num">03</p>
       <h3 class="jono-card__title">Parareal</h3>
       <p class="jono-card__desc">The same world, seen from a different seat.</p>
-    </a>
-    <a class="jono-card" href="#know-where">
-      <div class="jono-frame jono-frame--45">
-        <img loading="lazy" decoding="async" src="Drawings/A%20Lighthouse%20to%20Know%20Where.jpg" alt="A Lighthouse to Know Where, an ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse">
-      </div>
-      <p class="jono-card__num">04</p>
-      <h3 class="jono-card__title">Know Where</h3>
-      <p class="jono-card__desc">One road, an unknown destination, and the pilgrim still walking towards it.</p>
     </a>
   </div>
 </section>
@@ -306,45 +298,6 @@ template: home.html
         <h3 class="jono-item__title">Listening</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
-    </div>
-  </div>
-</section>
-
-<section id="know-where" class="jono-knowwhere">
-  <p class="jono-eyebrow">§ 04 — Know Where</p>
-  <div class="jono-intro">
-    <h2 class="jono-h2">A journey with an unknown destination, and a pilgrim who has not sat down yet.</h2>
-    <p class="jono-intro__body">One painting and five drawings, one road. The painting fixes the destination, abundant and aspirational. The drawings put a person on the road to it, in ink, in black and white, with the pilgrim the only figure given colour. You set out not knowing where you are going, and the destination stays one picture ahead.</p>
-  </div>
-
-  <div class="jono-knowwhere__feature">
-    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Somewhere%20One.jpg" width="3081" height="2296" alt="The Road to Somewhere (Part One), an acrylic landscape reimagining the R62"></div>
-    <div class="jono-knowwhere__ftext">
-      <h3 class="title">The Road to Somewhere (Part One)</h3>
-      <p class="jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
-      <p class="desc">The destination, or at least the destination I want. Abundant fruit, colour, a beautiful house at the end of the road. Aspirational rather than documentary, and a good place to stop, though the road carries on past the frame and the journey is not over.</p>
-      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
-    </div>
-  </div>
-
-  <div class="jono-row3" style="margin-top:64px">
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="Drawings/The%20Pilgrimage%20to%20Know%20Where.jpg" width="2560" height="1887" alt="The Pilgrimage to Know Where, an ink and watercolour drawing of a pilgrim in a town square"></div>
-      <h3 class="jono-item__title">The Pilgrimage to Know Where</h3>
-      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The first drawing. A pilgrim stopped in the square with a stick and a pack, the cathedral ahead and the mountains behind it, the only figure given colour.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="Drawings/A%20Lighthouse%20to%20Know%20Where.jpg" width="3271" height="2296" alt="A Lighthouse to Know Where, an ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse"></div>
-      <h3 class="jono-item__title">A Lighthouse to Know Where</h3>
-      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">A boardwalk across the stones to a lighthouse on the headland. The honest version of a destination: a light to steer by, not a light to reach.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="Drawings/Know%20Where%20My%20Mind's%20At.jpg" width="2932" height="2233" alt="Know Where My Mind's At, an ink and watercolour drawing of a pilgrim walking a formal garden avenue toward Bedlam"></div>
-      <h3 class="jono-item__title">Know Where My Mind's At</h3>
-      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The fifth drawing. A formal avenue walking him into Bedlam, the gate shut behind him. The asylum is the tidiest thing in the series, and it is still the asylum.</p>
     </div>
   </div>
 </section>
