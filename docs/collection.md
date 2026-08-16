@@ -192,13 +192,6 @@ template: home.html
       <p class="jono-item__desc">A reflection on the way nature can take from us, often without warning, even the things we value most. No authority, influence or urgency can reclaim what has been lost once time begins to run out.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg" alt="A Black Hole in the Kitchen, a surreal acrylic"></div>
-      <h3 class="jono-item__title">A Black Hole in the Kitchen</h3>
-      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">Inspired by "Not Strong Enough" by boygenius.</p>
-      <p class="jono-status">No longer available</p>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Bilboa.jpg" alt="Bilbao Guggenheim Museum, an acrylic"></div>
       <h3 class="jono-item__title">Bilbao, Guggenheim Museum</h3>
       <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2025</p>

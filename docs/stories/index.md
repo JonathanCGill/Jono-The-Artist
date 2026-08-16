@@ -102,6 +102,51 @@ Watercolour · Ink & Watercolour
 
 </div>
 
+<div class="gallery-card" markdown>
+
+[![Aeromechanica](Aeromechanica/Lucanus%20Aeromechanica%20Avronis.jpg){ .gallery-img loading=lazy }](Aeromechanica/)
+
+<div class="card-info" markdown>
+
+**Aeromechanica**
+
+Watercolour · Vellum · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![The Villages](The%20Villages/McGregor.jpg){ .gallery-img loading=lazy }](The%20Villages/)
+
+<div class="card-info" markdown>
+
+**The Villages**
+
+Watercolour · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![The Netherlands](The%20Netherlands/Amsterdam.jpg){ .gallery-img loading=lazy }](The%20Netherlands/)
+
+<div class="card-info" markdown>
+
+**The Netherlands**
+
+Watercolour · Ink · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
 </div>
 
 ---

@@ -20,7 +20,7 @@ template: home.html
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">67 works catalogued</span>
+      <span class="jono-catalog__count">66 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -413,14 +413,6 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-02</td>
-      <td data-label="Title"><span class="cat-title">A Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by boygenius.</small><span class="jono-status">No longer available</span></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">SA-03</td>
       <td data-label="Title"><span class="cat-title">Bilbao, Guggenheim Museum<small>Elevating the titanium-clad building and its art.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -428,7 +420,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-04</td>
+      <td class="cat-ref" data-label="Ref">SA-03</td>
       <td data-label="Title"><span class="cat-title">Hot Air Play<small>Fantasy world viewed from hot air.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -436,7 +428,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2024</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-05</td>
+      <td class="cat-ref" data-label="Ref">SA-04</td>
       <td data-label="Title"><span class="cat-title">The Grand Insect Hotel<small>Commemorating The Insect Hotel.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -444,7 +436,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-06</td>
+      <td class="cat-ref" data-label="Ref">SA-05</td>
       <td data-label="Title"><span class="cat-title">The Path<small>A path to the Moon.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
