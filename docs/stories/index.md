@@ -147,6 +147,21 @@ Watercolour · Ink · Acryla Gouache
 
 </div>
 
+<div class="gallery-card" markdown>
+
+[![Standing Outside](Standing%20Outside/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Standing%20Outside/)
+
+<div class="card-info" markdown>
+
+**Standing Outside**
+
+Watercolour · Ink & Watercolour
+{ .card-medium }
+
+</div>
+
+</div>
+
 </div>
 
 ---
