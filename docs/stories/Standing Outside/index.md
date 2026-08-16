@@ -14,7 +14,7 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">Rotterdam</div>
+<div class="image-label">Rotterdam, Saint Alexander Nevsky</div>
 
 ![Rotterdam - watercolour of the Orthodox Church of Saint Alexander Nevsky, its gold onion dome standing among bare trees](Rotterdam.jpg){ .story-img loading=lazy }
 
@@ -22,9 +22,9 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">The Hague</div>
+<div class="image-label">The Hague, Nieuwe Kerk</div>
 
-![The Hague - watercolour of an octagonal church hemmed in by flats, a path curving to its door through daffodils](The%20Hague.jpg){ .story-img loading=lazy }
+![The Hague, Nieuwe Kerk - watercolour of the octagonal church hemmed in by flats, a path curving to its door through daffodils](The%20Hague.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div class="image-label">Ancienne Mosquée du Vendredi Badjanani</div>
 
-![Ancienne Mosquee du Vendredi Badjanani - watercolour of the Moroni grand mosque seen across a harbour full of wooden boats](Moroni%20Grand%20Mosque.jpg){ .story-img loading=lazy }
+![Ancienne Mosquée du Vendredi Badjanani - watercolour of the Moroni grand mosque seen across a harbour full of wooden boats](Moroni%20Grand%20Mosque.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -70,7 +70,7 @@ Six of these have gone up on the wall over the years, in four countries and for 
 
 *Rotterdam* is the Orthodox Church of Saint Alexander Nevsky, a Russian building with a gold onion dome sitting in a Dutch park behind bare trees. Same device as McGregor without me planning it. Paved path, handrail, straight to the door, and the dome doing the work a spire does, which is to tell you where the building is from further away than you can read a sign.
 
-*The Hague* is the humblest and I like it for that. An octagonal church with a slate roof and a small clock lantern, hemmed in on both sides by flats that are two hundred years younger and completely unbothered by it. The path curves to the door this time rather than running at it, and there are daffodils shoved up against the bottom edge of the sheet. The building has been absorbed by an ordinary neighbourhood and nobody has made a monument of it.
+The *Nieuwe Kerk* in The Hague is the humblest and I like it for that. Octagonal under a slate roof with a small clock lantern on top, hemmed in on both sides by flats that are two hundred years younger and completely unbothered by it. The path curves to the door this time rather than running at it, and there are daffodils shoved up against the bottom edge of the sheet. The building has been absorbed by an ordinary neighbourhood and nobody has made a monument of it.
 
 The mosque breaks the pattern, and it breaks it in the most interesting way. The *Ancienne Mosquée du Vendredi Badjanani* in Moroni is the furthest away I have ever placed one of these buildings. The white arcades and the minaret sit as a thin band across the top of the sheet, behind a sea wall, and the entire foreground is boats. Wooden hulls, exposed ribs, a whole harbour of them worked in more detail than the mosque itself. There is no path in this one because there is water in the way. You cannot walk up to it, so the picture is about the distance instead, and I lettered the name across the top corner in my own hand because that was the only way in I had.
 

@@ -38,7 +38,7 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">Rotterdam</div>
+<div class="image-label">Rotterdam, Saint Alexander Nevsky</div>
 
 ![Rotterdam - watercolour of the Orthodox Church of Saint Alexander Nevsky, its gold onion dome standing among bare trees](Rotterdam.jpg){ .story-img loading=lazy }
 
@@ -46,9 +46,9 @@
 
 <div class="story-image" markdown>
 
-<div class="image-label">The Hague</div>
+<div class="image-label">The Hague, Nieuwe Kerk</div>
 
-![The Hague - watercolour of an octagonal church behind daffodils and blossom](The%20Hague.jpg){ .story-img loading=lazy }
+![The Hague, Nieuwe Kerk - watercolour of the octagonal church behind daffodils and blossom](The%20Hague.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -76,7 +76,7 @@ The ink drawing of the canal houses is the opposite decision, and it is the one 
 
 *Rotterdam* is the perverse one and I know it. Rotterdam is a city of cube houses, a great swan of a bridge and a skyline it earned the hard way, and what I painted is the Orthodox Church of Saint Alexander Nevsky, a small Russian church with a gold onion dome, standing in a park behind bare trees with a paved path leading up to it. It is a short walk from the Depot Boijmans Van Beuningen, the mirrored salad bowl that half the city ends up photographing itself in. So I stood with the most photographed building in Rotterdam behind me and painted the one nobody had mentioned. That is not contrarian, it is just what happened. The dome caught the light under a striped pink and blue sky and I stopped walking, and the bowl did not stop me, and the painting records which of those two things is true rather than which one is famous.
 
-*The Hague* does the same again with better manners. An octagonal church with a slate roof and a small clock lantern, hemmed in by ordinary flats on both sides, a path curving to the door, and daffodils shoved right up against the bottom edge of the sheet with blossom coming in red from the left. It is spring and the picture is nearly all garden. The building is old, the buildings around it are not, and nobody has made a feature of the fact. That is very Dutch, and it is why the painting works.
+*The Hague* does the same again with better manners. It is the Nieuwe Kerk, octagonal under a slate roof with a small clock lantern on top, hemmed in on both sides by ordinary flats, a path curving to the door, and daffodils shoved right up against the bottom edge of the sheet with blossom coming in red from the left. It is spring and the picture is nearly all garden. The building is old, the buildings around it are not, and nobody has made a feature of the fact. That is very Dutch, and it is why the painting works.
 
 Then there is the self-portrait, which is called *Catching the Cold in Amsterdam* and contains no Amsterdam at all. A man in a red beanie with a Liver bird on it, a padded jacket, white earphone cable, a grey beard, green pine mountains behind, and a night sky with a full moon, stars, a comet and a rocket going up on the left. There are no mountains in Amsterdam and there is no space programme. All that is genuinely from the trip is the cold, the hat and the headphones.
 
