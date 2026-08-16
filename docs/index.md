@@ -390,6 +390,11 @@ template: home.html
       <span class="jono-storyrow__title">The Grand Insect Hotel</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
+    <a class="jono-storyrow" href="/stories/Lighthouses/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">06</span>
+      <span class="jono-storyrow__title">Lighthouses</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
   </div>
 </section>
 

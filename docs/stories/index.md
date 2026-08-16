@@ -59,6 +59,21 @@ Acryla Gouache · Ink & Watercolour
 
 <div class="gallery-card" markdown>
 
+[![Lighthouses](Lighthouses/Pollinating%20Light.jpg){ .gallery-img loading=lazy }](Lighthouses/)
+
+<div class="card-info" markdown>
+
+**Lighthouses**
+
+Watercolour · Ink & Watercolour
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
 [![Guggenheim Bilbao](Guggenheim/Bilboa.jpg){ .gallery-img loading=lazy }](Guggenheim/)
 
 <div class="card-info" markdown>

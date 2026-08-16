@@ -236,7 +236,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-06</td>
-      <td data-label="Title"><span class="cat-title">Dunnets Head Lighthouse</span></td>
+      <td data-label="Title"><span class="cat-title">Dunnets Head Lighthouse<small>The Caithness light, painted as found. The reference the other lighthouses depart from.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -486,7 +486,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-04</td>
-      <td data-label="Title"><span class="cat-title">Light Attraction<small>Attracted to the light.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Light Attraction<small>Grasshoppers coming in on the beam, and the husks of the ones that already came.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -494,7 +494,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-05</td>
-      <td data-label="Title"><span class="cat-title">LightHouse<small>A house made of light.</small></span></td>
+      <td data-label="Title"><span class="cat-title">LightHouse<small>A house made of light. White pen over dark washes, the moon behind the lamp.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -518,7 +518,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-08</td>
-      <td data-label="Title"><span class="cat-title">Pollinating Light<small>Attracted to the light.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Pollinating Light<small>A poppy field of lighthouses, worked by bees. The light farmed rather than feared.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
