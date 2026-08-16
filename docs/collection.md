@@ -220,13 +220,6 @@ template: home.html
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">A path to the Moon.</p>
     </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" alt="The Road to Know Where, an acrylic of a crossroads"></div>
-      <h3 class="jono-item__title">The Road to Know Where?</h3>
-      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
-      <p class="jono-status">No longer available</p>
-    </div>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — watercolours on paper</p>
@@ -303,35 +296,35 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/The%20Pilgrimage%20to%20Know%20Where.jpg" alt="The Pilgrimage to Know Where, an ink and watercolour drawing of a pilgrim in a town square"></div>
       <h3 class="jono-item__title">The Pilgrimage to Know Where</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The fourth work in the Know Where series, and the first drawing. A pilgrim on foot in the square, the only figure given colour.</p>
+      <p class="jono-item__desc">The second work in the Know Where series, and the first drawing. A pilgrim on foot in the square, the only figure given colour.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/The%20Pilgrimage%20to%20Know%20Where%20Too.jpg" alt="The Pilgrimage to Know Where Too, an ink and watercolour drawing of a pilgrim in a narrow street facing a cathedral"></div>
       <h3 class="jono-item__title">The Pilgrimage to Know Where Too</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The fifth work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
+      <p class="jono-item__desc">The third work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/A%20Lighthouse%20to%20Know%20Where.jpg" alt="A Lighthouse to Know Where, an ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse"></div>
       <h3 class="jono-item__title">A Lighthouse to Know Where</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The sixth work in the Know Where series, and the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</p>
+      <p class="jono-item__desc">The fourth work in the Know Where series, and the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/A%20Reflection%20on%20Know%20Where.jpg" alt="A Reflection on Know Where, an ink and watercolour drawing of a pilgrim at the water in a city, the buildings doubled in the surface"></div>
       <h3 class="jono-item__title">A Reflection on Know Where</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The seventh work in the Know Where series, and the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</p>
+      <p class="jono-item__desc">The fifth work in the Know Where series, and the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Know%20Where%20My%20Mind's%20At.jpg" alt="Know Where My Mind's At, an ink and watercolour drawing of a pilgrim walking a formal garden avenue toward Bedlam"></div>
       <h3 class="jono-item__title">Know Where My Mind's At</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The eighth work in the Know Where series, and the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</p>
+      <p class="jono-item__desc">The sixth work in the Know Where series, and the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">

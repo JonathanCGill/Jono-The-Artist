@@ -20,39 +20,23 @@ template: home.html
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">64 works catalogued</span>
+      <span class="jono-catalog__count">66 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
 
   <div class="jono-catalog__group">
     <p class="jono-sublabel">Know Where — acrylics on canvas</p>
-    <p class="jono-catalog__grouplead">The three-painting journey series.</p>
+    <p class="jono-catalog__grouplead">The journey series. The drawings that carry it on are listed under Drawings.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">KW-01</td>
-      <td data-label="Title"><span class="cat-title">The Road to Know Where?<small>The crossroads. Start of the series.</small><span class="jono-status">No longer available</span></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">KW-02</td>
-      <td data-label="Title"><span class="cat-title">The Road to Somewhere (Part One)<small>The arrival. Reimagining the R62.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Road to Somewhere (Part One)<small>The destination. Reimagining the R62.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">KW-03</td>
-      <td data-label="Title"><span class="cat-title">The Drop to Know Where<small>The unexpected. A droplet gravity was always going to take.</small><span class="jono-status">No longer available</span></span></td>
-      <td class="cat-spec" data-label="Medium">Acrylic &amp; Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>
@@ -567,7 +551,7 @@ template: home.html
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-01</td>
-      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where<small>The fourth Know Where work. The pilgrim is the only figure in colour.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where<small>The second Know Where work, the first drawing. The pilgrim is the only figure in colour.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -575,7 +559,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-02</td>
-      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where Too<small>The fifth Know Where work, the second drawing. The pilgrim in a narrow street, the cathedral ahead.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where Too<small>The third Know Where work, the second drawing. The pilgrim in a narrow street, the cathedral ahead.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -591,7 +575,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-04</td>
-      <td data-label="Title"><span class="cat-title">A Lighthouse to Know Where<small>The sixth Know Where work, the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Lighthouse to Know Where<small>The fourth Know Where work, the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -599,7 +583,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-05</td>
-      <td data-label="Title"><span class="cat-title">A Reflection on Know Where<small>The seventh Know Where work, the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Reflection on Know Where<small>The fifth Know Where work, the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -607,7 +591,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-06</td>
-      <td data-label="Title"><span class="cat-title">Know Where My Mind's At<small>The eighth Know Where work, the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Know Where My Mind's At<small>The sixth Know Where work, the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>

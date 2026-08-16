@@ -44,13 +44,13 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Know Where Series](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
+[![The Know Where Series](The-Road-to-Know-Where/The%20Pilgrimage%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
 
 <div class="card-info" markdown>
 
 **The Know Where Series**
 
-Acryla Gouache · Canvas
+Acryla Gouache · Ink & Watercolour
 { .card-medium }
 
 </div>
