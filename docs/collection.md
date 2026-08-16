@@ -33,7 +33,7 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" alt="The Last Holiday, Amsterdam, an acrylic overlooking a pond in Amsterdam Noord"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
-      <p class="jono-item__desc">Overlooking a pond in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
+      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
     </div>
   </div>
 
