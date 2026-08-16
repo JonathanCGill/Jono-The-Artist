@@ -68,9 +68,11 @@ template: home.html
       <p class="jono-item__desc">A lovely cafe on the canals in Amsterdam Noord.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Dunnets%20Head.jpg" alt="Dunnets Head Lighthouse, a watercolour"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Dunnets%20Head.jpg" alt="Dunnets Head Lighthouse, a watercolour of the Caithness light behind a drystone wall"></div>
       <h3 class="jono-item__title">Dunnets Head Lighthouse</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
+      <p class="jono-item__desc">The light at the top corner of the Scottish mainland, painted the way I found it. The reference the other lighthouses depart from.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Hemelsbreed.jpg" alt="Hemelsbreed, a watercolour of a farmhouse reflected in a dam near Greyton"></div>
@@ -246,13 +248,15 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/To%20The%20Light%202.jpg" alt="Light Attraction, a watercolour"></div>
       <h3 class="jono-item__title">Light Attraction</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
-      <p class="jono-item__desc">Attracted to the light.</p>
+      <p class="jono-item__desc">Grasshoppers coming in on the beam, and the husks of the ones that already came piled at the foot of the tower. A beacon does not get to choose what it attracts.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/LightHouse.jpg" alt="LightHouse, a watercolour of a house made of light"></div>
       <h3 class="jono-item__title">LightHouse</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
-      <p class="jono-item__desc">A house made of light, or a lighthouse made into a home.</p>
+      <p class="jono-item__desc">A house made of light, or a lighthouse made into a home. White pen over dark washes, the full moon sitting directly behind the lamp.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Listening.jpg" alt="Listening, a watercolour"></div>
@@ -269,7 +273,8 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/To%20The%20Light%203.jpg" alt="Pollinating Light, a watercolour"></div>
       <h3 class="jono-item__title">Pollinating Light</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
-      <p class="jono-item__desc">Attracted to the light.</p>
+      <p class="jono-item__desc">A poppy field where every flower carries a lighthouse where the stamens should be, and the bees work it tower to tower. The light farmed rather than feared.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Sir%20Real.jpg" alt="Sir Real, a watercolour pun made visible"></div>
@@ -338,6 +343,13 @@ template: home.html
       <h3 class="jono-item__title">I Wish You Were Here</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
       <p class="jono-item__desc">Paternoster on the West Coast, the whitewashed cottages strung along the shore. Two walkers on the path, the only figures given colour.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Cape%20Columbine%20Lighthouse.jpg" alt="Cape Columbine Lighthouse, an ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised"></div>
+      <h3 class="jono-item__title">Cape Columbine Lighthouse</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The squat fluted tower on the granite at Paternoster, red lantern above, keeper's houses to the right. A walker out on the boulders with his arm raised, the only colour in the drawing.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
   </div>
 </section>
