@@ -26,13 +26,13 @@
 
 The photograph gives you the scene. The painting gives you what the scene felt like.
 
-Amsterdam Noord. Late afternoon, the light doing what it does on Dutch water. The houses sit quietly, the church spire anchors the skyline, and the canal gives everything back as a perfect mirror. A still, honest moment. And then I painted over it.
+Amsterdam Noord. Late afternoon, the light doing what it does on Dutch water. The houses sit quietly, the spire of the Buiksloterkerk anchors the skyline, and the canal gives everything back as a perfect mirror. A still, honest moment. And then I painted over it.
 
 The muted Dutch palette goes. In its place: cadmium reds, cerulean blues, chrome yellows. The houses find their personality. The sky catches fire at the edges.
 
 The reflection stays. That was non-negotiable. The canal still holds the buildings, but now it holds colour too, thick and saturated, the way water looks when you stop trying to paint it accurately and start painting it honestly.
 
-Then the additions. A magpie lands on the church, because magpies were everywhere that trip, strutting around like they owned the place. They probably do.
+Then the additions. A magpie lands on the Buiksloterkerk, because magpies were everywhere that trip, strutting around like they owned the place. They probably do.
 
 The little green figure on the left, pointing. In reality it is a sign warning of children playing. In the painting it becomes something stranger, a small guardian at the edge of the frame, directing your eye inward.
 

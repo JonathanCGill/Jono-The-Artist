@@ -52,8 +52,8 @@ template: home.html
       <p class="jono-item__desc">The flower blossoms add to the beauty of Amsterdam.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Moroni%20Grand%20Mosque.jpg" alt="Ancienne Mosquee du Vendredi Banjanani, a watercolour of the Moroni grand mosque"></div>
-      <h3 class="jono-item__title">Ancienne Mosquee du Vendredi Banjanani</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Moroni%20Grand%20Mosque.jpg" alt="Ancienne Mosquée du Vendredi Badjanani, a watercolour of the Moroni grand mosque"></div>
+      <h3 class="jono-item__title">Ancienne Mosquée du Vendredi Badjanani</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
@@ -119,8 +119,8 @@ template: home.html
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Rotterdam.jpg" alt="Rotterdam, a watercolour"></div>
-      <h3 class="jono-item__title">Rotterdam</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Rotterdam.jpg" alt="Rotterdam, Saint Alexander Nevsky, a watercolour of the Orthodox church and its gold onion dome"></div>
+      <h3 class="jono-item__title">Rotterdam, Saint Alexander Nevsky</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
@@ -158,8 +158,8 @@ template: home.html
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Hague.jpg" alt="The Hague, a watercolour"></div>
-      <h3 class="jono-item__title">The Hague</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Hague.jpg" alt="The Hague, Nieuwe Kerk, a watercolour of the octagonal church behind daffodils"></div>
+      <h3 class="jono-item__title">The Hague, Nieuwe Kerk</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">

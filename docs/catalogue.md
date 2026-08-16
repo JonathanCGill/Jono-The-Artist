@@ -212,7 +212,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-03</td>
-      <td data-label="Title"><span class="cat-title">Ancienne Mosquee du Vendredi Banjanani<small>The Moroni grand mosque.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Ancienne Mosquée du Vendredi Badjanani<small>The Moroni grand mosque.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -292,7 +292,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-13</td>
-      <td data-label="Title"><span class="cat-title">Rotterdam</span></td>
+      <td data-label="Title"><span class="cat-title">Rotterdam, Saint Alexander Nevsky<small>The Orthodox church in the park.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -356,7 +356,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-21</td>
-      <td data-label="Title"><span class="cat-title">The Hague</span></td>
+      <td data-label="Title"><span class="cat-title">The Hague, Nieuwe Kerk<small>The octagonal church, hemmed in by flats.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
