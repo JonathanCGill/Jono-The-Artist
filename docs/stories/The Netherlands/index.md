@@ -40,7 +40,7 @@
 
 <div class="image-label">Rotterdam</div>
 
-![Rotterdam - watercolour of the Russian Orthodox church with its gold onion dome among bare trees](Rotterdam.jpg){ .story-img loading=lazy }
+![Rotterdam - watercolour of the Greek Orthodox church with its gold dome among bare trees](Rotterdam.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -74,7 +74,7 @@ The *Amsterdam* watercolour is where the departure gets obvious. The gabled hous
 
 The ink drawing of the canal houses is the opposite decision, and it is the one I am most pleased with. No colour anywhere. A whole quay of gables and warehouse fronts drawn in line, a barge and two moored boats, saucer clouds sitting over the roofs, and then the bottom third given entirely to the reflection, the same buildings pulled into vertical strokes in the water. Those clouds turn up again in the Know Where drawings, so the sheet is more connected to the rest of my work than it looks. There is no figure in colour in this one. Nobody is walking through it. It is a place drawn from across the water, which is where you stand in Amsterdam whether you plan to or not.
 
-*Rotterdam* is the perverse one and I know it. Rotterdam is a city of cube houses, a great swan of a bridge and a skyline it earned the hard way, and I painted a small Russian Orthodox church with a gold onion dome, standing in a park behind bare trees with a paved path leading up to it. I painted it because I walked past it and it stopped me. A gold dome under a striped pink and blue sky, in a Dutch park, four hundred metres from architecture that is on every postcard of the city. The choice is the point. I do not paint the famous thing, I paint the thing that made me stop walking.
+*Rotterdam* is the perverse one and I know it. Rotterdam is a city of cube houses, a great swan of a bridge and a skyline it earned the hard way, and what I painted is a small Greek Orthodox church with a gold dome, standing in a park behind bare trees with a paved path leading up to it. It is a short walk from the salad bowl, the mirrored art depot that half the city photographs itself in. So I stood with the most photographed building in Rotterdam behind me and painted the one nobody had mentioned. That is not contrarian, it is just what happened. The dome caught the light under a striped pink and blue sky and I stopped walking, and the bowl did not stop me, and the painting records which of those two things is true rather than which one is famous.
 
 *The Hague* does the same again with better manners. An octagonal church with a slate roof and a small clock lantern, hemmed in by ordinary flats on both sides, a path curving to the door, and daffodils shoved right up against the bottom edge of the sheet with blossom coming in red from the left. It is spring and the picture is nearly all garden. The building is old, the buildings around it are not, and nobody has made a feature of the fact. That is very Dutch, and it is why the painting works.
 
