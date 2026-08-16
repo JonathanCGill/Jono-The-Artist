@@ -179,7 +179,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RA-03</td>
-      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking a pond in Amsterdam Noord.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking the Buikslotermeer in Amsterdam Noord.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>

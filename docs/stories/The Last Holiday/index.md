@@ -16,7 +16,7 @@
 
 <div class="image-label">The Scene</div>
 
-![Amsterdam Noord canal at sunset](Amsterdam Noord.jpg){ .story-img loading=lazy }
+![The Buikslotermeer in Amsterdam Noord at sunset](Amsterdam Noord.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -26,7 +26,7 @@
 
 The photograph gives you the scene. The painting gives you what the scene felt like.
 
-Amsterdam Noord. Late afternoon, the light doing what it does on Dutch water. The houses sit quietly, the spire of the Buiksloterkerk anchors the skyline, and the canal gives everything back as a perfect mirror. A still, honest moment. And then I painted over it.
+The Buikslotermeer, Amsterdam Noord. Late afternoon, the light doing what it does on Dutch water. The houses sit quietly, the spire of the Buiksloterkerk anchors the skyline, and the canal gives everything back as a perfect mirror. A still, honest moment. And then I painted over it.
 
 The muted Dutch palette goes. In its place: cadmium reds, cerulean blues, chrome yellows. The houses find their personality. The sky catches fire at the edges.
 

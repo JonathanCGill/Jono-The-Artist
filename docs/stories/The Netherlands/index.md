@@ -8,7 +8,7 @@
 
 <div class="image-label">The Last Holiday, Amsterdam</div>
 
-![The Last Holiday, Amsterdam - acrylic painting overlooking a pond in Amsterdam Noord](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy }
+![The Last Holiday, Amsterdam - acrylic painting overlooking the Buikslotermeer in Amsterdam Noord](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy }
 
 </div>
 
@@ -66,7 +66,7 @@
 
 Seven pictures came back from the Netherlands and not one of them is the Netherlands you would recognise from a brochure. No tulip field, no windmill, no Rijksmuseum, no bicycle leaning artfully against a bridge with the light doing something. I have looked at the group as a set and what strikes me is how local it all is. This is a country I was standing in, not a country I was touring.
 
-*The Last Holiday* has its own story elsewhere and I will not repeat it here, except to say it sets the address. A pond in Amsterdam Noord, seen from where we were staying. Everything else in the group is within walking distance of it or a train ride from it, which is the honest radius of most holidays.
+*The Last Holiday* has its own story elsewhere and I will not repeat it here, except to say it sets the address. The Buikslotermeer in Amsterdam Noord, seen from where we were staying. Everything else in the group is within walking distance of it or a train ride from it, which is the honest radius of most holidays.
 
 *Cafe T'Sluisje* is at the bottom of that walk, and the painting is not a record of the building. The real one is white and black, a proper brown pub, dark inside and not looking for anyone's approval. In the watercolour it is pink and blue under an orange tiled roof with the windows lit warm in the middle of the day. That is the method and not a mistake. I replace the palette with the one the place had while I was in it, and a good pub on a cold afternoon is not the colour of its paintwork. What I did keep is all the hardware. The folded parasol, the steps, the railings, the flat wall of the bridge coming in from the left, and the bicycles racked along the quay drawn one at a time. The name means the little lock. The Dutch put a great deal of engineering into being able to sit somewhere pleasant with a drink, and the picture is mostly the engineering, painted in the wrong colours on purpose.
 

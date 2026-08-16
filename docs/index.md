@@ -212,7 +212,7 @@ template: home.html
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="1000" height="750" alt="The Last Holiday, Amsterdam, an acrylic landscape"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2025</p>
-      <p class="jono-item__desc">Overlooking a pond in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
+      <p class="jono-item__desc">Overlooking the Buikslotermeer in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
     </div>
   </div>
 
