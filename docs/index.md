@@ -348,6 +348,21 @@ template: home.html
       <span class="jono-storyrow__title">Lighthouses</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
+    <a class="jono-storyrow" href="/stories/Aeromechanica/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">07</span>
+      <span class="jono-storyrow__title">Aeromechanica</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/The%20Villages/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">08</span>
+      <span class="jono-storyrow__title">The Villages</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/The%20Netherlands/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">09</span>
+      <span class="jono-storyrow__title">The Netherlands</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
   </div>
 </section>
 
