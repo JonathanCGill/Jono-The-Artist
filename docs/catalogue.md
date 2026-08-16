@@ -20,7 +20,7 @@ template: home.html
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">66 works catalogued</span>
+      <span class="jono-catalog__count">67 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -592,6 +592,14 @@ template: home.html
     <tr>
       <td class="cat-ref" data-label="Ref">DR-06</td>
       <td data-label="Title"><span class="cat-title">Know Where My Mind's At<small>The sixth Know Where work, the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-07</td>
+      <td data-label="Title"><span class="cat-title">Cape Columbine Lighthouse<small>The fluted tower on the granite at Paternoster, and a walker on the boulders with his arm raised.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>

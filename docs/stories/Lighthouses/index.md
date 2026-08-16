@@ -44,11 +44,19 @@
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">Cape Columbine Lighthouse</div>
+
+![Cape Columbine Lighthouse - ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised](Cape%20Columbine%20Lighthouse.jpg){ .story-img loading=lazy }
+
+</div>
+
 </div>
 
 <div class="story-text" markdown>
 
-I have painted the same building five times without meaning to. It started as a building. It did not stay one.
+I have drawn the same building six times without meaning to. It started as a building. It did not stay one, and then it came back as one.
 
 *Dunnets Head Lighthouse* is the one that was actually there. Caithness, the top corner of the Scottish mainland, and the light sitting behind a drystone wall that takes up half the picture. I painted it the way I found it: grey stone, cold sea, muted, the gulls in the right place. There is no invention in it, and that was not what it was for. It is the reference. Everything after it is what happens once you stop looking at the thing and start using it.
 
@@ -60,7 +68,11 @@ I have painted the same building five times without meaning to. It started as a 
 
 *A Lighthouse to Know Where* is the last of them, and it belongs to the Know Where series as much as to this one. The pilgrim walks a boardwalk across a field of stones toward the light on the headland, the saucer clouds massed low over the hills, and he is the only colour in a black and white drawing. A lighthouse is the honest version of a destination. It is not the end of the journey. It tells you where you are, warns you off the rocks, and then you keep going.
 
-Five pictures, one building, and what keeps changing is what I want from it. A record. A trap. A crop. A home. A mark to steer by. The lighthouse is worth painting because it is the rare structure that is entirely about other people. It exists to be seen from somewhere else, by someone who is not there yet. Nobody builds one for the view from the top.
+*Cape Columbine Lighthouse* goes back to a real one. Paternoster, on the West Coast, the squat fluted tower sitting straight on the granite with the red lantern on top and the keeper's houses tucked in to the right. A wire fence runs across the middle of the sheet, and the whole foreground is scrub, drawn as thousands of small scribbled mounds that took longer than the lighthouse did. The title is written along the top in capitals because that is how it arrived, as a note on a sketch rather than a painting with a name.
+
+The difference from Dunnets Head is the man on the boulder. Same orange pack, same hat, the only colour on the page, out on the rocks to the left with his arm up. He is waving. That is not something he does anywhere else. He walks in every other drawing, and here he has stopped and raised an arm, and the sheet does not say who to. There is another Paternoster drawing from the same year with him down on the beach path, walking beside someone, and it is called *I Wish You Were Here*. Read the two together and the wave acquires a direction.
+
+Six pictures, one building, and what keeps changing is what I want from it. A record. A trap. A crop. A home. A mark to steer by. Somewhere to stand and wave from. The lighthouse is worth drawing because it is the rare structure that is entirely about other people. It exists to be seen from somewhere else, by someone who is not there yet. Nobody builds one for the view from the top.
 
 </div>
 
