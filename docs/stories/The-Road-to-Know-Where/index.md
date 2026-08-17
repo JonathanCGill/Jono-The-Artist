@@ -52,11 +52,19 @@
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">Taj Mahal</div>
+
+![Taj Mahal - ink and watercolour drawing of the pilgrim sitting in a moored boat, the mausoleum on the far bank and doubled in the water](Taj%20Mahal.jpg){ .story-img loading=lazy }
+
+</div>
+
 </div>
 
 <div class="story-text" markdown>
 
-One painting and five drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
+One painting and six drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
 
 *The Road to Somewhere (Part One)* is the destination, or at least the destination I want. Abundant fruit, colour, a beautiful house at the end of the road. It is aspirational rather than documentary. The R62 gave me the bones of the composition, but the place in the painting is better than the place in the photograph, because the photograph was never the point. The "Part One" was never decorative either. The road carries on past the frame, in every direction, and something unexpected is already on its way.
 
@@ -78,7 +86,13 @@ Same figure, same pack and stick, still the only thing given colour. Two people 
 
 The title is the joke the series keeps making, and this time it turns inward. The other drawings ask where the road goes. This one asks where his head is while he walks it, and answers with Bedlam. The word means chaos, but the place he is walking into is all order: a calm facade, a level garden, a gate that shuts behind you. That is the unease of it. The asylum is the tidiest thing in the series, and it is still the asylum. Knowing where your mind is turns out to be its own kind of destination, and it is not a comfortable one to arrive at.
 
-The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront and a formal garden, and in every one of them he is the figure who has not sat down, the one still looking for the place the road was supposed to lead to. I do not know where he ends up. When I do, there will be another drawing. Until then he keeps walking, and the destination stays one picture ahead.
+*Taj Mahal* is the sixth drawing, and it breaks the rule the series had kept until now. He is sitting down. He is in a moored boat on the river with his back to me, the same red top and the same hat, the pack propped beside him, and the mausoleum stands on the far bank with its dome and its four minarets, doubled in the water underneath. The sheet is grey scribble and wash from top to bottom. He is still the only colour, and for once he is not moving.
+
+I did not plan the reversal, it came out of the subject. The Taj is a tomb. A man built it for his wife and it is now the most photographed destination on earth, which are two facts that sit awkwardly together and both belong in the picture. You cannot arrive there and expect the road to carry on. It is the end of somebody's journey, permanently, and the building says so in white marble. So the pilgrim gets to it and stops, and the drawing puts him in a boat rather than on a path, which is the one place in the series where his feet are no use to him.
+
+The dark cloud across the top is the part I am least sure of and kept anyway. It runs in from the left over an otherwise empty sky, and it is the only thing in the drawing that is going anywhere. Read it as weather if you like. It is more useful as the thing still travelling while he sits.
+
+The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront and a formal garden, and now he is sitting in front of a tomb, which is the closest the series has come to an ending and is still not one. I do not know where he ends up. When I do, there will be another drawing. Until then the destination stays one picture ahead.
 
 </div>
 

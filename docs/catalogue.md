@@ -20,7 +20,7 @@ template: home.html
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">66 works catalogued</span>
+      <span class="jono-catalog__count">69 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -394,6 +394,22 @@ template: home.html
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RW-26</td>
+      <td data-label="Title"><span class="cat-title">Paternoster<small>The West Coast beach, the white village on the ridge and two walkers stopped on the path.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RW-27</td>
+      <td data-label="Title"><span class="cat-title">Above Paternoster<small>The village from the hill, blue roofs running down to the bay and a red boat on the sand.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
       </tbody>
     </table>
   </div>
@@ -592,6 +608,14 @@ template: home.html
     <tr>
       <td class="cat-ref" data-label="Ref">DR-07</td>
       <td data-label="Title"><span class="cat-title">Cape Columbine Lighthouse<small>The fluted tower on the granite at Paternoster, and a walker on the boulders with his arm raised.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-08</td>
+      <td data-label="Title"><span class="cat-title">Taj Mahal<small>The seventh Know Where work, the sixth drawing. The pilgrim sitting in a moored boat, the mausoleum doubled in the water.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>

@@ -239,6 +239,16 @@ template: home.html
         <h3 class="jono-item__title">Robertsvlei</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
       </div>
+      <div class="jono-tile">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Paternoster.jpg" width="420" height="297" alt="Paternoster watercolour of the beach, the white village on the ridge and two walkers on the path"></div>
+        <h3 class="jono-item__title">Paternoster</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+      </div>
+      <div class="jono-tile">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/Above%20Paternoster.jpg" width="420" height="297" alt="Above Paternoster watercolour of the village seen from the hill above the bay"></div>
+        <h3 class="jono-item__title">Above Paternoster</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+      </div>
     </div>
   </div>
 </section>
