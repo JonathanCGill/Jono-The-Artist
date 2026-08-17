@@ -149,13 +149,13 @@ Watercolour · Ink · Acryla Gouache
 
 <div class="gallery-card" markdown>
 
-[![Standing Outside](Standing%20Outside/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Standing%20Outside/)
+[![Called to Prayer](Called%20to%20Prayer/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Called%20to%20Prayer/)
 
 <div class="card-info" markdown>
 
-**Standing Outside**
+**Called to Prayer**
 
-Watercolour · Ink & Watercolour
+Watercolour · Ink & Watercolour · Acrylic
 { .card-medium }
 
 </div>
