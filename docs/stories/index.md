@@ -149,7 +149,7 @@ Watercolour · Ink · Acryla Gouache
 
 <div class="gallery-card" markdown>
 
-[![Called to Prayer](Called%20to%20Prayer/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Called%20to%20Prayer/)
+[![Called to Prayer](Standing%20Outside/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Standing%20Outside/)
 
 <div class="card-info" markdown>
 
