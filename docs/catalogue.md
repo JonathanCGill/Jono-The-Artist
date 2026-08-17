@@ -1,5 +1,7 @@
 ---
 template: home.html
+description: >-
+  A working catalogue of 68 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
 ---
 
 <section class="jono-catalog">
@@ -20,7 +22,7 @@ template: home.html
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">66 works catalogued</span>
+      <span class="jono-catalog__count">73 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -39,6 +41,14 @@ template: home.html
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">KW-02</td>
+      <td data-label="Title"><span class="cat-title">The Road to Know Where Revisited<small>The pilgrim on the centre line, vineyards either side, and a KNOW WHERE sign at the roadside.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">Paper</td>
+      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
       </tbody>
     </table>
   </div>
@@ -50,7 +60,7 @@ template: home.html
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-01</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The commercial, cocoa-powered flagship.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner. Sister to the Musculus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -58,7 +68,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-02</td>
-      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The cocoa-powered, whale-sized double-decker flagship. Sister to the Chocolatus.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -85,7 +95,7 @@ template: home.html
       <td data-label="Title"><span class="cat-title">Aeromechanica (side profile)<small>Side-elevation blueprint.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Hot Press Paper</td>
-      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Size">A4</td>
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
@@ -117,7 +127,7 @@ template: home.html
       <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
-      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Size">A4</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
@@ -125,7 +135,7 @@ template: home.html
       <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
-      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Size">A4</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
@@ -141,7 +151,7 @@ template: home.html
       <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
-      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Size">A4</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
@@ -149,8 +159,24 @@ template: home.html
       <td data-label="Title"><span class="cat-title">Avis Aeromechanica Paciferus<small>Jet Age. A swept-wing jet bird.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
+      <td class="cat-spec" data-label="Size">A4</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">AM-14</td>
+      <td data-label="Title"><span class="cat-title">Aeromechanica Chocolatus Evolution<small>Four panels in photo corners: 1972, 1976, 1985 and 2026.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour &amp; Ink</td>
+      <td class="cat-spec" data-label="Support">Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">AM-15</td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Promachus<small>Axis. A second robber fly sheet, teal and ochre, Balkenkreuze on the wings.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">Vellum</td>
+      <td class="cat-spec" data-label="Size">A4</td>
+      <td class="cat-spec" data-label="Year"><span class="cat-blank">—</span></td>
     </tr>
       </tbody>
     </table>
@@ -228,7 +254,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-05</td>
-      <td data-label="Title"><span class="cat-title">Cafe T&#x27;Sluisje<small>A canal cafe in Amsterdam Noord.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Cafe &#x27;t Sluisje<small>A canal cafe in Amsterdam Noord.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -236,7 +262,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-06</td>
-      <td data-label="Title"><span class="cat-title">Dunnets Head Lighthouse<small>The Caithness light, painted as found. The reference the other lighthouses depart from.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Dunnet Head Lighthouse<small>The Caithness light, painted as found. The reference the other lighthouses depart from.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -389,6 +415,22 @@ template: home.html
     <tr>
       <td class="cat-ref" data-label="Ref">RW-25</td>
       <td data-label="Title"><span class="cat-title">Hemelsbreed<small>A farm near Greyton.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RW-26</td>
+      <td data-label="Title"><span class="cat-title">Paternoster<small>The cottages along the ridge, two walkers on the sand, driftwood and a kelp line in the foreground.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RW-27</td>
+      <td data-label="Title"><span class="cat-title">Above Paternoster<small>The village from the hill above it, blue roofs, a red boat on the sand and birds coming in.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -595,6 +637,22 @@ template: home.html
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-08</td>
+      <td data-label="Title"><span class="cat-title">I Wish You Were Here<small>Paternoster. Two walkers on the shore path, the only figures given colour.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-09</td>
+      <td data-label="Title"><span class="cat-title">Taj Mahal<small>The pilgrim in a moored boat with the mausoleum doubled in the water, the only figure given colour.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>

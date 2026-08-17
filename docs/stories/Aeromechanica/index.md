@@ -1,3 +1,8 @@
+---
+description: >-
+  An invented aviation company assembled out of its own paperwork: wartime specimen plates, blueprints, a cocoa-powered airliner, and the family album that gives the whole history away.
+---
+
 # Aeromechanica
 
 <div class="story" markdown>
@@ -148,7 +153,7 @@ Then there is the other half of the drawer. *Promachus Aeromechanicus Crucifer* 
 
 After that it goes commercial, and the drawings change character completely. The top profile is a proper specification sheet: capacity 36, range 200 miles, cruise 220 knots, 2.5 wingbeats a second, style listed as hummingbird. Alongside it, drawn out in full, the High-Nutrition Bypass Propulsion Engine, two hearts, a turbo pump, a mixer, oxygen cylinders, feed lines labelled chocolate, protein, fats and carbs, a bronchial fan array, and a CO2 extractor drawn as a plant in a terracotta pot. Thirty-six seats and two hundred miles is not a flagship. It is a regional aircraft, and every airline in history has started with one.
 
-The cutaway is where the company stops being a joke about war and becomes a joke about business. The title block reads Aeromech, with a trademark symbol, and so does half the aircraft. Skeleto airframe. Flapetron engine. Dove Tail. Somebody in that office has been through the registration process for a tail. The cabin is sectioned like any airliner cutaway, and the labels run first class, then not first class, then galley, bathroom, fuel storage, internet, rear talon wheels. There is a class system in a bird. The cockpit sheet finishes it: two seats, an eject lever each, sacks of seed stacked against the bulkhead, drums of 100% cocoa, a row of smoothie glasses on the centre console, controls marked seed, mix and cut, and Aeromech lettered across the sill where the airline name goes.
+The cutaway is where the company stops being a joke about war and becomes a joke about business. The title block reads Aeromech, with a trademark symbol, and so does half the aircraft. Skeleto airframe. Flaperon engine. Dove Tail. Somebody in that office has been through the registration process for a tail. The cabin is sectioned like any airliner cutaway, and the labels run first class, then not first class, then galley, bathroom, fuel storage, internet, rear talon wheels. There is a class system in a bird. The cockpit sheet finishes it: two seats, an eject lever each, sacks of seed stacked against the bulkhead, drums of 100% cocoa, a row of smoothie glasses on the centre console, controls marked seed, mix and cut, and Aeromech lettered across the sill where the airline name goes.
 
 Nothing on any of those sheets explains what actually flies the thing. The engine plate gives you the plumbing, the cutaway gives you the seating, the cockpit gives you three levers and a row of glasses, and none of it accounts for five hundred seats of animal holding a stable cruise at altitude. That part is FlightGPT, and it is not drawn because it has no shape. Aeromech took the thing a bird already knows, the part that keeps a starling inside a murmuration without a single instruction being issued, and ran a large language model on top of it. The bird flies. The model explains the flying.
 

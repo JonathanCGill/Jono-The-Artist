@@ -1,3 +1,8 @@
+---
+description: >-
+  Why I paint the villages of the Western Cape flat on, straight at the front of the building, every single time.
+---
+
 # The Villages
 
 <div class="story" markdown>

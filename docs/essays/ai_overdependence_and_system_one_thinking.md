@@ -1,3 +1,8 @@
+---
+description: >-
+  How AI outputs mimic careful reasoning while humans default to fast acceptance, why the competence gap is the primary failure condition, and what it takes to keep System 2 in the loop.
+---
+
 # The Delegation Trap: AI, Cognitive Offloading, and the Erosion of Human Agency
 
 <div class="essay" markdown>

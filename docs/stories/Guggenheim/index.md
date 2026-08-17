@@ -1,3 +1,8 @@
+---
+description: >-
+  Painting Gehry's titanium-clad museum in Bilbao, the sculptures around it, and the man who wants it all to stop while he photographs it.
+---
+
 # Guggenheim
 
 <div class="story" markdown>
@@ -6,7 +11,7 @@
 
 <div class="image-label">The Painting</div>
 
-![Guggenheim Bilbao - acrylic painting](Bilboa.jpg){ .story-img loading=lazy }
+![Guggenheim Bilbao - acrylic painting](Bilbao.jpg){ .story-img loading=lazy }
 
 </div>
 

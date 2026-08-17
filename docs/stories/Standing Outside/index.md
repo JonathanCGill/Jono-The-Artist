@@ -1,3 +1,8 @@
+---
+description: >-
+  Eight buildings in four countries, all of them built to call people in, and not one interior painted among them.
+---
+
 # Called to Prayer
 
 <div class="story" markdown>

@@ -1,3 +1,8 @@
+---
+description: >-
+  About Jonathan Gill: how the paintings are made, what the series share, and why none of the images on this site are AI-generated.
+---
+
 # About
 
 <div class="about-hero" markdown>

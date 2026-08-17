@@ -51,6 +51,11 @@ nav:
     - The Last Holiday: stories/The Last Holiday/index.md
     - The Netherlands: stories/The Netherlands/index.md
     - The Villages: stories/The Villages/index.md
-  - Essays: essays.md
+  - Essays:
+    - essays.md
+    - Painting with a Critic: essays/painting-with-a-critic.md
+    - The Architecture of Trust: essays/the-architecture-of-trust.md
+    - The Tragedy of the Commons: essays/tragedy-of-the-commons.md
+    - The Delegation Trap: essays/ai_overdependence_and_system_one_thinking.md
   - About: about.md
   - Catalogue: catalogue.md

@@ -1,3 +1,8 @@
+---
+description: >-
+  One painting and five drawings following a pilgrim who never sits down, from a town square to a formal garden outside Bedlam.
+---
+
 # The Know Where Series
 
 <div class="story" markdown>

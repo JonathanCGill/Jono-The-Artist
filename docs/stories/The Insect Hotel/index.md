@@ -1,3 +1,8 @@
+---
+description: >-
+  How a real insect house built for solitary bees and lacewings became the scaffolding for a painting.
+---
+
 # The Grand Insect Hotel
 
 <div class="story" markdown>

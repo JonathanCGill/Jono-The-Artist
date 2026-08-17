@@ -1,3 +1,8 @@
+---
+description: >-
+  A portmanteau of farm scenes from northern Spain: stone farmsteads, floral abundance, a gigantes figure, and sunflowers that were never there.
+---
+
 # Cantabrian Mountains
 
 <div class="story" markdown>
@@ -78,6 +83,14 @@
 
 <div class="story-image" markdown>
 
+<div class="image-label">Floral</div>
+
+![White yarrow in flower on the hillside](Floral5.jpg){ .story-img loading=lazy }
+
+</div>
+
+<div class="story-image" markdown>
+
 <div class="image-label">Gigantes</div>
 
 ![Gigantes festival figure in northern Spain](Gigantes.jpg){ .story-img loading=lazy }
@@ -90,7 +103,7 @@
 
 The painting is a portmanteau of farm scenes from the Cantabrian Mountains, combining the floral abundance with the stone buildings that define rural life in this part of northern Spain. The farmsteads sit low and solid against the hills, built from the same rock they stand on, functional in a way that never needed an architect to explain.
 
-The larger-than-life matador celebrates the gigantes mythology still celebrated in the towns and villages here. These enormous processional figures have deep roots in Spanish festival culture, and they feel right at this scale, towering over the landscape the way they tower over the crowds.
+The larger-than-life matador comes out of the gigantes tradition still kept up in the towns and villages here. These enormous processional figures have deep roots in Spanish festival culture, and they feel right at this scale, towering over the landscape the way they tower over the crowds.
 
 The sunflowers are a cheeky addition. I did not see them there, but I like them anyway. Not everything in a painting needs a photographic alibi.
 

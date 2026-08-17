@@ -1,3 +1,8 @@
+---
+description: >-
+  The Grote Die in Amsterdam Noord, repainted in cadmium and cerulean, with a magpie, a small green guardian and a travelling snail going nowhere.
+---
+
 # The Last Holiday
 
 <div class="story" markdown>
