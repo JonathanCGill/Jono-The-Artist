@@ -46,6 +46,12 @@ template: home.html
       <p class="jono-item__desc">A charming restaurant in Montagu, serving up delicious food. One of my personal favourite restaurants.</p>
     </div>
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Above%20Paternoster.jpg" alt="Above Paternoster, a watercolour of the village seen from the hill, blue roofs running down to the bay and a red boat on the sand"></div>
+      <h3 class="jono-item__title">Above Paternoster</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+      <p class="jono-item__desc">The village from the hill behind it. Blue roofs packed down to the water, a red boat pulled up on the white sand, and the birds going over under a heavy sky.</p>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Amsterdam%202.jpg" alt="Amsterdam, a watercolour of blossoms along a canal"></div>
       <h3 class="jono-item__title">Amsterdam</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
@@ -107,6 +113,12 @@ template: home.html
       <h3 class="jono-item__title">Montagu</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
       <p class="jono-item__desc">Route 62 country. Mountains and Victorian storefronts.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Paternoster.jpg" alt="Paternoster, a watercolour of the beach, mussel shells and a driftwood branch across the sand, the white village strung along the ridge and two walkers stopped on the path"></div>
+      <h3 class="jono-item__title">Paternoster</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+      <p class="jono-item__desc">The West Coast beach, mussel shells and kelp thrown up the sand, a driftwood branch across the front of the picture. The white village runs along the ridge and two walkers have stopped on the path. Painted from the ink sketch made on the day.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/R62%20-%20Prickly%20Pear%20Farm.jpg" alt="R62 Prickly Pear Farm, a watercolour"></div>
@@ -326,16 +338,17 @@ template: home.html
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Taj%20Mahal.jpg" alt="Taj Mahal, an ink and watercolour drawing of the pilgrim sitting in a moored boat on the river, the mausoleum on the far bank and doubled in the water"></div>
+      <h3 class="jono-item__title">Taj Mahal</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The seventh work in the Know Where series, and the sixth drawing. The pilgrim sitting in a moored boat with the mausoleum across the water, doubled in the surface. The first time he has sat down.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Amsterdam.jpg" alt="Amsterdam, an ink drawing of canal houses and moored boats reflected in the water"></div>
       <h3 class="jono-item__title">Amsterdam</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>
       <p class="jono-item__desc">The canal houses and the moored boats, drawn in ink and held in their own reflection.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/I%20Wish%20You%20Were%20Here.jpg" alt="I Wish You Were Here, an ink sketch of Paternoster, the whitewashed cottages along the shore and two walkers on the path, the only figures given colour"></div>
-      <h3 class="jono-item__title">I Wish You Were Here</h3>
-      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">Paternoster on the West Coast, the whitewashed cottages strung along the shore. Two walkers on the path, the only figures given colour.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Cape%20Columbine%20Lighthouse.jpg" alt="Cape Columbine Lighthouse, an ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised"></div>
