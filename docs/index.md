@@ -363,7 +363,7 @@ template: home.html
       <span class="jono-storyrow__title">The Netherlands</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
-    <a class="jono-storyrow" href="/stories/Called%20to%20Prayer/" target="_blank" rel="noopener">
+    <a class="jono-storyrow" href="/stories/Standing%20Outside/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">10</span>
       <span class="jono-storyrow__title">Called to Prayer</span>
       <span class="jono-storyrow__read">Read →</span>
