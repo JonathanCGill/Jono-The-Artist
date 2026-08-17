@@ -33,7 +33,7 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" alt="The Last Holiday, Amsterdam, an acrylic overlooking a pond in Amsterdam Noord"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
-      <p class="jono-item__desc">Overlooking a pond in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
+      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
     </div>
   </div>
 
@@ -52,8 +52,8 @@ template: home.html
       <p class="jono-item__desc">The flower blossoms add to the beauty of Amsterdam.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Moroni%20Grand%20Mosque.jpg" alt="Ancienne Mosquee du Vendredi Banjanani, a watercolour of the Moroni grand mosque"></div>
-      <h3 class="jono-item__title">Ancienne Mosquee du Vendredi Banjanani</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Moroni%20Grand%20Mosque.jpg" alt="Ancienne Mosquée du Vendredi Badjanani, a watercolour of the Moroni grand mosque"></div>
+      <h3 class="jono-item__title">Ancienne Mosquée du Vendredi Badjanani</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
@@ -68,9 +68,11 @@ template: home.html
       <p class="jono-item__desc">A lovely cafe on the canals in Amsterdam Noord.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Dunnets%20Head.jpg" alt="Dunnets Head Lighthouse, a watercolour"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Dunnets%20Head.jpg" alt="Dunnets Head Lighthouse, a watercolour of the Caithness light behind a drystone wall"></div>
       <h3 class="jono-item__title">Dunnets Head Lighthouse</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
+      <p class="jono-item__desc">The light at the top corner of the Scottish mainland, painted the way I found it. The reference the other lighthouses depart from.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Hemelsbreed.jpg" alt="Hemelsbreed, a watercolour of a farmhouse reflected in a dam near Greyton"></div>
@@ -117,8 +119,8 @@ template: home.html
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Rotterdam.jpg" alt="Rotterdam, a watercolour"></div>
-      <h3 class="jono-item__title">Rotterdam</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Rotterdam.jpg" alt="Rotterdam, Saint Alexander Nevsky, a watercolour of the Orthodox church and its gold onion dome"></div>
+      <h3 class="jono-item__title">Rotterdam, Saint Alexander Nevsky</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
@@ -156,8 +158,8 @@ template: home.html
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Hague.jpg" alt="The Hague, a watercolour"></div>
-      <h3 class="jono-item__title">The Hague</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Hague.jpg" alt="The Hague, Nieuwe Kerk, a watercolour of the octagonal church behind daffodils"></div>
+      <h3 class="jono-item__title">The Hague, Nieuwe Kerk</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
@@ -190,12 +192,6 @@ template: home.html
       <p class="jono-item__desc">A reflection on the way nature can take from us, often without warning, even the things we value most. No authority, influence or urgency can reclaim what has been lost once time begins to run out.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A%20Black%20Hole%20in%20the%20Kitchen.jpg" alt="A Black Hole in the Kitchen, a surreal acrylic"></div>
-      <h3 class="jono-item__title">A Black Hole in the Kitchen</h3>
-      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">Inspired by "Not Strong Enough" by boygenius.</p>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Bilboa.jpg" alt="Bilbao Guggenheim Museum, an acrylic"></div>
       <h3 class="jono-item__title">Bilbao, Guggenheim Museum</h3>
       <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2025</p>
@@ -214,22 +210,10 @@ template: home.html
       <p class="jono-item__desc">The official painting commemorating The Insect Hotel.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Love%20Vending%20Machine.jpg" alt="The Love Vending Machine, an acrylic"></div>
-      <h3 class="jono-item__title">The Love Vending Machine</h3>
-      <p class="jono-item__spec jono-spec">1500 × 2000 mm · Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">Channelling the positive energy of the Universe into human endeavours.</p>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Path.jpg" alt="The Path, an acrylic of a path to the Moon"></div>
       <h3 class="jono-item__title">The Path</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">A path to the Moon.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" alt="The Road to Know Where, an acrylic of a crossroads"></div>
-      <h3 class="jono-item__title">The Road to Know Where?</h3>
-      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
     </div>
   </div>
 
@@ -248,12 +232,6 @@ template: home.html
       <p class="jono-item__desc">Pushing the inspiration into new rooms. Black Hole in the Bathroom may be next.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Brain%20Scan.jpg" alt="Brain Scan, a watercolour"></div>
-      <h3 class="jono-item__title">Brain Scan</h3>
-      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
-      <p class="jono-item__desc">Brain scans help you feel better, maybe?</p>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Eye%20Field.jpg" alt="Eye Field, a watercolour"></div>
       <h3 class="jono-item__title">Eye Field</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
@@ -263,13 +241,15 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/To%20The%20Light%202.jpg" alt="Light Attraction, a watercolour"></div>
       <h3 class="jono-item__title">Light Attraction</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
-      <p class="jono-item__desc">Attracted to the light.</p>
+      <p class="jono-item__desc">Grasshoppers coming in on the beam, and the husks of the ones that already came piled at the foot of the tower. A beacon does not get to choose what it attracts.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/LightHouse.jpg" alt="LightHouse, a watercolour of a house made of light"></div>
       <h3 class="jono-item__title">LightHouse</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
-      <p class="jono-item__desc">A house made of light, or a lighthouse made into a home.</p>
+      <p class="jono-item__desc">A house made of light, or a lighthouse made into a home. White pen over dark washes, the full moon sitting directly behind the lamp.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Listening.jpg" alt="Listening, a watercolour"></div>
@@ -286,7 +266,8 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/To%20The%20Light%203.jpg" alt="Pollinating Light, a watercolour"></div>
       <h3 class="jono-item__title">Pollinating Light</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
-      <p class="jono-item__desc">Attracted to the light.</p>
+      <p class="jono-item__desc">A poppy field where every flower carries a lighthouse where the stamens should be, and the bees work it tower to tower. The light farmed rather than feared.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Sir%20Real.jpg" alt="Sir Real, a watercolour pun made visible"></div>
@@ -313,28 +294,35 @@ template: home.html
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/The%20Pilgrimage%20to%20Know%20Where.jpg" alt="The Pilgrimage to Know Where, an ink and watercolour drawing of a pilgrim in a town square"></div>
       <h3 class="jono-item__title">The Pilgrimage to Know Where</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The fourth work in the Know Where series, and the first drawing. A pilgrim on foot in the square, the only figure given colour.</p>
+      <p class="jono-item__desc">The second work in the Know Where series, and the first drawing. A pilgrim on foot in the square, the only figure given colour.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/The%20Pilgrimage%20to%20Know%20Where%20Too.jpg" alt="The Pilgrimage to Know Where Too, an ink and watercolour drawing of a pilgrim in a narrow street facing a cathedral"></div>
       <h3 class="jono-item__title">The Pilgrimage to Know Where Too</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The fifth work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
+      <p class="jono-item__desc">The third work in the Know Where series, and the second drawing. The pilgrim in a narrow street, the cathedral dead ahead, still the only figure given colour.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/A%20Lighthouse%20to%20Know%20Where.jpg" alt="A Lighthouse to Know Where, an ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse"></div>
       <h3 class="jono-item__title">A Lighthouse to Know Where</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The sixth work in the Know Where series, and the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</p>
+      <p class="jono-item__desc">The fourth work in the Know Where series, and the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/A%20Reflection%20on%20Know%20Where.jpg" alt="A Reflection on Know Where, an ink and watercolour drawing of a pilgrim at the water in a city, the buildings doubled in the surface"></div>
       <h3 class="jono-item__title">A Reflection on Know Where</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The seventh work in the Know Where series, and the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</p>
+      <p class="jono-item__desc">The fifth work in the Know Where series, and the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Know%20Where%20My%20Mind's%20At.jpg" alt="Know Where My Mind's At, an ink and watercolour drawing of a pilgrim walking a formal garden avenue toward Bedlam"></div>
+      <h3 class="jono-item__title">Know Where My Mind's At</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The sixth work in the Know Where series, and the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
@@ -342,6 +330,19 @@ template: home.html
       <h3 class="jono-item__title">Amsterdam</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>
       <p class="jono-item__desc">The canal houses and the moored boats, drawn in ink and held in their own reflection.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/I%20Wish%20You%20Were%20Here.jpg" alt="I Wish You Were Here, an ink sketch of Paternoster, the whitewashed cottages along the shore and two walkers on the path, the only figures given colour"></div>
+      <h3 class="jono-item__title">I Wish You Were Here</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">Paternoster on the West Coast, the whitewashed cottages strung along the shore. Two walkers on the path, the only figures given colour.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Cape%20Columbine%20Lighthouse.jpg" alt="Cape Columbine Lighthouse, an ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised"></div>
+      <h3 class="jono-item__title">Cape Columbine Lighthouse</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The squat fluted tower on the granite at Paternoster, red lantern above, keeper's houses to the right. A walker out on the boulders with his arm raised, the only colour in the drawing.</p>
+      <a class="jono-textlink" href="/stories/Lighthouses/">Read the story →</a>
     </div>
   </div>
 </section>
@@ -366,19 +367,6 @@ template: home.html
     </div>
   </div>
 
-  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Other works</p>
-  <div class="jono-row3">
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Saving%20Thwaites%20Glacier.jpg" alt="Saving Thwaites Glacier, an acrylic painting"></div>
-      <h3 class="jono-item__title">Saving Thwaites Glacier</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Canvas · 2026</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Global%20Peace%20Conference.jpg" alt="The Global Peace Conference, an acrylic painting"></div>
-      <h3 class="jono-item__title">The Global Peace Conference</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Canvas · 2025</p>
-    </div>
-  </div>
 
 <div class="social-links" style="margin-top:80px">
   <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>

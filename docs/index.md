@@ -32,7 +32,7 @@ template: home.html
 
 <div class="jono-labelrow">
   <span class="l">§ The collections</span>
-  <span class="r">Four series</span>
+  <span class="r">Three series</span>
 </div>
 
 <section class="jono-series">
@@ -60,14 +60,6 @@ template: home.html
       <p class="jono-card__num">03</p>
       <h3 class="jono-card__title">Parareal</h3>
       <p class="jono-card__desc">The same world, seen from a different seat.</p>
-    </a>
-    <a class="jono-card" href="#know-where">
-      <div class="jono-frame jono-frame--45">
-        <img loading="lazy" decoding="async" src="acrylic/The%20Drop%20to%20Know%20Where.jpg" width="2083" height="2648" alt="The Drop to Know Where, an acrylic painting of a droplet about to fall">
-      </div>
-      <p class="jono-card__num">04</p>
-      <h3 class="jono-card__title">Know Where</h3>
-      <p class="jono-card__desc">One road, an unknown destination, and the weather that arrives uninvited.</p>
     </a>
   </div>
 </section>
@@ -220,7 +212,7 @@ template: home.html
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="1000" height="750" alt="The Last Holiday, Amsterdam, an acrylic landscape"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2025</p>
-      <p class="jono-item__desc">Overlooking a pond in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
+      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
     </div>
   </div>
 
@@ -281,16 +273,10 @@ template: home.html
       <p class="jono-item__desc">The official painting commemorating The Insect Hotel.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2149" height="2824" alt="The Road to Know Where, an acrylic painting"></div>
-      <h3 class="jono-item__title">The Road to Know Where?</h3>
-      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">At a crossroads. A path chosen, but the destination unknown.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Love%20Vending%20Machine.jpg" width="1500" height="2000" alt="The Love Vending Machine, an acrylic painting"></div>
-      <h3 class="jono-item__title">The Love Vending Machine</h3>
-      <p class="jono-item__spec jono-spec">1500 × 2000 mm · Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">Channelling the positive energy of the Universe into human endeavours.</p>
+      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Path.jpg" width="3028" height="2255" alt="The Path, an acrylic painting of a path to the Moon"></div>
+      <h3 class="jono-item__title">The Path</h3>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
+      <p class="jono-item__desc">A path to the Moon.</p>
     </div>
   </div>
 
@@ -312,39 +298,6 @@ template: home.html
         <h3 class="jono-item__title">Listening</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
-    </div>
-  </div>
-</section>
-
-<section id="know-where" class="jono-knowwhere">
-  <p class="jono-eyebrow">§ 04 — Know Where</p>
-  <div class="jono-intro">
-    <h2 class="jono-h2">A journey with an unknown destination, and the weather that arrives uninvited.</h2>
-    <p class="jono-intro__body">Three paintings, one road. The uncertain step at the crossroads, the arrival somewhere worth arriving at, and the drop that gravity was always going to take. You set out not knowing where you are going, and something unexpected is already on its way.</p>
-  </div>
-
-  <div class="jono-knowwhere__feature">
-    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2149" height="2824" alt="The Road to Know Where?, an acrylic painting of a crossroads"></div>
-    <div class="jono-knowwhere__ftext">
-      <h3 class="title">The Road to Know Where?</h3>
-      <p class="jono-spec">Acryla Gouache · Canvas · 2026</p>
-      <p class="desc">The start. At a crossroads, a path chosen but the destination unknown. It is a little foreboding to step from safety into the unfamiliar, not knowing where it leads, who you will meet, or how you will feel when you arrive.</p>
-      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
-    </div>
-  </div>
-
-  <div class="jono-row3" style="margin-top:64px">
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Somewhere%20One.jpg" width="1000" height="750" alt="The Road to Somewhere (Part One), an acrylic landscape reimagining the R62"></div>
-      <h3 class="jono-item__title">The Road to Somewhere (Part One)</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">The arrival. Abundant fruit, colour, a beautiful house at the end of the road. Aspirational rather than documentary, and a good place to stop, though the journey is not over.</p>
-    </div>
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Drop%20to%20Know%20Where.jpg" width="2083" height="2648" alt="The Drop to Know Where, an acrylic painting of a droplet about to fall"></div>
-      <h3 class="jono-item__title">The Drop to Know Where</h3>
-      <p class="jono-item__spec jono-spec">Acrylic · Acryla Gouache · Canvas · 2026</p>
-      <p class="jono-item__desc">The unexpected. You live in a bubble, a comfort zone, or here a droplet. Gravity is going to take it no matter what, and if you do not anticipate the fall, you go down with it.</p>
     </div>
   </div>
 </section>
@@ -377,7 +330,7 @@ template: home.html
     </a>
     <a class="jono-storyrow" href="/stories/The-Road-to-Know-Where/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">03</span>
-      <span class="jono-storyrow__title">The Road to Know Where</span>
+      <span class="jono-storyrow__title">The Know Where Series</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
     <a class="jono-storyrow" href="/stories/Guggenheim/" target="_blank" rel="noopener">
@@ -388,6 +341,31 @@ template: home.html
     <a class="jono-storyrow" href="/stories/The%20Insect%20Hotel/" target="_blank" rel="noopener">
       <span class="jono-storyrow__num">05</span>
       <span class="jono-storyrow__title">The Grand Insect Hotel</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/Lighthouses/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">06</span>
+      <span class="jono-storyrow__title">Lighthouses</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/Aeromechanica/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">07</span>
+      <span class="jono-storyrow__title">Aeromechanica</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/The%20Villages/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">08</span>
+      <span class="jono-storyrow__title">The Villages</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/The%20Netherlands/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">09</span>
+      <span class="jono-storyrow__title">The Netherlands</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/Standing%20Outside/" target="_blank" rel="noopener">
+      <span class="jono-storyrow__num">10</span>
+      <span class="jono-storyrow__title">Called to Prayer</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
   </div>

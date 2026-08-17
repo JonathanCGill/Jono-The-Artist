@@ -41,11 +41,16 @@ nav:
   - Collection: collection.md
   - Stories:
     - stories/index.md
+    - Aeromechanica: stories/Aeromechanica/index.md
     - Cantabrian Mountains: stories/Cantabrian Mountains/index.md
     - Guggenheim: stories/Guggenheim/index.md
+    - Lighthouses: stories/Lighthouses/index.md
+    - Called to Prayer: stories/Standing Outside/index.md
     - The Know Where Series: stories/The-Road-to-Know-Where/index.md
     - The Grand Insect Hotel: stories/The Insect Hotel/index.md
     - The Last Holiday: stories/The Last Holiday/index.md
+    - The Netherlands: stories/The Netherlands/index.md
+    - The Villages: stories/The Villages/index.md
   - Essays: essays.md
   - About: about.md
   - Catalogue: catalogue.md

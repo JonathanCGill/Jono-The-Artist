@@ -20,39 +20,23 @@ template: home.html
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">68 works catalogued</span>
+      <span class="jono-catalog__count">66 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
 
   <div class="jono-catalog__group">
     <p class="jono-sublabel">Know Where — acrylics on canvas</p>
-    <p class="jono-catalog__grouplead">The three-painting journey series.</p>
+    <p class="jono-catalog__grouplead">The journey series. The drawings that carry it on are listed under Drawings.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">KW-01</td>
-      <td data-label="Title"><span class="cat-title">The Road to Know Where?<small>The crossroads. Start of the series.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">KW-02</td>
-      <td data-label="Title"><span class="cat-title">The Road to Somewhere (Part One)<small>The arrival. Reimagining the R62.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Road to Somewhere (Part One)<small>The destination. Reimagining the R62.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">KW-03</td>
-      <td data-label="Title"><span class="cat-title">The Drop to Know Where<small>The unexpected. A droplet gravity was always going to take.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Acrylic &amp; Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>
@@ -195,7 +179,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RA-03</td>
-      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking a pond in Amsterdam Noord.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking the Grote Die in Amsterdam Noord.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
@@ -228,7 +212,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-03</td>
-      <td data-label="Title"><span class="cat-title">Ancienne Mosquee du Vendredi Banjanani<small>The Moroni grand mosque.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Ancienne Mosquée du Vendredi Badjanani<small>The Moroni grand mosque.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -252,7 +236,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-06</td>
-      <td data-label="Title"><span class="cat-title">Dunnets Head Lighthouse</span></td>
+      <td data-label="Title"><span class="cat-title">Dunnets Head Lighthouse<small>The Caithness light, painted as found. The reference the other lighthouses depart from.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -308,7 +292,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-13</td>
-      <td data-label="Title"><span class="cat-title">Rotterdam</span></td>
+      <td data-label="Title"><span class="cat-title">Rotterdam, Saint Alexander Nevsky<small>The Orthodox church in the park.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -372,7 +356,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RW-21</td>
-      <td data-label="Title"><span class="cat-title">The Hague</span></td>
+      <td data-label="Title"><span class="cat-title">The Hague, Nieuwe Kerk<small>The octagonal church, hemmed in by flats.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -429,14 +413,6 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-02</td>
-      <td data-label="Title"><span class="cat-title">A Black Hole in the Kitchen<small>After &quot;Not Strong Enough&quot; by boygenius.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">SA-03</td>
       <td data-label="Title"><span class="cat-title">Bilbao, Guggenheim Museum<small>Elevating the titanium-clad building and its art.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -444,7 +420,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-04</td>
+      <td class="cat-ref" data-label="Ref">SA-03</td>
       <td data-label="Title"><span class="cat-title">Hot Air Play<small>Fantasy world viewed from hot air.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -452,7 +428,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2024</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-05</td>
+      <td class="cat-ref" data-label="Ref">SA-04</td>
       <td data-label="Title"><span class="cat-title">The Grand Insect Hotel<small>Commemorating The Insect Hotel.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -460,15 +436,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SA-06</td>
-      <td data-label="Title"><span class="cat-title">The Love Vending Machine<small>Channelling the positive energy of the Universe.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size">1500 × 2000 mm</td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">SA-07</td>
+      <td class="cat-ref" data-label="Ref">SA-05</td>
       <td data-label="Title"><span class="cat-title">The Path<small>A path to the Moon.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
@@ -502,14 +470,6 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-03</td>
-      <td data-label="Title"><span class="cat-title">Brain Scan</span></td>
-      <td class="cat-spec" data-label="Medium">Watercolour</td>
-      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
-      <td class="cat-spec" data-label="Size">A3</td>
-      <td class="cat-spec" data-label="Year">2025</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">SW-04</td>
       <td data-label="Title"><span class="cat-title">Eye Field<small>Who is checking out the world?</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -517,23 +477,23 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-05</td>
-      <td data-label="Title"><span class="cat-title">Light Attraction<small>Attracted to the light.</small></span></td>
+      <td class="cat-ref" data-label="Ref">SW-04</td>
+      <td data-label="Title"><span class="cat-title">Light Attraction<small>Grasshoppers coming in on the beam, and the husks of the ones that already came.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-06</td>
-      <td data-label="Title"><span class="cat-title">LightHouse<small>A house made of light.</small></span></td>
+      <td class="cat-ref" data-label="Ref">SW-05</td>
+      <td data-label="Title"><span class="cat-title">LightHouse<small>A house made of light. White pen over dark washes, the moon behind the lamp.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-07</td>
+      <td class="cat-ref" data-label="Ref">SW-06</td>
       <td data-label="Title"><span class="cat-title">Listening<small>With all our technology, who is really listening?</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -541,7 +501,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-08</td>
+      <td class="cat-ref" data-label="Ref">SW-07</td>
       <td data-label="Title"><span class="cat-title">Music Poppy</span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -549,15 +509,15 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-09</td>
-      <td data-label="Title"><span class="cat-title">Pollinating Light<small>Attracted to the light.</small></span></td>
+      <td class="cat-ref" data-label="Ref">SW-08</td>
+      <td data-label="Title"><span class="cat-title">Pollinating Light<small>A poppy field of lighthouses, worked by bees. The light farmed rather than feared.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-10</td>
+      <td class="cat-ref" data-label="Ref">SW-09</td>
       <td data-label="Title"><span class="cat-title">Sir Real<small>A watercolour pun made visible.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -565,7 +525,7 @@ template: home.html
       <td class="cat-spec" data-label="Year">2025</td>
     </tr>
     <tr>
-      <td class="cat-ref" data-label="Ref">SW-11</td>
+      <td class="cat-ref" data-label="Ref">SW-10</td>
       <td data-label="Title"><span class="cat-title">The Passage</span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
@@ -583,7 +543,7 @@ template: home.html
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-01</td>
-      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where<small>The fourth Know Where work. The pilgrim is the only figure in colour.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where<small>The second Know Where work, the first drawing. The pilgrim is the only figure in colour.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -591,7 +551,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-02</td>
-      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where Too<small>The fifth Know Where work, the second drawing. The pilgrim in a narrow street, the cathedral ahead.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Pilgrimage to Know Where Too<small>The third Know Where work, the second drawing. The pilgrim in a narrow street, the cathedral ahead.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -607,7 +567,7 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-04</td>
-      <td data-label="Title"><span class="cat-title">A Lighthouse to Know Where<small>The sixth Know Where work, the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Lighthouse to Know Where<small>The fourth Know Where work, the third drawing. A boardwalk across the stones to a lighthouse, a light to steer by, not to reach.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -615,7 +575,23 @@ template: home.html
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-05</td>
-      <td data-label="Title"><span class="cat-title">A Reflection on Know Where<small>The seventh Know Where work, the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</small></span></td>
+      <td data-label="Title"><span class="cat-title">A Reflection on Know Where<small>The fifth Know Where work, the fourth drawing. The pilgrim at the water in a city, the place doubled in the surface behind him.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-06</td>
+      <td data-label="Title"><span class="cat-title">Know Where My Mind's At<small>The sixth Know Where work, the fifth drawing. The pilgrim on a formal avenue walking into Bedlam, order outside and the asylum within.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-07</td>
+      <td data-label="Title"><span class="cat-title">Cape Columbine Lighthouse<small>The fluted tower on the granite at Paternoster, and a walker on the boulders with his arm raised.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -642,30 +618,6 @@ template: home.html
       <td class="cat-ref" data-label="Ref">PT-02</td>
       <td data-label="Title"><span class="cat-title">The Girl with the Plastic Earrings<small>A take on Vermeer&#x27;s Girl with a Pearl Earring.</small></span></td>
       <td class="cat-spec" data-label="Medium"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Year">2025</td>
-    </tr>
-      </tbody>
-    </table>
-  </div>
-  <div class="jono-catalog__group">
-    <p class="jono-sublabel">Other works</p>
-    <table class="jono-cat-table">
-      <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
-      <tbody>
-    <tr>
-      <td class="cat-ref" data-label="Ref">OT-01</td>
-      <td data-label="Title"><span class="cat-title">Saving Thwaites Glacier</span></td>
-      <td class="cat-spec" data-label="Medium">Acrylic</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">OT-02</td>
-      <td data-label="Title"><span class="cat-title">The Global Peace Conference</span></td>
-      <td class="cat-spec" data-label="Medium">Acrylic</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
       <td class="cat-spec" data-label="Year">2025</td>

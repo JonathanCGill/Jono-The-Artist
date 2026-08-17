@@ -44,13 +44,28 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Know Where Series](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
+[![The Know Where Series](The-Road-to-Know-Where/The%20Pilgrimage%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/)
 
 <div class="card-info" markdown>
 
 **The Know Where Series**
 
-Acryla Gouache · Canvas
+Acryla Gouache · Ink & Watercolour
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![Lighthouses](Lighthouses/Pollinating%20Light.jpg){ .gallery-img loading=lazy }](Lighthouses/)
+
+<div class="card-info" markdown>
+
+**Lighthouses**
+
+Watercolour · Ink & Watercolour
 { .card-medium }
 
 </div>
@@ -81,6 +96,66 @@ Acryla Gouache · Canvas
 **The Grand Insect Hotel**
 
 750 × 1000 mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![Aeromechanica](Aeromechanica/Lucanus%20Aeromechanica%20Avronis.jpg){ .gallery-img loading=lazy }](Aeromechanica/)
+
+<div class="card-info" markdown>
+
+**Aeromechanica**
+
+Watercolour · Vellum · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![The Villages](The%20Villages/McGregor.jpg){ .gallery-img loading=lazy }](The%20Villages/)
+
+<div class="card-info" markdown>
+
+**The Villages**
+
+Watercolour · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![The Netherlands](The%20Netherlands/Amsterdam.jpg){ .gallery-img loading=lazy }](The%20Netherlands/)
+
+<div class="card-info" markdown>
+
+**The Netherlands**
+
+Watercolour · Ink · Acryla Gouache
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![Called to Prayer](Standing%20Outside/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Standing%20Outside/)
+
+<div class="card-info" markdown>
+
+**Called to Prayer**
+
+Watercolour · Ink & Watercolour · Acrylic
 { .card-medium }
 
 </div>

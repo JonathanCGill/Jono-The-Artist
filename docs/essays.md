@@ -12,20 +12,6 @@ Personal essays, written to express my own opinions on things of concern or inte
 
 <div class="essay-card-content" markdown>
 
-### [The Wish That Scales](essays/the-wish-that-scales.md)
-
-Jonathan Gill, May 2026
-
-On a class of hope that does not fit at human scale, why the absurd methods in some of my paintings are the point rather than the flaw, and why the smirk is the wrong response to wishes this size.
-
-</div>
-
-</div>
-
-<div class="essay-card" markdown>
-
-<div class="essay-card-content" markdown>
-
 ### [Painting with a Critic](essays/painting-with-a-critic.md)
 
 Jonathan Gill, April 2026
