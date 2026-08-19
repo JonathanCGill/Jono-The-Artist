@@ -1,3 +1,8 @@
+---
+description: >-
+  An invented aviation company assembled out of its own paperwork: wartime specimen plates, blueprints, a cocoa-powered airliner, and the family album that gives the whole history away.
+---
+
 # Aeromechanica
 
 <div class="story" markdown>
@@ -12,7 +17,7 @@
 
 <div class="image-meta">1941</div>
 
-![Lucanus Aeromechanica Avronis - watercolour specimen plate of a stag beetle on an Avro airframe with RAF roundels](Lucanus%20Aeromechanica%20Avronis.jpg){ .story-img loading=lazy }
+![Lucanus Aeromechanica Avronis - watercolour specimen plate of a stag beetle on an Avro airframe with RAF roundels](Lucanus%20Aeromechanica%20Avronis.jpg){ .story-img loading=lazy width="2890" height="1779" }
 
 </div>
 
@@ -22,7 +27,7 @@
 
 <div class="image-meta">1942</div>
 
-![Culex Aeromechanica De Havillandii - watercolour specimen plate of a mosquito as a De Havilland Mosquito, with a data box](Culex%20Aeromechanica%20De%20Havillandii.jpg){ .story-img loading=lazy }
+![Culex Aeromechanica De Havillandii - watercolour specimen plate of a mosquito as a De Havilland Mosquito, with a data box](Culex%20Aeromechanica%20De%20Havillandii.jpg){ .story-img loading=lazy width="2786" height="1984" }
 
 </div>
 
@@ -32,7 +37,7 @@
 
 <div class="image-meta">1943</div>
 
-![Promachus Aeromechanicus Crucifer - watercolour specimen plate of a robber fly in splinter camouflage with Balkenkreuze](Promachus%20Aeromechanicus%20Crucifer.jpg){ .story-img loading=lazy }
+![Promachus Aeromechanicus Crucifer - watercolour specimen plate of a robber fly in splinter camouflage with Balkenkreuze](Promachus%20Aeromechanicus%20Crucifer.jpg){ .story-img loading=lazy width="2242" height="1617" }
 
 </div>
 
@@ -42,7 +47,7 @@
 
 <div class="image-meta">1943</div>
 
-![Vespa Aeromechanica Crabro - watercolour of a hornet built onto a Bf 109 nose with Luftwaffe markings](Vespa%20Aeromechanica%20Crabro.jpg){ .story-img loading=lazy }
+![Vespa Aeromechanica Crabro - watercolour of a hornet built onto a Bf 109 nose with Luftwaffe markings](Vespa%20Aeromechanica%20Crabro.jpg){ .story-img loading=lazy width="2696" height="1852" }
 
 </div>
 
@@ -52,7 +57,7 @@
 
 <div class="image-meta">1945</div>
 
-![Libellula Aviatica - acrylic painting of a dragonfly given the airframe of a biplane, over water under a full moon](Libellula%20Aviatica.jpg){ .story-img loading=lazy }
+![Libellula Aviatica - acrylic painting of a dragonfly given the airframe of a biplane, over water under a full moon](Libellula%20Aviatica.jpg){ .story-img loading=lazy width="2440" height="1963" }
 
 </div>
 
@@ -68,7 +73,7 @@
 
 <div class="image-meta">1958 · the pivot</div>
 
-![Avis Aeromechanica Paciferus - watercolour of a swept gull-wing jet bird in plan and front elevation, with a data box](Avis%20Aeromechanica%20Paciferus.jpg){ .story-img loading=lazy }
+![Avis Aeromechanica Paciferus - watercolour of a swept gull-wing jet bird in plan and front elevation, with a data box](Avis%20Aeromechanica%20Paciferus.jpg){ .story-img loading=lazy width="2544" height="1832" }
 
 </div>
 
@@ -78,7 +83,7 @@
 
 <div class="image-meta">2019</div>
 
-![Aeromechanica top profile - watercolour blueprint of the Chocolatus with the high-nutrition bypass propulsion engine detailed](Aeromechanica%20Top%20Profile.jpg){ .story-img loading=lazy }
+![Aeromechanica top profile - watercolour blueprint of the Chocolatus with the high-nutrition bypass propulsion engine detailed](Aeromechanica%20Top%20Profile.jpg){ .story-img loading=lazy width="3272" height="2296" }
 
 </div>
 
@@ -88,7 +93,7 @@
 
 <div class="image-meta">2021</div>
 
-![Aeromechanica Chocolatus Airframe Cutaway - ink, pastel and watercolour cutaway showing the cabin, engine and trademarked components](Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg){ .story-img loading=lazy }
+![Aeromechanica Chocolatus Airframe Cutaway - ink, pastel and watercolour cutaway showing the cabin, engine and trademarked components](Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg){ .story-img loading=lazy width="2915" height="2081" }
 
 </div>
 
@@ -98,7 +103,7 @@
 
 <div class="image-meta">2022</div>
 
-![Aeromechanica Chocolatus Cockpit - watercolour and ink of the flight deck with seed sacks, cocoa reserves and eject levers](Aeromechanica%20Chocolatus%20Cockpit.jpg){ .story-img loading=lazy }
+![Aeromechanica Chocolatus Cockpit - watercolour and ink of the flight deck with seed sacks, cocoa reserves and eject levers](Aeromechanica%20Chocolatus%20Cockpit.jpg){ .story-img loading=lazy width="2443" height="1765" }
 
 </div>
 
@@ -108,7 +113,7 @@
 
 <div class="image-meta">2024</div>
 
-![Avis Aeromechanica Chocolatus - acrylic painting of the cocoa-powered airliner passing a banded lighthouse at sunset](Avis%20Aeromechanica%20Chocolatus.jpg){ .story-img loading=lazy }
+![Avis Aeromechanica Chocolatus - acrylic painting of the cocoa-powered airliner passing a banded lighthouse at sunset](Avis%20Aeromechanica%20Chocolatus.jpg){ .story-img loading=lazy width="2998" height="2166" }
 
 </div>
 
@@ -118,7 +123,7 @@
 
 <div class="image-meta">2025</div>
 
-![Aeromechanica Musculus - acrylic painting of the whale-sized double-decker in Aeromech livery climbing away from a night city](Aeromechanica%20Musculus.jpg){ .story-img loading=lazy }
+![Aeromechanica Musculus - acrylic painting of the whale-sized double-decker in Aeromech livery climbing away from a night city](Aeromechanica%20Musculus.jpg){ .story-img loading=lazy width="1863" height="2597" }
 
 </div>
 
@@ -128,7 +133,7 @@
 
 <div class="image-meta">2026</div>
 
-![Aeromechanica Chocolatus Evolution - four panels in photo corners dated 1972, 1976, 1985 and 2026](Aeromechanica%20Chocolatus%20Evolution.jpg){ .story-img loading=lazy }
+![Aeromechanica Chocolatus Evolution - four panels in photo corners dated 1972, 1976, 1985 and 2026](Aeromechanica%20Chocolatus%20Evolution.jpg){ .story-img loading=lazy width="2178" height="3005" }
 
 </div>
 
@@ -148,7 +153,7 @@ Then there is the other half of the drawer. *Promachus Aeromechanicus Crucifer* 
 
 After that it goes commercial, and the drawings change character completely. The top profile is a proper specification sheet: capacity 36, range 200 miles, cruise 220 knots, 2.5 wingbeats a second, style listed as hummingbird. Alongside it, drawn out in full, the High-Nutrition Bypass Propulsion Engine, two hearts, a turbo pump, a mixer, oxygen cylinders, feed lines labelled chocolate, protein, fats and carbs, a bronchial fan array, and a CO2 extractor drawn as a plant in a terracotta pot. Thirty-six seats and two hundred miles is not a flagship. It is a regional aircraft, and every airline in history has started with one.
 
-The cutaway is where the company stops being a joke about war and becomes a joke about business. The title block reads Aeromech, with a trademark symbol, and so does half the aircraft. Skeleto airframe. Flapetron engine. Dove Tail. Somebody in that office has been through the registration process for a tail. The cabin is sectioned like any airliner cutaway, and the labels run first class, then not first class, then galley, bathroom, fuel storage, internet, rear talon wheels. There is a class system in a bird. The cockpit sheet finishes it: two seats, an eject lever each, sacks of seed stacked against the bulkhead, drums of 100% cocoa, a row of smoothie glasses on the centre console, controls marked seed, mix and cut, and Aeromech lettered across the sill where the airline name goes.
+The cutaway is where the company stops being a joke about war and becomes a joke about business. The title block reads Aeromech, with a trademark symbol, and so does half the aircraft. Skeleto airframe. Flaperon engine. Dove Tail. Somebody in that office has been through the registration process for a tail. The cabin is sectioned like any airliner cutaway, and the labels run first class, then not first class, then galley, bathroom, fuel storage, internet, rear talon wheels. There is a class system in a bird. The cockpit sheet finishes it: two seats, an eject lever each, sacks of seed stacked against the bulkhead, drums of 100% cocoa, a row of smoothie glasses on the centre console, controls marked seed, mix and cut, and Aeromech lettered across the sill where the airline name goes.
 
 Nothing on any of those sheets explains what actually flies the thing. The engine plate gives you the plumbing, the cutaway gives you the seating, the cockpit gives you three levers and a row of glasses, and none of it accounts for five hundred seats of animal holding a stable cruise at altitude. That part is FlightGPT, and it is not drawn because it has no shape. Aeromech took the thing a bird already knows, the part that keeps a starling inside a murmuration without a single instruction being issued, and ran a large language model on top of it. The bird flies. The model explains the flying.
 

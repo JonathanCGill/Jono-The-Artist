@@ -1,10 +1,15 @@
+---
+description: >-
+  About Jonathan Gill: how the paintings are made, what the series share, and why none of the images on this site are AI-generated.
+---
+
 # About
 
 <div class="about-hero" markdown>
 
 <div class="about-photo" markdown>
 
-![Jono, Self Portrait](acrylic/Me.jpg){ .about-img loading=lazy }
+![Jono, Self Portrait](acrylic/Me.jpg){ .about-img loading=lazy width="2286" height="2264" }
 
 </div>
 

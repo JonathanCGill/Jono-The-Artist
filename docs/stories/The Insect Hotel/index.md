@@ -1,3 +1,8 @@
+---
+description: >-
+  How a real insect house built for solitary bees and lacewings became the scaffolding for a painting.
+---
+
 # The Grand Insect Hotel
 
 <div class="story" markdown>
@@ -6,7 +11,7 @@
 
 <div class="image-label">The Painting</div>
 
-![The Grand Insect Hotel](The%20Grand%20Insect%20Hotel.jpg){ .story-img loading=lazy }
+![The Grand Insect Hotel](The%20Grand%20Insect%20Hotel.jpg){ .story-img loading=lazy width="2155" height="2874" }
 
 </div>
 
@@ -16,7 +21,7 @@
 
 <div class="image-label">Insect House</div>
 
-![Insect house with bamboo tubes and compartments](20260228_124032.jpg){ .story-img loading=lazy }
+![Insect house with bamboo tubes and compartments](20260228_124032.jpg){ .story-img loading=lazy width="1746" height="2433" }
 
 </div>
 
@@ -24,7 +29,7 @@
 
 <div class="image-label">Bee Hotel</div>
 
-![Wooden bee hotel with drilled holes](BeeHotel3.jpg){ .story-img loading=lazy }
+![Wooden bee hotel with drilled holes](BeeHotel3.jpg){ .story-img loading=lazy width="2220" height="3946" }
 
 </div>
 
@@ -32,7 +37,7 @@
 
 <div class="image-label">Ladybird</div>
 
-![Ladybird on a thorny stem](20240709_104642~2.jpg){ .story-img loading=lazy }
+![Ladybird on a thorny stem](20240709_104642~2.jpg){ .story-img loading=lazy width="1551" height="1326" }
 
 </div>
 
@@ -40,7 +45,7 @@
 
 <div class="image-label">Butterfly</div>
 
-![Butterfly on blue flowers](_DSC9690.jpg){ .story-img loading=lazy }
+![Butterfly on blue flowers](_DSC9690.jpg){ .story-img loading=lazy width="1193" height="1193" }
 
 </div>
 
@@ -48,7 +53,7 @@
 
 <div class="image-label">Wildflowers</div>
 
-![Wildflowers against the coast](2024-02-05(7).jpg){ .story-img loading=lazy }
+![Wildflowers against the coast](Wildflowers.jpg){ .story-img loading=lazy width="2555" height="952" }
 
 </div>
 

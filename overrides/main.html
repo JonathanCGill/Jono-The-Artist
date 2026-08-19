@@ -1,6 +1,24 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+{# Critical header styles, inline so the masthead never paints unstyled.
+   jono.css is the last of eight render-blocking sheets and four of those sit
+   on third-party hosts, so a slow font host used to leave the nav showing
+   default blue underlined links for a beat. These rules are a subset of
+   jono.css and must stay in step with it. #}
+{# favicon.png (192x192) is the high-resolution mark; wire it up so iOS has
+   an icon to use rather than screenshotting the page. #}
+<link rel="apple-touch-icon" href="{{ 'favicon.png' | url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+<style>
+  .jono-header{background:rgba(243,241,234,.86);border-bottom:1px solid #ddd9ce}
+  .jono-header a{text-decoration:none}
+  .jono-nav a{color:#6b6862;text-decoration:none;border-bottom:1px solid transparent}
+  .jono-wordmark__name{color:#1c1b18}
+  .jono-wordmark__sub{color:#345c78}
+</style>
 {# Social sharing / SEO: Open Graph + Twitter Card #}
 {% set og_title = config.site_name if page.is_homepage else (page.title ~ " · " ~ config.site_name) %}
 {% set og_image = "https://jonoart.co.za/acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg" %}

@@ -1,3 +1,8 @@
+---
+description: >-
+  Air as the most fundamental commons, how rational actors collectively destroy shared resources, and why the climate movement's dogmatism has undermined its own cause.
+---
+
 # The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action
 
 <div class="essay" markdown>
@@ -46,7 +51,7 @@ The rhetorical choices have not helped. Apocalyptic framing functions as a count
 
 The denial industry exploited every fracture. Naomi Oreskes and Erik Conway documented the playbook in *Merchants of Doubt* (2010). Climate denial never needed to win the scientific argument. It only needed to manufacture enough doubt to delay action. And delay is all that was required. Every year of inaction added gigatonnes to the atmospheric burden and raised the cost of transition. The denial machine understood something the climate movement did not: in the tragedy of the commons, the default is exploitation. You do not need to argue for it. You only need to prevent coordination. The movement's dogmatism made that job considerably easier.
 
-So here we are in 2026. A policy landscape saturated with climate rhetoric and almost entirely inadequate to the problem. The Paris Agreement of 2015 set targets. Most signatories are not meeting them. Carbon markets are riddled with dubious offsets. Renewables are growing impressively, but global emissions have not peaked. Fossil fuel subsidies persist. New gas infrastructure is being built. The progress is real. It is not enough. And the gap between what has been achieved and what is needed is widened, not narrowed, by a movement that cannot agree on what "enough" looks like.
+So here we are in 2026. A policy regime saturated with climate rhetoric and almost entirely inadequate to the problem. The Paris Agreement of 2015 set targets. Most signatories are not meeting them. Carbon markets are riddled with dubious offsets. Renewables are growing impressively, but global emissions have not peaked. Fossil fuel subsidies persist. New gas infrastructure is being built. The progress is real. It is not enough. And the gap between what has been achieved and what is needed is widened, not narrowed, by a movement that cannot agree on what "enough" looks like.
 
 ## The Backwards Slide
 

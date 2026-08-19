@@ -1,3 +1,8 @@
+---
+description: >-
+  Eight buildings in four countries, all of them built to call people in, and not one interior painted among them.
+---
+
 # Called to Prayer
 
 <div class="story" markdown>
@@ -8,7 +13,7 @@
 
 <div class="image-label">McGregor NG Kerk</div>
 
-![McGregor NG Kerk - watercolour of the yellow village church with its clock tower, an orange path to the door and the whole building doubled in water](McGregor%20NG%20Kerk.jpg){ .story-img loading=lazy }
+![McGregor NG Kerk - watercolour of the yellow village church with its clock tower, an orange path to the door and the whole building doubled in water](McGregor%20NG%20Kerk.jpg){ .story-img loading=lazy width="1931" height="2630" }
 
 </div>
 
@@ -16,7 +21,7 @@
 
 <div class="image-label">Rotterdam, Saint Alexander Nevsky</div>
 
-![Rotterdam - watercolour of the Orthodox Church of Saint Alexander Nevsky, its gold onion dome standing among bare trees](Rotterdam.jpg){ .story-img loading=lazy }
+![Rotterdam - watercolour of the Orthodox Church of Saint Alexander Nevsky, its gold onion dome standing among bare trees](Rotterdam.jpg){ .story-img loading=lazy width="3213" height="2278" }
 
 </div>
 
@@ -24,7 +29,7 @@
 
 <div class="image-label">The Hague, Nieuwe Kerk</div>
 
-![The Hague, Nieuwe Kerk - watercolour of the octagonal church hemmed in by flats, a path curving to its door through daffodils](The%20Hague.jpg){ .story-img loading=lazy }
+![The Hague, Nieuwe Kerk - watercolour of the octagonal church hemmed in by flats, a path curving to its door through daffodils](The%20Hague.jpg){ .story-img loading=lazy width="2835" height="2033" }
 
 </div>
 
@@ -32,7 +37,7 @@
 
 <div class="image-label">Ancienne Mosquée du Vendredi Badjanani</div>
 
-![Ancienne Mosquée du Vendredi Badjanani - watercolour of the Moroni grand mosque seen across a harbour full of wooden boats](Moroni%20Grand%20Mosque.jpg){ .story-img loading=lazy }
+![Ancienne Mosquée du Vendredi Badjanani - watercolour of the Moroni grand mosque seen across a harbour full of wooden boats](Moroni%20Grand%20Mosque.jpg){ .story-img loading=lazy width="2915" height="2057" }
 
 </div>
 
@@ -40,7 +45,7 @@
 
 <div class="image-label">The Pilgrimage to Know Where</div>
 
-![The Pilgrimage to Know Where - ink and watercolour drawing of a pilgrim in a square with the cathedral ahead of him](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+![The Pilgrimage to Know Where - ink and watercolour drawing of a pilgrim in a square with the cathedral ahead of him](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2560" height="1887" }
 
 </div>
 
@@ -48,7 +53,7 @@
 
 <div class="image-label">The Pilgrimage to Know Where Too</div>
 
-![The Pilgrimage to Know Where Too - ink and watercolour drawing of a narrow street running straight to a cathedral door](The%20Pilgrimage%20to%20Know%20Where%20Too.jpg){ .story-img loading=lazy }
+![The Pilgrimage to Know Where Too - ink and watercolour drawing of a narrow street running straight to a cathedral door](The%20Pilgrimage%20to%20Know%20Where%20Too.jpg){ .story-img loading=lazy width="2296" height="3278" }
 
 </div>
 
@@ -56,7 +61,7 @@
 
 <div class="image-label">The Last Holiday, Amsterdam</div>
 
-![The Last Holiday, Amsterdam - acrylic painting with the spire of the Sint-Augustinuskerk standing over the Grote Die](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy }
+![The Last Holiday, Amsterdam - acrylic painting with the spire of the Sint-Augustinuskerk standing over the Grote Die](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy width="3006" height="2244" }
 
 </div>
 
@@ -64,7 +69,7 @@
 
 <div class="image-label">A Starling's Reformation at Five to Midnight</div>
 
-![A Starling's Reformation at Five to Midnight - acrylic painting of a village kerk at night, a man on the path with his arms raised and a starling on the cross at the top of the spire](A-Starling-Reformation-at-Five-to-Midnight.jpg){ .story-img loading=lazy }
+![A Starling's Reformation at Five to Midnight - acrylic painting of a village kerk at night, a man on the path with his arms raised and a starling on the cross at the top of the spire](A-Starling-Reformation-at-Five-to-Midnight.jpg){ .story-img loading=lazy width="2190" height="2952" }
 
 </div>
 

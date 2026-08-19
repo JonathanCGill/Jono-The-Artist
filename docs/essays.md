@@ -1,3 +1,8 @@
+---
+description: >-
+  Personal essays by Jonathan Gill on governance, technology, trust, AI and the commons.
+---
+
 # Essays
 
 <div class="essays-intro" markdown>
