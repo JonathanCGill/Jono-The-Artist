@@ -355,12 +355,6 @@ description: >-
       <p class="jono-item__desc">The canal houses and the moored boats, drawn in ink and held in their own reflection.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/I%20Wish%20You%20Were%20Here.jpg" width="3167" height="2160" alt="I Wish You Were Here, an ink sketch of Paternoster, the whitewashed cottages along the shore and two walkers on the path, the only figures given colour"></div>
-      <h3 class="jono-item__title">I Wish You Were Here</h3>
-      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">Paternoster on the West Coast, the whitewashed cottages strung along the shore. Two walkers on the path, the only figures given colour.</p>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Cape%20Columbine%20Lighthouse.jpg" width="2176" height="3075" alt="Cape Columbine Lighthouse, an ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised"></div>
       <h3 class="jono-item__title">Cape Columbine Lighthouse</h3>
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
