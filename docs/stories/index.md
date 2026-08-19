@@ -19,7 +19,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img loading=lazy }](Cantabrian%20Mountains/index.md)
+[![Cantabrian Mountains](Cantabrian%20Mountains/Cantabrian%20Mountains%20-Painting.jpg){ .gallery-img loading=lazy width="2649" height="1853" }](Cantabrian%20Mountains/index.md)
 
 <div class="card-info" markdown>
 
@@ -34,7 +34,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Last Holiday - Amsterdam](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img loading=lazy }](The%20Last%20Holiday/index.md)
+[![The Last Holiday - Amsterdam](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img loading=lazy width="3006" height="2244" }](The%20Last%20Holiday/index.md)
 
 <div class="card-info" markdown>
 
@@ -49,7 +49,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Know Where Series](The-Road-to-Know-Where/The%20Pilgrimage%20to%20Know%20Where.jpg){ .gallery-img loading=lazy }](The-Road-to-Know-Where/index.md)
+[![The Know Where Series](The-Road-to-Know-Where/The%20Pilgrimage%20to%20Know%20Where.jpg){ .gallery-img loading=lazy width="2560" height="1887" }](The-Road-to-Know-Where/index.md)
 
 <div class="card-info" markdown>
 
@@ -64,7 +64,7 @@ Acryla Gouache · Ink & Watercolour
 
 <div class="gallery-card" markdown>
 
-[![Lighthouses](Lighthouses/Pollinating%20Light.jpg){ .gallery-img loading=lazy }](Lighthouses/index.md)
+[![Lighthouses](Lighthouses/Pollinating%20Light.jpg){ .gallery-img loading=lazy width="3266" height="2291" }](Lighthouses/index.md)
 
 <div class="card-info" markdown>
 
@@ -79,7 +79,7 @@ Watercolour · Ink & Watercolour
 
 <div class="gallery-card" markdown>
 
-[![Guggenheim Bilbao](Guggenheim/Bilbao.jpg){ .gallery-img loading=lazy }](Guggenheim/index.md)
+[![Guggenheim Bilbao](Guggenheim/Bilbao.jpg){ .gallery-img loading=lazy width="2296" height="3014" }](Guggenheim/index.md)
 
 <div class="card-info" markdown>
 
@@ -94,7 +94,7 @@ Watercolour · Ink & Watercolour
 
 <div class="gallery-card" markdown>
 
-[![The Grand Insect Hotel](The%20Insect%20Hotel/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img loading=lazy }](The%20Insect%20Hotel/index.md)
+[![The Grand Insect Hotel](The%20Insect%20Hotel/The%20Grand%20Insect%20Hotel.jpg){ .gallery-img loading=lazy width="2155" height="2874" }](The%20Insect%20Hotel/index.md)
 
 <div class="card-info" markdown>
 
@@ -109,7 +109,7 @@ Watercolour · Ink & Watercolour
 
 <div class="gallery-card" markdown>
 
-[![Aeromechanica](Aeromechanica/Lucanus%20Aeromechanica%20Avronis.jpg){ .gallery-img loading=lazy }](Aeromechanica/index.md)
+[![Aeromechanica](Aeromechanica/Lucanus%20Aeromechanica%20Avronis.jpg){ .gallery-img loading=lazy width="2890" height="1779" }](Aeromechanica/index.md)
 
 <div class="card-info" markdown>
 
@@ -124,7 +124,7 @@ Watercolour · Vellum · Acryla Gouache
 
 <div class="gallery-card" markdown>
 
-[![The Villages](The%20Villages/McGregor.jpg){ .gallery-img loading=lazy }](The%20Villages/index.md)
+[![The Villages](The%20Villages/McGregor.jpg){ .gallery-img loading=lazy width="2673" height="1842" }](The%20Villages/index.md)
 
 <div class="card-info" markdown>
 
@@ -139,7 +139,7 @@ Watercolour · Acryla Gouache
 
 <div class="gallery-card" markdown>
 
-[![The Netherlands](The%20Netherlands/Amsterdam.jpg){ .gallery-img loading=lazy }](The%20Netherlands/index.md)
+[![The Netherlands](The%20Netherlands/Amsterdam.jpg){ .gallery-img loading=lazy width="2296" height="3323" }](The%20Netherlands/index.md)
 
 <div class="card-info" markdown>
 
@@ -154,7 +154,7 @@ Watercolour · Ink · Acryla Gouache
 
 <div class="gallery-card" markdown>
 
-[![Called to Prayer](Standing%20Outside/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy }](Standing%20Outside/index.md)
+[![Called to Prayer](Standing%20Outside/McGregor%20NG%20Kerk.jpg){ .gallery-img loading=lazy width="1931" height="2630" }](Standing%20Outside/index.md)
 
 <div class="card-info" markdown>
 

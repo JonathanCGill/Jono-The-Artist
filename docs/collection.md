@@ -186,13 +186,6 @@ description: >-
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Road%20to%20Know%20Where%20Revisited.jpg" width="2262" height="3715" alt="The Road to Know Where Revisited, an ink and watercolour of the pilgrim walking the centre line of a road between vineyards"></div>
-      <h3 class="jono-item__title">The Road to Know Where Revisited</h3>
-      <p class="jono-item__spec jono-spec">Ink &amp; Watercolour · Paper · 2026</p>
-      <p class="jono-item__desc">The pilgrim on the centre line, vineyards either side, a windmill on the right and a KNOW WHERE sign at the roadside.</p>
-      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
-    </div>
-    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Ultimo.jpg" width="2932" height="2211" alt="Ultimo, a watercolour of Ultimo in Sydney"></div>
       <h3 class="jono-item__title">Ultimo</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
@@ -358,7 +351,7 @@ description: >-
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Amsterdam.jpg" width="2904" height="1961" alt="Amsterdam, an ink drawing of canal houses and moored boats reflected in the water"></div>
       <h3 class="jono-item__title">Amsterdam</h3>
-      <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper</p>
+      <p class="jono-item__spec jono-spec">A3 · Ink · 200gsm Paper · 2026</p>
       <p class="jono-item__desc">The canal houses and the moored boats, drawn in ink and held in their own reflection.</p>
     </div>
     <div class="jono-item">
@@ -378,7 +371,15 @@ description: >-
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/Taj%20Mahal.jpg" width="2214" height="3538" alt="Taj Mahal, an ink and watercolour drawing of the pilgrim in a moored boat facing the mausoleum, the building doubled in the water"></div>
       <h3 class="jono-item__title">Taj Mahal</h3>
       <p class="jono-item__spec jono-spec">Ink &amp; Watercolour · 200gsm Paper · 2026</p>
-      <p class="jono-item__desc">The pilgrim sitting in a moored boat with the mausoleum across the water and doubled in it. He is the only colour on the sheet.</p>
+      <p class="jono-item__desc">The seventh work in the Know Where series, and the sixth drawing. He is sitting down for the first time, in a moored boat, with the mausoleum doubled in the water.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/The%20Road%20to%20Know%20Where%20Revisited.jpg" width="2262" height="3715" alt="The Road to Know Where Revisited, an ink and watercolour of the pilgrim walking the centre line of a road between vineyards"></div>
+      <h3 class="jono-item__title">The Road to Know Where Revisited</h3>
+      <p class="jono-item__spec jono-spec">Ink &amp; Watercolour · 200gsm Paper · 2026</p>
+      <p class="jono-item__desc">The eighth work in the Know Where series, and the seventh drawing. The pilgrim back on the road, vineyards either side, a windmill on the right and a KNOW WHERE sign at the verge.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
   </div>
 </section>

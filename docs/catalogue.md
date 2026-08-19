@@ -29,7 +29,7 @@ description: >-
 
   <div class="jono-catalog__group">
     <p class="jono-sublabel">Know Where — acrylics on canvas</p>
-    <p class="jono-catalog__grouplead">The journey series. The drawings that carry it on are listed under Drawings.</p>
+    <p class="jono-catalog__grouplead">The journey series. The painting sets the destination; the seven drawings that carry it on are listed under Drawings.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
       <tbody>
@@ -39,14 +39,6 @@ description: >-
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
-      <td class="cat-spec" data-label="Year">2026</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">KW-02</td>
-      <td data-label="Title"><span class="cat-title">The Road to Know Where Revisited<small>The pilgrim on the centre line, vineyards either side, and a KNOW WHERE sign at the roadside.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
-      <td class="cat-spec" data-label="Support">Paper</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>
@@ -605,7 +597,7 @@ description: >-
       <td class="cat-spec" data-label="Medium">Ink</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
-      <td class="cat-spec" data-label="Year"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-04</td>
@@ -649,7 +641,15 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">DR-09</td>
-      <td data-label="Title"><span class="cat-title">Taj Mahal<small>The pilgrim in a moored boat with the mausoleum doubled in the water, the only figure given colour.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Taj Mahal<small>The seventh Know Where work, the sixth drawing. The pilgrim seated in a moored boat, the mausoleum doubled in the water.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-10</td>
+      <td data-label="Title"><span class="cat-title">The Road to Know Where Revisited<small>The eighth Know Where work, the seventh drawing. The pilgrim back on the road, vineyards either side and a KNOW WHERE sign at the verge.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>

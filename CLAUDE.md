@@ -40,9 +40,11 @@ There is no application code. The repository is content (Markdown, images), them
 │   │   └── custom.css      # Older system, still used by stories, essays and About
 │   ├── favicon.ico, favicon.png
 ├── overrides/
-│   ├── main.html           # Adds Google Analytics tag
+│   ├── main.html           # Critical header CSS, preconnects, icons, OG tags, Google Analytics
 │   ├── home.html           # Full-bleed template used by index/collection/catalogue
-│   └── partials/header.html  # Custom header and section nav
+│   └── partials/
+│       ├── header.html     # Custom header and section nav
+│       └── logo.html       # Logo with real dimensions and meaningful alt text
 └── .github/workflows/
     ├── deploy.yml          # Builds and deploys to GitHub Pages
     └── blank.yml           # Placeholder CI
@@ -78,6 +80,13 @@ rows. Every work shown on a gallery page should have a catalogue entry, and size
 and years quoted on the gallery pages must match the catalogue. Where a detail has
 not been recorded, leave it blank rather than guessing.
 
+Works in the Know Where series carry their position in the `Notes` field and in the
+matching description on the collection page ("The seventh Know Where work, the sixth
+drawing"). The series is currently one painting and seven drawings. Adding to it
+means updating the catalogue note, the collection-page description and the story at
+`docs/stories/The-Road-to-Know-Where/index.md`, which states the count in its front
+matter and its opening line.
+
 ## Page Conventions
 
 Two layout systems coexist. Do not mix them on one page.
@@ -100,7 +109,10 @@ sidebar. A typical work card is:
 
 `width` and `height` must be the image's real pixel dimensions, not the paper or
 canvas size. They reserve the correct aspect box and stop the page shifting as
-images load. Grid wrappers are `.jono-row3`, `.jono-wc`, `.jono-squad__grid` and
+images load. Every image on the site carries them, Markdown ones included: on a
+Markdown page put them in the `attr_list` braces, as
+`{ .story-img loading=lazy width="3279" height="2279" }`. Without them a lazy
+image collapses to nothing until it loads and the page jumps. Grid wrappers are `.jono-row3`, `.jono-wc`, `.jono-squad__grid` and
 `.jono-draw__grid`. Root-absolute paths (`/watercolours/...`) are correct here
 because the site is served at a domain root.
 
@@ -185,8 +197,20 @@ and mobile.
 
 ## Theme Overrides
 
-- `overrides/main.html` extends `base.html` purely to inject the Google Analytics gtag snippet. Do not remove unless analytics are being changed.
-- `overrides/partials/header.html` replaces the default Material header so the "Jono, the Artist" wordmark always sits next to the logo. Search and repo source UI are deliberately omitted.
+- `overrides/main.html` extends `base.html` to add the Open Graph and Twitter card
+  tags, the apple-touch-icon, `preconnect` hints for the font and icon hosts, a
+  small block of critical header CSS, and the Google Analytics gtag snippet.
+  The critical CSS exists because `jono.css` is the last of eight render-blocking
+  stylesheets and four of those are third-party, so without it the masthead can
+  paint with default blue underlined links. Those rules are a copy of the ones in
+  `jono.css` and must be changed in step with it.
+- `overrides/partials/header.html` replaces the default Material header so the
+  "Jono, the Artist" wordmark always sits next to the logo. Search and repo source
+  UI are deliberately omitted. It is the primary navigation: the home-template
+  pages have no sidebar, so a page missing from this nav is unreachable for most
+  visitors.
+- `overrides/partials/logo.html` exists only so the logo carries its real pixel
+  dimensions and real alt text; the theme default supplies neither.
 
 ## Deployment and Branching
 

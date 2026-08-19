@@ -13,7 +13,7 @@ description: >-
 
 <div class="image-label">Dunnet Head Lighthouse</div>
 
-![Dunnet Head Lighthouse - watercolour of the Caithness light behind a drystone wall](Dunnet%20Head%20Lighthouse.jpg){ .story-img loading=lazy }
+![Dunnet Head Lighthouse - watercolour of the Caithness light behind a drystone wall](Dunnet%20Head%20Lighthouse.jpg){ .story-img loading=lazy width="2192" height="3122" }
 
 </div>
 
@@ -21,7 +21,7 @@ description: >-
 
 <div class="image-label">Light Attraction</div>
 
-![Light Attraction - watercolour of grasshoppers swarming a lit lighthouse at night](Light%20Attraction.jpg){ .story-img loading=lazy }
+![Light Attraction - watercolour of grasshoppers swarming a lit lighthouse at night](Light%20Attraction.jpg){ .story-img loading=lazy width="3033" height="2122" }
 
 </div>
 
@@ -29,7 +29,7 @@ description: >-
 
 <div class="image-label">Pollinating Light</div>
 
-![Pollinating Light - watercolour of a poppy field where each flower carries a lighthouse, worked by bees](Pollinating%20Light.jpg){ .story-img loading=lazy }
+![Pollinating Light - watercolour of a poppy field where each flower carries a lighthouse, worked by bees](Pollinating%20Light.jpg){ .story-img loading=lazy width="3266" height="2291" }
 
 </div>
 
@@ -37,7 +37,7 @@ description: >-
 
 <div class="image-label">LightHouse</div>
 
-![LightHouse - watercolour of a banded lighthouse and keeper's cottages at night, the full moon behind the lamp](LightHouse.jpg){ .story-img loading=lazy }
+![LightHouse - watercolour of a banded lighthouse and keeper's cottages at night, the full moon behind the lamp](LightHouse.jpg){ .story-img loading=lazy width="2838" height="2020" }
 
 </div>
 
@@ -45,7 +45,7 @@ description: >-
 
 <div class="image-label">A Lighthouse to Know Where</div>
 
-![A Lighthouse to Know Where - ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse](A%20Lighthouse%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+![A Lighthouse to Know Where - ink and watercolour drawing of a pilgrim on a boardwalk crossing stones toward a lighthouse](A%20Lighthouse%20to%20Know%20Where.jpg){ .story-img loading=lazy width="3271" height="2296" }
 
 </div>
 
@@ -53,7 +53,7 @@ description: >-
 
 <div class="image-label">Cape Columbine Lighthouse</div>
 
-![Cape Columbine Lighthouse - ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised](Cape%20Columbine%20Lighthouse.jpg){ .story-img loading=lazy }
+![Cape Columbine Lighthouse - ink and watercolour drawing of the fluted tower on the granite at Paternoster, a walker on the rocks with his arm raised](Cape%20Columbine%20Lighthouse.jpg){ .story-img loading=lazy width="2176" height="3075" }
 
 </div>
 

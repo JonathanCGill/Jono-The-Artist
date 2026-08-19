@@ -11,7 +11,7 @@ description: >-
 
 <div class="image-label">Cantabrian Mountains - Painting</div>
 
-![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img loading=lazy }
+![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img loading=lazy width="2649" height="1853" }
 
 </div>
 
@@ -21,7 +21,7 @@ description: >-
 
 <div class="image-label">Farmstead</div>
 
-![Stone farmstead in the Cantabrian Mountains](Farmstead1.jpg){ .story-img loading=lazy }
+![Stone farmstead in the Cantabrian Mountains](Farmstead1.jpg){ .story-img loading=lazy width="3766" height="2436" }
 
 </div>
 
@@ -29,7 +29,7 @@ description: >-
 
 <div class="image-label">Farmstead</div>
 
-![Rural stone buildings in the Cantabrian countryside](Farmstead2.jpg){ .story-img loading=lazy }
+![Rural stone buildings in the Cantabrian countryside](Farmstead2.jpg){ .story-img loading=lazy width="3817" height="2862" }
 
 </div>
 
@@ -37,7 +37,7 @@ description: >-
 
 <div class="image-label">Farmstead</div>
 
-![Stone farm buildings set against green hills](Farmstead3.jpg){ .story-img loading=lazy }
+![Stone farm buildings set against green hills](Farmstead3.jpg){ .story-img loading=lazy width="4080" height="3060" }
 
 </div>
 
@@ -45,7 +45,7 @@ description: >-
 
 <div class="image-label">Farmstead</div>
 
-![Cantabrian farmstead with surrounding fields](Farmstead4.jpg){ .story-img loading=lazy }
+![Cantabrian farmstead with surrounding fields](Farmstead4.jpg){ .story-img loading=lazy width="3906" height="2604" }
 
 </div>
 
@@ -53,7 +53,7 @@ description: >-
 
 <div class="image-label">Floral</div>
 
-![Wildflowers in the Cantabrian Mountains](Floral1.jpg){ .story-img loading=lazy }
+![Wildflowers in the Cantabrian Mountains](Floral1.jpg){ .story-img loading=lazy width="1472" height="1473" }
 
 </div>
 
@@ -61,7 +61,7 @@ description: >-
 
 <div class="image-label">Floral</div>
 
-![Flowers growing in the Cantabrian countryside](Floral2.jpg){ .story-img loading=lazy }
+![Flowers growing in the Cantabrian countryside](Floral2.jpg){ .story-img loading=lazy width="2576" height="1932" }
 
 </div>
 
@@ -69,7 +69,7 @@ description: >-
 
 <div class="image-label">Floral</div>
 
-![Floral abundance in the Cantabrian Mountains](Floral3.jpg){ .story-img loading=lazy }
+![Floral abundance in the Cantabrian Mountains](Floral3.jpg){ .story-img loading=lazy width="2679" height="2475" }
 
 </div>
 
@@ -77,7 +77,7 @@ description: >-
 
 <div class="image-label">Floral</div>
 
-![Cantabrian wildflowers in bloom](Floral4.jpg){ .story-img loading=lazy }
+![Cantabrian wildflowers in bloom](Floral4.jpg){ .story-img loading=lazy width="2803" height="1935" }
 
 </div>
 
@@ -85,7 +85,7 @@ description: >-
 
 <div class="image-label">Floral</div>
 
-![White yarrow in flower on the hillside](Floral5.jpg){ .story-img loading=lazy }
+![White yarrow in flower on the hillside](Floral5.jpg){ .story-img loading=lazy width="1415" height="2440" }
 
 </div>
 
@@ -93,7 +93,7 @@ description: >-
 
 <div class="image-label">Gigantes</div>
 
-![Gigantes festival figure in northern Spain](Gigantes.jpg){ .story-img loading=lazy }
+![Gigantes festival figure in northern Spain](Gigantes.jpg){ .story-img loading=lazy width="3416" height="1815" }
 
 </div>
 

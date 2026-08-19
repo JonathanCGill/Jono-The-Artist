@@ -9,7 +9,7 @@ description: >-
 
 <div class="about-photo" markdown>
 
-![Jono, Self Portrait](acrylic/Me.jpg){ .about-img loading=lazy }
+![Jono, Self Portrait](acrylic/Me.jpg){ .about-img loading=lazy width="2286" height="2264" }
 
 </div>
 

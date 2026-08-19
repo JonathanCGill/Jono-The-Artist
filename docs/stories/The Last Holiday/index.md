@@ -11,7 +11,7 @@ description: >-
 
 <div class="image-label">The Painting</div>
 
-![The Last Holiday - Amsterdam](The Last Holiday - Amsterdam.jpg){ .story-img loading=lazy }
+![The Last Holiday - Amsterdam](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy width="3006" height="2244" }
 
 </div>
 
@@ -21,7 +21,7 @@ description: >-
 
 <div class="image-label">The Scene</div>
 
-![The Grote Die in Amsterdam Noord in the early morning, the spire of the Sint-Augustinuskerk behind the trees](Amsterdam Noord.jpg){ .story-img loading=lazy }
+![The Grote Die in Amsterdam Noord in the early morning, the spire of the Sint-Augustinuskerk behind the trees](Amsterdam%20Noord.jpg){ .story-img loading=lazy width="3946" height="2886" }
 
 </div>
 

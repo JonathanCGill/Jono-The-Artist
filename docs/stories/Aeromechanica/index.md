@@ -17,7 +17,7 @@ description: >-
 
 <div class="image-meta">1941</div>
 
-![Lucanus Aeromechanica Avronis - watercolour specimen plate of a stag beetle on an Avro airframe with RAF roundels](Lucanus%20Aeromechanica%20Avronis.jpg){ .story-img loading=lazy }
+![Lucanus Aeromechanica Avronis - watercolour specimen plate of a stag beetle on an Avro airframe with RAF roundels](Lucanus%20Aeromechanica%20Avronis.jpg){ .story-img loading=lazy width="2890" height="1779" }
 
 </div>
 
@@ -27,7 +27,7 @@ description: >-
 
 <div class="image-meta">1942</div>
 
-![Culex Aeromechanica De Havillandii - watercolour specimen plate of a mosquito as a De Havilland Mosquito, with a data box](Culex%20Aeromechanica%20De%20Havillandii.jpg){ .story-img loading=lazy }
+![Culex Aeromechanica De Havillandii - watercolour specimen plate of a mosquito as a De Havilland Mosquito, with a data box](Culex%20Aeromechanica%20De%20Havillandii.jpg){ .story-img loading=lazy width="2786" height="1984" }
 
 </div>
 
@@ -37,7 +37,7 @@ description: >-
 
 <div class="image-meta">1943</div>
 
-![Promachus Aeromechanicus Crucifer - watercolour specimen plate of a robber fly in splinter camouflage with Balkenkreuze](Promachus%20Aeromechanicus%20Crucifer.jpg){ .story-img loading=lazy }
+![Promachus Aeromechanicus Crucifer - watercolour specimen plate of a robber fly in splinter camouflage with Balkenkreuze](Promachus%20Aeromechanicus%20Crucifer.jpg){ .story-img loading=lazy width="2242" height="1617" }
 
 </div>
 
@@ -47,7 +47,7 @@ description: >-
 
 <div class="image-meta">1943</div>
 
-![Vespa Aeromechanica Crabro - watercolour of a hornet built onto a Bf 109 nose with Luftwaffe markings](Vespa%20Aeromechanica%20Crabro.jpg){ .story-img loading=lazy }
+![Vespa Aeromechanica Crabro - watercolour of a hornet built onto a Bf 109 nose with Luftwaffe markings](Vespa%20Aeromechanica%20Crabro.jpg){ .story-img loading=lazy width="2696" height="1852" }
 
 </div>
 
@@ -57,7 +57,7 @@ description: >-
 
 <div class="image-meta">1945</div>
 
-![Libellula Aviatica - acrylic painting of a dragonfly given the airframe of a biplane, over water under a full moon](Libellula%20Aviatica.jpg){ .story-img loading=lazy }
+![Libellula Aviatica - acrylic painting of a dragonfly given the airframe of a biplane, over water under a full moon](Libellula%20Aviatica.jpg){ .story-img loading=lazy width="2440" height="1963" }
 
 </div>
 
@@ -73,7 +73,7 @@ description: >-
 
 <div class="image-meta">1958 · the pivot</div>
 
-![Avis Aeromechanica Paciferus - watercolour of a swept gull-wing jet bird in plan and front elevation, with a data box](Avis%20Aeromechanica%20Paciferus.jpg){ .story-img loading=lazy }
+![Avis Aeromechanica Paciferus - watercolour of a swept gull-wing jet bird in plan and front elevation, with a data box](Avis%20Aeromechanica%20Paciferus.jpg){ .story-img loading=lazy width="2544" height="1832" }
 
 </div>
 
@@ -83,7 +83,7 @@ description: >-
 
 <div class="image-meta">2019</div>
 
-![Aeromechanica top profile - watercolour blueprint of the Chocolatus with the high-nutrition bypass propulsion engine detailed](Aeromechanica%20Top%20Profile.jpg){ .story-img loading=lazy }
+![Aeromechanica top profile - watercolour blueprint of the Chocolatus with the high-nutrition bypass propulsion engine detailed](Aeromechanica%20Top%20Profile.jpg){ .story-img loading=lazy width="3272" height="2296" }
 
 </div>
 
@@ -93,7 +93,7 @@ description: >-
 
 <div class="image-meta">2021</div>
 
-![Aeromechanica Chocolatus Airframe Cutaway - ink, pastel and watercolour cutaway showing the cabin, engine and trademarked components](Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg){ .story-img loading=lazy }
+![Aeromechanica Chocolatus Airframe Cutaway - ink, pastel and watercolour cutaway showing the cabin, engine and trademarked components](Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg){ .story-img loading=lazy width="2915" height="2081" }
 
 </div>
 
@@ -103,7 +103,7 @@ description: >-
 
 <div class="image-meta">2022</div>
 
-![Aeromechanica Chocolatus Cockpit - watercolour and ink of the flight deck with seed sacks, cocoa reserves and eject levers](Aeromechanica%20Chocolatus%20Cockpit.jpg){ .story-img loading=lazy }
+![Aeromechanica Chocolatus Cockpit - watercolour and ink of the flight deck with seed sacks, cocoa reserves and eject levers](Aeromechanica%20Chocolatus%20Cockpit.jpg){ .story-img loading=lazy width="2443" height="1765" }
 
 </div>
 
@@ -113,7 +113,7 @@ description: >-
 
 <div class="image-meta">2024</div>
 
-![Avis Aeromechanica Chocolatus - acrylic painting of the cocoa-powered airliner passing a banded lighthouse at sunset](Avis%20Aeromechanica%20Chocolatus.jpg){ .story-img loading=lazy }
+![Avis Aeromechanica Chocolatus - acrylic painting of the cocoa-powered airliner passing a banded lighthouse at sunset](Avis%20Aeromechanica%20Chocolatus.jpg){ .story-img loading=lazy width="2998" height="2166" }
 
 </div>
 
@@ -123,7 +123,7 @@ description: >-
 
 <div class="image-meta">2025</div>
 
-![Aeromechanica Musculus - acrylic painting of the whale-sized double-decker in Aeromech livery climbing away from a night city](Aeromechanica%20Musculus.jpg){ .story-img loading=lazy }
+![Aeromechanica Musculus - acrylic painting of the whale-sized double-decker in Aeromech livery climbing away from a night city](Aeromechanica%20Musculus.jpg){ .story-img loading=lazy width="1863" height="2597" }
 
 </div>
 
@@ -133,7 +133,7 @@ description: >-
 
 <div class="image-meta">2026</div>
 
-![Aeromechanica Chocolatus Evolution - four panels in photo corners dated 1972, 1976, 1985 and 2026](Aeromechanica%20Chocolatus%20Evolution.jpg){ .story-img loading=lazy }
+![Aeromechanica Chocolatus Evolution - four panels in photo corners dated 1972, 1976, 1985 and 2026](Aeromechanica%20Chocolatus%20Evolution.jpg){ .story-img loading=lazy width="2178" height="3005" }
 
 </div>
 

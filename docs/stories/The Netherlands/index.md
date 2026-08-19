@@ -13,7 +13,7 @@ description: >-
 
 <div class="image-label">The Last Holiday, Amsterdam</div>
 
-![The Last Holiday, Amsterdam - acrylic painting overlooking the Grote Die in Amsterdam Noord](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy }
+![The Last Holiday, Amsterdam - acrylic painting overlooking the Grote Die in Amsterdam Noord](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy width="3006" height="2244" }
 
 </div>
 
@@ -21,7 +21,7 @@ description: >-
 
 <div class="image-label">Cafe 't Sluisje</div>
 
-![Cafe 't Sluisje - watercolour of a canal cafe in Amsterdam Noord with bicycles racked along the water](Cafe%20T'Sluisje.jpg){ .story-img loading=lazy }
+![Cafe 't Sluisje - watercolour of a canal cafe in Amsterdam Noord with bicycles racked along the water](Cafe%20T'Sluisje.jpg){ .story-img loading=lazy width="2213" height="1921" }
 
 </div>
 
@@ -29,7 +29,7 @@ description: >-
 
 <div class="image-label">Amsterdam</div>
 
-![Amsterdam - watercolour of canal houses behind a foreground of oversized coneflowers](Amsterdam.jpg){ .story-img loading=lazy }
+![Amsterdam - watercolour of canal houses behind a foreground of oversized coneflowers](Amsterdam.jpg){ .story-img loading=lazy width="2296" height="3323" }
 
 </div>
 
@@ -37,7 +37,7 @@ description: >-
 
 <div class="image-label">Amsterdam (canal houses)</div>
 
-![Amsterdam - ink drawing of gabled canal houses and moored boats broken up in their own reflection](Amsterdam%20Canal%20Houses.jpg){ .story-img loading=lazy }
+![Amsterdam - ink drawing of gabled canal houses and moored boats broken up in their own reflection](Amsterdam%20Canal%20Houses.jpg){ .story-img loading=lazy width="2904" height="1961" }
 
 </div>
 
@@ -45,7 +45,7 @@ description: >-
 
 <div class="image-label">Rotterdam, Saint Alexander Nevsky</div>
 
-![Rotterdam - watercolour of the Orthodox Church of Saint Alexander Nevsky, its gold onion dome standing among bare trees](Rotterdam.jpg){ .story-img loading=lazy }
+![Rotterdam - watercolour of the Orthodox Church of Saint Alexander Nevsky, its gold onion dome standing among bare trees](Rotterdam.jpg){ .story-img loading=lazy width="3213" height="2278" }
 
 </div>
 
@@ -53,7 +53,7 @@ description: >-
 
 <div class="image-label">The Hague, Nieuwe Kerk</div>
 
-![The Hague, Nieuwe Kerk - watercolour of the octagonal church behind daffodils and blossom](The%20Hague.jpg){ .story-img loading=lazy }
+![The Hague, Nieuwe Kerk - watercolour of the octagonal church behind daffodils and blossom](The%20Hague.jpg){ .story-img loading=lazy width="2835" height="2033" }
 
 </div>
 
@@ -61,7 +61,7 @@ description: >-
 
 <div class="image-label">Catching the Cold in Amsterdam</div>
 
-![Catching the Cold in Amsterdam - acrylic self-portrait in a red beanie under a moon, stars and a rocket](Catching%20the%20Cold%20in%20Amsterdam.jpg){ .story-img loading=lazy }
+![Catching the Cold in Amsterdam - acrylic self-portrait in a red beanie under a moon, stars and a rocket](Catching%20the%20Cold%20in%20Amsterdam.jpg){ .story-img loading=lazy width="2286" height="2264" }
 
 </div>
 
