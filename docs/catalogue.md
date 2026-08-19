@@ -1,7 +1,7 @@
 ---
 template: home.html
 description: >-
-  A working catalogue of 68 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
+  A working catalogue of 72 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
 ---
 
 <section class="jono-catalog">
