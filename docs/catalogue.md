@@ -168,7 +168,7 @@ description: >-
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
-      <td class="cat-spec" data-label="Year"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>
     </table>
@@ -644,7 +644,7 @@ description: >-
       <td data-label="Title"><span class="cat-title">Taj Mahal<small>The seventh Know Where work, the sixth drawing. The pilgrim seated in a moored boat, the mausoleum doubled in the water.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
@@ -652,7 +652,7 @@ description: >-
       <td data-label="Title"><span class="cat-title">The Road to Know Where Revisited<small>The eighth Know Where work, the seventh drawing. The pilgrim back on the road, vineyards either side and a KNOW WHERE sign at the verge.</small></span></td>
       <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>

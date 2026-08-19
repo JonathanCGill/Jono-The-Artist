@@ -173,7 +173,7 @@ description: >-
         <div class="jono-item">
           <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Culex%20Aeromechanica%20Promachus.jpg" width="2781" height="1821" alt="Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Promachus</h3>
-          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum</p>
+          <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A second robber fly, teal and ochre this time. Same Raubfliege nickname in the title box, same crosses on the wings.</p>
         </div>
         <div class="jono-item">
