@@ -704,6 +704,7 @@ body,
   margin: 12px 0 3px;
 }
 .jono-wc .jono-item__spec { font-size: 10px; color: var(--j-muted2); margin: 0; }
+.jono-wc .jono-item__desc { font-size: 13.5px; color: var(--j-muted); margin: 6px 0 0; line-height: 1.6; }
 
 /* ══ Surreal ════════════════════════════════════════════════════ */
 .jono-surreal {
