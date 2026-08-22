@@ -1,3 +1,8 @@
+---
+description: >-
+  Why trust is a design problem and not a communications problem, how a single software glitch can undo decades of institutional credibility, and what it takes to build systems that deserve confidence.
+---
+
 # The Architecture of Trust
 
 <div class="essay" markdown>

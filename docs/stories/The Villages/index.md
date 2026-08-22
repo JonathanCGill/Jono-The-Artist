@@ -1,3 +1,8 @@
+---
+description: >-
+  Why I paint the villages of the Western Cape flat on, straight at the front of the building, every single time.
+---
+
 # The Villages
 
 <div class="story" markdown>
@@ -8,7 +13,7 @@
 
 <div class="image-label">Suurbraak</div>
 
-![Suurbraak - acrylic painting of a cottage with a red corrugated roof behind a wall of flowers](Suurbraak.jpg){ .story-img loading=lazy }
+![Suurbraak - acrylic painting of a cottage with a red corrugated roof behind a wall of flowers](Suurbraak.jpg){ .story-img loading=lazy width="2519" height="1877" }
 
 </div>
 
@@ -16,7 +21,7 @@
 
 <div class="image-label">Suurbraak (one)</div>
 
-![Suurbraak - watercolour of a village cottage with a man looking out of the window and a pitchfork by the door](Suurbraak%201.jpg){ .story-img loading=lazy }
+![Suurbraak - watercolour of a village cottage with a man looking out of the window and a pitchfork by the door](Suurbraak%201.jpg){ .story-img loading=lazy width="3327" height="2296" }
 
 </div>
 
@@ -24,7 +29,7 @@
 
 <div class="image-label">Suurbraak (three)</div>
 
-![Suurbraak - watercolour of a long cottage front with two doors, climbing shrubs and hills behind](Suurbraak%203.jpg){ .story-img loading=lazy }
+![Suurbraak - watercolour of a long cottage front with two doors, climbing shrubs and hills behind](Suurbraak%203.jpg){ .story-img loading=lazy width="2708" height="1771" }
 
 </div>
 
@@ -32,7 +37,7 @@
 
 <div class="image-label">McGregor</div>
 
-![McGregor - watercolour of a shopfront with a blue and white striped verandah and potted plants on a red stoep](McGregor.jpg){ .story-img loading=lazy }
+![McGregor - watercolour of a shopfront with a blue and white striped verandah and potted plants on a red stoep](McGregor.jpg){ .story-img loading=lazy width="2673" height="1842" }
 
 </div>
 
@@ -40,7 +45,7 @@
 
 <div class="image-label">McGregor NG Kerk</div>
 
-![McGregor NG Kerk - watercolour of the yellow village church with its clock tower, doubled in water](McGregor%20NG%20Kerk.jpg){ .story-img loading=lazy }
+![McGregor NG Kerk - watercolour of the yellow village church with its clock tower, doubled in water](McGregor%20NG%20Kerk.jpg){ .story-img loading=lazy width="1931" height="2630" }
 
 </div>
 
@@ -48,7 +53,7 @@
 
 <div class="image-label">22 on Church</div>
 
-![22 on Church - watercolour of a Montagu restaurant at night with diners visible through the windows](22%20on%20Church.jpg){ .story-img loading=lazy }
+![22 on Church - watercolour of a Montagu restaurant at night with diners visible through the windows](22%20on%20Church.jpg){ .story-img loading=lazy width="3214" height="2288" }
 
 </div>
 
@@ -56,7 +61,7 @@
 
 <div class="image-label">Montagu</div>
 
-![Montagu - watercolour of a whitewashed cottage front under a dark roof with bougainvillea on the verandah frame](Montagu.jpg){ .story-img loading=lazy }
+![Montagu - watercolour of a whitewashed cottage front under a dark roof with bougainvillea on the verandah frame](Montagu.jpg){ .story-img loading=lazy width="3083" height="2106" }
 
 </div>
 
@@ -64,7 +69,7 @@
 
 <div class="image-label">Swellendam</div>
 
-![Swellendam - watercolour of a two storey Victorian shopfront held upside down in a wet road](Swellendam.jpg){ .story-img loading=lazy }
+![Swellendam - watercolour of a two storey Victorian shopfront held upside down in a wet road](Swellendam.jpg){ .story-img loading=lazy width="3180" height="2296" }
 
 </div>
 
@@ -72,7 +77,7 @@
 
 <div class="image-label">R62, Prickly Pear Farm</div>
 
-![R62 Prickly Pear Farm - watercolour of a farmstead above ranked rows of prickly pear](R62%20-%20Prickly%20Pear%20Farm.jpg){ .story-img loading=lazy }
+![R62 Prickly Pear Farm - watercolour of a farmstead above ranked rows of prickly pear](R62%20-%20Prickly%20Pear%20Farm.jpg){ .story-img loading=lazy width="2811" height="2010" }
 
 </div>
 
@@ -80,7 +85,7 @@
 
 <div class="image-label">Robertsvlei</div>
 
-![Robertsvlei - watercolour of a barn beside the vlei with cattle in the foreground](Robertsvlei.jpg){ .story-img loading=lazy }
+![Robertsvlei - watercolour of a barn beside the vlei with cattle in the foreground](Robertsvlei.jpg){ .story-img loading=lazy width="3251" height="2268" }
 
 </div>
 
@@ -88,7 +93,7 @@
 
 <div class="image-label">Hemelsbreed</div>
 
-![Hemelsbreed - watercolour of a farmhouse near Greyton held in the water of its dam](Hemelsbreed.jpg){ .story-img loading=lazy }
+![Hemelsbreed - watercolour of a farmhouse near Greyton held in the water of its dam](Hemelsbreed.jpg){ .story-img loading=lazy width="3107" height="1895" }
 
 </div>
 

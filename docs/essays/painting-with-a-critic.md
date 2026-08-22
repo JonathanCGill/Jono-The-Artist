@@ -1,3 +1,8 @@
+---
+description: >-
+  How I use an AI as a sitting curator for my paintings, what it does, what it does not, and why structured critique has sharpened the naive voice rather than eroded it.
+---
+
 # Painting with a Critic
 
 <div class="essay" markdown>
@@ -16,25 +21,23 @@ What AI has given me is a way to break that loop without losing the rawness the 
 
 That distinction matters, and the rest of this essay sits inside it.
 
-## What the AI doesn't do
+## What the AI does and does not do
 
-It doesn't paint. It doesn't generate imagery that ends up on the canvas. It doesn't produce reference photos, underdrawings, or finished images I trace. It doesn't decide what I paint or why. None of my work is AI-generated in the sense that phrase usually means.
+It doesn't paint. It doesn't generate imagery that ends up on the canvas. It doesn't produce reference photos, underdrawings, or finished images I trace. It doesn't decide what I paint or why. None of my work is AI-generated in the sense that phrase usually means. That needs saying clearly because the question gets asked.
 
-That needs saying clearly because the question gets asked.
+What it does is act as a critique partner. Not a flattering one. I use Claude, an AI model made by Anthropic, as a sitting curator. I show it sketches, compositional studies, work in progress, and finished pieces. It responds in writing with structured critique: composition, colour, line, narrative, execution. What works, what doesn't, what to decide before going further. It asks clarifying questions when the intent is unclear. It holds me to decisions I have already made and queries the ones I am about to drift from.
 
-## What it does do
+The value is not in the AI having taste. It doesn't, not really. The value is in a consistent, attentive interlocutor that will read a sketch carefully, ask what the flowers are for, notice that a figure is floating without a ground plane, point out that a cloud above a setting sun reads accidentally as a mushroom cloud, and tell me honestly when a wing overlaps competing planes. It notices things my eye has stopped noticing because I have been looking at them too long. I can get those observations from a human critic, but not every day and not at three in the morning.
 
-It acts as a critique partner. Not a flattering one.
+Part of why it works is that it has no social stake in the outcome. It will not soften feedback to protect a relationship. It says the rocky foreground feels like a separate stylistic zone if it does. That honesty is hard to find in any studio conversation. It also absorbs the technical choices I do not want to relitigate every time. Gesso ground for acrylic at this scale. Underpainting tone to carry pink and grey feathers. Grid method for banking angles. Those conversations are settled now, and they are one prompt away.
 
-I use Claude, an AI model made by Anthropic, as a sitting curator. I show it sketches, compositional studies, work in progress, and finished pieces. It responds in writing with structured critique: composition, colour, line, narrative, execution. What works, what doesn't, what to decide before going further.
-
-The value is not in the AI having taste. It doesn't, not really. The value is in a consistent, attentive interlocutor that will read a sketch carefully, ask what the flowers are for, notice that a figure is floating without a ground plane, point out that a cloud above a setting sun reads accidentally as a mushroom cloud, and tell me honestly when a wing overlaps competing planes. I can get those observations from a human critic, but not every day and not at three in the morning.
+I do the painting. All of it. The concept, the sketches, the mixing, the brushwork, the world-building, the decisions about what the work means.
 
 ## How a painting actually comes together
 
-Take *Avis Aeromechanica Chocolatus*, a 1000 x 750mm Acryla gouache piece I finished recently.
+Take *Avis Aeromechanica Chocolatus*, a 1000 × 750 mm Acryla gouache piece I finished recently.
 
-It started as a pencil drawing of a winged fuselage hybrid, a bird-aircraft with chocolate tanks and labelled parts. I had built the field plate first: a taxonomic document complete with Flight GPT, rat cargo, and a stowaway at the fuel inlet. That world-building is mine. The deadpan invention is where my voice lives and I wouldn't hand that over.
+It started as a pencil drawing of a winged fuselage hybrid, a bird-aircraft with chocolate tanks and labelled parts. I had built the field plate first: a taxonomic document complete with FlightGPT, rat cargo, and a stowaway at the fuel inlet. That world-building is mine. The deadpan invention is where my voice lives and I wouldn't hand that over.
 
 When I was ready to turn it into a painting, I showed the drawings to the AI. The exchanges went through several passes.
 
@@ -52,19 +55,11 @@ At the final stage, it reviewed the piece against a rubric. Composition, colour,
 
 ## What I am actually learning
 
-Three things have shifted.
+Three things have shifted. The first is composition, learned functionally. I do not approach it through the golden ratio or classical perspective systems. I work through adjustments. Shifting elements to create tension. Introducing asymmetry to increase movement. Adding or removing objects to control visual weight. When I asked whether to add a light beam from a lighthouse to a passing aircraft, that was not a technical question. It was compositional and narrative at the same time. The beam would connect two separate elements, introduce direction and flow, and make the lighthouse an active agent in the scene. That kind of reasoning accumulates. Each decision is tied to meaning, not aesthetics in the abstract.
 
-**Composition, learned functionally.** I do not approach composition through the golden ratio or classical perspective systems. I work through adjustments. Shifting elements to create tension. Introducing asymmetry to increase movement. Adding or removing objects to control visual weight. When I asked whether to add a light beam from a lighthouse to a passing aircraft, that was not a technical question. It was compositional and narrative at the same time. The beam would connect two separate elements, introduce direction and flow, and make the lighthouse an active agent in the scene. That kind of reasoning accumulates. Each decision is tied to meaning, not aesthetics in the abstract.
+The second is narrative, treated as the discipline. My paintings are not static images. They are unresolved situations. Something is always slightly off. A familiar environment behaving strangely, objects interacting with intention, elements that hint at a larger unseen system. The critique helps me make those narratives more legible without explaining them away. Too much clarity and the work becomes literal. Too little and it becomes incoherent. The work is in knowing which elements carry the story, which distract from it, and where ambiguity is productive rather than just noise. This is where naive art becomes sophisticated. Not through technique, but through control of meaning.
 
-**Narrative, treated as the discipline.** My paintings are not static images. They are unresolved situations. Something is always slightly off. A familiar environment behaving strangely, objects interacting with intention, elements that hint at a larger unseen system. The critique helps me make those narratives more legible without explaining them away. Too much clarity and the work becomes literal. Too little and it becomes incoherent. The work is in knowing which elements carry the story, which distract from it, and where ambiguity is productive rather than just noise. This is where naive art becomes sophisticated. Not through technique, but through control of meaning.
-
-**Iteration, treated as skill acquisition.** The loop is simple. Create, present, critique, adjust, repeat. Because the AI responds immediately and consistently, I can compress what would be a long feedback cycle into a tight one. Multiple critique sessions in a single sitting. Over time that builds pattern recognition. I anticipate compositional issues before they are flagged. I recognise when a piece needs restraint rather than addition. I develop an internal sense of balance and tension. That is skill, even without formal training.
-
-## Who does what
-
-I do the painting. All of it. The concept, the sketches, the mixing, the brushwork, the world-building, the decisions about what the work means.
-
-The AI does not create. It reads what I show it and writes about what it sees, in the voice and register I have asked for. Curator-style, rubric-led, honest, no flattery. It asks clarifying questions when the intent is unclear. It notices things my eye has stopped noticing because I have been looking at them too long. It holds me to decisions I have already made and queries the ones I am about to drift from.
+The third is iteration, treated as skill acquisition. The loop is simple. Create, present, critique, adjust, repeat. Because the AI responds immediately and consistently, I can compress what would be a long feedback cycle into a tight one. Multiple critique sessions in a single sitting. Over time that builds pattern recognition. I anticipate compositional issues before they are flagged. I recognise when a piece needs restraint rather than addition. I develop an internal sense of balance and tension. That is skill, even without formal training.
 
 ## Preserving the naive
 
@@ -75,14 +70,6 @@ There is a common failure mode when self-taught artists seek improvement. They b
 That has not happened here. My compositions are becoming more deliberate. My narratives are becoming clearer but still open. My use of space and elements is more controlled. But the core remains. Flattened perspectives. Symbolic rather than realistic proportions. Emotionally driven colour choices. A world that feels familiar but slightly unstable.
 
 The work is still naive. It is just no longer accidental.
-
-## Why this works
-
-The AI has no social stake in the outcome. It will not soften feedback to protect a relationship. It says the rocky foreground feels like a separate stylistic zone if it does. That honesty is hard to find in any studio conversation.
-
-It is available at the speed of the work. Paintings move in hours and days. A critic in the room on demand is a different tool from a critic you see occasionally.
-
-It scales well to technical choices I do not want to relitigate every time. Gesso ground for acrylic at this scale. Underpainting tone to carry pink and grey feathers. Grid method for banking angles. Those conversations are settled now. They are one prompt away.
 
 ## Honest limitations
 

@@ -1,3 +1,8 @@
+---
+description: >-
+  One painting and seven drawings following a pilgrim from a town square to a formal garden outside Bedlam, a boat on the Yamuna, and back onto the road.
+---
+
 # The Know Where Series
 
 <div class="story" markdown>
@@ -8,7 +13,7 @@
 
 <div class="image-label">The Road to Somewhere (Part One)</div>
 
-![The Road to Somewhere (Part One) - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img loading=lazy }
+![The Road to Somewhere (Part One) - acrylic painting](The%20Road%20to%20Somewhere%20One.jpg){ .story-img loading=lazy width="3052" height="2286" }
 
 </div>
 
@@ -16,7 +21,7 @@
 
 <div class="image-label">The Pilgrimage to Know Where</div>
 
-![The Pilgrimage to Know Where - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+![The Pilgrimage to Know Where - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2560" height="1887" }
 
 </div>
 
@@ -24,7 +29,7 @@
 
 <div class="image-label">The Pilgrimage to Know Where Too</div>
 
-![The Pilgrimage to Know Where Too - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where%20Too.jpg){ .story-img loading=lazy }
+![The Pilgrimage to Know Where Too - ink and watercolour drawing](The%20Pilgrimage%20to%20Know%20Where%20Too.jpg){ .story-img loading=lazy width="2296" height="3278" }
 
 </div>
 
@@ -32,7 +37,7 @@
 
 <div class="image-label">A Lighthouse to Know Where</div>
 
-![A Lighthouse to Know Where - ink and watercolour drawing](A%20Lighthouse%20to%20Know%20Where.jpg){ .story-img loading=lazy }
+![A Lighthouse to Know Where - ink and watercolour drawing](A%20Lighthouse%20to%20Know%20Where.jpg){ .story-img loading=lazy width="3271" height="2296" }
 
 </div>
 
@@ -40,7 +45,7 @@
 
 <div class="image-label">A Reflection on Know Where</div>
 
-![A Reflection on Know Where - ink and watercolour drawing](A%20Reflection%20on%20Know%20Where.jpg){ .story-img loading=lazy }
+![A Reflection on Know Where - ink and watercolour drawing](A%20Reflection%20on%20Know%20Where.jpg){ .story-img loading=lazy width="2224" height="2889" }
 
 </div>
 
@@ -48,7 +53,7 @@
 
 <div class="image-label">Know Where My Mind's At</div>
 
-![Know Where My Mind's At - ink and watercolour drawing](Know%20Where%20My%20Mind's%20At.jpg){ .story-img loading=lazy }
+![Know Where My Mind's At - ink and watercolour drawing](Know%20Where%20My%20Mind's%20At.jpg){ .story-img loading=lazy width="2932" height="2233" }
 
 </div>
 
@@ -56,7 +61,15 @@
 
 <div class="image-label">Taj Mahal</div>
 
-![Taj Mahal - ink and watercolour drawing of the pilgrim sitting in a moored boat, the mausoleum on the far bank and doubled in the water](Taj%20Mahal.jpg){ .story-img loading=lazy }
+![Taj Mahal - ink and watercolour drawing of the pilgrim seated in a moored boat facing the mausoleum, the building doubled in the water](Taj%20Mahal.jpg){ .story-img loading=lazy width="2214" height="3538" }
+
+</div>
+
+<div class="story-image" markdown>
+
+<div class="image-label">The Road to Know Where Revisited</div>
+
+![The Road to Know Where Revisited - ink and watercolour drawing of the pilgrim walking the centre line of a road between vineyards, a KNOW WHERE sign at the verge](The%20Road%20to%20Know%20Where%20Revisited.jpg){ .story-img loading=lazy width="2262" height="3715" }
 
 </div>
 
@@ -64,7 +77,7 @@
 
 <div class="story-text" markdown>
 
-One painting and six drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
+One painting and seven drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
 
 *The Road to Somewhere (Part One)* is the destination, or at least the destination I want. Abundant fruit, colour, a beautiful house at the end of the road. It is aspirational rather than documentary. The R62 gave me the bones of the composition, but the place in the painting is better than the place in the photograph, because the photograph was never the point. The "Part One" was never decorative either. The road carries on past the frame, in every direction, and something unexpected is already on its way.
 
@@ -92,7 +105,11 @@ I did not plan the reversal, it came out of the subject. The Taj is a tomb. A ma
 
 The dark cloud across the top is the part I am least sure of and kept anyway. It runs in from the left over an otherwise empty sky, and it is the only thing in the drawing that is going anywhere. Read it as weather if you like. It is more useful as the thing still travelling while he sits.
 
-The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront and a formal garden, and now he is sitting in front of a tomb, which is the closest the series has come to an ending and is still not one. I do not know where he ends up. When I do, there will be another drawing. Until then the destination stays one picture ahead.
+*The Road to Know Where Revisited* is the seventh drawing and it puts him back where he started. A road running away from the viewer, vineyards banked up on both sides, a windmill on the right, a KNOW WHERE sign at the verge in the shape of a warning triangle. He walks the centre line with his back to me. The mountains close the distance, and the dark shapes massed under them could be cooling towers or could be hills, and the drawing does not settle it.
+
+Coming back to the road after the boat is the closest the series has to an argument. He sat down once, in front of the finest destination anyone has built, and then got up and went back to the middle of a road with a sign on it that names the place and still does not tell you where it is.
+
+The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront, a formal garden and a river, and the one time he sat down, in front of a tomb, he got up again and went back to the road. I do not know where he ends up. When I do, there will be another drawing. Until then the destination stays one picture ahead.
 
 </div>
 
