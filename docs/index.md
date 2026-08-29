@@ -331,7 +331,7 @@ description: >-
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
       <div class="jono-tile jono-tile--wide">
-        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning.jpg" width="3236" height="2269" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning.jpg" width="3246" height="2296" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
         <h3 class="jono-item__title">The Reckoning</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
         <p class="jono-item__desc">It's about a man who fed thousands for free and who was finally handed the bill, with everyone watching to see if he will pay, or ask for contributions. To me the story says Judas has his thirty pieces of silver. Jesus gets this bill for his good works, the devil has given it to him and is now waiting. Judas could pay the bill, and possibly save Jesus. Everyone else is looking on, or looking in, wondering what to do.</p>
