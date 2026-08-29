@@ -205,7 +205,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RA-04</td>
-      <td data-label="Title"><span class="cat-title">Siloed Reflections<small>A take on the Zeitz MOCAA in Cape Town, the grain silos doubled in reflection.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Siloed Reflections<small>A take on the Zeitz MOCAA in Cape Town, the curved glass facade holding the sky and the buildings opposite.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas Board</td>
       <td class="cat-spec" data-label="Size">A2</td>
@@ -584,7 +584,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-12</td>
-      <td data-label="Title"><span class="cat-title">The Reckoning 2<small>The second of three. The debt in play while the table carries on consuming.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Reckoning 2<small>The second of three. The bill on the table, the room carrying on eating around it.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
@@ -592,7 +592,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-13</td>
-      <td data-label="Title"><span class="cat-title">The Reckoning 3<small>The third of three. Someone at the table can pay, but paying is not contributing.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Reckoning 3<small>The third of three. The bill unrolled in full, and a hooded figure waiting over the shoulder.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>

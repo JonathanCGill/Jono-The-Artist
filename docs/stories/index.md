@@ -167,6 +167,21 @@ Watercolour · Ink & Watercolour · Acrylic
 
 </div>
 
+<div class="gallery-card" markdown>
+
+[![The Reckoning](The%20Reckoning/The%20Reckoning.jpg){ .gallery-img loading=lazy width="3246" height="2296" }](The%20Reckoning/index.md)
+
+<div class="card-info" markdown>
+
+**The Reckoning**
+
+A3 · Watercolour · Three works
+{ .card-medium }
+
+</div>
+
+</div>
+
 </div>
 
 ---
