@@ -345,6 +345,7 @@ description: >-
   <div style="margin-top:64px">
     <p class="jono-sublabel" style="color:var(--j-accent)">The Reckoning — a set of three</p>
     <p class="jono-intro__body" style="max-width:760px">A bill arrives at the end of days of helpfulness. Someone at the table can pay it, but paying and contributing are not the same thing. The others carry on consuming while the debt sits there in play, and it does not occur to them to help. To me the story says Judas has his thirty pieces of silver. Jesus gets the bill for his good works, the devil has handed it over and is now waiting. Judas could pay, and possibly save him. Everyone else is looking on, or looking in, wondering what to do. The same reckoning is staged twice more in a shawarma shop, and the writing runs backwards in all three, because this is the version you get when you look at it from the other side.</p>
+    <p style="margin-top:14px"><a class="jono-textlink" href="/stories/The%20Reckoning/">Read the story →</a></p>
     <div class="jono-row3" style="margin-top:28px">
       <div class="jono-item">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning.jpg" width="3246" height="2296" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
@@ -430,6 +431,11 @@ description: >-
     <a class="jono-storyrow" href="/stories/Standing%20Outside/">
       <span class="jono-storyrow__num">10</span>
       <span class="jono-storyrow__title">Called to Prayer</span>
+      <span class="jono-storyrow__read">Read →</span>
+    </a>
+    <a class="jono-storyrow" href="/stories/The%20Reckoning/">
+      <span class="jono-storyrow__num">11</span>
+      <span class="jono-storyrow__title">The Reckoning</span>
       <span class="jono-storyrow__read">Read →</span>
     </a>
   </div>
