@@ -705,8 +705,6 @@ body,
 }
 .jono-wc .jono-item__spec { font-size: 10px; color: var(--j-muted2); margin: 0; }
 .jono-wc .jono-item__desc { font-size: 13.5px; color: var(--j-muted); margin: 6px 0 0; line-height: 1.6; }
-/* A tile carrying a longer note takes two columns so the text and the detail both have room */
-.jono-wc .jono-tile--wide { grid-column: span 2; }
 
 /* ══ Surreal ════════════════════════════════════════════════════ */
 .jono-surreal {
@@ -1251,7 +1249,6 @@ body,
   .jono-wc {
     grid-template-columns: 1fr;
   }
-  .jono-wc .jono-tile--wide { grid-column: auto; }
   .jono-storyrow { grid-template-columns: 40px 1fr auto; gap: 16px; }
   .jono-footer__inner { flex-direction: column; align-items: flex-start; gap: 12px; }
 }

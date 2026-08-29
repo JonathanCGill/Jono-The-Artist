@@ -1,7 +1,7 @@
 ---
 template: home.html
 description: >-
-  A working catalogue of 73 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
+  A working catalogue of 76 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
 ---
 
 <section class="jono-catalog">
@@ -22,7 +22,7 @@ description: >-
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4 and A3 are standard paper sizes (210 × 297 mm and 297 × 420 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">73 works catalogued</span>
+      <span class="jono-catalog__count">76 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -202,6 +202,14 @@ description: >-
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
       <td class="cat-spec" data-label="Year">2025</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RA-04</td>
+      <td data-label="Title"><span class="cat-title">Siloed Reflections<small>A take on the Zeitz MOCAA in Cape Town, the grain silos doubled in reflection.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas Board</td>
+      <td class="cat-spec" data-label="Size">A2</td>
+      <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>
     </table>
@@ -568,7 +576,23 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SW-11</td>
-      <td data-label="Title"><span class="cat-title">The Reckoning<small>A man who fed thousands for free, finally handed the bill.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Reckoning<small>The first of three. A man who fed thousands for free, finally handed the bill.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">SW-12</td>
+      <td data-label="Title"><span class="cat-title">The Reckoning 2<small>The second of three. The debt in play while the table carries on consuming.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Watercolour</td>
+      <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">SW-13</td>
+      <td data-label="Title"><span class="cat-title">The Reckoning 3<small>The third of three. Someone at the table can pay, but paying is not contributing.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">300gsm Hot Press Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
