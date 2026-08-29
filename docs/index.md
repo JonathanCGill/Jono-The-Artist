@@ -239,11 +239,11 @@ description: >-
   </div>
 
   <div class="jono-rurban__feature">
-    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2296" height="3247" alt="Siloed Reflections, an acryla gouache painting of the Zeitz MOCAA grain silos in Cape Town doubled in their reflection"></div>
+    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2821" height="2075" alt="Siloed Reflections, an acryla gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
     <div class="jono-rurban__ftext">
       <h3 class="title">Siloed Reflections</h3>
       <p class="jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
-      <p class="desc">A take on the Zeitz MOCAA in Cape Town. The grain silos were cut open and turned into a museum, an industrial store made to hold art. Reflecting them sets the two versions of the building side by side: the one that fed the city, and the one that shows the city back to itself.</p>
+      <p class="desc">A take on the Zeitz MOCAA in Cape Town. The grain silos were cut open and glazed, and the curved wall of glass now holds the sky, the clouds and the ochre building across the square. The facade shows you everything except itself, which felt like the honest way to paint a silo that became a gallery.</p>
     </div>
   </div>
 
@@ -344,7 +344,7 @@ description: >-
 
   <div style="margin-top:64px">
     <p class="jono-sublabel" style="color:var(--j-accent)">The Reckoning — a set of three</p>
-    <p class="jono-intro__body" style="max-width:760px">A bill arrives at the end of days of helpfulness. Someone at the table can pay it, but paying and contributing are not the same thing. The others carry on consuming while the debt sits there in play, and it does not occur to them to help. To me the story says Judas has his thirty pieces of silver. Jesus gets the bill for his good works, the devil has handed it over and is now waiting. Judas could pay, and possibly save him. Everyone else is looking on, or looking in, wondering what to do.</p>
+    <p class="jono-intro__body" style="max-width:760px">A bill arrives at the end of days of helpfulness. Someone at the table can pay it, but paying and contributing are not the same thing. The others carry on consuming while the debt sits there in play, and it does not occur to them to help. To me the story says Judas has his thirty pieces of silver. Jesus gets the bill for his good works, the devil has handed it over and is now waiting. Judas could pay, and possibly save him. Everyone else is looking on, or looking in, wondering what to do. The same reckoning is staged twice more in a shawarma shop, and the writing runs backwards in all three, because this is the version you get when you look at it from the other side.</p>
     <div class="jono-row3" style="margin-top:28px">
       <div class="jono-item">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning.jpg" width="3246" height="2296" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
@@ -352,12 +352,12 @@ description: >-
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
       </div>
       <div class="jono-item">
-        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%202.jpg" width="3246" height="2296" alt="The Reckoning 2, the second watercolour in the three-part Reckoning set"></div>
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%202.jpg" width="3306" height="2296" alt="The Reckoning 2, a watercolour of a shawarma shop seen in mirror image, the itemised bill lying on the table among plates of food while the diners around it carry on eating"></div>
         <h3 class="jono-item__title">The Reckoning 2</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
       </div>
       <div class="jono-item">
-        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%203.jpg" width="3246" height="2296" alt="The Reckoning 3, the third watercolour in the three-part Reckoning set"></div>
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%203.jpg" width="3106" height="2165" alt="The Reckoning 3, a watercolour of the same shawarma shop in mirror image, a fair-haired figure unrolling the full itemised bill while a hooded figure leans in over their shoulder and a queue waits outside the window"></div>
         <h3 class="jono-item__title">The Reckoning 3</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
       </div>
