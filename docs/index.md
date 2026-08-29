@@ -238,6 +238,15 @@ description: >-
     </div>
   </div>
 
+  <div class="jono-rurban__feature">
+    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2296" height="3247" alt="Siloed Reflections, an acryla gouache painting of the Zeitz MOCAA grain silos in Cape Town doubled in their reflection"></div>
+    <div class="jono-rurban__ftext">
+      <h3 class="title">Siloed Reflections</h3>
+      <p class="jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="desc">A take on the Zeitz MOCAA in Cape Town. The grain silos were cut open and turned into a museum, an industrial store made to hold art. Reflecting them sets the two versions of the building side by side: the one that fed the city, and the one that shows the city back to itself.</p>
+    </div>
+  </div>
+
   <div style="margin-top:64px">
     <p class="jono-sublabel" style="color:var(--j-accent)">Watercolours on paper</p>
     <div class="jono-wc">
@@ -330,11 +339,27 @@ description: >-
         <h3 class="jono-item__title">Listening</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2025</p>
       </div>
-      <div class="jono-tile jono-tile--wide">
+    </div>
+  </div>
+
+  <div style="margin-top:64px">
+    <p class="jono-sublabel" style="color:var(--j-accent)">The Reckoning — a set of three</p>
+    <p class="jono-intro__body" style="max-width:760px">A bill arrives at the end of days of helpfulness. Someone at the table can pay it, but paying and contributing are not the same thing. The others carry on consuming while the debt sits there in play, and it does not occur to them to help. To me the story says Judas has his thirty pieces of silver. Jesus gets the bill for his good works, the devil has handed it over and is now waiting. Judas could pay, and possibly save him. Everyone else is looking on, or looking in, wondering what to do.</p>
+    <div class="jono-row3" style="margin-top:28px">
+      <div class="jono-item">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning.jpg" width="3246" height="2296" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
         <h3 class="jono-item__title">The Reckoning</h3>
         <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
-        <p class="jono-item__desc">It's about a man who fed thousands for free and who was finally handed the bill, with everyone watching to see if he will pay, or ask for contributions. To me the story says Judas has his thirty pieces of silver. Jesus gets this bill for his good works, the devil has given it to him and is now waiting. Judas could pay the bill, and possibly save Jesus. Everyone else is looking on, or looking in, wondering what to do.</p>
+      </div>
+      <div class="jono-item">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%202.jpg" width="3246" height="2296" alt="The Reckoning 2, the second watercolour in the three-part Reckoning set"></div>
+        <h3 class="jono-item__title">The Reckoning 2</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+      </div>
+      <div class="jono-item">
+        <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%203.jpg" width="3246" height="2296" alt="The Reckoning 3, the third watercolour in the three-part Reckoning set"></div>
+        <h3 class="jono-item__title">The Reckoning 3</h3>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
       </div>
     </div>
   </div>
