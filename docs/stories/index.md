@@ -49,7 +49,7 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Know Where Series](The-Road-to-Know-Where/The%20Pilgrimage%20to%20Know%20Where.jpg){ .gallery-img loading=lazy width="2560" height="1887" }](The-Road-to-Know-Where/index.md)
+[![The Know Where Series](The-Road-to-Know-Where/The%20Road%20to%20Know%20Where.jpg){ .gallery-img loading=lazy width="2283" height="3028" }](The-Road-to-Know-Where/index.md)
 
 <div class="card-info" markdown>
 

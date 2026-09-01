@@ -1,11 +1,19 @@
 ---
 description: >-
-  One painting and seven drawings following a pilgrim from a town square to a formal garden outside Bedlam, a boat on the Yamuna, and back onto the road.
+  Two paintings and seven drawings following a pilgrim from a town square to a formal garden outside Bedlam, a boat on the Yamuna, and back onto the road.
 ---
 
 # The Know Where Series
 
 <div class="story" markdown>
+
+<div class="story-image" markdown>
+
+<div class="image-label">The Road to Know Where</div>
+
+![The Road to Know Where - acrylic gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2283" height="3028" }
+
+</div>
 
 <div class="story-images story-images--three" markdown>
 
@@ -77,11 +85,13 @@ description: >-
 
 <div class="story-text" markdown>
 
-One painting and seven drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
+Two paintings and seven drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
+
+*The Road to Know Where* is the painting at the top of this page. It came last, and it is where the series has arrived. Everything below it is how it got there.
 
 *The Road to Somewhere (Part One)* is the destination, or at least the destination I want. Abundant fruit, colour, a beautiful house at the end of the road. It is aspirational rather than documentary. The R62 gave me the bones of the composition, but the place in the painting is better than the place in the photograph, because the photograph was never the point. The "Part One" was never decorative either. The road carries on past the frame, in every direction, and something unexpected is already on its way.
 
-The painting fixes the destination. The drawings put a person on the road to it, and from that point the series stopped being about the place and started being about him.
+That painting fixes the destination. The drawings put a person on the road to it, and from that point the series stopped being about the place and started being about him.
 
 *The Pilgrimage to Know Where* is the first drawing. A pilgrim stands in the square with a stick and a pack, the cathedral ahead, the mountains behind it, the cafe tables carrying on with their ordinary afternoon. He has stopped. Everyone else is seated or moving, and he is the only one facing the distance.
 
@@ -109,7 +119,15 @@ The dark cloud across the top is the part I am least sure of and kept anyway. It
 
 Coming back to the road after the boat is the closest the series has to an argument. He sat down once, in front of the finest destination anyone has built, and then got up and went back to the middle of a road with a sign on it that names the place and still does not tell you where it is.
 
-The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront, a formal garden and a river, and the one time he sat down, in front of a tomb, he got up again and went back to the road. I do not know where he ends up. When I do, there will be another drawing. Until then the destination stays one picture ahead.
+*The Road to Know Where* is the second painting and it takes that seventh drawing as its blueprint. Same road, same centre line, same KNOW WHERE sign at the verge, same windmill on the right. What changes is the scale and the colour. The drawing was A3 and mostly grey. This is A2 in acryla gouache on canvas board, and the colour is let out across the whole surface instead of being held back for one figure.
+
+That was the rule I broke to make it. Through seven drawings the pilgrim was the only thing given colour, and the series ran on that. Here the orchards are yellow and orange to the edge of the picture, the vine rows burn red where they meet the dark, and he is one red coat in a field of them. He is no longer the exception. He is a man walking through a place as alive as he is, and he has to hold his own against it.
+
+The shapes under the mountains are still unresolved, and they carry more weight in paint than they did in ink. Cooling towers, or hills, or hills that have become cooling towers. They are laid in flat and black right across the horizon, and the road runs straight into them. Everything in front of that line is fruit and light. Everything behind it is not. He is walking towards the part of the picture I cannot name.
+
+The sign still says KNOW WHERE. It still does not say where.
+
+The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront, a formal garden and a river, and the one time he sat down, in front of a tomb, he got up again and went back to the road. The series opens with a painting of the place he is trying to reach. Eight works later it arrives at a painting of him still walking. The destination stays one picture ahead.
 
 </div>
 

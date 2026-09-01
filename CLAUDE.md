@@ -82,7 +82,7 @@ not been recorded, leave it blank rather than guessing.
 
 Works in the Know Where series carry their position in the `Notes` field and in the
 matching description on the collection page ("The seventh Know Where work, the sixth
-drawing"). The series is currently one painting and seven drawings. Adding to it
+drawing"). The series is currently two paintings and seven drawings. Adding to it
 means updating the catalogue note, the collection-page description and the story at
 `docs/stories/The-Road-to-Know-Where/index.md`, which states the count in its front
 matter and its opening line.
