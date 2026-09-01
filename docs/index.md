@@ -302,6 +302,13 @@ description: >-
 
   <div class="jono-row3" style="margin-top:64px">
     <div class="jono-item">
+      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
+      <h3 class="jono-item__title">The Road to Know Where</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__desc">The ninth work in the Know Where series and the second painting. The pilgrim back on the road, the orchards let out into full colour and the towers massed under the mountains.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/Bilbao.jpg" width="2296" height="3014" alt="Bilbao Guggenheim Museum, an acrylic painting"></div>
       <h3 class="jono-item__title">Bilbao, Guggenheim Museum</h3>
       <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2025</p>
