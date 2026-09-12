@@ -1,7 +1,7 @@
 ---
 template: home.html
 description: >-
-  A working catalogue of 76 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
+  A working catalogue of 78 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
 ---
 
 <section class="jono-catalog">
@@ -22,14 +22,14 @@ description: >-
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3 and A2 are standard sizes (210 × 297 mm, 297 × 420 mm and 420 × 594 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">77 works catalogued</span>
+      <span class="jono-catalog__count">78 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
 
   <div class="jono-catalog__group">
     <p class="jono-sublabel">Know Where — acrylics on canvas</p>
-    <p class="jono-catalog__grouplead">The journey series. The first painting sets the destination and the second puts the pilgrim back on the road; the seven drawings between them are listed under Drawings.</p>
+    <p class="jono-catalog__grouplead">The journey series. The first painting sets the destination, the second puts the pilgrim back on the road and the third holds him up in a town centre; the seven drawings that come between are listed under Drawings.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
       <tbody>
@@ -44,6 +44,14 @@ description: >-
     <tr>
       <td class="cat-ref" data-label="Ref">KW-02</td>
       <td data-label="Title"><span class="cat-title">The Road to Know Where<small>The ninth Know Where work, the second painting. The seventh drawing painted large, the pilgrim on the road and the KNOW WHERE sign at the verge.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas Board</td>
+      <td class="cat-spec" data-label="Size">A2</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">KW-03</td>
+      <td data-label="Title"><span class="cat-title">On the Way to Know Where<small>The tenth Know Where work, the third painting. The pilgrim held up in a town centre by a flock of sheep, the police attending and the mountains behind.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas Board</td>
       <td class="cat-spec" data-label="Size">A2</td>

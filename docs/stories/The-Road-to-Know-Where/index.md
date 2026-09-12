@@ -1,6 +1,6 @@
 ---
 description: >-
-  Two paintings and seven drawings following a pilgrim from a town square to a formal garden outside Bedlam, a boat on the Yamuna, and back onto the road.
+  Three paintings and seven drawings following a pilgrim from a town square to a formal garden outside Bedlam, a boat on the Yamuna, back onto the road and into a town centre full of sheep.
 ---
 
 # The Know Where Series
@@ -9,9 +9,9 @@ description: >-
 
 <div class="story-image" markdown>
 
-<div class="image-label">The Road to Know Where</div>
+<div class="image-label">On the Way to Know Where</div>
 
-![The Road to Know Where - acrylic gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2283" height="3028" }
+![On the Way to Know Where - acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other](On%20the%20Way%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2620" height="1960" }
 
 </div>
 
@@ -81,13 +81,21 @@ description: >-
 
 </div>
 
+<div class="story-image" markdown>
+
+<div class="image-label">The Road to Know Where</div>
+
+![The Road to Know Where - acrylic gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2283" height="3028" }
+
+</div>
+
 </div>
 
 <div class="story-text" markdown>
 
-Two paintings and seven drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
+Three paintings and seven drawings, and one journey running through all of them. It was not planned as a set. It arranged itself into the shape of the same idea: you set out, you do not know where you are going, and the road does not care.
 
-*The Road to Know Where* is the painting at the top of this page. It came last, and it is where the series has arrived. Everything below it is how it got there.
+*On the Way to Know Where* is the painting at the top of this page. It came last, and it is where the series has arrived. Everything below it is how it got there.
 
 *The Road to Somewhere (Part One)* is the destination, or at least the destination I want. Abundant fruit, colour, a beautiful house at the end of the road. It is aspirational rather than documentary. The R62 gave me the bones of the composition, but the place in the painting is better than the place in the photograph, because the photograph was never the point. The "Part One" was never decorative either. The road carries on past the frame, in every direction, and something unexpected is already on its way.
 
@@ -127,7 +135,17 @@ The shapes under the mountains are still unresolved, and they carry more weight 
 
 The sign still says KNOW WHERE. It still does not say where.
 
-The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront, a formal garden and a river, and the one time he sat down, in front of a tomb, he got up again and went back to the road. The series opens with a painting of the place he is trying to reach. Eight works later it arrives at a painting of him still walking. The destination stays one picture ahead.
+*On the Way to Know Where* is the third painting and the tenth work in the series, and it is the first time something gets in his way. He is in the main street of a small town. A flock of sheep has come down through the centre and filled the road from the shopfronts to the hotel wall, and everything has stopped. A police car sits across the tar. He is on the pavement at the bottom right with his pack and his hat, waiting, which is not something he has done before.
+
+The town is loosely De Rust, which sits on the R62, the same road that gave me *The Road to Somewhere (Part One)*. The name is Afrikaans for the rest, and I did not pick it for that, but it is the joke the painting ended up making. The one place on the route named after stopping is the place where he is made to stop.
+
+Everything the series has put in front of him until now has been distance: a square to cross, a boardwalk, an avenue, a road running out to the horizon. This is the first obstruction with a mind of its own, and it is sheep. Not weather, not a shut gate, not the dark under the mountains. A flock moving at its own pace through a town that has no choice but to wait for it. The delay is nobody's fault and nobody can shorten it.
+
+The police car is the part I like most. Somebody called them, they came, and the problem is entirely beyond them. You cannot reason with a flock. They can put a car across the road and stand next to it, and the sheep will clear when the sheep clear. It is the most honest thing I have painted about authority: present, willing, and no use at all to the actual difficulty.
+
+The petrol station on the left and the hotel on the right are the two things a road town sells, fuel to carry on with or a bed to stop in, and he is walking between them and taking neither. The mountains are up behind the roofs in green and red, unbothered, and the road carries on through the town and out the far side. He is not on the road in this one. He is on the way, which is a different thing, and slower.
+
+The journey has no endpoint yet. That is not a failure of the series, it is the subject of it. The pilgrim has crossed a square, a street, a headland, a waterfront, a formal garden and a river, and the one time he sat down, in front of a tomb, he got up again and went back to the road. The series opens with a painting of the place he is trying to reach. Nine works later it arrives at a painting of him standing in a main street behind a flock of sheep, going nowhere for the moment, still facing the right way. The destination stays one picture ahead.
 
 </div>
 
