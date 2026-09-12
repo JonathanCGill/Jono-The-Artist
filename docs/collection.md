@@ -209,6 +209,13 @@ description: >-
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — acrylics on canvas</p>
   <div class="jono-row3">
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
+      <h3 class="jono-item__title">On the Way to Know Where</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__desc">The tenth work in the Know Where series and the third painting. A town loosely based on De Rust, the main street filled with sheep, and the pilgrim waiting on the pavement for a delay nobody can shorten.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
