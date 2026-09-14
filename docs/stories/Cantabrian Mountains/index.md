@@ -9,7 +9,7 @@ description: >-
 
 <div class="story-image" markdown>
 
-<div class="image-label">Cantabrian Mountains - Painting</div>
+<div class="image-label">The Painting</div>
 
 ![Cantabrian Mountains - acrylic painting](Cantabrian%20Mountains%20-Painting.jpg){ .story-img loading=lazy width="2649" height="1853" }
 

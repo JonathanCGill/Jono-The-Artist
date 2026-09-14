@@ -64,21 +64,6 @@ Acryla Gouache · Ink & Watercolour
 
 <div class="gallery-card" markdown>
 
-[![Lighthouses](Lighthouses/Pollinating%20Light.jpg){ .gallery-img loading=lazy width="3266" height="2291" }](Lighthouses/index.md)
-
-<div class="card-info" markdown>
-
-**Lighthouses**
-
-Watercolour · Ink & Watercolour
-{ .card-medium }
-
-</div>
-
-</div>
-
-<div class="gallery-card" markdown>
-
 [![Guggenheim Bilbao](Guggenheim/Bilbao.jpg){ .gallery-img loading=lazy width="2296" height="3014" }](Guggenheim/index.md)
 
 <div class="card-info" markdown>
@@ -101,6 +86,21 @@ Watercolour · Ink & Watercolour
 **The Grand Insect Hotel**
 
 750 × 1000 mm · Acryla Gouache · Canvas
+{ .card-medium }
+
+</div>
+
+</div>
+
+<div class="gallery-card" markdown>
+
+[![Lighthouses](Lighthouses/Pollinating%20Light.jpg){ .gallery-img loading=lazy width="3266" height="2291" }](Lighthouses/index.md)
+
+<div class="card-info" markdown>
+
+**Lighthouses**
+
+Watercolour · Ink & Watercolour
 { .card-medium }
 
 </div>

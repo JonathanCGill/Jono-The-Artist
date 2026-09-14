@@ -1,7 +1,8 @@
 /* ════════════════════════════════════════════════════════════════
    JONO — Single-page blueprint design
-   Scoped to the home template (.jono-header, .jono, .jono-footer).
-   Does not affect the Material-themed sub-pages.
+   Loads on every page. Carries the home template (.jono-header, .jono,
+   .jono-footer) and, from the ".md-typeset" rules below, the Material
+   sub-pages: stories, essays and About.
    ════════════════════════════════════════════════════════════════ */
 
 :root {
@@ -588,6 +589,7 @@ body,
 .jono-item__frame img {
   width: 100%;
   height: auto;
+  display: block;
   transition: transform 0.9s cubic-bezier(0.2, 0.7, 0.2, 1);
 }
 .jono-item:hover .jono-item__frame img { transform: scale(1.03); }
@@ -948,9 +950,6 @@ body,
   gap: 28px 28px;
   margin-top: 8px;
 }
-.md-typeset .gallery-grid--three {
-  grid-template-columns: repeat(3, 1fr);
-}
 .md-typeset .gallery-card {
   background: none;
   border-radius: 0;
@@ -992,16 +991,6 @@ body,
   color: var(--j-muted);
   line-height: 1.6;
 }
-.md-typeset .card-story-link {
-  font-family: var(--j-mono) !important;
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--j-accent) !important;
-}
-.md-typeset .card-story-link:hover {
-  color: var(--j-ink) !important;
-}
 
 /* ── Stories ── */
 .md-typeset .story > h2 {
@@ -1037,8 +1026,7 @@ body,
 .md-typeset .essay-list {
   max-width: 760px;
 }
-.md-typeset .essay,
-.md-typeset .essay-text {
+.md-typeset .essay {
   font-family: var(--j-sans);
   color: var(--j-body);
 }
@@ -1086,15 +1074,6 @@ body,
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--j-accent);
-}
-.md-typeset .essay-image {
-  background: none;
-  border-radius: 0;
-  box-shadow: none;
-}
-.md-typeset .essay-image-caption {
-  font-family: var(--j-serif);
-  color: var(--j-ink);
 }
 
 /* ── About ── */
@@ -1256,12 +1235,10 @@ body,
 /* Content-page galleries */
 @media (max-width: 860px) {
   .md-main__inner:not(:has(.jono)) { padding: 32px 24px 56px; }
-  .md-typeset .gallery-grid--three { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 560px) {
   .md-main__inner:not(:has(.jono)) { padding: 28px 18px 48px; }
-  .md-typeset .gallery-grid,
-  .md-typeset .gallery-grid--three { grid-template-columns: 1fr; }
+  .md-typeset .gallery-grid { grid-template-columns: 1fr; }
 }
 
 /* ════════════════════════════════════════════════════════════════

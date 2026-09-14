@@ -113,7 +113,9 @@ images load. Every image on the site carries them, Markdown ones included: on a
 Markdown page put them in the `attr_list` braces, as
 `{ .story-img loading=lazy width="3279" height="2279" }`. Without them a lazy
 image collapses to nothing until it loads and the page jumps. Grid wrappers are `.jono-row3`, `.jono-wc`, `.jono-squad__grid` and
-`.jono-draw__grid`. Root-absolute paths (`/watercolours/...`) are correct here
+`.jono-draw__grid`. Cards inside the dark `.jono-draw__grid` use
+`.jono-item__frame` instead of `.jono-frame`, which is the same frame on a dark
+ground. Root-absolute paths (`/watercolours/...`) are correct here
 because the site is served at a domain root.
 
 Every page must have exactly one `<h1>`. On the home-template pages that is a
@@ -188,12 +190,14 @@ page. Key classes:
 - Shared: `.social-links`
 
 `jono.css` sets its palette on `:root` with `--j-*` variables; `custom.css` uses
-`--cream`, `--brown`, `--sienna`. Reuse these rather than introducing new colours.
+`--cream`, `--brown`, `--sienna`. Both files set `:root`, `body`, `.md-main`,
+`.md-container` and the sidebar rules; `jono.css` loads last and wins, so the
+matching rules in `custom.css` are inert. Reuse these rather than introducing new colours.
 Do not leave rules behind for markup you have deleted.
 
-The site is centred on a desktop breakpoint of 960px. Most layouts collapse from
-multi-column to single-column at 700px and 480px. Test changes against both desktop
-and mobile.
+Content sits in a 1280px container. The two stylesheets break at different widths:
+`jono.css` at 900px, 860px and 560px, `custom.css` at 960px, 700px and 480px. Test
+changes against both desktop and mobile.
 
 ## Theme Overrides
 
