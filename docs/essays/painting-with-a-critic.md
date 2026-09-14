@@ -11,7 +11,7 @@ description: >-
 ### Jonathan Gill, April 2026
 </div>
 
-I work mostly in acrylics and Acryla gouache, in a loose naive style. The paintings are my own. The process of getting them there now involves an AI. This essay describes how, and what has actually changed.
+I work mostly in acrylics and Acryla Gouache, in a loose naive style. The paintings are my own. The process of getting them there now involves an AI. This essay describes how, and what has actually changed.
 
 ## Why this matters for naive art specifically
 
@@ -35,7 +35,7 @@ I do the painting. All of it. The concept, the sketches, the mixing, the brushwo
 
 ## How a painting actually comes together
 
-Take *Avis Aeromechanica Chocolatus*, a 1000 × 750 mm Acryla gouache piece I finished recently.
+Take *Avis Aeromechanica Chocolatus*, a 1000 × 750 mm Acryla Gouache piece I finished recently.
 
 It started as a pencil drawing of a winged fuselage hybrid, a bird-aircraft with chocolate tanks and labelled parts. I had built the field plate first: a taxonomic document complete with FlightGPT, rat cargo, and a stowaway at the fuel inlet. That world-building is mine. The deadpan invention is where my voice lives and I wouldn't hand that over.
 

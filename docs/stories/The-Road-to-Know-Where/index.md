@@ -11,7 +11,7 @@ description: >-
 
 <div class="image-label">On the Way to Know Where</div>
 
-![On the Way to Know Where - acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other](On%20the%20Way%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2620" height="1960" }
+![On the Way to Know Where - Acryla Gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other](On%20the%20Way%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2620" height="1960" }
 
 </div>
 
@@ -85,7 +85,7 @@ description: >-
 
 <div class="image-label">The Road to Know Where</div>
 
-![The Road to Know Where - acrylic gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2283" height="3028" }
+![The Road to Know Where - Acryla Gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2283" height="3028" }
 
 </div>
 
@@ -127,7 +127,7 @@ The dark cloud across the top is the part I am least sure of and kept anyway. It
 
 Coming back to the road after the boat is the closest the series has to an argument. He sat down once, in front of the finest destination anyone has built, and then got up and went back to the middle of a road with a sign on it that names the place and still does not tell you where it is.
 
-*The Road to Know Where* is the second painting and it takes that seventh drawing as its blueprint. Same road, same centre line, same KNOW WHERE sign at the verge, same windmill on the right. What changes is the scale and the colour. The drawing was A3 and mostly grey. This is A2 in acryla gouache on canvas board, and the colour is let out across the whole surface instead of being held back for one figure.
+*The Road to Know Where* is the second painting and it takes that seventh drawing as its blueprint. Same road, same centre line, same KNOW WHERE sign at the verge, same windmill on the right. What changes is the scale and the colour. The drawing was A3 and mostly grey. This is A2 in Acryla Gouache on canvas board, and the colour is let out across the whole surface instead of being held back for one figure.
 
 That was the rule I broke to make it. Through seven drawings the pilgrim was the only thing given colour, and the series ran on that. Here the orchards are yellow and orange to the edge of the picture, the vine rows burn red where they meet the dark, and he is one red coat in a field of them. He is no longer the exception. He is a man walking through a place as alive as he is, and he has to hold his own against it.
 

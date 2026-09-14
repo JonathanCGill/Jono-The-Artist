@@ -1,7 +1,7 @@
 ---
 template: home.html
 description: >-
-  A working catalogue of 78 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
+  A working catalogue of 79 paintings and drawings by Jonathan Gill, prepared for galleries. Title, medium, support, size and year for every piece, with a downloadable CSV.
 ---
 
 <section class="jono-catalog">
@@ -22,7 +22,7 @@ description: >-
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3 and A2 are standard sizes (210 × 297 mm, 297 × 420 mm and 420 × 594 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">78 works catalogued</span>
+      <span class="jono-catalog__count">79 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -71,7 +71,7 @@ description: >-
       <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner. Sister to the Musculus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
@@ -694,6 +694,14 @@ description: >-
       <td class="cat-spec" data-label="Support">200gsm Paper</td>
       <td class="cat-spec" data-label="Size">A3</td>
       <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">DR-10</td>
+      <td data-label="Title"><span class="cat-title">I Wish You Were Here<small>A West Coast shoreline in line alone, kelp and shells worked across the foreground, the village low on the far bank and two small figures the only colour in it.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Ink &amp; Watercolour</td>
+      <td class="cat-spec" data-label="Support">200gsm Paper</td>
+      <td class="cat-spec" data-label="Size">A3</td>
+      <td class="cat-spec" data-label="Year"><span class="cat-blank">—</span></td>
     </tr>
       </tbody>
     </table>

@@ -6,7 +6,6 @@
   --md-default-bg-color: #f5f0eb;
   --md-footer-bg-color: #5c3d2e;
   --md-footer-fg-color: #f5f0eb;
-  --cream: #f5f0eb;
   --brown: #5c3d2e;
   --sienna: #8b4513;
   --shadow-sm: 0 2px 8px rgba(92, 61, 46, 0.08);
@@ -14,20 +13,6 @@
   --shadow-lg: 0 8px 40px rgba(92, 61, 46, 0.18);
 }
 
-/* Body background */
-body,
-.md-main {
-  background-color: var(--cream);
-}
-
-
-/* Push page content below the single-row header */
-.md-container {
-  padding-top: 3.2rem;
-}
-
-
-/* Circular photo logo */
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
   width: 2.2rem;
@@ -78,45 +63,6 @@ body,
   text-align: center;
 }
 
-/* Hide secondary sidebar (table of contents) always */
-.md-sidebar--secondary {
-  display: none !important;
-}
-
-/* Hide primary sidebar on desktop (hamburger drawer) */
-@media (min-width: 960px) {
-  .md-sidebar--primary {
-    display: none !important;
-  }
-}
-
-
-/* Style the mobile nav drawer */
-@media (max-width: 960px) {
-  .md-sidebar--primary {
-    background-color: var(--cream);
-  }
-
-  .md-sidebar--primary .md-nav__link {
-    color: var(--brown);
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.95rem;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-  }
-
-  .md-sidebar--primary .md-nav__link:hover,
-  .md-sidebar--primary .md-nav__link--active {
-    color: var(--sienna);
-  }
-}
-
-/* Full-width centered content */
-.md-main__inner {
-  display: flex;
-  justify-content: center;
-}
-
 .md-content {
   max-width: 72rem;
   margin-left: auto;
@@ -127,15 +73,6 @@ body,
 /* Remove top padding so hero sits flush against navbar */
 .md-content__inner {
   margin-top: 0;
-}
-
-.md-nav__link {
-  color: var(--brown);
-}
-
-.md-nav__link--active {
-  color: var(--sienna);
-  font-weight: 600;
 }
 
 

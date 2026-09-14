@@ -1,7 +1,7 @@
 ---
 template: home.html
 description: >-
-  Paintings and drawings by Jonathan Gill. Aeromechanica, the Rurban landscapes of Route 62 and the Cape, and the Parareal work. Acrylic, Acryla gouache and watercolour.
+  Paintings and drawings by Jonathan Gill. Aeromechanica, the Rurban landscapes of Route 62 and the Cape, and the Parareal work. Acrylic, Acryla Gouache and watercolour.
 ---
 
 <section id="top" class="jono-hero">
@@ -57,7 +57,7 @@ description: >-
     </a>
     <a class="jono-card" href="#parareal">
       <div class="jono-frame jono-frame--45">
-        <img loading="lazy" decoding="async" src="acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic painting">
+        <img loading="lazy" decoding="async" src="acrylic/A%20Starling's%20Reformation%20at%20Five%20to%20Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic painting">
       </div>
       <p class="jono-card__num">03</p>
       <h3 class="jono-card__title">Parareal</h3>
@@ -159,7 +159,7 @@ description: >-
           <p class="jono-item__desc">A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RAF roundels.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/promachus-aeromechanicus-crucifer.jpg" width="2242" height="1617" alt="Promachus Aeromechanicus Crucifer, a robber fly fighter"></div>
+          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Promachus%20Aeromechanicus%20Crucifer.jpg" width="2242" height="1617" alt="Promachus Aeromechanicus Crucifer, a robber fly fighter"></div>
           <h3 class="jono-item__title">Promachus Aeromechanicus Crucifer</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.</p>
@@ -177,7 +177,7 @@ description: >-
           <p class="jono-item__desc">A second robber fly, teal and ochre this time. Same Raubfliege nickname in the title box, same crosses on the wings.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Jet Age</span><img loading="lazy" decoding="async" src="watercolours/avis-aeromechanica-paciferus.jpg" width="2544" height="1832" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
+          <div class="jono-frame jono-frame--34"><span class="jono-faction">Jet Age</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Paciferus.jpg" width="2544" height="1832" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Paciferus</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A bird with swept gull wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.</p>
@@ -239,7 +239,7 @@ description: >-
   </div>
 
   <div class="jono-rurban__feature">
-    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2821" height="2075" alt="Siloed Reflections, an acryla gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
+    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2821" height="2075" alt="Siloed Reflections, an Acryla Gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
     <div class="jono-rurban__ftext">
       <h3 class="title">Siloed Reflections</h3>
       <p class="jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
@@ -292,7 +292,7 @@ description: >-
   </div>
 
   <div class="jono-surreal__feature">
-    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight"></div>
+    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/A%20Starling's%20Reformation%20at%20Five%20to%20Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight"></div>
     <div class="jono-surreal__ftext">
       <h3 class="title">A Starling's Reformation at Five to Midnight</h3>
       <p class="jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2026</p>
@@ -302,14 +302,14 @@ description: >-
 
   <div class="jono-row3" style="margin-top:64px">
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
+      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an Acryla Gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
       <h3 class="jono-item__title">On the Way to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">The tenth work in the Know Where series and the third painting. The pilgrim held up in a town centre by a flock of sheep, with the police doing what little can be done about it.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
+      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an Acryla Gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">The ninth work in the Know Where series and the second painting. The pilgrim back on the road, the orchards let out into full colour and the towers massed under the mountains.</p>
@@ -384,7 +384,7 @@ description: >-
   <div class="jono-morework__inner">
     <p class="jono-eyebrow">§ More to see</p>
     <h2 class="jono-h2">This is a selection. There is more.</h2>
-    <p class="jono-intro__body">The villages and harbours, the Parareal pieces and the portraits, the watercolours that did not fit above. The full collection lives on its own page.</p>
+    <p class="jono-intro__body">The villages and harbours, the Parareal pieces, the drawings and the portraits, the watercolours that did not fit above. Every piece on the site, everything here included, sits on the collection page.</p>
     <a class="jono-textlink" href="/collection/">Browse the full collection →</a>
   </div>
 </section>
