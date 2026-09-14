@@ -22,7 +22,7 @@ There is no application code. The repository is content (Markdown, images), them
 ├── mkdocs.yml              # Site config and nav
 ├── docs/                   # All site content
 │   ├── index.md            # Home (hero, Aeromechanica, Rurban, Parareal, stories, about)
-│   ├── collection.md       # The full collection: everything not on the home page
+│   ├── collection.md       # Every catalogued work; the home page is a selection from it
 │   ├── catalogue.md        # Gallery catalogue table (mirrors catalogue.csv)
 │   ├── catalogue.csv       # Downloadable catalogue, must stay in sync with catalogue.md
 │   ├── essays.md           # Essay index
@@ -43,8 +43,7 @@ There is no application code. The repository is content (Markdown, images), them
 │   ├── main.html           # Critical header CSS, preconnects, icons, OG tags, Google Analytics
 │   ├── home.html           # Full-bleed template used by index/collection/catalogue
 │   └── partials/
-│       ├── header.html     # Custom header and section nav
-│       └── logo.html       # Logo with real dimensions and meaningful alt text
+│       └── header.html     # Custom header and section nav
 └── .github/workflows/
     ├── deploy.yml          # Builds and deploys to GitHub Pages
     └── blank.yml           # Placeholder CI
@@ -76,9 +75,11 @@ visitors. Check this when adding a page.
 `docs/catalogue.md` (an HTML table) and `docs/catalogue.csv` (the download) hold the
 same data and must be edited together: same refs, titles, mediums, supports, sizes,
 years and notes. The `N works catalogued` count on the page must match the number of
-rows. Every work shown on a gallery page should have a catalogue entry, and sizes
-and years quoted on the gallery pages must match the catalogue. Where a detail has
-not been recorded, leave it blank rather than guessing.
+rows, and so does the count in the page's `description`. The catalogue and
+`collection.md` hold the same set of works: every catalogued work has a card on the
+collection page and every card has a catalogue entry. Sizes and years quoted on the
+gallery pages must match the catalogue. Where a detail has not been recorded, leave
+it blank in the CSV; `catalogue.md` renders a blank as `<span class="cat-blank">—</span>`.
 
 Works in the Know Where series carry their position in the `Notes` field and in the
 matching description on the collection page ("The seventh Know Where work, the sixth
@@ -90,6 +91,10 @@ matter and its opening line.
 ## Page Conventions
 
 Two layout systems coexist. Do not mix them on one page.
+
+Spec lines follow one order, size · medium · support · year, dropping any field the
+catalogue does not record. Full `.jono-item` cards carry all four; the compact
+`.jono-wc` tiles on the home page drop the support.
 
 ### Home-template pages (`index.md`, `collection.md`, `catalogue.md`)
 
@@ -190,10 +195,11 @@ page. Key classes:
 - Shared: `.social-links`
 
 `jono.css` sets its palette on `:root` with `--j-*` variables; `custom.css` uses
-`--cream`, `--brown`, `--sienna`. Both files set `:root`, `body`, `.md-main`,
-`.md-container` and the sidebar rules; `jono.css` loads last and wins, so the
-matching rules in `custom.css` are inert. Reuse these rather than introducing new colours.
-Do not leave rules behind for markup you have deleted.
+`--brown`, `--sienna` and the `--shadow-*` tokens. Both files set `:root`, and
+`jono.css` loads last, so it wins any selector they share: site chrome (`body`,
+`.md-main`, `.md-container`, the sidebars) belongs in `jono.css`, not `custom.css`.
+Reuse these colours rather than introducing new ones. Do not leave rules behind for
+markup you have deleted.
 
 Content sits in a 1280px container. The two stylesheets break at different widths:
 `jono.css` at 900px, 860px and 560px, `custom.css` at 960px, 700px and 480px. Test
@@ -208,13 +214,11 @@ changes against both desktop and mobile.
   stylesheets and four of those are third-party, so without it the masthead can
   paint with default blue underlined links. Those rules are a copy of the ones in
   `jono.css` and must be changed in step with it.
-- `overrides/partials/header.html` replaces the default Material header so the
-  "Jono, the Artist" wordmark always sits next to the logo. Search and repo source
-  UI are deliberately omitted. It is the primary navigation: the home-template
-  pages have no sidebar, so a page missing from this nav is unreachable for most
-  visitors.
-- `overrides/partials/logo.html` exists only so the logo carries its real pixel
-  dimensions and real alt text; the theme default supplies neither.
+- `overrides/partials/header.html` replaces the default Material header with the
+  typographic "Jono / the artist" wordmark and the section nav. There is no logo
+  image and no `theme.logo` in `mkdocs.yml`; search and repo source UI are
+  deliberately omitted. It is the primary navigation: the home-template pages have
+  no sidebar, so a page missing from this nav is unreachable for most visitors.
 
 ## Deployment and Branching
 

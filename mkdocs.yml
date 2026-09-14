@@ -16,7 +16,6 @@ theme:
     - navigation.indexes
     - navigation.top
   favicon: favicon.ico
-  logo: photos/Jono.jpg
 
 markdown_extensions:
   - attr_list

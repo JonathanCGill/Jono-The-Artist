@@ -1,14 +1,133 @@
 ---
 template: home.html
 description: >-
-  The full collection of paintings and drawings by Jonathan Gill: Rurban acrylics and watercolours, the Parareal pieces, the ink drawings and the portraits.
+  The full collection of paintings and drawings by Jonathan Gill: the Aeromechanica series, Rurban acrylics and watercolours, the Parareal pieces, the ink drawings and the portraits.
 ---
 
 <section class="jono-rurban" id="collection-top">
   <p class="jono-eyebrow">§ The full collection</p>
   <div class="jono-intro">
-    <h1 class="jono-h2">The rest of the work.</h1>
-    <p class="jono-intro__body">The home page keeps to a handful of pieces. Here is everything else: the Route 62 villages and the harbours after rain, the Parareal pieces, and the portraits. Acrylic on canvas and watercolour on paper. Most are available as originals or prints.</p>
+    <h1 class="jono-h2">Every piece, in one place.</h1>
+    <p class="jono-intro__body">The home page keeps to a handful of pieces. This page holds all of them and the rest besides: the Aeromechanica series, the Route 62 villages and the harbours after rain, the Parareal pieces, the drawings and the portraits. Acrylic and Acryla Gouache on canvas, watercolour and ink on paper. Most are available as originals or prints.</p>
+  </div>
+</section>
+
+<section class="jono-rurban">
+  <p class="jono-eyebrow">§ Aeromechanica</p>
+  <div class="jono-intro">
+    <h2 class="jono-h2">Creatures fitted with the airframes of real aircraft.</h2>
+    <p class="jono-intro__body">A small war fought by birds, beetles, mosquitos, robber flies and hornets, and after it a commercial airline running on cocoa. The paintings carry the company; the watercolours are its paperwork. Half engineering, half nonsense, all impractical.</p>
+    <p style="margin-top:14px"><a class="jono-textlink" href="/stories/Aeromechanica/">Read the story →</a></p>
+  </div>
+
+  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Aeromechanica — paintings on canvas</p>
+  <div class="jono-row3">
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Avis%20Aeromechanica%20Chocolatus%20-%20Painting.jpg" width="2998" height="2166" alt="Avis Aeromechanica Chocolatus, an Acryla Gouache painting of a bird fitted with an aircraft airframe over a lighthouse"></div>
+      <h3 class="jono-item__title">Avis Aeromechanica Chocolatus</h3>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-item__desc">The cocoa-powered commercial airliner, and the sister ship to the Musculus.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Aeromechanica%20Musculus.jpg" width="1863" height="2597" alt="Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeroville, a fogbound city set against dark mountains"></div>
+      <h3 class="jono-item__title">Aeromechanica Musculus</h3>
+      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-item__desc">The flagship, sized past anything sensible and built to carry five hundred people. I designed it with whales in mind.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Libellula%20Aviatica.jpg" width="2440" height="1963" alt="Libellula Aviatica, a dragonfly given the airframe of a biplane"></div>
+      <h3 class="jono-item__title">Libellula Aviatica</h3>
+      <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
+      <p class="jono-item__desc">A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RAF roundels.</p>
+    </div>
+  </div>
+
+  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Aeromechanica — the drawings and the paperwork</p>
+  <div class="jono-row3">
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Aero%20Mechanica%201.jpg" width="2813" height="1780" alt="Aeromechanica side profile blueprint, annotated for free flight, slurp, smoothie and feed"></div>
+      <h3 class="jono-item__title">Aeromechanica (side profile)</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Hot Press · 2025</p>
+      <p class="jono-item__desc">Side elevation. ILS trees on either side of the runway. Where the whole thing started.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Aero%20Mechanica%202.jpg" width="3272" height="2296" alt="Aeromechanica top profile blueprint"></div>
+      <h3 class="jono-item__title">Aeromechanica (top profile)</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · Hot Press · 2025</p>
+      <p class="jono-item__desc">The same machine from above, drawn as a plan rather than an elevation.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg" width="2915" height="2081" alt="Aeromechanica Chocolatus airframe cutaway, the structure opened up and annotated"></div>
+      <h3 class="jono-item__title">Aeromechanica Chocolatus Airframe Cutaway</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink, Pastel &amp; Watercolour · Paper · 2026</p>
+      <p class="jono-item__desc">The airliner opened up along its length, with the structure annotated as if anyone had to build it.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Aeromechanica%20Chocolatus%20Cockpit.jpg" width="2443" height="1765" alt="Aeromechanica Chocolatus cockpit panel"></div>
+      <h3 class="jono-item__title">Aeromechanica Chocolatus Cockpit</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour &amp; Ink · Paper · 2026</p>
+      <p class="jono-item__desc">The flight deck, laid out panel by panel.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/FlightGPT1.jpg" width="1870" height="2603" alt="FlightGPT schematic: a bird brain wired to a language model driving a biomechanical aircraft, with sensory inputs feeding a perception builder"></div>
+      <h3 class="jono-item__title">FlightGPT</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · Paper · 2026</p>
+      <p class="jono-item__desc">A bird brain and a language model, coupled. The senses feed a perception builder and the controls translate it into wings, cabin and fuel.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Aeromechanica%20Chocolatus%20Evolution.jpg" width="2178" height="3005" alt="Aeromechanica Chocolatus Evolution, four panels held in purple photo corners dated 1972, 1976, 1985 and 2026"></div>
+      <h3 class="jono-item__title">Aeromechanica Chocolatus Evolution</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour &amp; Ink · Paper · 2026</p>
+      <p class="jono-item__desc">Four panels in photo corners, 1972 to 2026. The drawing office was never real. This is where the work actually came from.</p>
+    </div>
+  </div>
+
+  <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Aeromechanica — the squadron, on vellum</p>
+  <div class="jono-row3">
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Lucanus%20Aeromechanica%20Avronis.jpg" width="2890" height="1779" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
+      <h3 class="jono-item__title">Lucanus Aeromechanica Avronis</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
+      <p class="jono-item__desc">A stag beetle on the airframe of an Avro. Mandibles up, RAF roundels, bombs slung beneath.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg" width="2786" height="1984" alt="Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"></div>
+      <h3 class="jono-item__title">Culex Aeromechanica De Havillandii</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
+      <p class="jono-item__desc">A mosquito turned De Havilland Mosquito. Two Merlins, three crew, RAF roundels.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Promachus%20Aeromechanicus%20Crucifer.jpg" width="2242" height="1617" alt="Promachus Aeromechanicus Crucifer, a robber fly fighter with cruciform wings and Balkenkreuze"></div>
+      <h3 class="jono-item__title">Promachus Aeromechanicus Crucifer</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
+      <p class="jono-item__desc">A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Vespa%20Aeromechanica%20Crabro.jpg" width="2696" height="1852" alt="Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
+      <h3 class="jono-item__title">Vespa Aeromechanica Crabro</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
+      <p class="jono-item__desc">A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Avis%20Aeromechanica%20Promachus.jpg" width="2781" height="1821" alt="Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"></div>
+      <h3 class="jono-item__title">Avis Aeromechanica Promachus</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
+      <p class="jono-item__desc">A second robber fly, teal and ochre this time. Same Raubfliege nickname in the title box, same crosses on the wings.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/Avis%20Aeromechanica%20Paciferus.jpg" width="2544" height="1832" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
+      <h3 class="jono-item__title">Avis Aeromechanica Paciferus</h3>
+      <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
+      <p class="jono-item__desc">A bird with swept gull wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.</p>
+    </div>
+  </div>
+</section>
+
+<section class="jono-rurban">
+  <p class="jono-eyebrow">§ Rurban</p>
+  <div class="jono-intro">
+    <h2 class="jono-h2">Buildings, hills, and the occasional tree.</h2>
+    <p class="jono-intro__body">Scenes reduced to what I actually noticed. Route 62 country, the harbours of False Bay, and a few places further afield that asked to be painted.</p>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Rurban — acrylics on canvas</p>
@@ -36,6 +155,12 @@ description: >-
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Siloed%20Reflections.jpg" width="2821" height="2075" alt="Siloed Reflections, an Acryla Gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
+      <h3 class="jono-item__title">Siloed Reflections</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__desc">The Zeitz MOCAA in Cape Town. The grain silos were cut open and glazed, and the curved wall of glass now holds the sky and the ochre building across the square.</p>
     </div>
   </div>
 
@@ -209,21 +334,21 @@ description: >-
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — acrylics on canvas</p>
   <div class="jono-row3">
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an Acryla Gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
       <h3 class="jono-item__title">On the Way to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">The tenth work in the Know Where series and the third painting. A town loosely based on De Rust, the main street filled with sheep, and the pilgrim waiting on the pavement for a delay nobody can shorten.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an Acryla Gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">The ninth work in the Know Where series and the second painting. The seventh drawing painted large, with the colour let out across the whole field instead of held back for the pilgrim alone.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/A%20Starling's%20Reformation%20at%20Five%20to%20Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic"></div>
       <h3 class="jono-item__title">A Starling's Reformation at Five to Midnight</h3>
       <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">A reflection on the way nature can take from us, often without warning, even the things we value most. No authority, influence or urgency can reclaim what has been lost once time begins to run out.</p>
@@ -317,6 +442,27 @@ description: >-
       <h3 class="jono-item__title">The Passage</h3>
       <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2025</p>
     </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Reckoning.jpg" width="3246" height="2296" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
+      <h3 class="jono-item__title">The Reckoning</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+      <p class="jono-item__desc">A bill arrives at the end of days of helpfulness. Someone at the table can pay it, and it does not occur to them to help.</p>
+      <a class="jono-textlink" href="/stories/The%20Reckoning/">Read the story →</a>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Reckoning%202.jpg" width="3306" height="2296" alt="The Reckoning 2, a watercolour of a shawarma shop seen in mirror image, the itemised bill lying on the table among plates of food while the diners around it carry on eating"></div>
+      <h3 class="jono-item__title">The Reckoning 2</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+      <p class="jono-item__desc">The same reckoning staged in a shawarma shop. The writing runs backwards, because this is the version you get from the other side.</p>
+      <a class="jono-textlink" href="/stories/The%20Reckoning/">Read the story →</a>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/watercolours/The%20Reckoning%203.jpg" width="3106" height="2165" alt="The Reckoning 3, a watercolour of the same shawarma shop in mirror image, a fair-haired figure unrolling the full itemised bill while a hooded figure leans in over their shoulder and a queue waits outside the window"></div>
+      <h3 class="jono-item__title">The Reckoning 3</h3>
+      <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
+      <p class="jono-item__desc">The bill unrolled to its full length, a hooded figure leaning in over the shoulder and a queue still waiting outside.</p>
+      <a class="jono-textlink" href="/stories/The%20Reckoning/">Read the story →</a>
+    </div>
   </div>
 </section>
 
@@ -388,6 +534,12 @@ description: >-
       <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper · 2026</p>
       <p class="jono-item__desc">The eighth work in the Know Where series, and the seventh drawing. The pilgrim back on the road, vineyards either side, a windmill on the right and a KNOW WHERE sign at the verge.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/Drawings/I%20Wish%20You%20Were%20Here.jpg" width="3167" height="2160" alt="I Wish You Were Here, an ink drawing of a West Coast shoreline with kelp and shells worked across the foreground, a low village on the far bank and two small figures picked out in colour"></div>
+      <h3 class="jono-item__title">I Wish You Were Here</h3>
+      <p class="jono-item__spec jono-spec">A3 · Ink &amp; Watercolour · 200gsm Paper</p>
+      <p class="jono-item__desc">A West Coast shoreline done in line alone, kelp and shells worked across the whole foreground. The two figures on the far bank are the only colour in it.</p>
     </div>
   </div>
 </section>

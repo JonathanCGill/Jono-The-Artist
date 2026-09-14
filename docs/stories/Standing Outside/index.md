@@ -69,7 +69,7 @@ description: >-
 
 <div class="image-label">A Starling's Reformation at Five to Midnight</div>
 
-![A Starling's Reformation at Five to Midnight - acrylic painting of a village kerk at night, a man on the path with his arms raised and a starling on the cross at the top of the spire](A-Starling-Reformation-at-Five-to-Midnight.jpg){ .story-img loading=lazy width="2190" height="2952" }
+![A Starling's Reformation at Five to Midnight - acrylic painting of a village kerk at night, a man on the path with his arms raised and a starling on the cross at the top of the spire](A%20Starling's%20Reformation%20at%20Five%20to%20Midnight.jpg){ .story-img loading=lazy width="2190" height="2952" }
 
 </div>
 
