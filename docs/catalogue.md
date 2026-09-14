@@ -35,7 +35,7 @@ description: >-
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">KW-01</td>
-      <td data-label="Title"><span class="cat-title">The Road to Somewhere (Part One)<small>The destination. Reimagining the R62.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Road to Somewhere (Part One)<small>The first Know Where work, the first painting. The destination. Reimagining the R62.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>

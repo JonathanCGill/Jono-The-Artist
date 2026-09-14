@@ -3,7 +3,7 @@ description: >-
   Painting Gehry's titanium-clad museum in Bilbao, the sculptures around it, and the man who wants it all to stop while he photographs it.
 ---
 
-# Guggenheim
+# Guggenheim, Bilbao
 
 <div class="story" markdown>
 

@@ -125,7 +125,7 @@ description: >-
         <div class="jono-item">
           <div class="jono-item__frame"><img loading="lazy" decoding="async" src="watercolours/Aeromechanica%20Chocolatus%20Airframe%20Cutaway.jpg" width="2915" height="2081" alt="Aeromechanica Chocolatus airframe cutaway"></div>
           <h3 class="jono-item__title">Aeromechanica Chocolatus Airframe Cutaway</h3>
-          <p class="jono-item__spec jono-spec">A3 · Ink, Pastel &amp; Watercolour · 2026</p>
+          <p class="jono-item__spec jono-spec">A3 · Ink, Pastel &amp; Watercolour · Paper · 2026</p>
           <p class="jono-item__desc">A cutaway of the airframe. The structure follows a bird's rib strategy, with the wings mounted to the airframe and driven by the Flaperon Engine. Fuel is carried in bags. The Dove Tail keeps the flight stable.</p>
         </div>
         <div class="jono-item">
@@ -141,7 +141,7 @@ description: >-
       <p class="jono-sublabel">The squadron — allied, axis, jet age</p>
       <div class="jono-squad__grid">
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Avronis.jpg" width="2890" height="1779" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
+          <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Lucanus%20Aeromechanica%20Avronis.jpg" width="2890" height="1779" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
           <h3 class="jono-item__title">Lucanus Aeromechanica Avronis</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A stag beetle on the airframe of an Avro. Mandibles up, RAF roundels, bombs slung beneath.</p>
@@ -165,13 +165,13 @@ description: >-
           <p class="jono-item__desc">A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Crabro.jpg" width="2696" height="1852" alt="Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
+          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Vespa%20Aeromechanica%20Crabro.jpg" width="2696" height="1852" alt="Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
           <h3 class="jono-item__title">Vespa Aeromechanica Crabro</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Culex%20Aeromechanica%20Promachus.jpg" width="2781" height="1821" alt="Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"></div>
+          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Promachus.jpg" width="2781" height="1821" alt="Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Promachus</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A second robber fly, teal and ochre this time. Same Raubfliege nickname in the title box, same crosses on the wings.</p>
@@ -212,7 +212,7 @@ description: >-
     <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Somewhere%20One.jpg" width="3081" height="2296" alt="The Road to Somewhere (Part One), an acrylic landscape"></div>
     <div class="jono-rurban__ftext">
       <h3 class="title">The Road to Somewhere <em>(Part One)</em></h3>
-      <p class="jono-spec">1000 × 750 mm · Canvas · 2026</p>
+      <p class="jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="desc">Reimagining the R62. Sometimes on life's journey we reach a destination that brings joy, abundant fruit, colour, a beautiful house at the end of the road. The journey to Know Where is not over, but this is a good stopping point.</p>
     </div>
   </div>
@@ -221,19 +221,19 @@ description: >-
     <div class="jono-item">
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/Cantabrian%20Mountains.jpg" width="2649" height="1853" alt="Cantabrian Mountains, an acrylic of a Spanish farm setting"></div>
       <h3 class="jono-item__title">Cantabrian Mountains</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2026</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/Suurbraak.jpg" width="2519" height="1877" alt="Suurbraak, an acrylic of a village near Swellendam"></div>
       <h3 class="jono-item__title">Suurbraak</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2024</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acrylic &amp; Acryla Gouache · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, Amsterdam, an acrylic landscape"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Canvas · 2025</p>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
     </div>
   </div>
@@ -364,17 +364,17 @@ description: >-
       <div class="jono-item">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning.jpg" width="3246" height="2296" alt="The Reckoning watercolour, a long-haired figure at a table holding out a long itemised bill while the others around him look on"></div>
         <h3 class="jono-item__title">The Reckoning</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
       </div>
       <div class="jono-item">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%202.jpg" width="3306" height="2296" alt="The Reckoning 2, a watercolour of a shawarma shop seen in mirror image, the itemised bill lying on the table among plates of food while the diners around it carry on eating"></div>
         <h3 class="jono-item__title">The Reckoning 2</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
       </div>
       <div class="jono-item">
         <div class="jono-frame"><img loading="lazy" decoding="async" src="watercolours/The%20Reckoning%203.jpg" width="3106" height="2165" alt="The Reckoning 3, a watercolour of the same shawarma shop in mirror image, a fair-haired figure unrolling the full itemised bill while a hooded figure leans in over their shoulder and a queue waits outside the window"></div>
         <h3 class="jono-item__title">The Reckoning 3</h3>
-        <p class="jono-item__spec jono-spec">A3 · Watercolour · 2026</p>
+        <p class="jono-item__spec jono-spec">A3 · Watercolour · 300gsm Hot Press · 2026</p>
       </div>
     </div>
   </div>
