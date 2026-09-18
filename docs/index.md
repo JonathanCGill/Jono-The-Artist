@@ -230,12 +230,6 @@ description: >-
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acrylic &amp; Acryla Gouache · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
-    <div class="jono-item">
-      <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, Amsterdam, an acrylic landscape"></div>
-      <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
-      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
-    </div>
   </div>
 
   <div class="jono-rurban__feature">
@@ -332,6 +326,13 @@ description: >-
       <h3 class="jono-item__title">The Path</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">A path to the Moon.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, Amsterdam, an acryla gouache painting of the Grote Die canal holding a perfect mirror of the houses and spire, a magpie overhead and a snail moored in a small boat"></div>
+      <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
+      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord, painted the way the morning felt rather than the way it looked. A magpie on the spire, a small green guardian at the edge, and ES Cargo moored in the middle of the canal with the whole day ahead of him and no intention of using it.</p>
+      <a class="jono-textlink" href="/stories/The%20Last%20Holiday/">Read the story →</a>
     </div>
     <div class="jono-item">
       <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>

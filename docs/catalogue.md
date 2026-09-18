@@ -213,14 +213,6 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RA-03</td>
-      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking the Grote Die in Amsterdam Noord.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
-      <td class="cat-spec" data-label="Year">2025</td>
-    </tr>
-    <tr>
-      <td class="cat-ref" data-label="Ref">RA-04</td>
       <td data-label="Title"><span class="cat-title">Siloed Reflections<small>A take on the Zeitz MOCAA in Cape Town, the curved glass facade holding the sky and the buildings opposite.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas Board</td>
@@ -503,6 +495,14 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-06</td>
+      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking the Grote Die in Amsterdam Noord. The magpie, the small green guardian and ES Cargo moored up going nowhere.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas</td>
+      <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
+      <td class="cat-spec" data-label="Year">2025</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">SA-07</td>
       <td data-label="Title"><span class="cat-title">ES Cargo Rides Again<small>A cousin of The Last Holiday. ES Cargo back on the water, the magpie holding a key and the poppies holding people.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas Board</td>
