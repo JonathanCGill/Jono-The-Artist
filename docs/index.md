@@ -40,7 +40,7 @@ description: >-
 <section class="jono-series">
   <div class="jono-series__grid">
     <a class="jono-card" href="#aeromechanica">
-      <div class="jono-frame jono-frame--45">
+      <div class="jono-frame">
         <img loading="lazy" decoding="async" src="acrylic/Libellula%20Aviatica.jpg" width="2440" height="1963" alt="Libellula Aviatica, a dragonfly given the airframe of a biplane">
       </div>
       <p class="jono-card__num">01</p>
@@ -48,7 +48,7 @@ description: >-
       <p class="jono-card__desc">Creatures fitted with the airframes of real aircraft.</p>
     </a>
     <a class="jono-card" href="#rurban">
-      <div class="jono-frame jono-frame--45">
+      <div class="jono-frame">
         <img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Somewhere%20One.jpg" width="3081" height="2296" alt="The Road to Somewhere, an acrylic landscape reimagining the R62">
       </div>
       <p class="jono-card__num">02</p>
@@ -56,7 +56,7 @@ description: >-
       <p class="jono-card__desc">Buildings, hills, and the occasional tree.</p>
     </a>
     <a class="jono-card" href="#parareal">
-      <div class="jono-frame jono-frame--45">
+      <div class="jono-frame">
         <img loading="lazy" decoding="async" src="acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic painting">
       </div>
       <p class="jono-card__num">03</p>
@@ -74,7 +74,7 @@ description: >-
       <p class="jono-intro__body">Creatures fitted with the airframes of real aircraft. Some carry RAF roundels, some Luftwaffe Balkenkreuze. A small war fought by birds, beetles, mosquitos, robber flies and hornets. A commercial, passenger-carrying, biomechanical plane, using large language models. Half engineering, half nonsense, all impractical.</p>
     </div>
 
-    <div class="jono-aero__block jono-flagship-block">
+    <div class="jono-aero__block">
       <p class="jono-sublabel">The flagship — cocoa-powered, whale-sized</p>
       <div class="jono-flagship">
         <div class="jono-flagship__frame">
@@ -88,7 +88,7 @@ description: >-
       </div>
     </div>
 
-    <div class="jono-aero__block jono-evo">
+    <div class="jono-aero__block">
       <p class="jono-sublabel">FlightGPT — a bird brain and language model, coupled</p>
       <div class="jono-evo__frames">
         <div class="jono-evo__frame">
@@ -141,43 +141,43 @@ description: >-
       <p class="jono-sublabel">The squadron — allied, axis, jet age</p>
       <div class="jono-squad__grid">
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Lucanus%20Aeromechanica%20Avronis.jpg" width="2890" height="1779" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
+          <div class="jono-frame"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Lucanus%20Aeromechanica%20Avronis.jpg" width="2890" height="1779" alt="Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"></div>
           <h3 class="jono-item__title">Lucanus Aeromechanica Avronis</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A stag beetle on the airframe of an Avro. Mandibles up, RAF roundels, bombs slung beneath.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg" width="2786" height="1984" alt="Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"></div>
+          <div class="jono-frame"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="watercolours/Culex%20Aeromechanica%20De%20Havillandii.jpg" width="2786" height="1984" alt="Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"></div>
           <h3 class="jono-item__title">Culex Aeromechanica De Havillandii</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A mosquito turned De Havilland Mosquito. Two Merlins, three crew, RAF roundels.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="acrylic/Libellula%20Aviatica.jpg" width="2440" height="1963" alt="Libellula Aviatica, a dragonfly as a biplane"></div>
+          <div class="jono-frame"><span class="jono-faction">Allied</span><img loading="lazy" decoding="async" src="acrylic/Libellula%20Aviatica.jpg" width="2440" height="1963" alt="Libellula Aviatica, a dragonfly as a biplane"></div>
           <h3 class="jono-item__title">Libellula Aviatica</h3>
           <p class="jono-item__spec jono-spec">Acryla Gouache · Canvas · 2026</p>
           <p class="jono-item__desc">A dragonfly given the airframe of a biplane. Two pairs of wings, a twin tail, RAF roundels.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/promachus-aeromechanicus-crucifer.jpg" width="2242" height="1617" alt="Promachus Aeromechanicus Crucifer, a robber fly fighter"></div>
+          <div class="jono-frame"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/promachus-aeromechanicus-crucifer.jpg" width="2242" height="1617" alt="Promachus Aeromechanicus Crucifer, a robber fly fighter"></div>
           <h3 class="jono-item__title">Promachus Aeromechanicus Crucifer</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A robber fly with cruciform wings and Balkenkreuze. Predator built like a fighter.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Vespa%20Aeromechanica%20Crabro.jpg" width="2696" height="1852" alt="Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
+          <div class="jono-frame"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Vespa%20Aeromechanica%20Crabro.jpg" width="2696" height="1852" alt="Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"></div>
           <h3 class="jono-item__title">Vespa Aeromechanica Crabro</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A hornet on a Bf 109 nose. Six legs, Luftwaffe markings, fuselage 13.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Promachus.jpg" width="2781" height="1821" alt="Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"></div>
+          <div class="jono-frame"><span class="jono-faction">Axis</span><img loading="lazy" decoding="async" src="watercolours/Avis%20Aeromechanica%20Promachus.jpg" width="2781" height="1821" alt="Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Promachus</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A second robber fly, teal and ochre this time. Same Raubfliege nickname in the title box, same crosses on the wings.</p>
         </div>
         <div class="jono-item">
-          <div class="jono-frame jono-frame--34"><span class="jono-faction">Jet Age</span><img loading="lazy" decoding="async" src="watercolours/avis-aeromechanica-paciferus.jpg" width="2544" height="1832" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
+          <div class="jono-frame"><span class="jono-faction">Jet Age</span><img loading="lazy" decoding="async" src="watercolours/avis-aeromechanica-paciferus.jpg" width="2544" height="1832" alt="Avis Aeromechanica Paciferus, a swept-wing jet bird"></div>
           <h3 class="jono-item__title">Avis Aeromechanica Paciferus</h3>
           <p class="jono-item__spec jono-spec">A4 · Watercolour · Vellum · 2026</p>
           <p class="jono-item__desc">A bird with swept gull wings and a 27.642m span. Mach 2.64, crew of one, armed with rotten eggs.</p>
@@ -185,7 +185,7 @@ description: >-
       </div>
     </div>
 
-    <div class="jono-aero__block jono-flagship-block">
+    <div class="jono-aero__block">
       <p class="jono-sublabel">The album — where the company history gives itself away</p>
       <div class="jono-flagship">
         <div class="jono-flagship__frame">
@@ -219,13 +219,13 @@ description: >-
 
   <div class="jono-row3">
     <div class="jono-item">
-      <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/Cantabrian%20Mountains.jpg" width="2649" height="1853" alt="Cantabrian Mountains, an acrylic of a Spanish farm setting"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Cantabrian%20Mountains.jpg" width="2649" height="1853" alt="Cantabrian Mountains, an acrylic of a Spanish farm setting"></div>
       <h3 class="jono-item__title">Cantabrian Mountains</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">A rural farm setting near Espinosa de los Monteros. One of the best places I have been on holiday.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--43"><img loading="lazy" decoding="async" src="acrylic/Suurbraak.jpg" width="2519" height="1877" alt="Suurbraak, an acrylic of a village near Swellendam"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Suurbraak.jpg" width="2519" height="1877" alt="Suurbraak, an acrylic of a village near Swellendam"></div>
       <h3 class="jono-item__title">Suurbraak</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acrylic &amp; Acryla Gouache · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
@@ -296,46 +296,46 @@ description: >-
 
   <div class="jono-row3" style="margin-top:64px">
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
       <h3 class="jono-item__title">On the Way to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">The tenth work in the Know Where series and the third painting. The pilgrim held up in a town centre by a flock of sheep, with the police doing what little can be done about it.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">The ninth work in the Know Where series and the second painting. The pilgrim back on the road, the orchards let out into full colour and the towers massed under the mountains.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/Bilbao.jpg" width="2296" height="3014" alt="Bilbao Guggenheim Museum, an acrylic painting"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Bilbao.jpg" width="2296" height="3014" alt="Bilbao Guggenheim Museum, an acrylic painting"></div>
       <h3 class="jono-item__title">Bilbao, Guggenheim Museum</h3>
       <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">Elevating the titanium-clad building and its art to new levels.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Grand%20Insect%20Hotel.jpg" width="2155" height="2874" alt="The Grand Insect Hotel, an acrylic painting"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Grand%20Insect%20Hotel.jpg" width="2155" height="2874" alt="The Grand Insect Hotel, an acrylic painting"></div>
       <h3 class="jono-item__title">The Grand Insect Hotel</h3>
       <p class="jono-item__spec jono-spec">750 × 1000 mm · Acryla Gouache · Canvas · 2026</p>
       <p class="jono-item__desc">The official painting commemorating The Insect Hotel.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Path.jpg" width="3028" height="2255" alt="The Path, an acrylic painting of a path to the Moon"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Path.jpg" width="3028" height="2255" alt="The Path, an acrylic painting of a path to the Moon"></div>
       <h3 class="jono-item__title">The Path</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">A path to the Moon.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, Amsterdam, an acryla gouache painting of the Grote Die canal holding a perfect mirror of the houses and spire, a magpie overhead and a snail moored in a small boat"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, Amsterdam, an acryla gouache painting of the Grote Die canal holding a perfect mirror of the houses and spire, a magpie overhead and a snail moored in a small boat"></div>
       <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord, painted the way the morning felt rather than the way it looked. A magpie on the spire, a small green guardian at the edge, and ES Cargo moored in the middle of the canal with the whole day ahead of him and no intention of using it.</p>
       <a class="jono-textlink" href="/stories/The%20Last%20Holiday/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame jono-frame--45"><img loading="lazy" decoding="async" src="acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
       <h3 class="jono-item__title">ES Cargo Rides Again</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
       <p class="jono-item__desc">A cousin of The Last Holiday, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
