@@ -252,6 +252,12 @@ description: >-
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">A path to the Moon.</p>
     </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
+      <h3 class="jono-item__title">ES Cargo Rides Again</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__desc">A cousin of The Last Holiday, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
+    </div>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — watercolours on paper</p>
