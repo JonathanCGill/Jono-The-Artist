@@ -14,19 +14,6 @@
   --shadow-lg: 0 8px 40px rgba(92, 61, 46, 0.18);
 }
 
-/* Body background */
-body,
-.md-main {
-  background-color: var(--cream);
-}
-
-
-/* Push page content below the single-row header */
-.md-container {
-  padding-top: 3.2rem;
-}
-
-
 /* Circular photo logo */
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
@@ -76,11 +63,6 @@ body,
 .md-typeset {
   color: #3d3d3d;
   text-align: center;
-}
-
-/* Hide secondary sidebar (table of contents) always */
-.md-sidebar--secondary {
-  display: none !important;
 }
 
 /* Hide primary sidebar on desktop (hamburger drawer) */
