@@ -11,9 +11,9 @@ description: >-
 
 <div class="story-image" markdown>
 
-<div class="image-label">The Last Holiday, Amsterdam</div>
+<div class="image-label">The Last Holiday</div>
 
-![The Last Holiday, Amsterdam - acrylic painting overlooking the Grote Die in Amsterdam Noord](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy width="3006" height="2244" }
+![The Last Holiday - acrylic painting overlooking the Grote Die in Amsterdam Noord](The%20Last%20Holiday%20-%20Amsterdam.jpg){ .story-img loading=lazy width="3006" height="2244" }
 
 </div>
 

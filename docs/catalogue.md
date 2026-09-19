@@ -495,7 +495,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-06</td>
-      <td data-label="Title"><span class="cat-title">The Last Holiday, Amsterdam<small>Overlooking the Grote Die in Amsterdam Noord. The magpie, the small green guardian and ES Cargo moored up going nowhere.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Last Holiday<small>Overlooking the Grote Die in Amsterdam Noord. The magpie, the small green guardian and ES Cargo moored up going nowhere.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
