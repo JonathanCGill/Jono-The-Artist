@@ -34,11 +34,11 @@ The result is a version of a real place that never quite existed. Familiar enoug
 
 <div class="gallery-card" markdown>
 
-[![The Last Holiday - Amsterdam](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img loading=lazy width="3006" height="2244" }](The%20Last%20Holiday/index.md)
+[![The Last Holiday](The%20Last%20Holiday/The%20Last%20Holiday%20-%20Amsterdam.jpg){ .gallery-img loading=lazy width="3006" height="2244" }](The%20Last%20Holiday/index.md)
 
 <div class="card-info" markdown>
 
-**The Last Holiday, Amsterdam**
+**The Last Holiday**
 
 1000 × 750 mm · Acryla Gouache · Canvas
 { .card-medium }
