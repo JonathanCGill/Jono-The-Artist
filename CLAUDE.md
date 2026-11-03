@@ -46,8 +46,7 @@ There is no application code. The repository is content (Markdown, images), them
 │       ├── header.html     # Custom header and section nav
 │       └── logo.html       # Logo with real dimensions and meaningful alt text
 └── .github/workflows/
-    ├── deploy.yml          # Builds and deploys to GitHub Pages
-    └── blank.yml           # Placeholder CI
+    └── deploy.yml          # Builds and deploys to GitHub Pages
 ```
 
 ## Build and Local Preview
@@ -82,7 +81,7 @@ not been recorded, leave it blank rather than guessing.
 
 Works in the Know Where series carry their position in the `Notes` field and in the
 matching description on the collection page ("The seventh Know Where work, the sixth
-drawing"). The series is currently two paintings and seven drawings. Adding to it
+drawing"). The series is currently three paintings and seven drawings. Adding to it
 means updating the catalogue note, the collection-page description and the story at
 `docs/stories/The-Road-to-Know-Where/index.md`, which states the count in its front
 matter and its opening line.
@@ -113,7 +112,9 @@ images load. Every image on the site carries them, Markdown ones included: on a
 Markdown page put them in the `attr_list` braces, as
 `{ .story-img loading=lazy width="3279" height="2279" }`. Without them a lazy
 image collapses to nothing until it loads and the page jumps. Grid wrappers are `.jono-row3`, `.jono-wc`, `.jono-squad__grid` and
-`.jono-draw__grid`. Root-absolute paths (`/watercolours/...`) are correct here
+`.jono-draw__grid`. Cards inside the dark `.jono-draw__grid` use
+`.jono-item__frame` instead of `.jono-frame`, which is the same frame on a dark
+ground. Root-absolute paths (`/watercolours/...`) are correct here
 because the site is served at a domain root.
 
 Every page must have exactly one `<h1>`. On the home-template pages that is a
@@ -188,12 +189,16 @@ page. Key classes:
 - Shared: `.social-links`
 
 `jono.css` sets its palette on `:root` with `--j-*` variables; `custom.css` uses
-`--cream`, `--brown`, `--sienna`. Reuse these rather than introducing new colours.
+`--cream`, `--brown`, `--sienna`. `jono.css` owns `body`, `.md-main`,
+`.md-container` and the secondary-sidebar rule outright; `custom.css` keeps only
+the `:root` variables and the primary-sidebar rules it still contributes.
+`jono.css` loads last, so put page-chrome rules there rather than duplicating
+them. Reuse these colours rather than introducing new ones.
 Do not leave rules behind for markup you have deleted.
 
-The site is centred on a desktop breakpoint of 960px. Most layouts collapse from
-multi-column to single-column at 700px and 480px. Test changes against both desktop
-and mobile.
+Content sits in a 1280px container. The two stylesheets break at different widths:
+`jono.css` at 900px, 860px and 560px, `custom.css` at 960px, 700px and 480px. Test
+changes against both desktop and mobile.
 
 ## Theme Overrides
 

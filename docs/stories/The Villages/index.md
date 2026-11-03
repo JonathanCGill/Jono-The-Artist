@@ -75,7 +75,7 @@ description: >-
 
 <div class="story-image" markdown>
 
-<div class="image-label">R62, Prickly Pear Farm</div>
+<div class="image-label">R62 — Prickly Pear Farm</div>
 
 ![R62 Prickly Pear Farm - watercolour of a farmstead above ranked rows of prickly pear](R62%20-%20Prickly%20Pear%20Farm.jpg){ .story-img loading=lazy width="2811" height="2010" }
 

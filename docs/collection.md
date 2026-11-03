@@ -31,12 +31,6 @@ description: >-
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acrylic &amp; Acryla Gouache · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
-    <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, Amsterdam, an acrylic overlooking a pond in Amsterdam Noord"></div>
-      <h3 class="jono-item__title">The Last Holiday, Amsterdam</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
-      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord. A lot of small but interesting things to see, if you look for them.</p>
-    </div>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Rurban — watercolours on paper</p>
@@ -209,6 +203,13 @@ description: >-
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Parareal — acrylics on canvas</p>
   <div class="jono-row3">
     <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/On%20the%20Way%20to%20Know%20Where.jpg" width="2620" height="1960" alt="On the Way to Know Where, an acryla gouache painting of the pilgrim held up in a small town main street by a flock of sheep, a police car across the road, a petrol station on one side and a hotel on the other"></div>
+      <h3 class="jono-item__title">On the Way to Know Where</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__desc">The tenth work in the Know Where series and the third painting. A town loosely based on De Rust, the main street filled with sheep, and the pilgrim waiting on the pavement for a delay nobody can shorten.</p>
+      <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
+    </div>
+    <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
@@ -244,6 +245,19 @@ description: >-
       <h3 class="jono-item__title">The Path</h3>
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
       <p class="jono-item__desc">A path to the Moon.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, an acryla gouache painting of the Grote Die canal holding a perfect mirror of the houses and spire, a magpie overhead and a snail moored in a small boat"></div>
+      <h3 class="jono-item__title">The Last Holiday</h3>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
+      <p class="jono-item__desc">Overlooking the Grote Die in Amsterdam Noord, painted the way the morning felt rather than the way it looked. A magpie on the spire, a small green guardian at the edge, and ES Cargo moored in the middle of the canal with the whole day ahead of him and no intention of using it.</p>
+      <a class="jono-textlink" href="/stories/The%20Last%20Holiday/">Read the story →</a>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
+      <h3 class="jono-item__title">ES Cargo Rides Again</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__desc">A cousin of The Last Holiday, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
     </div>
   </div>
 
