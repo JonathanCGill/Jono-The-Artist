@@ -31,6 +31,18 @@ description: >-
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acrylic &amp; Acryla Gouache · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Siloed%20Reflections.jpg" width="2954" height="2240" alt="Siloed Reflections, an acryla gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
+      <h3 class="jono-item__title">Siloed Reflections</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
+      <p class="jono-item__desc">A take on the Zeitz MOCAA in Cape Town. The curved glass facade holds the sky, the clouds and the ochre building across the square, and shows you everything except itself.</p>
+    </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Heaven's%20Breadth.jpg" width="2956" height="2237" alt="Heaven's Breadth, an acryla gouache painting of a whitewashed farmhouse with a red roof beside a dam near Greyton, a row of trees on the bank and water lilies in the foreground"></div>
+      <h3 class="jono-item__title">Heaven's Breadth</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
+      <p class="jono-item__desc">The farm near Greyton from the Hemelsbreed watercolour, painted large. The farmhouse and its trees held in the dam, with water lilies across the front.</p>
+    </div>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Rurban — watercolours on paper</p>
