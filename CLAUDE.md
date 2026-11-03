@@ -9,8 +9,9 @@ There is no application code. The repository is content (Markdown, images), them
 ## Tech Stack
 
 - **MkDocs** with the `mkdocs-material` theme
-- CSS in `docs/stylesheets/jono.css` (current design system) and `docs/stylesheets/custom.css` (older system, still used by stories, essays and About)
-- Theme overrides in `overrides/` (custom header partial, full-bleed home template, Google Analytics injection)
+- CSS in `docs/stylesheets/site.css` (the current Modernist system: tokens, header, footer, home, series, story), `docs/stylesheets/jono.css` (older blueprint system, still used by collection and catalogue) and `docs/stylesheets/custom.css` (oldest system, still used by most stories, essays and About)
+- One small script, `docs/javascripts/viewer.js`, for the full-screen viewer on the series pages
+- Theme overrides in `overrides/` (custom header partial, full-bleed home template, series template, Google Analytics injection)
 - Markdown extensions: `attr_list`, `md_in_html` (both required for the gallery / story / essay layouts to render)
 - Search plugin disabled
 - Deployed via `.github/workflows/deploy.yml` to GitHub Pages on push to `main`
@@ -21,8 +22,10 @@ There is no application code. The repository is content (Markdown, images), them
 .
 ├── mkdocs.yml              # Site config and nav
 ├── docs/                   # All site content
-│   ├── index.md            # Home (hero, Aeromechanica, Rurban, Parareal, stories, about)
-│   ├── collection.md       # The full collection: everything not on the home page
+│   ├── index.md            # Home (hero, statement, series doors, stories, banner)
+│   ├── series/             # One page per series; works listed in front matter
+│   │   └── rurban.md, parareal.md, watercolour.md, aeromechanica.md
+│   ├── collection.md       # The full collection: everything not on a series page
 │   ├── catalogue.md        # Gallery catalogue table (mirrors catalogue.csv)
 │   ├── catalogue.csv       # Downloadable catalogue, must stay in sync with catalogue.md
 │   ├── essays.md           # Essay index
@@ -35,15 +38,19 @@ There is no application code. The repository is content (Markdown, images), them
 │   ├── watercolours/       # Watercolour JPGs
 │   ├── Drawings/           # Ink and ink-and-watercolour drawing JPGs
 │   ├── photos/             # Site photos (e.g. logo)
+│   ├── javascripts/
+│   │   └── viewer.js       # Full-screen viewer for the series pages
 │   ├── stylesheets/
-│   │   ├── jono.css        # The current design system (.jono-* classes)
-│   │   └── custom.css      # Older system, still used by stories, essays and About
+│   │   ├── site.css        # The current Modernist system (.m-* classes)
+│   │   ├── jono.css        # Older blueprint system (.jono-*): collection, catalogue
+│   │   └── custom.css      # Oldest system, still used by stories, essays and About
 │   ├── favicon.ico, favicon.png
 ├── overrides/
 │   ├── main.html           # Critical header CSS, preconnects, icons, OG tags, Google Analytics
-│   ├── home.html           # Full-bleed template used by index/collection/catalogue
+│   ├── home.html           # Full-bleed template: index, collection, catalogue, The Last Holiday story
+│   ├── series.html         # Series template: ruled works grid + viewer, driven by front matter
 │   └── partials/
-│       ├── header.html     # Custom header and section nav
+│       ├── header.html     # "Jono" + series, Stories, About nav
 │       └── logo.html       # Logo with real dimensions and meaningful alt text
 └── .github/workflows/
     └── deploy.yml          # Builds and deploys to GitHub Pages
@@ -70,12 +77,26 @@ shown on every page. The home-template pages have no sidebar, so any page that i
 not linked from the header or from home-page body content is unreachable for most
 visitors. Check this when adding a page.
 
+## Series Pages
+
+`docs/series/<key>.md` carry `template: series.html` and no body. Everything
+is in the front matter: `name`, `blurb`, `next` (`{ name, url }`, in the order
+Rurban → Parareal → Watercolour → Aeromechanica → Rurban) and a `works` list.
+Each work has `title`, `slug` (the viewer's URL hash, unique per page), `src`
+(root-absolute, encoded), `w` and `h` (real pixel dimensions), `alt`, `meta`
+(size · medium · support · year, taken from the catalogue) and optional
+`note` and `story` (root-absolute story URL; the viewer shows "Read the
+story" only when it is set). The works count on the page is computed, but the
+counts on the home-page series doors are typed by hand and must be updated
+when a series changes. Aeromechanica is deliberately left off the home-page
+doors and reached from the header only.
+
 ## The Catalogue
 
 `docs/catalogue.md` (an HTML table) and `docs/catalogue.csv` (the download) hold the
 same data and must be edited together: same refs, titles, mediums, supports, sizes,
 years and notes. The `N works catalogued` count on the page must match the number of
-rows. Every work shown on a gallery page should have a catalogue entry, and sizes
+rows. Every work shown on a gallery or series page should have a catalogue entry, and sizes
 and years quoted on the gallery pages must match the catalogue. Where a detail has
 not been recorded, leave it blank rather than guessing.
 
@@ -90,7 +111,20 @@ matter and its opening line.
 
 Two layout systems coexist. Do not mix them on one page.
 
-### Home-template pages (`index.md`, `collection.md`, `catalogue.md`)
+### Modernist pages (`index.md`, `series/*.md`, `stories/The Last Holiday/index.md`)
+
+The home page and The Last Holiday story carry `template: home.html` and are
+raw HTML wrapped in a single `<div class="m">`, using the `.m-*` classes from
+`site.css`. Rules of the system: Archivo only, zero border-radius, structure
+from 2px `--color-divider` rules, everything flush left, accent red only for the
+current nav item, kicker labels and the red banner. Paintings are always shown
+in full colour; only the reference photograph on a story page is greyscale.
+The Last Holiday is the template for converting the other stories: kicker and
+giant title with standfirst, the painting on a surface band, reference photo
+beside the text, a three-cell details grid, a closing line, the "This painting
+is an original" banner and the two ruled "more" links.
+
+### Blueprint pages (`collection.md`, `catalogue.md`)
 
 These carry `template: home.html` in the front matter and are written as raw HTML
 sections using the `.jono-*` classes from `jono.css`. They render full-bleed with no
@@ -117,8 +151,9 @@ image collapses to nothing until it loads and the page jumps. Grid wrappers are 
 ground. Root-absolute paths (`/watercolours/...`) are correct here
 because the site is served at a domain root.
 
-Every page must have exactly one `<h1>`. On the home-template pages that is a
-`<h1 class="jono-h2">` inside the intro block.
+Every page must have exactly one `<h1>`. On the blueprint pages that is a
+`<h1 class="jono-h2">` inside the intro block; on the Modernist pages it is the
+statement heading (home) or the `.m-display` title (series, story).
 
 ### Markdown pages (stories, essays, `about.md`, `essays.md`, `stories/index.md`)
 
@@ -176,28 +211,36 @@ page ends up with an identical search snippet.
 
 ## CSS Conventions
 
-`docs/stylesheets/jono.css` is the current design system and carries the home,
-collection and catalogue pages. `docs/stylesheets/custom.css` is the older system
-and still carries stories, essays, the essay index and About. Both load on every
-page. Key classes:
+`docs/stylesheets/site.css` is the current design system and carries the
+header, footer, home, series pages, viewer and The Last Holiday story.
+`docs/stylesheets/jono.css` is the older blueprint system and carries the
+collection and catalogue pages. `docs/stylesheets/custom.css` is the oldest
+and still carries the other stories, essays, the essay index and About. All
+three load on every page, in that order reversed (custom, jono, site). Key classes:
 
-- Home system: `.jono-hero`, `.jono-statement`, `.jono-series`, `.jono-aero`, `.jono-rurban`, `.jono-surreal`, `.jono-item`, `.jono-frame`, `.jono-spec`, `.jono-textlink`, `.jono-linkrow`, `.jono-catalog`, `.jono-cat-table`
+- Modernist system: `.m`, `.m-header`, `.m-footer`, `.m-wrap`, `.m-rule`, `.m-kicker`, `.m-display`, `.m-lead`, `.m-h2`, `.m-head`, `.m-caption`, `.m-banner` (`--story`), `.m-button`, `.m-cells`, `.m-door`, `.m-storylist`, `.m-works`, `.m-work`, `.m-viewer`, `.m-plate`, `.m-story-body`, `.m-ref`, `.m-prose`, `.m-details`, `.m-closing`, `.m-more__cell`
+- Blueprint system: `.jono-rurban`, `.jono-surreal`, `.jono-intro`, `.jono-item`, `.jono-frame`, `.jono-row3`, `.jono-spec`, `.jono-textlink`, `.jono-catalog`, `.jono-cat-table`
 - Stories: `.story`, `.story-images` (`--three` variant), `.story-image`, `.image-label`, `.story-text`
 - Essays: `.essay`, `.essay-meta`, `.essay-list`, `.essay-card`, `.essay-card-content`
 - Galleries (stories index): `.gallery-grid`, `.gallery-card`, `.card-info`, `.card-medium`
 - About: `.about-hero`, `.about-photo`, `.about-img`, `.about-text`
 - Shared: `.social-links`
 
-`jono.css` sets its palette on `:root` with `--j-*` variables; `custom.css` uses
-`--cream`, `--brown`, `--sienna`. `jono.css` owns `body`, `.md-main`,
-`.md-container` and the secondary-sidebar rule outright; `custom.css` keeps only
-the `:root` variables and the primary-sidebar rules it still contributes.
-`jono.css` loads last, so put page-chrome rules there rather than duplicating
-them. Reuse these colours rather than introducing new ones.
+`site.css` sets the Modernist tokens on `:root` (`--color-bg`, `--color-surface`,
+`--color-text`, `--color-accent` and its 600/700 shades, `--color-divider`,
+`--color-neutral-*`, `--shadow-md`, `--font-body`, `--m-gutter`); `jono.css`
+uses `--j-*` variables; `custom.css` uses `--cream`, `--brown`, `--sienna`.
+`site.css` loads last and owns `body`, `.md-main`, `.md-container`, the header
+and the footer; `jono.css` keeps the sidebar and `.md-main__inner` layout rules.
+Put page-chrome rules in `site.css` rather than duplicating them. Reuse these
+colours rather than introducing new ones. Material's own font loading is off
+(`font: false`); Archivo comes from the Google Fonts link in `extra_css`.
 Do not leave rules behind for markup you have deleted.
 
-Content sits in a 1280px container. The two stylesheets break at different widths:
-`jono.css` at 900px, 860px and 560px, `custom.css` at 960px, 700px and 480px. Test
+Modernist pages sit in a 1600px container with `clamp()` gutters and
+`auto-fit`/`auto-fill` grids, so they need no breakpoints. Blueprint and
+Markdown pages sit in 1280px. `jono.css` breaks at 860px, 700px and 560px,
+`custom.css` at 960px, 700px and 480px. Test
 changes against both desktop and mobile.
 
 ## Theme Overrides
@@ -205,17 +248,24 @@ changes against both desktop and mobile.
 - `overrides/main.html` extends `base.html` to add the Open Graph and Twitter card
   tags, the apple-touch-icon, `preconnect` hints for the font and icon hosts, a
   small block of critical header CSS, and the Google Analytics gtag snippet.
-  The critical CSS exists because `jono.css` is the last of eight render-blocking
-  stylesheets and four of those are third-party, so without it the masthead can
-  paint with default blue underlined links. Those rules are a copy of the ones in
-  `jono.css` and must be changed in step with it.
-- `overrides/partials/header.html` replaces the default Material header so the
-  "Jono, the Artist" wordmark always sits next to the logo. Search and repo source
-  UI are deliberately omitted. It is the primary navigation: the home-template
-  pages have no sidebar, so a page missing from this nav is unreachable for most
-  visitors.
-- `overrides/partials/logo.html` exists only so the logo carries its real pixel
-  dimensions and real alt text; the theme default supplies neither.
+  The critical CSS exists because `site.css` is the last of several
+  render-blocking stylesheets and some are third-party, so without it the
+  masthead can paint with default blue underlined links. Those rules are a copy
+  of the header rules in `site.css` and must be changed in step with it. The
+  same file holds the site footer.
+- `overrides/partials/header.html` replaces the default Material header with
+  "Jono" and the nav: the four series, Stories and About, with the current one
+  marked `aria-current` (accent red). Search and repo source UI are deliberately
+  omitted. It is the primary navigation alongside the footer links (Collection,
+  Catalogue, Essays, Instagram, Facebook): the full-bleed pages have no sidebar,
+  so a page in neither is unreachable for most visitors.
+- `overrides/series.html` renders a series page from its front matter and loads
+  `javascripts/viewer.js`. The viewer: Esc closes, arrow keys and swipes step
+  (wrapping), a backdrop click closes, focus is trapped and restored, and the
+  open work's `slug` is kept in the URL hash so it can be shared.
+- `overrides/partials/logo.html` is currently unused (the header no longer shows
+  the logo) but is kept so the theme default never emits a logo without
+  dimensions or alt text.
 
 ## Deployment and Branching
 

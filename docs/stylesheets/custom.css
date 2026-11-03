@@ -81,7 +81,7 @@
 
   .md-sidebar--primary .md-nav__link {
     color: var(--brown);
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Archivo', sans-serif;
     font-size: 0.95rem;
     text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -442,7 +442,7 @@
 .story > h2 {
   max-width: 680px;
   margin: 3rem auto 1.25rem;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Archivo', sans-serif;
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -477,7 +477,7 @@
 }
 
 .image-label {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Archivo', sans-serif;
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -489,7 +489,7 @@
 }
 
 .image-meta {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Archivo', sans-serif;
   font-size: 0.7rem;
   letter-spacing: 0.05em;
   color: #999;
