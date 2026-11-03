@@ -1,8 +1,10 @@
 /* ════════════════════════════════════════════════════════════════
-   JONO — Single-page blueprint design
-   Loads on every page. Carries the home template (.jono-header, .jono,
-   .jono-footer) and, from the ".md-typeset" rules below, the Material
-   sub-pages: stories, essays and About.
+   JONO — the older blueprint design
+   Loads on every page, before site.css. Carries the full-bleed .jono
+   container, the collection and catalogue pages, and, from the
+   ".md-typeset" rules below, the Material sub-pages: stories, essays
+   and About. The header, footer, home, series and story layouts live
+   in site.css.
    ════════════════════════════════════════════════════════════════ */
 
 :root {
@@ -23,7 +25,7 @@
   --j-footer: #7d7a70;
 
   --j-serif: 'EB Garamond', Georgia, serif;
-  --j-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --j-sans: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --j-mono: 'IBM Plex Mono', ui-monospace, monospace;
 }
 
@@ -31,15 +33,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/* ── Site-wide chrome: blueprint header is sticky/in-flow, recolour wall ── */
-body,
-.md-main,
-.md-container {
-  background-color: var(--j-wall);
-}
-.md-container {
-  padding-top: 0;
-}
 /* Material chrome we no longer use */
 .md-sidebar--primary,
 .md-sidebar--secondary {
@@ -75,14 +68,7 @@ body,
   max-width: 100%;
 }
 
-.jono__container {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px;
-}
-
-.jono section[id],
-.jono [id="top"] {
+.jono section[id] {
   scroll-margin-top: 80px;
 }
 
@@ -122,217 +108,7 @@ body,
   text-transform: uppercase;
 }
 
-
-/* ══ Header ═════════════════════════════════════════════════════ */
-.jono-header {
-  position: sticky;
-  top: 0;
-  z-index: 50;
-  width: 100%;
-  background: rgba(243, 241, 234, 0.86);
-  backdrop-filter: saturate(140%) blur(10px);
-  -webkit-backdrop-filter: saturate(140%) blur(10px);
-  border-bottom: 1px solid var(--j-hair);
-}
-
-.jono-header__inner {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px;
-  height: 64px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.jono-wordmark {
-  display: inline-flex;
-  align-items: baseline;
-  gap: 9px;
-  text-decoration: none;
-}
-
-.jono-wordmark__name {
-  font-family: var(--j-serif);
-  font-weight: 600;
-  font-size: 24px;
-  color: var(--j-ink);
-}
-
-.jono-wordmark__sub {
-  font-family: var(--j-mono);
-  font-size: 10px;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--j-accent);
-}
-
-.jono-nav {
-  display: flex;
-  gap: 30px;
-}
-
-.jono-nav a {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--j-muted);
-  text-decoration: none;
-  padding-bottom: 2px;
-  border-bottom: 1px solid transparent;
-  transition: color 0.2s ease, border-color 0.2s ease;
-}
-
-.jono-nav a:hover {
-  color: var(--j-ink);
-  border-bottom-color: var(--j-accent);
-}
-
-/* Mobile menu toggle (CSS-only, no JS) */
-.jono-burger {
-  display: none;
-  flex-direction: column;
-  justify-content: center;
-  gap: 5px;
-  width: 30px;
-  height: 30px;
-  cursor: pointer;
-}
-.jono-burger span {
-  display: block;
-  height: 1.5px;
-  width: 22px;
-  background: var(--j-ink);
-  transition: transform 0.25s ease, opacity 0.2s ease;
-}
-.jono-menu-toggle:checked ~ .jono-burger span:nth-child(1) {
-  transform: translateY(6.5px) rotate(45deg);
-}
-.jono-menu-toggle:checked ~ .jono-burger span:nth-child(2) {
-  opacity: 0;
-}
-.jono-menu-toggle:checked ~ .jono-burger span:nth-child(3) {
-  transform: translateY(-6.5px) rotate(-45deg);
-}
-
-/* ══ Hero ═══════════════════════════════════════════════════════ */
-.jono-hero {
-  position: relative;
-  height: 88vh;
-  min-height: 560px;
-  overflow: hidden;
-  background: #e6e2d8;
-}
-
-.jono-hero__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center 42%;
-}
-
-.jono-hero__scrim {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    to bottom,
-    rgba(20, 19, 16, 0.22) 0%,
-    transparent 26%,
-    transparent 55%,
-    rgba(20, 19, 16, 0.62) 100%
-  );
-}
-
-.jono-reg {
-  position: absolute;
-  font-family: var(--j-mono);
-  font-size: 18px;
-  line-height: 1;
-  color: rgba(243, 241, 234, 0.7);
-  user-select: none;
-}
-.jono-reg--tl { top: 18px; left: 20px; }
-.jono-reg--tr { top: 18px; right: 20px; }
-.jono-reg--br { bottom: 18px; right: 20px; }
-
-.jono-hero__band {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px 40px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 24px;
-}
-
-.jono-hero__credit {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  line-height: 1.7;
-}
-.jono-hero__credit .l1 { color: var(--j-accent2); }
-.jono-hero__credit .l2 { color: rgba(243, 241, 234, 0.92); }
-.jono-hero__credit .l3 { color: rgba(243, 241, 234, 0.62); }
-
-.jono-hero__btn {
-  flex: none;
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: rgba(243, 241, 234, 0.92);
-  text-decoration: none;
-  border: 1px solid rgba(243, 241, 234, 0.4);
-  border-radius: 999px;
-  padding: 9px 18px;
-  transition: background 0.2s ease, color 0.2s ease;
-  white-space: nowrap;
-}
-.jono-hero__btn:hover {
-  background: rgba(243, 241, 234, 0.95);
-  color: var(--j-ink);
-}
-
-/* ══ Statement ══════════════════════════════════════════════════ */
-.jono-statement {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 120px 32px 96px;
-  display: grid;
-  grid-template-columns: 1.35fr 1fr;
-  gap: 72px;
-  align-items: start;
-}
-
-.jono-statement__head {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: clamp(38px, 5vw, 68px);
-  line-height: 1.04;
-  letter-spacing: -0.01em;
-  color: var(--j-ink);
-  margin: 0;
-  text-wrap: balance;
-}
-.jono-statement__head .accent {
-  font-style: italic;
-  color: var(--j-accent);
-}
-
-.jono-statement__body p {
-  font-size: 17px;
-  line-height: 1.75;
-  color: var(--j-body);
-  margin: 0 0 20px;
-}
-
+/* ── Shared components (collection and catalogue) ── */
 .jono-textlink {
   display: inline-block;
   font-family: var(--j-mono);
@@ -347,55 +123,6 @@ body,
 }
 .jono-textlink:hover { opacity: 0.7; }
 
-/* Row of two or more text links, so adjacent inline-block links keep
-   a deliberate gap instead of relying on the whitespace between tags. */
-.jono-linkrow {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px 28px;
-  margin-top: 22px;
-}
-.jono-linkrow--stories { margin: 18px 0 0; }
-
-/* ══ Section label row ──────────────────────────────────────────── */
-.jono-labelrow {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px;
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  border-top: 1px solid var(--j-hair);
-  padding-top: 18px;
-}
-.jono-labelrow .l,
-.jono-labelrow .r {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-}
-.jono-labelrow .l { color: var(--j-accent); }
-.jono-labelrow .r { color: var(--j-muted2); }
-
-/* ══ Series index ═══════════════════════════════════════════════ */
-.jono-series {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px 40px;
-}
-.jono-series__grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 28px;
-  margin-top: 28px;
-  align-items: start;
-}
-.jono-card {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
 .jono-frame {
   overflow: hidden;
   background: #e7e3d9;
@@ -406,46 +133,6 @@ body,
   display: block;
   transition: transform 0.9s cubic-bezier(0.2, 0.7, 0.2, 1);
 }
-.jono-card:hover .jono-frame img,
-.jono-tile:hover .jono-frame img {
-  transform: scale(1.05);
-}
-/* Frames hug the painting's own proportions — show the work in full,
-   no cropping. (The --45/34/43/11 classes are kept inert in the markup.) */
-
-.jono-card__num {
-  font-family: var(--j-mono);
-  font-size: 10px;
-  letter-spacing: 0.16em;
-  color: var(--j-muted2);
-  margin: 16px 0 6px;
-}
-.jono-card__title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: 26px;
-  line-height: 1.1;
-  color: var(--j-ink);
-  margin: 0 0 6px;
-}
-.jono-card__desc {
-  font-size: 14px;
-  color: var(--j-muted);
-  margin: 0;
-  transition: opacity 0.25s ease;
-}
-/* Desktop: show the descriptor at rest (dimmed), brighten on hover/focus —
-   matching the mobile behaviour where it is always visible. */
-@media (min-width: 861px) {
-  .jono-card__desc {
-    opacity: 0.85;
-  }
-  .jono-card:hover .jono-card__desc,
-  .jono-card:focus-visible .jono-card__desc {
-    opacity: 1;
-  }
-}
-
 
 /* ══ Section intro (two-column) ─────────────────────────────────── */
 .jono-intro {
@@ -463,110 +150,7 @@ body,
   color: var(--j-body);
 }
 
-/* ══ Aeromechanica (dark) ═══════════════════════════════════════ */
-.jono-aero {
-  background: var(--j-ink);
-  color: var(--j-light);
-  margin-top: 104px;
-  padding: 96px 0 100px;
-}
-.jono-aero .jono-eyebrow,
-.jono-aero .jono-sublabel { color: var(--j-accent2); }
-.jono-aero .jono-h2 { color: var(--j-light); }
-.jono-aero .jono-intro {
-  border-bottom: 1px solid var(--j-darkhair);
-}
-.jono-aero .jono-intro__body { color: var(--j-mutedark); }
-
-.jono-aero__block { margin-top: 72px; }
-
-/* Evolution feature */
-.jono-evo__frame {
-  background: var(--j-ink2);
-  overflow: hidden;
-}
-.jono-evo__frame img { width: 100%; height: auto; display: block; }
-.jono-evo__frames {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 32px;
-  align-items: start;
-}
-.jono-evo__caption {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 32px;
-  align-items: start;
-  margin-top: 24px;
-}
-.jono-evo__title {
-  font-family: var(--j-serif);
-  font-size: 22px;
-  font-weight: 500;
-  color: var(--j-light);
-  margin: 0 0 6px;
-}
-.jono-evo__spec { color: var(--j-monodark); margin: 0; }
-.jono-evo__desc {
-  font-size: 14px;
-  line-height: 1.7;
-  color: var(--j-mutedark);
-  max-width: 520px;
-  margin: 0;
-  justify-self: end;
-}
-
-/* Flagship feature */
-.jono-flagship {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 44px;
-  align-items: center;
-  margin-top: 24px;
-}
-.jono-flagship__frame {
-  background: var(--j-ink2);
-  overflow: hidden;
-}
-.jono-flagship__frame img { width: 100%; height: auto; display: block; }
-.jono-flagship__title {
-  font-family: var(--j-serif);
-  font-size: 30px;
-  font-weight: 500;
-  color: var(--j-light);
-  margin: 0 0 8px;
-}
-.jono-flagship__spec { color: var(--j-monodark); margin: 0 0 20px; }
-.jono-flagship__desc {
-  font-size: 15px;
-  line-height: 1.8;
-  color: var(--j-mutedark);
-  max-width: 520px;
-  margin: 0;
-}
-
-/* The drawings 2x2 */
-.jono-draw__grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 40px 32px;
-  align-items: start;
-}
-.jono-item__frame { background: var(--j-ink2); overflow: hidden; }
-.jono-item__frame img {
-  width: 100%;
-  height: auto;
-  display: block;
-  transition: transform 0.9s cubic-bezier(0.2, 0.7, 0.2, 1);
-}
-.jono-item:hover .jono-item__frame img { transform: scale(1.03); }
-.jono-draw .jono-item__title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: 21px;
-  color: var(--j-light);
-  margin: 18px 0 4px;
-}
+/* Work cards */
 .jono-item__spec { color: var(--j-monodark); margin: 0 0 8px; }
 .jono-item__desc {
   font-size: 14px;
@@ -575,67 +159,11 @@ body,
   margin: 0;
 }
 
-/* The squadron 3-col */
-.jono-squad__grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 36px 28px;
-  align-items: start;
-}
-.jono-squad .jono-frame { background: var(--j-ink2); position: relative; }
-.jono-squad .jono-frame img:hover,
-.jono-squad .jono-tile:hover .jono-frame img { transform: scale(1.04); }
-.jono-faction {
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-family: var(--j-mono);
-  font-size: 9px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--j-light);
-  background: rgba(28, 27, 24, 0.62);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
-  padding: 4px 8px;
-}
-.jono-squad .jono-item__title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: 20px;
-  color: var(--j-light);
-  margin: 16px 0 4px;
-}
-.jono-squad .jono-item__spec { font-size: 10px; }
-.jono-squad .jono-item__desc { font-size: 13.5px; }
-
 /* ══ Rurban (light) ═════════════════════════════════════════════ */
 .jono-rurban {
   max-width: 1280px;
   margin: 0 auto;
   padding: 110px 32px 40px;
-}
-.jono-rurban__feature {
-  display: grid;
-  grid-template-columns: 1.5fr 1fr;
-  gap: 48px;
-  align-items: center;
-  margin-top: 72px;
-}
-.jono-rurban__ftext .title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: 27px;
-  color: var(--j-ink);
-  margin: 0 0 8px;
-}
-.jono-rurban__ftext .title em { font-style: italic; color: var(--j-accent); }
-.jono-rurban__ftext .jono-spec { color: var(--j-muted2); margin: 0 0 14px; }
-.jono-rurban__ftext .desc {
-  font-size: 15px;
-  line-height: 1.75;
-  color: var(--j-body);
-  margin: 0;
 }
 
 .jono-row3 {
@@ -656,220 +184,11 @@ body,
 .jono-row3 .jono-item__desc { font-size: 13.5px; color: var(--j-muted); margin: 0; line-height: 1.6; }
 .jono-row3 .jono-frame { background: #e7e3d9; }
 
-.jono-wc {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 28px;
-  margin-top: 24px;
-  align-items: start;
-}
-.jono-wc .jono-tile { text-decoration: none; color: inherit; }
-.jono-wc .jono-frame { background: #e7e3d9; }
-.jono-wc .jono-item__title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: 18px;
-  color: var(--j-ink);
-  margin: 12px 0 3px;
-}
-.jono-wc .jono-item__spec { font-size: 10px; color: var(--j-muted2); margin: 0; }
-.jono-wc .jono-item__desc { font-size: 13.5px; color: var(--j-muted); margin: 6px 0 0; line-height: 1.6; }
-
 /* ══ Surreal ════════════════════════════════════════════════════ */
 .jono-surreal {
   max-width: 1280px;
   margin: 0 auto;
   padding: 110px 32px 40px;
-}
-.jono-surreal__feature {
-  display: grid;
-  grid-template-columns: 1fr 1.2fr;
-  gap: 48px;
-  align-items: center;
-  margin-top: 72px;
-}
-.jono-surreal__ftext .title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: 27px;
-  color: var(--j-ink);
-  margin: 0 0 8px;
-}
-.jono-surreal__ftext .jono-spec { color: var(--j-muted2); margin: 0 0 14px; }
-.jono-surreal__ftext .desc {
-  font-size: 15px;
-  line-height: 1.75;
-  color: var(--j-body);
-  margin: 0;
-}
-
-/* ══ Stories ════════════════════════════════════════════════════ */
-.jono-morework {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 96px 32px 8px;
-}
-.jono-morework__inner {
-  border-top: 1px solid var(--j-hair);
-  padding-top: 56px;
-  max-width: 760px;
-}
-.jono-morework .jono-h2 { margin: 18px 0 14px; }
-.jono-morework .jono-intro__body { margin: 0 0 26px; max-width: 620px; }
-
-.jono-stories {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 104px 32px 40px;
-}
-.jono-stories__h2 {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: clamp(30px, 3.6vw, 46px);
-  line-height: 1.08;
-  color: var(--j-ink);
-  max-width: 760px;
-  margin: 24px 0 16px;
-  text-wrap: balance;
-}
-.jono-storylist { margin-top: 16px; }
-.jono-storyrow {
-  display: grid;
-  grid-template-columns: 64px 1fr auto;
-  gap: 28px;
-  align-items: center;
-  padding: 24px 0;
-  border-top: 1px solid var(--j-hair);
-  text-decoration: none;
-  color: inherit;
-  transition: padding-left 0.25s ease;
-}
-.jono-storylist .jono-storyrow:last-child { border-bottom: 1px solid var(--j-hair); }
-.jono-storyrow:hover { padding-left: 12px; }
-.jono-storyrow__num {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.1em;
-  color: var(--j-muted2);
-}
-.jono-storyrow__title {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: clamp(22px, 2.4vw, 30px);
-  color: var(--j-ink);
-}
-.jono-storyrow__read {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--j-accent);
-}
-
-/* ══ About (dark) ═══════════════════════════════════════════════ */
-.jono-about {
-  background: var(--j-ink2);
-  color: var(--j-light);
-  margin-top: 104px;
-  padding: 100px 0;
-}
-.jono-about__inner {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 72px;
-  align-items: start;
-}
-.jono-about .jono-eyebrow { color: var(--j-accent2); }
-.jono-about__quote {
-  font-family: var(--j-serif);
-  font-weight: 500;
-  font-size: clamp(24px, 2.8vw, 34px);
-  line-height: 1.32;
-  color: var(--j-light);
-  margin: 0 0 28px;
-  text-wrap: balance;
-}
-.jono-about__body {
-  font-size: 15px;
-  line-height: 1.8;
-  color: var(--j-mutedark);
-  margin: 0 0 16px;
-}
-.jono-about .jono-textlink {
-  color: var(--j-accent2);
-  border-bottom-color: var(--j-accent2);
-  margin-top: 6px;
-}
-.jono-about__right {
-  border-left: 1px solid var(--j-darkhair);
-  padding-left: 48px;
-}
-.jono-about__right .jono-sublabel { color: var(--j-accent2); }
-.jono-about__right p {
-  font-size: 15px;
-  line-height: 1.8;
-  color: var(--j-mutedark);
-  margin: 0 0 24px;
-}
-.jono-cta {
-  display: inline-block;
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--j-ink);
-  background: var(--j-light);
-  text-decoration: none;
-  padding: 14px 24px;
-  transition: background 0.2s ease;
-}
-.jono-cta:hover { background: var(--j-accent2); }
-.jono-about__social {
-  margin-top: 28px;
-  display: flex;
-  gap: 24px;
-}
-.jono-about__social a {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--j-accent2);
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-.jono-about__social a:hover { color: var(--j-light); }
-
-/* ══ Footer ═════════════════════════════════════════════════════ */
-.jono-footer {
-  background: var(--j-ink);
-  color: var(--j-footer);
-  padding: 40px 0;
-}
-.jono-footer__inner {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 32px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
-}
-.jono-wordmark--footer .jono-wordmark__name {
-  font-size: 18px;
-  color: var(--j-light);
-}
-.jono-wordmark--footer .jono-wordmark__sub { color: var(--j-footer); }
-.jono-footer__mid,
-.jono-footer__copy {
-  font-family: var(--j-mono);
-  font-size: 10px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--j-footer);
 }
 
 /* ════════════════════════════════════════════════════════════════
@@ -1096,107 +415,33 @@ body,
 /* ════════════════════════════════════════════════════════════════
    RESPONSIVE
    ════════════════════════════════════════════════════════════════ */
-@media (max-width: 900px) {
-  /* Collapse the nav into a CSS-only dropdown menu */
-  .jono-header__inner { position: relative; }
-  .jono-burger { display: flex; }
-  .jono-nav {
-    position: absolute;
-    top: 64px;
-    left: 0;
-    right: 0;
-    flex-direction: column;
-    gap: 0;
-    background: var(--j-wall);
-    border-bottom: 1px solid var(--j-hair);
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-  }
-  .jono-menu-toggle:checked ~ .jono-nav {
-    max-height: 70vh;
-  }
-  .jono-nav a {
-    padding: 16px 32px;
-    border-bottom: none;
-    border-top: 1px solid var(--j-hair);
-    font-size: 12px;
-    letter-spacing: 0.16em;
-  }
-  .jono-nav a:first-child { border-top: none; }
-  .jono-nav a:hover { border-bottom-color: transparent; color: var(--j-accent); }
-}
 
 @media (max-width: 860px) {
-  .jono-statement,
-  .jono-intro,
-  .jono-evo__caption,
-  .jono-flagship,
-  .jono-rurban__feature,
-  .jono-surreal__feature,
-  .jono-about__inner {
+  .jono-intro {
     grid-template-columns: 1fr;
     gap: 32px;
   }
-  .jono-statement { padding: 72px 32px 64px; }
-  .jono-evo__frames { grid-template-columns: 1fr; }
-  .jono-evo__desc { justify-self: start; max-width: none; }
 
-  .jono-draw__grid,
-  .jono-squad__grid,
   .jono-row3 {
     grid-template-columns: repeat(2, 1fr);
-  }
-  .jono-series__grid { grid-template-columns: repeat(2, 1fr); gap: 24px; }
-  .jono-wc { grid-template-columns: repeat(2, 1fr); }
-
-  .jono-about__right {
-    border-left: none;
-    border-top: 1px solid var(--j-darkhair);
-    padding-left: 0;
-    padding-top: 40px;
   }
 }
 
 /* Tighten the generous desktop vertical rhythm on small screens */
 @media (max-width: 700px) {
-  .jono-statement { padding: 56px 32px 56px; }
-  .jono-series { padding-bottom: 24px; }
-  .jono-aero { margin-top: 56px; padding: 64px 0 68px; }
-  .jono-aero__block { margin-top: 48px; }
   .jono-rurban,
   .jono-surreal { padding-top: 64px; }
-  .jono-rurban__feature,
-  .jono-surreal__feature { margin-top: 48px; }
+
   .jono-row3 { margin-top: 40px !important; }
-  .jono-stories { padding-top: 72px; }
-  .jono-about { margin-top: 56px; padding: 64px 0; }
 }
 
 @media (max-width: 560px) {
-  .jono-header__inner { padding: 0 18px; }
-  .jono-nav a { padding: 15px 18px; }
-  .jono__container,
-  .jono-statement,
   .jono-rurban,
-  .jono-surreal,
-  .jono-stories,
-  .jono-series,
-  .jono-labelrow,
-  .jono-aero .jono__container,
-  .jono-about__inner { padding-left: 18px; padding-right: 18px; }
-  .jono-hero__band { padding: 0 18px 28px; flex-direction: column; align-items: flex-start; gap: 16px; }
-  .jono-hero { height: 70vh; min-height: 460px; }
+  .jono-surreal { padding-left: 18px; padding-right: 18px; }
 
-  .jono-draw__grid,
-  .jono-squad__grid,
-  .jono-row3,
-  .jono-series__grid,
-  .jono-wc {
+  .jono-row3 {
     grid-template-columns: 1fr;
   }
-  .jono-storyrow { grid-template-columns: 40px 1fr auto; gap: 16px; }
-  .jono-footer__inner { flex-direction: column; align-items: flex-start; gap: 12px; }
 }
 
 /* Content-page galleries */

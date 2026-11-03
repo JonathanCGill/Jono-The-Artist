@@ -1,0 +1,74 @@
+{#-
+  Series template. The works live in the page's front matter (title, slug,
+  src, w, h, alt, meta, note, story) and are rendered as a ruled grid. Each
+  work opens the full-screen viewer (javascripts/viewer.js), which reads the
+  same list from the JSON block at the foot of the page.
+-#}
+{% extends "main.html" %}
+
+{% block site_nav %}{% endblock %}
+
+{% block container %}
+{%- set m = page.meta -%}
+<div class="jono m">
+  <section class="m-head">
+    <div class="m-head__title">
+      <span class="m-kicker">Series · {{ m.works | length }} works</span>
+      <h1 class="m-display">{{ m.name }}</h1>
+    </div>
+    <p class="m-lead">{{ m.blurb }}</p>
+  </section>
+
+  <section class="m-rule" aria-label="Works">
+    <div class="m-wrap">
+      <div class="m-works">
+        {%- for w in m.works %}
+        <figure class="m-work" id="{{ w.slug }}">
+          <button class="m-work__mat" type="button" data-index="{{ loop.index0 }}" aria-label="View {{ w.title }}">
+            <span class="m-work__fit"><img loading="lazy" decoding="async" src="{{ w.src }}" width="{{ w.w }}" height="{{ w.h }}" alt="{{ w.alt }}"></span>
+          </button>
+          <figcaption class="m-work__cap">
+            <h2 class="m-work__title">{{ w.title }}</h2>
+            <span class="m-work__meta">{{ w.meta }}</span>
+          </figcaption>
+        </figure>
+        {%- endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="m-next" aria-label="Next series">
+    <span class="m-next__label">Next series</span>
+    <a href="{{ m.next.url }}">{{ m.next.name }} →</a>
+  </section>
+
+  <div class="m-viewer" role="dialog" aria-modal="true" aria-labelledby="m-viewer-title" data-series="{{ m.name }}" hidden>
+    <div class="m-viewer__bar">
+      <span class="m-viewer__pos"></span>
+      <button class="m-viewer__close" type="button">Close ✕</button>
+    </div>
+    <div class="m-viewer__stage">
+      <img class="m-viewer__img" src="{{ m.works[0].src }}" width="{{ m.works[0].w }}" height="{{ m.works[0].h }}" alt="">
+      <button class="m-viewer__nav m-viewer__nav--prev" type="button" aria-label="Previous work">←</button>
+      <button class="m-viewer__nav m-viewer__nav--next" type="button" aria-label="Next work">→</button>
+    </div>
+    <div class="m-viewer__info">
+      <div class="m-viewer__text">
+        <h2 class="m-viewer__title" id="m-viewer-title"></h2>
+        <span class="m-viewer__meta"></span>
+        <p class="m-viewer__note" hidden></p>
+      </div>
+      <div class="m-viewer__actions">
+        <a class="m-viewer__story" href="/stories/" hidden>Read the story</a>
+        <a class="m-viewer__enquire" href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Enquire →</a>
+      </div>
+    </div>
+  </div>
+  <script type="application/json" id="m-works-data">{{ m.works | tojson }}</script>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script src="{{ 'javascripts/viewer.js' | url }}"></script>
+{% endblock %}

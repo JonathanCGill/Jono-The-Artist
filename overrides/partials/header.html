@@ -1,28 +1,25 @@
 {#-
-  Custom header — blueprint wordmark + section nav, shown on every page.
-  Sticky, in-flow, with a CSS-only mobile menu (no JS).
-  The site is served at the domain root, so links are absolute: the
-  section anchors always resolve to the home page from any sub-page.
+  Site header: "Jono" on the left, the four series, Stories and About on the
+  right. Shown on every page and the primary navigation. The nav wraps under
+  the brand on narrow screens, so there is no menu toggle. The current
+  section is marked with aria-current and shown in the accent colour.
 -#}
-<header class="jono-header" data-md-component="header">
-  <div class="jono-header__inner">
-    <a href="/" class="jono-wordmark" title="{{ config.site_name | e }}">
-      <span class="jono-wordmark__name">Jono</span>
-      <span class="jono-wordmark__sub">the artist</span>
-    </a>
-    <input type="checkbox" id="jono-menu" class="jono-menu-toggle" hidden>
-    <label for="jono-menu" class="jono-burger" aria-label="Toggle menu">
-      <span></span><span></span><span></span>
-    </label>
-    <nav class="jono-nav" aria-label="Sections">
-      <a href="/#aeromechanica">Aeromechanica</a>
-      <a href="/#rurban">Rurban</a>
-      <a href="/#parareal">Parareal</a>
-      <a href="/collection/">Collection</a>
-      <a href="/stories/">Stories</a>
-      <a href="/essays/">Essays</a>
-      <a href="/about/">About</a>
-      <a href="/catalogue/">Catalogue</a>
+{%- set u = page.url if page else '' -%}
+{%- set sections = [
+  ('/series/rurban/', 'Rurban', 'series/rurban'),
+  ('/series/parareal/', 'Parareal', 'series/parareal'),
+  ('/series/watercolour/', 'Watercolour', 'series/watercolour'),
+  ('/series/aeromechanica/', 'Aeromechanica', 'series/aeromechanica'),
+  ('/stories/', 'Stories', 'stories/'),
+  ('/about/', 'About', 'about/'),
+] -%}
+<header class="m-header" data-md-component="header">
+  <div class="m-header__inner">
+    <a href="/" class="m-brand">Jono</a>
+    <nav class="m-nav" aria-label="Sections">
+      {%- for href, name, prefix in sections %}
+      <a href="{{ href }}"{% if u.startswith(prefix) %} aria-current="page"{% endif %}>{{ name }}</a>
+      {%- endfor %}
     </nav>
   </div>
 </header>

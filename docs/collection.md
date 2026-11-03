@@ -8,7 +8,7 @@ description: >-
   <p class="jono-eyebrow">§ The full collection</p>
   <div class="jono-intro">
     <h1 class="jono-h2">The rest of the work.</h1>
-    <p class="jono-intro__body">The home page keeps to a handful of pieces. Here is everything else: the Route 62 villages and the harbours after rain, the Parareal pieces, and the portraits. Acrylic on canvas and watercolour on paper. Most are available as originals or prints.</p>
+    <p class="jono-intro__body">The series pages keep to a selection. Here is everything else: the Route 62 villages and the harbours after rain, the Parareal pieces, and the portraits. Acrylic on canvas and watercolour on paper. Most are available as originals or prints.</p>
   </div>
 
   <p class="jono-sublabel" style="margin-top:64px;color:var(--j-accent)">Rurban — acrylics on canvas</p>
