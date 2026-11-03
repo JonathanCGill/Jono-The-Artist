@@ -22,7 +22,7 @@ description: >-
     <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3 and A2 are standard sizes (210 × 297 mm, 297 × 420 mm and 420 × 594 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">79 works catalogued</span>
+      <span class="jono-catalog__count">80 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -45,7 +45,7 @@ description: >-
       <td class="cat-ref" data-label="Ref">KW-02</td>
       <td data-label="Title"><span class="cat-title">The Road to Know Where<small>The ninth Know Where work, the second painting. The seventh drawing painted large, the pilgrim on the road and the KNOW WHERE sign at the verge.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas Board</td>
+      <td class="cat-spec" data-label="Support">Canvas Panel</td>
       <td class="cat-spec" data-label="Size">A2</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
@@ -215,7 +215,15 @@ description: >-
       <td class="cat-ref" data-label="Ref">RA-03</td>
       <td data-label="Title"><span class="cat-title">Siloed Reflections<small>A take on the Zeitz MOCAA in Cape Town, the curved glass facade holding the sky and the buildings opposite.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas Board</td>
+      <td class="cat-spec" data-label="Support">Canvas Panel</td>
+      <td class="cat-spec" data-label="Size">A2</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">RA-04</td>
+      <td data-label="Title"><span class="cat-title">Heavens Breadth<small>The farm near Greyton from the Hemelsbreed watercolour, painted large.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas Panel</td>
       <td class="cat-spec" data-label="Size">A2</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
@@ -503,9 +511,9 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-07</td>
-      <td data-label="Title"><span class="cat-title">ES Cargo Rides Again<small>A cousin of The Last Holiday. ES Cargo back on the water, the magpie holding a key and the poppies holding people.</small></span></td>
+      <td data-label="Title"><span class="cat-title">The Last Holiday Revisited<small>The Last Holiday revisited. ES Cargo back on the water, the magpie holding a key and the poppies holding people.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
-      <td class="cat-spec" data-label="Support">Canvas Board</td>
+      <td class="cat-spec" data-label="Support">Canvas Panel</td>
       <td class="cat-spec" data-label="Size">A2</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>

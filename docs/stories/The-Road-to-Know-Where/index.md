@@ -85,7 +85,7 @@ description: >-
 
 <div class="image-label">The Road to Know Where</div>
 
-![The Road to Know Where - acrylic gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2283" height="3028" }
+![The Road to Know Where - acrylic gouache painting of the pilgrim walking the centre line of a tarred road between orchards, a KNOW WHERE sign at the verge, a windmill and farmhouses ahead and dark cooling towers massed under the mountains](The%20Road%20to%20Know%20Where.jpg){ .story-img loading=lazy width="2222" height="2879" }
 
 </div>
 

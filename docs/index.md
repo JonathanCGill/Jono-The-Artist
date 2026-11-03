@@ -230,13 +230,19 @@ description: >-
       <p class="jono-item__spec jono-spec">1000 × 750 mm · Acrylic &amp; Acryla Gouache · Canvas · 2024</p>
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
+    <div class="jono-item">
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Heavens%20Breadth.jpg" width="2956" height="2237" alt="Heavens Breadth, an acryla gouache painting of a whitewashed farmhouse with a red roof beside a dam near Greyton, a row of trees on the bank and water lilies in the foreground"></div>
+      <h3 class="jono-item__title">Heavens Breadth</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
+      <p class="jono-item__desc">The farm near Greyton from the Hemelsbreed watercolour, painted large. The farmhouse and its trees held in the dam, with water lilies across the front.</p>
+    </div>
   </div>
 
   <div class="jono-rurban__feature">
-    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2821" height="2075" alt="Siloed Reflections, an acryla gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
+    <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Siloed%20Reflections.jpg" width="2954" height="2240" alt="Siloed Reflections, an acryla gouache painting of the curved glass facade of the Zeitz MOCAA in Cape Town, the panes holding the sky, clouds and the ochre building opposite, with figures and a tree at street level"></div>
     <div class="jono-rurban__ftext">
       <h3 class="title">Siloed Reflections</h3>
-      <p class="jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
       <p class="desc">A take on the Zeitz MOCAA in Cape Town. The grain silos were cut open and glazed, and the curved wall of glass now holds the sky, the clouds and the ochre building across the square. The facade shows you everything except itself, which felt like the honest way to paint a silo that became a gallery.</p>
     </div>
   </div>
@@ -303,9 +309,9 @@ description: >-
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Road%20to%20Know%20Where.jpg" width="2222" height="2879" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
-      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
       <p class="jono-item__desc">The ninth work in the Know Where series and the second painting. The pilgrim back on the road, the orchards let out into full colour and the towers massed under the mountains.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
@@ -335,10 +341,10 @@ description: >-
       <a class="jono-textlink" href="/stories/The%20Last%20Holiday/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
-      <h3 class="jono-item__title">ES Cargo Rides Again</h3>
-      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
-      <p class="jono-item__desc">A cousin of The Last Holiday, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/The%20Last%20Holiday%20Revisited.jpg" width="2250" height="3327" alt="The Last Holiday Revisited, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
+      <h3 class="jono-item__title">The Last Holiday Revisited</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
+      <p class="jono-item__desc">The Last Holiday revisited, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
     </div>
   </div>
 

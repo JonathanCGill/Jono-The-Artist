@@ -210,9 +210,9 @@ description: >-
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" width="2283" height="3028" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Road%20to%20Know%20Where.jpg" width="2222" height="2879" alt="The Road to Know Where, an acrylic gouache painting of the pilgrim walking the centre line of a road between orchards, a KNOW WHERE sign at the verge and dark towers under the mountains"></div>
       <h3 class="jono-item__title">The Road to Know Where</h3>
-      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
       <p class="jono-item__desc">The ninth work in the Know Where series and the second painting. The seventh drawing painted large, with the colour let out across the whole field instead of held back for the pilgrim alone.</p>
       <a class="jono-textlink" href="/stories/The-Road-to-Know-Where/">Read the story →</a>
     </div>
@@ -254,10 +254,10 @@ description: >-
       <a class="jono-textlink" href="/stories/The%20Last%20Holiday/">Read the story →</a>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/ES%20Cargo%20Rides%20Again.jpg" width="2223" height="2960" alt="ES Cargo Rides Again, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
-      <h3 class="jono-item__title">ES Cargo Rides Again</h3>
-      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Board · 2026</p>
-      <p class="jono-item__desc">A cousin of The Last Holiday, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Last%20Holiday%20Revisited.jpg" width="2250" height="3327" alt="The Last Holiday Revisited, an acryla gouache painting of a magpie holding a key on a branch above a canal, a church spire and gabled houses reflected in the water, a snail out in a rowing boat and a bank of poppies with figures standing inside them"></div>
+      <h3 class="jono-item__title">The Last Holiday Revisited</h3>
+      <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
+      <p class="jono-item__desc">The Last Holiday revisited, stood upright. ES Cargo is out on the water this time rather than moored, the magpie has taken a key instead of a berry, and every poppy on the bank has someone standing in it. The SLOW sign is still the only instruction anyone is following.</p>
     </div>
   </div>
 
