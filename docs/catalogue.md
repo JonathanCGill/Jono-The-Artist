@@ -221,7 +221,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">RA-04</td>
-      <td data-label="Title"><span class="cat-title">Heavens Breadth<small>The farm near Greyton from the Hemelsbreed watercolour, painted large.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Heaven's Breadth<small>The farm near Greyton from the Hemelsbreed watercolour, painted large.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas Panel</td>
       <td class="cat-spec" data-label="Size">A2</td>

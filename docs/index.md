@@ -231,8 +231,8 @@ description: >-
       <p class="jono-item__desc">A charming village near Swellendam.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Heavens%20Breadth.jpg" width="2956" height="2237" alt="Heavens Breadth, an acryla gouache painting of a whitewashed farmhouse with a red roof beside a dam near Greyton, a row of trees on the bank and water lilies in the foreground"></div>
-      <h3 class="jono-item__title">Heavens Breadth</h3>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="acrylic/Heaven's%20Breadth.jpg" width="2956" height="2237" alt="Heaven's Breadth, an acryla gouache painting of a whitewashed farmhouse with a red roof beside a dam near Greyton, a row of trees on the bank and water lilies in the foreground"></div>
+      <h3 class="jono-item__title">Heaven's Breadth</h3>
       <p class="jono-item__spec jono-spec">A2 · Acryla Gouache · Canvas Panel · 2026</p>
       <p class="jono-item__desc">The farm near Greyton from the Hemelsbreed watercolour, painted large. The farmhouse and its trees held in the dam, with water lilies across the front.</p>
     </div>
