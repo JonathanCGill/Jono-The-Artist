@@ -241,10 +241,10 @@ description: >-
       <p class="jono-item__desc">The official painting commemorating The Insect Hotel.</p>
     </div>
     <div class="jono-item">
-      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Path.jpg" width="3028" height="2255" alt="The Path, an acrylic of a path to the Moon"></div>
-      <h3 class="jono-item__title">The Path</h3>
-      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache · Canvas · 2025</p>
-      <p class="jono-item__desc">A path to the Moon.</p>
+      <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/Emmaus.jpg" width="3035" height="2296" alt="Emmaus, a painting of a road through a field of poppies at night, leading past an Emmaus signpost to a village and church under the full Moon"></div>
+      <h3 class="jono-item__title">Emmaus</h3>
+      <p class="jono-item__spec jono-spec">1000 × 750 mm · Acryla Gouache &amp; Chromashine · Canvas</p>
+      <p class="jono-item__desc">The road to Emmaus at night, through the poppies to the village under a full Moon.</p>
     </div>
     <div class="jono-item">
       <div class="jono-frame"><img loading="lazy" decoding="async" src="/acrylic/The%20Last%20Holiday%20-%20Amsterdam.jpg" width="3006" height="2244" alt="The Last Holiday, an acryla gouache painting of the Grote Die canal holding a perfect mirror of the houses and spire, a magpie overhead and a snail moored in a small boat"></div>
