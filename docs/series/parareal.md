@@ -60,12 +60,12 @@ works:
     meta: "750 × 1000 mm · Acryla Gouache · Canvas · 2026"
     note: "The official painting commemorating The Insect Hotel."
     story: "/stories/The%20Insect%20Hotel/"
-  - title: "The Path"
-    slug: "the-path"
-    src: "/acrylic/The%20Path.jpg"
-    w: 3028
-    h: 2255
-    alt: "The Path, an acrylic painting of a path to the Moon"
-    meta: "1000 × 750 mm · Acryla Gouache · Canvas · 2025"
-    note: "A path to the Moon."
+  - title: "Emmaus"
+    slug: "emmaus"
+    src: "/acrylic/Emmaus.jpg"
+    w: 3035
+    h: 2296
+    alt: "Emmaus, a painting of a road through a field of poppies at night, leading past an Emmaus signpost to a village and church under the full Moon"
+    meta: "1000 × 750 mm · Acryla Gouache & Chromashine · Canvas"
+    note: "The road to Emmaus at night, through the poppies to the village under a full Moon."
 ---
