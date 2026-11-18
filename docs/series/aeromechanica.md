@@ -14,14 +14,14 @@ works:
     h: 2166
     alt: "Avis Aeromechanica Chocolatus, an acrylic painting of a bird fitted with an aircraft airframe"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "The cocoa-powered commercial airliner, built in the Aeromechanica factory at Hilltown. Sister to the Musculus."
+    note: "The cocoa-powered commercial airliner, built in the Aeromechanica Aircraft factory at Hilltown. Sister to the Musculus."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Musculus"
     slug: "aeromechanica-musculus"
     src: "/acrylic/Aeromechanica%20Musculus.jpg"
     w: 1863
     h: 2597
-    alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeromechanica International, the airport of Hilltown, with a fogbound city and dark mountains behind"
+    alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from the lit runway of Aeromechanica International, the airport of Hilltown, at night, past the control tower and airport buildings with dark hills behind"
     meta: "Acryla Gouache · Canvas · 2026"
     note: "The flagship. A cocoa-powered double-decker built at Hilltown for five hundred, designed with whales in mind."
     story: "/stories/Aeromechanica/"

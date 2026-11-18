@@ -23,8 +23,8 @@ description: "The Ordnance-style map of Hilltown: the walled hill, Moletown quar
 </figure>
 
 <figure markdown>
-![Map detail of Aeromechanica International airport, with the runway, the factory and the rail station](maps/detail-airport.jpg){ loading=lazy width="1600" height="1088" }
-<figcaption>Aeromechanica International: the runway, the factory and the rail station.</figcaption>
+![Map detail of Aeromechanica International airport, with the runway, the Aeromechanica Aircraft factory and the rail station](maps/detail-airport.jpg){ loading=lazy width="1600" height="1088" }
+<figcaption>Aeromechanica International: the runway, the Aeromechanica Aircraft factory and the rail station.</figcaption>
 </figure>
 
 ## From sketch to map
