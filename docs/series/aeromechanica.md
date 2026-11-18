@@ -3,7 +3,8 @@ template: series.html
 title: "Aeromechanica"
 description: "Aeromechanica: creatures fitted with the airframes of real aircraft, painted and drawn by Jonathan Gill."
 name: "Aeromechanica"
-blurb: "Creatures fitted with the airframes of real aircraft. A small war fought by birds, beetles and hornets, and a cocoa-powered airliner. Half engineering, half nonsense, all impractical."
+blurb: "Creatures fitted with the airframes of real aircraft. A small war fought by birds, beetles and hornets, the Allied ones built at Hilltown and the Axis ones by Aeromechanik GmbH, and a cocoa-powered airliner built at Hilltown after the war. Half engineering, half nonsense, all impractical."
+see_also: { name: "Hill Town, home of Aeromechanica International", url: "/Hilltown/" }
 next: { name: "Rurban", url: "/series/rurban/" }
 works:
   - title: "Avis Aeromechanica Chocolatus"
@@ -13,16 +14,16 @@ works:
     h: 2166
     alt: "Avis Aeromechanica Chocolatus, an acrylic painting of a bird fitted with an aircraft airframe"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "The cocoa-powered commercial airliner. Sister to the Musculus."
+    note: "The cocoa-powered commercial airliner, built in the Aeromechanica factory at Hilltown. Sister to the Musculus."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Musculus"
     slug: "aeromechanica-musculus"
     src: "/acrylic/Aeromechanica%20Musculus.jpg"
     w: 1863
     h: 2597
-    alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeroville, a fogbound city set against dark mountains"
+    alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeromechanica International, the airport of Hilltown, with a fogbound city and dark mountains behind"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "The flagship. A cocoa-powered double-decker built for five hundred, designed with whales in mind."
+    note: "The flagship. A cocoa-powered double-decker built at Hilltown for five hundred, designed with whales in mind."
     story: "/stories/Aeromechanica/"
   - title: "Libellula Aviatica"
     slug: "libellula-aviatica"
@@ -31,7 +32,7 @@ works:
     h: 1963
     alt: "Libellula Aviatica, a dragonfly given the airframe of a biplane"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "A dragonfly given the airframe of a biplane."
+    note: "Allied. A dragonfly given the airframe of a biplane, built at Hilltown."
     story: "/stories/Aeromechanica/"
   - title: "Chocolatus Airframe Cutaway"
     slug: "chocolatus-airframe-cutaway"
@@ -91,7 +92,7 @@ works:
     h: 1779
     alt: "Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "A stag beetle on the airframe of an Avro."
+    note: "Allied. A stag beetle on the airframe of an Avro, built at Hilltown."
     story: "/stories/Aeromechanica/"
   - title: "Culex Aeromechanica De Havillandii"
     slug: "culex-aeromechanica-de-havillandii"
@@ -100,7 +101,7 @@ works:
     h: 1984
     alt: "Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "A mosquito turned De Havilland Mosquito."
+    note: "Allied. A mosquito turned De Havilland Mosquito, built at Hilltown."
     story: "/stories/Aeromechanica/"
   - title: "Promachus Aeromechanicus Crucifer"
     slug: "promachus-aeromechanicus-crucifer"
@@ -109,7 +110,7 @@ works:
     h: 1617
     alt: "Promachus Aeromechanicus Crucifer, a robber fly fighter"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "A robber fly with cruciform wings."
+    note: "Axis. A robber fly with cruciform wings, built by Aeromechanik GmbH, the group's stand-alone German division."
     story: "/stories/Aeromechanica/"
   - title: "Vespa Aeromechanica Crabro"
     slug: "vespa-aeromechanica-crabro"
@@ -118,7 +119,7 @@ works:
     h: 1852
     alt: "Vespa Aeromechanica Crabro, a hornet on a Bf 109 nose"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "A hornet on a Bf 109 nose."
+    note: "Axis. A hornet on a Bf 109 nose, built by Aeromechanik GmbH."
     story: "/stories/Aeromechanica/"
   - title: "Avis Aeromechanica Promachus"
     slug: "avis-aeromechanica-promachus"
@@ -127,7 +128,7 @@ works:
     h: 1821
     alt: "Avis Aeromechanica Promachus, a second robber fly sheet in teal and ochre with Balkenkreuze"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "A second robber fly, teal and ochre, Balkenkreuze on the wings."
+    note: "Axis. A second robber fly, teal and ochre, Balkenkreuze on the wings, built by Aeromechanik GmbH."
   - title: "Avis Aeromechanica Paciferus"
     slug: "avis-aeromechanica-paciferus"
     src: "/watercolours/avis-aeromechanica-paciferus.jpg"
@@ -135,7 +136,7 @@ works:
     h: 1832
     alt: "Avis Aeromechanica Paciferus, a swept-wing jet bird"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "Jet age. A swept-wing jet bird."
+    note: "Jet age. A swept-wing jet bird, and the end of the war business at Hilltown."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Chocolatus Evolution"
     slug: "aeromechanica-chocolatus-evolution"

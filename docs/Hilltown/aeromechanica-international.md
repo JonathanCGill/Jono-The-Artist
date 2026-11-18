@@ -1,14 +1,30 @@
 ---
-description: "Aeromechanica International, the airport at Hilltown: its story, and its fictional approach and aerodrome charts."
+description: "Aeromechanica International, the airport at Hilltown: from a 1917 aerodrome to an international airport, and its fictional approach and aerodrome charts."
 ---
 
 <div class="hilltown" markdown>
 
 # Aeromechanica International
 
-## The 1970s: Aeromechanica comes to town
+## 1917: the aerodrome
 
-After the 1968 flood, farmland north of the A49 was going cheap. Aeromechanica Airline Manufacturers needed somewhere to build and test aircraft, and bought the lot. The factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
+In 1917 the Royal Flying Corps needed somewhere flat to teach young men to fly, and the plain north of the town is very flat. They put up canvas hangars, mowed a strip and called it an aerodrome. Nobody asked the town, which took it as a compliment: someone in London had finally noticed the place.
+
+The pilots learned on the plain and navigated by the hill, which is hard to miss. The ones who missed it anyway are remembered in the Clock Inn, mostly fondly. In April 1918 the Royal Flying Corps became the Royal Air Force, the sign at the gate was repainted, and nothing else changed.
+
+Between the wars the hangars were let to a small firm that built aircraft nobody had asked for. The firm was Aeromechanica.
+
+## 1939: the war sheets
+
+In 1939 the Air Ministry came back, laid concrete over the grass and put up proper hangars. Aeromechanica moved into them and spent the war building aircraft for the Allies, each one drawn first on a specimen plate, as if it had been caught rather than made.
+
+The other side's aircraft were built by Aeromechanik GmbH, a stand-alone division of the Aeromechanica Group. Stand-alone is doing a lot of work in that sentence. The two never shared a factory or a board meeting, but they did share a drawing style, a ruled title box and, by an accident nobody has explained, a scale of 1:72. Hilltown has always said it knew nothing about it. Moletown has always said Hilltown would say that.
+
+When the war ended the concrete stayed. The town had an aerodrome it had never asked for, run by a company it did not entirely trust, and it would take another flood before anyone thought of making it an airport.
+
+## The 1970s: the airport
+
+After the 1968 flood, the farmland around the old aerodrome was going cheap. Aeromechanica Airline Manufacturers, by now building airliners rather than war sheets, needed room to build and test them, and bought the lot. The new factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
 
 The terminal was built with a woven roof shaped like a bird's nest. The ducks moved in before the passengers did, and still regard it as theirs.
 
@@ -43,6 +59,6 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 
 The Chocolatus was built here, in the Aeromechanica factory beside the runway. It is in the [Aeromechanica series](../series/aeromechanica.md): [Avis Aeromechanica Chocolatus](../series/aeromechanica.md) (2026), the [Chocolatus Airframe Cutaway](../series/aeromechanica.md) and [Chocolatus Cockpit](../series/aeromechanica.md) (2026), and [Aeromechanica Chocolatus Evolution](../series/aeromechanica.md) (2026), four panels dated 1972, 1976, 1985 and 2026.
 
-The series also has [Aeromechanica Musculus](../series/aeromechanica.md) (2026), the cocoa-powered airliner climbing away from Aeroville.
+The flagship, [Aeromechanica Musculus](../series/aeromechanica.md) (2026), was built here too. The painting shows the cocoa-powered double-decker climbing away from Aeromechanica International at night.
 
 </div>

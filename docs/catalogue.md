@@ -68,7 +68,7 @@ description: >-
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-01</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner. Sister to the Musculus.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner, built at Hilltown. Sister to the Musculus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -76,7 +76,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-02</td>
-      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -84,7 +84,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-03</td>
-      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>A dragonfly given the airframe of a biplane. RAF roundels.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>Allied. A dragonfly given the airframe of a biplane. RAF roundels. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -132,7 +132,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-09</td>
-      <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -140,7 +140,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-10</td>
-      <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -148,7 +148,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-11</td>
-      <td data-label="Title"><span class="cat-title">Promachus Aeromechanicus Crucifer<small>Axis. A robber fly with cruciform wings.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Promachus Aeromechanicus Crucifer<small>Axis. A robber fly with cruciform wings. Built by Aeromechanik GmbH.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -156,7 +156,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-12</td>
-      <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose. Built by Aeromechanik GmbH.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -180,7 +180,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-15</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Promachus<small>Axis. A second robber fly sheet, teal and ochre, Balkenkreuze on the wings.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Promachus<small>Axis. A second robber fly sheet, teal and ochre, Balkenkreuze on the wings. Built by Aeromechanik GmbH.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
