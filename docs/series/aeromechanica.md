@@ -21,7 +21,7 @@ works:
     src: "/acrylic/Aeromechanica%20Musculus.jpg"
     w: 1863
     h: 2597
-    alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeroville, a fogbound city set against dark mountains"
+    alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeromechanica International, the airport of Hilltown, with a fogbound city and dark mountains behind"
     meta: "Acryla Gouache · Canvas · 2026"
     note: "The flagship. A cocoa-powered double-decker built at Hilltown for five hundred, designed with whales in mind."
     story: "/stories/Aeromechanica/"
