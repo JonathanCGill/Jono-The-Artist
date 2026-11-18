@@ -487,11 +487,11 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-05</td>
-      <td data-label="Title"><span class="cat-title">The Path<small>A path to the Moon.</small></span></td>
-      <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
+      <td data-label="Title"><span class="cat-title">Emmaus<small>The road to Emmaus at night, through the poppies to the village under a full Moon.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acryla Gouache &amp; Chromashine</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
-      <td class="cat-spec" data-label="Year">2025</td>
+      <td class="cat-spec" data-label="Year"></td>
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">SA-06</td>
