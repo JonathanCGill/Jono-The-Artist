@@ -41,6 +41,8 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 
 ## The aircraft
 
-The aircraft are in the [Aeromechanica series](../series/aeromechanica.md): [Avis Aeromechanica Chocolatus](../series/aeromechanica.md) (2026), [Chocolatus Airframe Cutaway](../series/aeromechanica.md) and [Chocolatus Cockpit](../series/aeromechanica.md) (2026), [Aeromechanica Chocolatus Evolution](../series/aeromechanica.md) (2026), four panels dated 1972, 1976, 1985 and 2026, and [Aeromechanica Musculus](../series/aeromechanica.md) (2026), the cocoa-powered airliner climbing away from Aeroville.
+The Chocolatus was built here, in the Aeromechanica factory beside the runway. It is in the [Aeromechanica series](../series/aeromechanica.md): [Avis Aeromechanica Chocolatus](../series/aeromechanica.md) (2026), the [Chocolatus Airframe Cutaway](../series/aeromechanica.md) and [Chocolatus Cockpit](../series/aeromechanica.md) (2026), and [Aeromechanica Chocolatus Evolution](../series/aeromechanica.md) (2026), four panels dated 1972, 1976, 1985 and 2026.
+
+The series also has [Aeromechanica Musculus](../series/aeromechanica.md) (2026), the cocoa-powered airliner climbing away from Aeroville.
 
 </div>

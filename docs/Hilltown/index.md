@@ -12,12 +12,12 @@ Hilltown was founded in 1348, when the farmers of a fertile plain walled themsel
 
 <figure markdown>
 ![Hill Town 1896, a painting of a walled town on a hill under a light sky, with Dutch windmills on the plain below](hill-town-1896.jpg){ width="2283" height="3708" }
-<figcaption>Hill Town 1896. The town before the airport, when the Dutch windmills still turned.</figcaption>
+<figcaption>Hill Town 1896. The town before the airport, when the Dutch windmills still turned.<br>A1 · Acrylic &amp; Acryla Gouache · Canvas · 2026</figcaption>
 </figure>
 
 <figure markdown>
 ![Hill Town 2026, a painting of the same walled hill town today, with modern wind turbines in the fields below](hill-town-2026.jpg){ width="1063" height="1506" }
-<figcaption>Hill Town 2026. The town today, with modern wind turbines in the Turbine Fields.</figcaption>
+<figcaption>Hill Town 2026. The town today, with modern wind turbines in the Turbine Fields.<br>A1 · Acrylic &amp; Acryla Gouache · Canvas · 2026</figcaption>
 </figure>
 
 </div>
