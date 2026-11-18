@@ -6,17 +6,17 @@ description: "Hill Town: Hilltown, a fictional walled hill town on the Shropshir
 
 # Hill Town
 
-Hilltown was founded in 1348, when the farmers of a fertile plain walled themselves onto a hill full of water to keep out the Black Death. The stone for the wall came from a pit at the foot of the hill, and the pit became Moletown. I painted the town twice, then drew the map, and the town kept growing from there.
+Hilltown was founded in 1348, when the farmers of a fertile plain walled themselves onto a hill full of water to keep out the Black Death. The stone for the wall came from a pit on the plain to the south-west, and the pit became Moletown. I painted the town twice, then drew the map, and the town kept growing from there.
 
 <div class="hilltown__pair" markdown>
 
 <figure markdown>
-![Hill Town 1896, a painting of a walled town on a hill under a light sky, with Dutch windmills on the plain below](hill-town-1896.jpg){ width="2283" height="3708" }
-<figcaption>Hill Town 1896. The town before the airport, when the Dutch windmills still turned.<br>A1 · Acrylic &amp; Acryla Gouache · Canvas · 2026</figcaption>
+![Hill Town 1896, a painting of a walled town on a hill under a light sky, with Dutch windmills on the plain below](../acrylic/Hill%20Town%201896.jpg){ width="2283" height="3708" }
+<figcaption>Hill Town 1896. The town before the airport, when the Dutch windmills still turned.<br>A1 · Acrylic &amp; Acryla Gouache · Canvas · 2024</figcaption>
 </figure>
 
 <figure markdown>
-![Hill Town 2026, a painting of the same walled hill town today, with modern wind turbines in the fields below](hill-town-2026.jpg){ width="1063" height="1506" }
+![Hill Town 2026, a painting of the same walled hill town today, with modern wind turbines in the fields below](../acrylic/Hill%20Town%202026.jpg){ width="1063" height="1506" }
 <figcaption>Hill Town 2026. The town today, with modern wind turbines in the Turbine Fields.<br>A1 · Acrylic &amp; Acryla Gouache · Canvas · 2026</figcaption>
 </figure>
 

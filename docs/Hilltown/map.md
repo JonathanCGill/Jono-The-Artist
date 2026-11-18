@@ -27,6 +27,8 @@ description: "The Ordnance-style map of Hilltown: the walled hill, Moletown quar
 <figcaption>Aeromechanica International: the runway, the Aeromechanica Aircraft factory and the rail station.</figcaption>
 </figure>
 
+The legend gives the flood plain as a 1% chance a year, which is how a surveyor draws it. The town works to the calendar: the plain floods every 84 years, 7 months and 6 days, next on 31 December 2052. The building marked Factory is Aeromechanica Aircraft.
+
 ## From sketch to map
 
 The map grew from two ink drawings and the painting. The first sketch fixed the plan of the town, the second cut through the hill to show where the water goes.

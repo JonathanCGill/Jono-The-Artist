@@ -71,7 +71,7 @@ description: >-
       <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner, built at Hilltown. Sister to the Musculus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
@@ -201,7 +201,7 @@ description: >-
       <td class="cat-spec" data-label="Medium">Acrylic &amp; Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">A1</td>
-      <td class="cat-spec" data-label="Year">2026</td>
+      <td class="cat-spec" data-label="Year">2024</td>
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">HT-02</td>
