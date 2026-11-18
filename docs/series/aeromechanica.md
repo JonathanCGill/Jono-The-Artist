@@ -13,7 +13,7 @@ works:
     w: 2998
     h: 2166
     alt: "Avis Aeromechanica Chocolatus, an acrylic painting of a bird fitted with an aircraft airframe"
-    meta: "Acryla Gouache · Canvas · 2026"
+    meta: "1000 × 750 mm · Acryla Gouache · Canvas · 2026"
     note: "The cocoa-powered commercial airliner, built in the Aeromechanica Aircraft factory at Hilltown. Sister to the Musculus."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Musculus"
