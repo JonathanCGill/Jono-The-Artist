@@ -6,7 +6,7 @@ description: "Hill Town: Hilltown, a fictional walled hill town on the Shropshir
 
 # Hill Town
 
-Hilltown was founded in 1348, when the farmers of a fertile plain walled themselves onto a hill full of water to keep out the Black Death. The stone for the wall came from a pit at the foot of the hill, and the pit became Moletown. I painted the town twice, then drew the map, and the town kept growing from there.
+Hilltown was founded in 1348, when the farmers of a fertile plain walled themselves onto a hill full of water to keep out the Black Death. The stone for the wall came from a pit on the plain to the south-west, and the pit became Moletown. I painted the town twice, then drew the map, and the town kept growing from there.
 
 <div class="hilltown__pair" markdown>
 
