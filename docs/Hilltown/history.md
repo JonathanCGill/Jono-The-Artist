@@ -100,7 +100,7 @@ When the war ended the concrete stayed. The town had an aerodrome it had never a
 
 ## The 1970s: the airport
 
-After the 1968 flood, the farmland around the old aerodrome was going cheap. Aeromechanica Airline Manufacturers, by now building airliners rather than war sheets, needed room to build and test them, and bought the lot. The new factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
+After the 1968 flood, the farmland around the old aerodrome was going cheap. Aeromechanica Aircraft, by now building airliners rather than war sheets, needed room to build and test them, and bought the lot. The new factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
 
 The terminal was built with a woven roof shaped like a bird's nest. The ducks moved in before the passengers did, and still regard it as theirs.
 
@@ -117,7 +117,7 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 | 31 Dec 2052 | Next flood due |
 | 2020s | Station Walk opens between Hilltown and Moletown |
 | Late 1970s | Diverted Amsterdam flight; the airport goes international |
-| 1970s | Aeromechanica builds the factory, runway and Bird's Nest Terminal |
+| 1970s | Aeromechanica Aircraft builds the factory, runway and Bird's Nest Terminal |
 | 1968 | Flood; farmland around the aerodrome sold off |
 | 1939–45 | Air Ministry lays concrete; Aeromechanica builds for the Allies, Aeromechanik GmbH for the Axis |
 | Between the wars | Aeromechanica rents the hangars |

@@ -123,7 +123,7 @@ description: >-
 
 <div class="image-meta">2025</div>
 
-![Aeromechanica Musculus - acrylic painting of the whale-sized double-decker in Aeromech livery climbing away from a night city](Aeromechanica%20Musculus.jpg){ .story-img loading=lazy width="1863" height="2597" }
+![Aeromechanica Musculus - acrylic painting of the whale-sized double-decker in Aeromech livery climbing away from Ringway, Manchester, at night](Aeromechanica%20Musculus.jpg){ .story-img loading=lazy width="1863" height="2597" }
 
 </div>
 
@@ -163,7 +163,7 @@ Passengers get the other half, and Aeromech sells it as the flight experience. A
 
 Which leaves the failure case, and it is the line I would put in the manual and no airline would print. When the bird and the model disagree, the bird is right and the model is confident. There is no lever on the cockpit sheet for that.
 
-Then the two paintings, which are the advertising. *Avis Aeromechanica Chocolatus* passes a red and white banded lighthouse at sunset with the light running gold across the water and a container ship on the horizon, pink feathered wings out and passenger windows down the fuselage. *Aeromechanica Musculus* is the flagship, whale sized, five hundred seats, Aeromech painted along an orange double-decker fuselage, climbing away from a city at night with the motorway lit underneath. That is a route map. Coast in the evening, metropolis after dark. Every airline in the world sells the same two pictures.
+Then the two paintings, which are the advertising. *Avis Aeromechanica Chocolatus* passes a red and white banded lighthouse at sunset with the light running gold across the water and a container ship on the horizon, pink feathered wings out and passenger windows down the fuselage. *Aeromechanica Musculus* is the flagship, whale sized, five hundred seats, Aeromech painted along an orange double-decker fuselage, climbing away from Ringway at night, the runway lit underneath, the control tower beside it and Manchester behind. That is a route map. Coast in the evening, metropolis after dark. Every airline in the world sells the same two pictures.
 
 And then the last sheet, which undoes all of it. *Evolution* is four panels held down with purple photo corners, like a page lifted out of an album. 1972: a boy in a field throwing a paper aeroplane at a house. 1976: an aircraft built out of toy bricks. 1985: a remote control model over a field with the transmitter drawn in the corner. 2026: the biomechanical bird over the lighthouse and the beach, which is the Chocolatus painting, in miniature, at the end of its own family album.
 

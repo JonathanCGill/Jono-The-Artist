@@ -24,7 +24,7 @@ When the war ended the concrete stayed. The town had an aerodrome it had never a
 
 ## The 1970s: the airport
 
-After the 1968 flood, the farmland around the old aerodrome was going cheap. Aeromechanica Airline Manufacturers, by now building airliners rather than war sheets, needed room to build and test them, and bought the lot. The new factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
+After the 1968 flood, the farmland around the old aerodrome was going cheap. Aeromechanica Aircraft, by now building airliners rather than war sheets, needed room to build and test them, and bought the lot. The new factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
 
 The terminal was built with a woven roof shaped like a bird's nest. The ducks moved in before the passengers did, and still regard it as theirs.
 
@@ -57,8 +57,8 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 
 ## The aircraft
 
-The Chocolatus was built here, in the Aeromechanica factory beside the runway. It is in the [Aeromechanica series](../series/aeromechanica.md): [Avis Aeromechanica Chocolatus](../series/aeromechanica.md) (2026), the [Chocolatus Airframe Cutaway](../series/aeromechanica.md) and [Chocolatus Cockpit](../series/aeromechanica.md) (2026), and [Aeromechanica Chocolatus Evolution](../series/aeromechanica.md) (2026), four panels dated 1972, 1976, 1985 and 2026.
+The Chocolatus was built here, in the Aeromechanica Aircraft factory beside the runway. It is in the [Aeromechanica series](../series/aeromechanica.md): [Avis Aeromechanica Chocolatus](../series/aeromechanica.md) (2026), the [Chocolatus Airframe Cutaway](../series/aeromechanica.md) and [Chocolatus Cockpit](../series/aeromechanica.md) (2026), and [Aeromechanica Chocolatus Evolution](../series/aeromechanica.md) (2026), four panels dated 1972, 1976, 1985 and 2026.
 
-The flagship, [Aeromechanica Musculus](../series/aeromechanica.md) (2026), was built here too. The painting shows the cocoa-powered double-decker climbing away from Aeromechanica International at night.
+The flagship, [Aeromechanica Musculus](../series/aeromechanica.md) (2026), was built here too. The painting shows the cocoa-powered double-decker away from home, climbing out of Ringway, Manchester, at night.
 
 </div>
