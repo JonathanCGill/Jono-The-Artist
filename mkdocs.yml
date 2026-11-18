@@ -17,6 +17,7 @@ theme:
   logo: photos/Jono.jpg
 
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
 
@@ -43,6 +44,12 @@ nav:
     - Parareal: series/parareal.md
     - Watercolour: series/watercolour.md
     - Aeromechanica: series/aeromechanica.md
+  - Hill Town:
+      - Hilltown/index.md
+      - History: Hilltown/history.md
+      - The Ordnance Map: Hilltown/map.md
+      - Explore the map: Hilltown/explore.md
+      - Aeromechanica International: Hilltown/aeromechanica-international.md
   - Collection: collection.md
   - Stories:
     - stories/index.md
