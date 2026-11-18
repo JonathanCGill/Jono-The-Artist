@@ -1,3 +1,9 @@
+---
+description: "A short and mostly accurate history of Hilltown, from the Black Death wall of 1348 to the floods, the Dutch, railway time and Aeromechanica International."
+---
+
+<div class="hilltown" markdown>
+
 # A Short and Mostly Accurate History of Hilltown
 
 ## 1348: up the hill, and a very big hole
@@ -76,9 +82,25 @@ The railway was built for the quarry, so the first passengers rode in empty ston
 
 There is still no line between Hilltown and Moletown. The town council's view is that the people need to keep fit. So there is the Station Walk instead, 5.8 km with a numbered post every kilometre, so that you know exactly how far you have suffered.
 
-## The 1970s: Aeromechanica comes to town
+## 1917: the aerodrome
 
-After the 1968 flood, farmland north of the A49 was going cheap. Aeromechanica Airline Manufacturers needed somewhere to build and test aircraft, and bought the lot. The factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
+In 1917 the Royal Flying Corps needed somewhere flat to teach young men to fly, and the plain north of the town is very flat. They put up canvas hangars, mowed a strip and called it an aerodrome. Nobody asked the town, which took it as a compliment: someone in London had finally noticed the place.
+
+The pilots learned on the plain and navigated by the hill, which is hard to miss. The ones who missed it anyway are remembered in the Clock Inn, mostly fondly. In April 1918 the Royal Flying Corps became the Royal Air Force, the sign at the gate was repainted, and nothing else changed.
+
+Between the wars the hangars were let to a small firm that built aircraft nobody had asked for. The firm was Aeromechanica.
+
+## 1939: the war sheets
+
+In 1939 the Air Ministry came back, laid concrete over the grass and put up proper hangars. Aeromechanica moved into them and spent the war building aircraft for the Allies, each one drawn first on a specimen plate, as if it had been caught rather than made.
+
+The other side's aircraft were built by Aeromechanik GmbH, a stand-alone division of the Aeromechanica Group. Stand-alone is doing a lot of work in that sentence. The two never shared a factory or a board meeting, but they did share a drawing style, a ruled title box and, by an accident nobody has explained, a scale of 1:72. Hilltown has always said it knew nothing about it. Moletown has always said Hilltown would say that.
+
+When the war ended the concrete stayed. The town had an aerodrome it had never asked for, run by a company it did not entirely trust, and it would take another flood before anyone thought of making it an airport.
+
+## The 1970s: the airport
+
+After the 1968 flood, the farmland around the old aerodrome was going cheap. Aeromechanica Aircraft, by now building airliners rather than war sheets, needed room to build and test them, and bought the lot. The new factory went up first, then a runway 4.35 km long, because the founder liked to be sure.
 
 The terminal was built with a woven roof shaped like a bird's nest. The ducks moved in before the passengers did, and still regard it as theirs.
 
@@ -95,8 +117,12 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 | 31 Dec 2052 | Next flood due |
 | 2020s | Station Walk opens between Hilltown and Moletown |
 | Late 1970s | Diverted Amsterdam flight; the airport goes international |
-| 1970s | Aeromechanica builds the factory, runway and Bird's Nest Terminal |
-| 1968 | Flood; farmland north of the A49 sold off |
+| 1970s | Aeromechanica Aircraft builds the factory, runway and Bird's Nest Terminal |
+| 1968 | Flood; farmland around the aerodrome sold off |
+| 1939–45 | Air Ministry lays concrete; Aeromechanica builds for the Allies, Aeromechanik GmbH for the Axis |
+| Between the wars | Aeromechanica rents the hangars |
+| 1918 | The Royal Flying Corps becomes the Royal Air Force |
+| 1917 | Royal Flying Corps aerodrome opens on the plain |
 | 1880 | Greenwich time becomes law. Hilltown carries on regardless |
 | Victorian era | Railway reaches Moletown for the quarry |
 | 1752 | Britain drops eleven days. The floods do not |
@@ -110,6 +136,8 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 
 ### What is real and what is invented
 
-- **Real:** the Black Death reaching England in 1348; St Jude as patron saint of hopeless causes, feast day 28 October; Dutch drainage engineers in the Fens from the 1630s; the tulip crash of February 1637; the English year starting on 25 March until 1752; the eleven days dropped in September 1752; railways running on London time; Greenwich time becoming law in 1880; Shropshire being about 11 minutes behind Greenwich by the sun.
-- **Invented:** Hilltown, Moletown, the flood cycle, Van der Molen, the stranded bishop, the missing silver, the diverted flight and Aeromechanica.
+- **Real:** the Black Death reaching England in 1348; St Jude as patron saint of hopeless causes, feast day 28 October; Dutch drainage engineers in the Fens from the 1630s; the tulip crash of February 1637; the English year starting on 25 March until 1752; the eleven days dropped in September 1752; railways running on London time; Greenwich time becoming law in 1880; Shropshire being about 11 minutes behind Greenwich by the sun; Royal Flying Corps aerodromes in Shropshire in the First World War, such as Tern Hill (1916) and Shawbury (1917); the Royal Flying Corps becoming the Royal Air Force on 1 April 1918.
+- **Invented:** Hilltown, Moletown, the flood cycle, Van der Molen, the stranded bishop, the missing silver, the diverted flight, the aerodrome, Aeromechanica and Aeromechanik GmbH.
 - **Worth knowing:** leaving goods at a boundary with coins in vinegar is documented from Eyam in Derbyshire in 1665–66, so Hilltown is about 300 years early. Flood dates before 1752 are counted on today's calendar.
+
+</div>

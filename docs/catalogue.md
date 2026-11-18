@@ -19,10 +19,10 @@ description: >-
 
   <div class="jono-catalog__about">
     <p class="jono-sublabel">About this catalogue</p>
-    <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3 and A2 are standard sizes (210 × 297 mm, 297 × 420 mm and 420 × 594 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
+    <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3, A2 and A1 are standard sizes (210 × 297 mm, 297 × 420 mm, 420 × 594 mm and 594 × 841 mm). Most pieces are available as originals or prints; to enquire about a specific reference, get in touch through the links below.</p>
 
     <div class="jono-catalog__meta">
-      <span class="jono-catalog__count">79 works catalogued</span>
+      <span class="jono-catalog__count">81 works catalogued</span>
       <a class="jono-catalog__dl" href="/catalogue.csv" download>Download as CSV ↓</a>
     </div>
   </div>
@@ -68,15 +68,15 @@ description: >-
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-01</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner. Sister to the Musculus.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner, built at Hilltown. Sister to the Musculus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
-      <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
+      <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-02</td>
-      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -84,7 +84,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-03</td>
-      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>A dragonfly given the airframe of a biplane. RAF roundels.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>Allied. A dragonfly given the airframe of a biplane. RAF roundels. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -132,7 +132,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-09</td>
-      <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -140,7 +140,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-10</td>
-      <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito. Built at Hilltown.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -148,7 +148,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-11</td>
-      <td data-label="Title"><span class="cat-title">Promachus Aeromechanicus Crucifer<small>Axis. A robber fly with cruciform wings.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Promachus Aeromechanicus Crucifer<small>Axis. A robber fly with cruciform wings. Built by Aeromechanik GmbH.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -156,7 +156,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-12</td>
-      <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Vespa Aeromechanica Crabro<small>Axis. A hornet on a Bf 109 nose. Built by Aeromechanik GmbH.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -180,10 +180,35 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-15</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Promachus<small>Axis. A second robber fly sheet, teal and ochre, Balkenkreuze on the wings.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Promachus<small>Axis. A second robber fly sheet, teal and ochre, Balkenkreuze on the wings. Built by Aeromechanik GmbH.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
+      <td class="cat-spec" data-label="Year">2026</td>
+    </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="jono-catalog__group">
+    <p class="jono-sublabel">Hill Town: acrylics on canvas</p>
+    <p class="jono-catalog__grouplead">Hilltown, a walled hill town on the Shropshire plain, home of Aeromechanica International. Two views of the same hill, 130 years apart.</p>
+    <table class="jono-cat-table">
+      <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
+      <tbody>
+    <tr>
+      <td class="cat-ref" data-label="Ref">HT-01</td>
+      <td data-label="Title"><span class="cat-title">Hill Town 1896<small>The town before the airport, when the Dutch windmills still turned.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acrylic &amp; Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas</td>
+      <td class="cat-spec" data-label="Size">A1</td>
+      <td class="cat-spec" data-label="Year">2024</td>
+    </tr>
+    <tr>
+      <td class="cat-ref" data-label="Ref">HT-02</td>
+      <td data-label="Title"><span class="cat-title">Hill Town 2026<small>The town today, with modern wind turbines in the Turbine Fields.</small></span></td>
+      <td class="cat-spec" data-label="Medium">Acrylic &amp; Acryla Gouache</td>
+      <td class="cat-spec" data-label="Support">Canvas</td>
+      <td class="cat-spec" data-label="Size">A1</td>
       <td class="cat-spec" data-label="Year">2026</td>
     </tr>
       </tbody>

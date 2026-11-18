@@ -188,6 +188,11 @@ body {
 }
 
 /* Page heading block: kicker + giant title, blurb on the right */
+.m-lead a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
 .m-head {
   max-width: 1600px;
   margin: 0 auto;
