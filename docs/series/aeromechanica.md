@@ -3,7 +3,8 @@ template: series.html
 title: "Aeromechanica"
 description: "Aeromechanica: creatures fitted with the airframes of real aircraft, painted and drawn by Jonathan Gill."
 name: "Aeromechanica"
-blurb: "Creatures fitted with the airframes of real aircraft. A small war fought by birds, beetles and hornets, and a cocoa-powered airliner. Half engineering, half nonsense, all impractical."
+blurb: "Creatures fitted with the airframes of real aircraft. A small war fought by birds, beetles and hornets, and a cocoa-powered airliner built at Hilltown. Half engineering, half nonsense, all impractical."
+see_also: { name: "Hill Town, home of Aeromechanica International", url: "/Hilltown/" }
 next: { name: "Rurban", url: "/series/rurban/" }
 works:
   - title: "Avis Aeromechanica Chocolatus"
@@ -13,7 +14,7 @@ works:
     h: 2166
     alt: "Avis Aeromechanica Chocolatus, an acrylic painting of a bird fitted with an aircraft airframe"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "The cocoa-powered commercial airliner. Sister to the Musculus."
+    note: "The cocoa-powered commercial airliner, built in the Aeromechanica factory at Hilltown. Sister to the Musculus."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Musculus"
     slug: "aeromechanica-musculus"
@@ -22,7 +23,7 @@ works:
     h: 2597
     alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Aeroville, a fogbound city set against dark mountains"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "The flagship. A cocoa-powered double-decker built for five hundred, designed with whales in mind."
+    note: "The flagship. A cocoa-powered double-decker built at Hilltown for five hundred, designed with whales in mind."
     story: "/stories/Aeromechanica/"
   - title: "Libellula Aviatica"
     slug: "libellula-aviatica"

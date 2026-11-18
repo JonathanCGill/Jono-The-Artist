@@ -2,7 +2,8 @@
   Series template. The works live in the page's front matter (title, slug,
   src, w, h, alt, meta, note, story) and are rendered as a ruled grid. Each
   work opens the full-screen viewer (javascripts/viewer.js), which reads the
-  same list from the JSON block at the foot of the page.
+  same list from the JSON block at the foot of the page. An optional
+  see_also ({ name, url }) adds a link after the blurb.
 -#}
 {% extends "main.html" %}
 
@@ -16,7 +17,7 @@
       <span class="m-kicker">Series · {{ m.works | length }} works</span>
       <h1 class="m-display">{{ m.name }}</h1>
     </div>
-    <p class="m-lead">{{ m.blurb }}</p>
+    <p class="m-lead">{{ m.blurb }}{% if m.see_also %} <a href="{{ m.see_also.url }}">{{ m.see_also.name }} →</a>{% endif %}</p>
   </section>
 
   <section class="m-rule" aria-label="Works">
