@@ -61,7 +61,7 @@ description: >-
 
 <div class="image-label">Floral</div>
 
-![Flowers growing in the Cantabrian countryside](Floral2.jpg){ .story-img loading=lazy width="2576" height="1932" }
+![Flowers growing in the Cantabrian countryside](Floral2.jpg){ .story-img loading=lazy width="1932" height="2576" }
 
 </div>
 
