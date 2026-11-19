@@ -1,9 +1,11 @@
 ---
+template: headed.html
+name: "Essays"
+kicker: "Jonathan Gill"
+standfirst: "On governance, technology, trust, AI and the commons."
 description: >-
   Personal essays by Jonathan Gill on governance, technology, trust, AI and the commons.
 ---
-
-# Essays
 
 <div class="essays-intro" markdown>
 

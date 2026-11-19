@@ -1,0 +1,30 @@
+{#-
+  Headed template: the Modernist head (kicker, giant title, standfirst) above
+  an ordinary Markdown page (stories, the stories index, About). The body keeps
+  its custom.css layout. Front matter: name (the page's one <h1>; defaults to
+  the nav title), kicker, and standfirst (defaults to the description). The
+  Markdown carries no H1 of its own. A title over 40 characters (the longer
+  essays) is set smaller, on its own row.
+-#}
+{% extends "main.html" %}
+
+{% block hero %}
+{%- set m = page.meta -%}
+{%- set name = m.name or page.title -%}
+{%- set w = name.split() | map('length') | max -%}
+<div class="m m-headed">
+  <section class="m-head m-head--story{% if name | length > 40 %} m-head--essay{% endif %}">
+    <div class="m-head__title{% if w > 8 or name | length > 40 %} m-head__title--long{% endif %}" style="--chars: {{ w }}">
+      <span class="m-kicker">{{ m.kicker }}</span>
+      <h1 class="m-display">{{ name }}</h1>
+    </div>
+    <p class="m-lead">{{ m.standfirst or m.description }}</p>
+  </section>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="m-body">
+{{ page.content }}
+</div>
+{% endblock %}

@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "Stories"
+kicker: "Behind the paintings"
 description: >-
   The photographs behind the paintings, and what changes on the way from one to the other.
 ---
-
-# Stories
 
 Every painting starts with a photograph. I shoot architecture and landscapes, mostly. Buildings with presence, water that holds light, skylines that frame a place. The camera captures the scene. Then the painting departs from it.
 

@@ -316,18 +316,10 @@ html {
   font-family: var(--j-sans);
   color: var(--j-body);
 }
-.md-typeset .essay-meta h2,
 .md-typeset .essay h2 {
   font-family: var(--j-serif);
   font-weight: 500;
   color: var(--j-ink);
-}
-.md-typeset .essay-meta h3 {
-  font-family: var(--j-mono);
-  font-size: 11px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--j-accent);
 }
 .md-typeset .essay-card {
   background: none;

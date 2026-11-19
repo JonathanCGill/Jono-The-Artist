@@ -1015,3 +1015,110 @@ html.m-locked body {
   height: 80vh;
   border: 2px solid var(--color-divider);
 }
+
+/* ══ Headed Markdown pages ═════════════════════════════════════
+   overrides/headed.html: the Modernist head above a custom.css page
+   (stories, the stories index, About). The head matches the 1280px
+   content column; the in-page headings take the Modernist type. */
+.m-headed {
+  border-bottom: 2px solid var(--color-divider);
+}
+.m-headed .m-head {
+  max-width: 1280px;
+}
+.md-main__inner:has(.m-body) {
+  padding: clamp(16px, 3vw, 32px) var(--m-gutter) 64px;
+}
+/* Matches Material's sidebar-margin rule (0,5,0) so the body lines up with the head. */
+.md-main__inner:has(.m-body) > .md-content > .md-content__inner.md-typeset {
+  margin-left: 0;
+  margin-right: 0;
+}
+.md-typeset .m-body .story > h2:first-child {
+  margin-top: 0;
+}
+.md-typeset .m-body .story > h2 {
+  font-family: var(--font-body);
+  font-size: clamp(28px, 3vw, 42px);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+  text-transform: none;
+  color: var(--color-text);
+  border-bottom: 0;
+  border-top: 2px solid var(--color-divider);
+  padding: 20px 0 0;
+}
+.md-typeset .m-body .image-label {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+}
+.md-typeset .m-body .image-meta {
+  font-family: var(--font-body);
+  color: var(--color-neutral-700);
+}
+/* Long titles (essays) are set smaller so they read as a headline. */
+.m-head--essay .m-display {
+  --fs: clamp(36px, 5vw, 72px);
+  line-height: 1;
+  letter-spacing: -0.035em;
+  max-width: 22ch;
+  text-wrap: balance;
+}
+.md-typeset .m-body .essay {
+  font-family: var(--font-body);
+  color: var(--color-text);
+}
+.md-typeset .m-body .essay h2 {
+  font-family: var(--font-body);
+  font-size: clamp(24px, 2.4vw, 32px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  color: var(--color-text);
+  border-top: 2px solid var(--color-divider);
+  padding-top: 18px;
+}
+.md-typeset .m-body .essay-card {
+  border-top: 2px solid var(--color-divider);
+}
+.md-typeset .m-body .essay-list .essay-card:last-child {
+  border-bottom: 2px solid var(--color-divider);
+}
+.md-typeset .m-body .essay-card-content h3 {
+  font-family: var(--font-body);
+  font-size: clamp(22px, 2vw, 28px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+.md-typeset .m-body .essay-card-content h3 a {
+  color: var(--color-text);
+}
+.md-typeset .m-body .essay-card-content h3 a:hover {
+  color: var(--color-accent);
+}
+.md-typeset .m-body .essay-card-content > p:first-of-type {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+}
+.md-typeset .m-body .essay > h2:first-child {
+  margin-top: 0;
+  border-top: 0;
+  padding-top: 0;
+}
+.md-typeset .m-body .essays-intro {
+  text-align: left;
+  color: var(--color-neutral-800);
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}

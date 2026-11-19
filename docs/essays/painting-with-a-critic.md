@@ -1,15 +1,12 @@
 ---
+template: headed.html
+name: "Painting with a Critic"
+kicker: "Essay · Jonathan Gill · April 2026"
 description: >-
   How I use an AI as a sitting curator for my paintings, what it does, what it does not, and why structured critique has sharpened the naive voice rather than eroded it.
 ---
 
-# Painting with a Critic
-
 <div class="essay" markdown>
-<div class="essay-meta" markdown>
-## Painting with a Critic
-### Jonathan Gill, April 2026
-</div>
 
 I work mostly in acrylics and Acryla gouache, in a loose naive style. The paintings are my own. The process of getting them there now involves an AI. This essay describes how, and what has actually changed.
 

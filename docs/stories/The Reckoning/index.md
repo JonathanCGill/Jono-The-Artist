@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "The Reckoning"
+kicker: "Story"
 description: >-
   Three watercolours about the bill that arrives after the free lunch, painted in mirror writing so you have to work to read what is owed.
 ---
-
-# The Reckoning
 
 <div class="story" markdown>
 

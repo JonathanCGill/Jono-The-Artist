@@ -1,15 +1,12 @@
 ---
+template: headed.html
+name: "The Architecture of Trust"
+kicker: "Essay · Jonathan Gill · March 2026"
 description: >-
   Why trust is a design problem and not a communications problem, how a single software glitch can undo decades of institutional credibility, and what it takes to build systems that deserve confidence.
 ---
 
-# The Architecture of Trust
-
 <div class="essay" markdown>
-<div class="essay-meta" markdown>
-## The Architecture of Trust
-### Jonathan Gill, March 2026
-</div>
 
 Trust is not a policy. It is not a compliance checkbox or a brand campaign. It is, as Rachel Botsman puts it, "a confident relationship with the unknown." That definition has stayed with me since I first encountered her work. It captures something that most institutional thinking about trust misses entirely: trust is not about certainty. It is about what we are willing to accept in the absence of certainty.
 

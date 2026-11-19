@@ -1,15 +1,12 @@
 ---
+template: headed.html
+name: "The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action"
+kicker: "Essay · Jonathan Gill · March 2026"
 description: >-
   Air as the most fundamental commons, how rational actors collectively destroy shared resources, and why the climate movement's dogmatism has undermined its own cause.
 ---
 
-# The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action
-
 <div class="essay" markdown>
-<div class="essay-meta" markdown>
-## The Tragedy of the Commons: Air, Climate, and the Failure of Collective Action
-### Jonathan Gill, March 2026
-</div>
 
 ## The Invisible Commons
 
