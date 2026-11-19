@@ -11,9 +11,10 @@
 
 {% block container %}
 {%- set m = page.meta -%}
+{%- set w = m.name.split() | map('length') | max -%}
 <div class="jono m">
   <section class="m-head">
-    <div class="m-head__title">
+    <div class="m-head__title{% if w > 8 %} m-head__title--long{% endif %}" style="--chars: {{ w }}">
       <span class="m-kicker">Series · {{ m.works | length }} works</span>
       <h1 class="m-display">{{ m.name }}</h1>
     </div>

@@ -49,6 +49,7 @@ There is no application code. The repository is content (Markdown, images), them
 │   ├── main.html           # Critical header CSS, preconnects, icons, OG tags, Google Analytics
 │   ├── home.html           # Full-bleed template: index, collection, catalogue, The Last Holiday story
 │   ├── series.html         # Series template: ruled works grid + viewer, driven by front matter
+│   ├── hilltown.html       # Hill Town template: Modernist head, sub-nav, Markdown body in .m-page
 │   └── partials/
 │       ├── header.html     # "Jono" + series, Stories, About nav
 │       └── logo.html       # Logo with real dimensions and meaningful alt text
@@ -90,6 +91,20 @@ story" only when it is set). The works count on the page is computed, but the
 counts on the home-page series doors are typed by hand and must be updated
 when a series changes. Aeromechanica is deliberately left off the home-page
 doors and reached from the header only.
+
+## Hill Town Pages
+
+`docs/Hilltown/*.md` carry `template: hilltown.html` and front matter `name`
+(the giant title and the page's one `<h1>`), `kicker` and `standfirst`. The
+body is Markdown with no H1, styled by `.m-page` in `site.css`: H2 sections
+with a rule above, H3 as a kicker, ruled tables, figures with captions, and
+`<div class="m-figs" markdown>` for figures side by side. The sub-nav and the
+"Next in Hill Town" link are listed in the template; a new Hill Town page
+goes there and in `nav:`.
+
+Display titles are sized so their longest word fits its column: the series and
+Hill Town templates set `--chars` to that word's length, and a word over eight
+characters puts the title on its own row.
 
 ## The Catalogue
 
