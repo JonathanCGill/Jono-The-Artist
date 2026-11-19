@@ -16,7 +16,7 @@ Hilltown was founded in 1348, when the farmers of a fertile plain walled themsel
 </figure>
 
 <figure markdown>
-![Hill Town 2026, a painting of the same walled hill town today, with modern wind turbines in the fields below](../acrylic/Hill%20Town%202026.jpg){ width="2284" height="3285" }
+![Hill Town 2026, a painting of the same walled hill town today, with modern wind turbines in the fields below](../acrylic/Hill%20Town%202026.jpg){ width="2251" height="3213" }
 <figcaption>Hill Town 2026. The town today, with modern wind turbines in the Turbine Fields.<br>A1 · Acrylic &amp; Acryla Gouache · Canvas · 2026</figcaption>
 </figure>
 
