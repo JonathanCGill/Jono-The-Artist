@@ -206,6 +206,16 @@ body {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  container-type: inline-size;
+}
+/* A one-word title cannot wrap, so it must fit its column: a long one takes
+   the full row (blurb drops below), and every title is capped to the column
+   width by its character count (--chars, set by the template). */
+.m-head__title--long {
+  grid-column: 1 / -1;
+}
+.m-head__title .m-display {
+  font-size: min(clamp(48px, 9vw, 136px), calc(100cqi / (var(--chars, 6) * 0.78)));
 }
 
 /* One-line caption under a painting */

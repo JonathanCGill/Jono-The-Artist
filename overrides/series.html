@@ -13,7 +13,7 @@
 {%- set m = page.meta -%}
 <div class="jono m">
   <section class="m-head">
-    <div class="m-head__title">
+    <div class="m-head__title{% if m.name | length > 8 %} m-head__title--long{% endif %}" style="--chars: {{ m.name | length }}">
       <span class="m-kicker">Series · {{ m.works | length }} works</span>
       <h1 class="m-display">{{ m.name }}</h1>
     </div>
