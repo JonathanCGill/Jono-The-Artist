@@ -1,10 +1,10 @@
 ---
+template: hilltown.html
+name: "Aeromechanica International"
+kicker: "Hill Town · The airport"
+standfirst: "From a mown strip for the Royal Flying Corps in 1917 to an international airport, by way of one diverted flight from Amsterdam."
 description: "Aeromechanica International, the airport at Hilltown: from a 1917 aerodrome to an international airport, and its fictional approach and aerodrome charts."
 ---
-
-<div class="hilltown" markdown>
-
-# Aeromechanica International
 
 ## 1917: the aerodrome
 
@@ -39,7 +39,7 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 !!! warning
     Fictional charts. Not for navigation.
 
-<div class="hilltown__pair" markdown>
+<div class="m-figs" markdown>
 
 <figure markdown>
 [![Approach and departure chart 10-1 for runway 08/26 at Aeromechanica International](charts/approach-chart-10-1.jpg){ loading=lazy width="1697" height="2400" }](charts/aeromechanica-charts-a4.pdf)
@@ -60,5 +60,3 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 The Chocolatus was built here, in the Aeromechanica Aircraft factory beside the runway. It is in the [Aeromechanica series](../series/aeromechanica.md): [Avis Aeromechanica Chocolatus](../series/aeromechanica.md), the [Chocolatus Airframe Cutaway](../series/aeromechanica.md) and [Chocolatus Cockpit](../series/aeromechanica.md), and [Aeromechanica Chocolatus Evolution](../series/aeromechanica.md), four panels dated 1972, 1976, 1985 and 2026.
 
 The flagship, [Aeromechanica Musculus](../series/aeromechanica.md), was built here too. The painting shows the cocoa-powered double-decker away from home, climbing out of Ringway, Manchester, at night.
-
-</div>

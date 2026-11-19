@@ -1,10 +1,10 @@
 ---
+template: hilltown.html
+name: "History"
+kicker: "Hill Town · History"
+standfirst: "A short and mostly accurate history of Hilltown, from the plague wall of 1348 to the next flood in 2052."
 description: "A short and mostly accurate history of Hilltown, from the Black Death wall of 1348 to the floods, the Dutch, railway time and Aeromechanica International."
 ---
-
-<div class="hilltown" markdown>
-
-# A Short and Mostly Accurate History of Hilltown
 
 ## 1348: up the hill, and a very big hole
 
@@ -139,5 +139,3 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 - **Real:** the Black Death reaching England in 1348; St Jude as patron saint of hopeless causes, feast day 28 October; Dutch drainage engineers in the Fens from the 1630s; the tulip crash of February 1637; the English year starting on 25 March until 1752; the eleven days dropped in September 1752; railways running on London time; Greenwich time becoming law in 1880; Shropshire being about 11 minutes behind Greenwich by the sun; Royal Flying Corps aerodromes in Shropshire in the First World War, such as Tern Hill (1916) and Shawbury (1917); the Royal Flying Corps becoming the Royal Air Force on 1 April 1918.
 - **Invented:** Hilltown, Moletown, the flood cycle, Van der Molen, the stranded bishop, the missing silver, the diverted flight, the aerodrome, Aeromechanica and Aeromechanik GmbH.
 - **Worth knowing:** leaving goods at a boundary with coins in vinegar is documented from Eyam in Derbyshire in 1665–66, so Hilltown is about 300 years early. Flood dates before 1752 are counted on today's calendar.
-
-</div>

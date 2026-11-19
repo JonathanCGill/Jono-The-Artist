@@ -1,0 +1,60 @@
+{#-
+  Hill Town template: the Modernist head (kicker, giant title, standfirst),
+  a ruled sub-nav of the Hill Town pages, the Markdown body in .m-page,
+  and the next page as a ruled "more" link. Driven by front matter:
+  name (the title, the page's one <h1>), kicker and standfirst.
+-#}
+{% extends "main.html" %}
+
+{% block site_nav %}{% endblock %}
+
+{% block container %}
+{%- set m = page.meta -%}
+{%- set w = m.name.split() | map('length') | max -%}
+{%- set pages = [
+  ('Hilltown/', '/Hilltown/', 'Hill Town'),
+  ('Hilltown/history/', '/Hilltown/history/', 'History'),
+  ('Hilltown/map/', '/Hilltown/map/', 'The Ordnance Map'),
+  ('Hilltown/explore/', '/Hilltown/explore/', 'Explore the map'),
+  ('Hilltown/aeromechanica-international/', '/Hilltown/aeromechanica-international/', 'Aeromechanica International'),
+] -%}
+{%- set ns = namespace(i=0) -%}
+{%- for u, href, label in pages %}{% if page.url == u %}{% set ns.i = loop.index0 %}{% endif %}{% endfor -%}
+{%- set nxt = pages[(ns.i + 1) % (pages | length)] -%}
+<div class="jono m">
+  <article>
+    <section class="m-head m-head--story">
+      <div class="m-head__title{% if w > 8 %} m-head__title--long{% endif %}" style="--chars: {{ w }}">
+        <span class="m-kicker">{{ m.kicker }}</span>
+        <h1 class="m-display">{{ m.name }}</h1>
+      </div>
+      <p class="m-lead">{{ m.standfirst }}</p>
+    </section>
+
+    <nav class="m-subnav" aria-label="Hill Town">
+      <div class="m-subnav__inner">
+        {%- for u, href, label in pages %}
+        <a href="{{ href }}"{% if loop.index0 == ns.i %} aria-current="page"{% endif %}>{{ label }}</a>
+        {%- endfor %}
+      </div>
+    </nav>
+
+    <div class="m-page">
+      {{ page.content }}
+    </div>
+  </article>
+
+  <nav class="m-wrap" aria-label="More">
+    <div class="m-cells">
+      <a class="m-more__cell" href="{{ nxt[1] }}">
+        <span class="m-more__label">{% if ns.i == (pages | length) - 1 %}Back to the start{% else %}Next in Hill Town{% endif %}</span>
+        <span class="m-more__name">{{ nxt[2] }} →</span>
+      </a>
+      <a class="m-more__cell" href="/series/aeromechanica/">
+        <span class="m-more__label">The aircraft built here</span>
+        <span class="m-more__name">Aeromechanica →</span>
+      </a>
+    </div>
+  </nav>
+</div>
+{% endblock %}

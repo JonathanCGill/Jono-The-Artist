@@ -208,14 +208,16 @@ body {
   gap: 12px;
   container-type: inline-size;
 }
-/* A one-word title cannot wrap, so it must fit its column: a long one takes
-   the full row (blurb drops below), and every title is capped to the column
-   width by its character count (--chars, set by the template). */
+/* A word cannot wrap, so the title's longest word must fit its column: a
+   title with a long word takes the full row (blurb drops below), and every
+   title is capped to the column width by that word's length (--chars, set
+   by the template). --fs is the uncapped size. */
 .m-head__title--long {
   grid-column: 1 / -1;
 }
 .m-head__title .m-display {
-  font-size: min(clamp(48px, 9vw, 136px), calc(100cqi / (var(--chars, 6) * 0.78)));
+  --fs: clamp(48px, 9vw, 136px);
+  font-size: min(var(--fs), calc(100cqi / (var(--chars, 6) * 0.78)));
 }
 
 /* One-line caption under a painting */
@@ -692,7 +694,7 @@ html.m-locked body {
   gap: 20px 48px;
 }
 .m-head--story .m-display {
-  font-size: clamp(44px, 8vw, 120px);
+  --fs: clamp(44px, 8vw, 120px);
 }
 .m-head--story .m-lead {
   max-width: 42ch;
@@ -818,4 +820,198 @@ html.m-locked body {
   font-size: clamp(24px, 2.4vw, 34px);
   line-height: 1.15;
   letter-spacing: -0.025em;
+}
+
+/* ══ Hill Town ═════════════════════════════════════════════════
+   overrides/hilltown.html: head, sub-nav, then Markdown in .m-page. */
+.m-subnav {
+  border-top: 2px solid var(--color-divider);
+  border-bottom: 2px solid var(--color-divider);
+}
+.m-subnav__inner {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 var(--m-gutter);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 clamp(16px, 2.4vw, 32px);
+  font-size: 14px;
+  font-weight: 600;
+}
+.m-subnav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 48px;
+}
+.m-subnav a[aria-current] {
+  color: var(--color-accent);
+}
+
+.m-page {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: clamp(40px, 6vw, 96px) var(--m-gutter);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  font-size: clamp(17px, 1.25vw, 19px);
+  line-height: 1.65;
+}
+.m-page > p,
+.m-page > ul,
+.m-page > ol {
+  max-width: 62ch;
+  text-wrap: pretty;
+}
+.m-page ul,
+.m-page ol {
+  margin: 0;
+  padding-left: 1.2em;
+  list-style: square;
+}
+.m-page li + li {
+  margin-top: 10px;
+}
+.m-page h2 {
+  align-self: stretch;
+  margin: clamp(28px, 4vw, 56px) 0 4px;
+  padding-top: 20px;
+  border-top: 2px solid var(--color-divider);
+  font-size: clamp(28px, 3vw, 42px);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+}
+.m-page > h2:first-child {
+  margin-top: 0;
+}
+.m-page h3 {
+  margin: 16px 0 0;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+}
+.m-page p a,
+.m-page li a,
+.m-page td a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.m-page strong {
+  font-weight: 800;
+}
+
+/* Figures sit on a surface mat with the shadow hugging the image. */
+.m-page figure {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.m-page figure > a,
+.m-page figure > p {
+  display: block;
+  margin: 0;
+}
+.m-page figure img,
+.m-page > p > a > img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 84vh;
+  box-shadow: var(--shadow-md);
+}
+.m-page figcaption {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--color-neutral-700);
+}
+.m-page > p:has(> a > img) {
+  max-width: none;
+  align-self: stretch;
+}
+
+/* Two or three figures side by side */
+.m-figs {
+  align-self: stretch;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr));
+  gap: 32px clamp(24px, 3vw, 48px);
+  align-items: start;
+  margin: 12px 0;
+}
+
+/* The pages of the Hill Town section, as ruled cells */
+.m-page .m-cells {
+  align-self: stretch;
+  border: 2px solid var(--color-divider);
+  margin-top: 12px;
+}
+.m-page .m-more__cell {
+  text-decoration: none;
+}
+.m-more__line {
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--color-neutral-800);
+  text-wrap: pretty;
+}
+
+/* Tables: ruled, flush left */
+.m-page table {
+  align-self: stretch;
+  max-width: 980px;
+  border-collapse: collapse;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.m-page th {
+  text-align: left;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+  padding: 0 24px 10px 0;
+  border-bottom: 2px solid var(--color-divider);
+}
+.m-page td {
+  vertical-align: top;
+  padding: 12px 24px 12px 0;
+  border-bottom: 1px solid var(--color-divider);
+}
+.m-page td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+/* Admonition (the "not for navigation" warning) */
+.m-page .admonition {
+  border: 2px solid var(--color-divider);
+  padding: 16px 20px;
+  max-width: 62ch;
+}
+.m-page .admonition p {
+  margin: 0;
+}
+.m-page .admonition-title {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent-700);
+  margin-bottom: 4px;
+}
+
+.m-page iframe {
+  align-self: stretch;
+  display: block;
+  width: 100%;
+  height: 80vh;
+  border: 2px solid var(--color-divider);
 }
