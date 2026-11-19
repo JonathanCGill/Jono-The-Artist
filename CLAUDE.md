@@ -50,7 +50,7 @@ There is no application code. The repository is content (Markdown, images), them
 │   ├── home.html           # Full-bleed template: index, collection, catalogue, The Last Holiday story
 │   ├── series.html         # Series template: ruled works grid + viewer, driven by front matter
 │   ├── hilltown.html       # Hill Town template: Modernist head, sub-nav, Markdown body in .m-page
-│   ├── headed.html         # Modernist head above a Markdown page: stories, stories index, About
+│   ├── headed.html         # Modernist head above a Markdown page: stories, essays, their indexes, About
 │   └── partials/
 │       ├── header.html     # "Jono" + series, Stories, About nav
 │       └── logo.html       # Logo with real dimensions and meaningful alt text
@@ -178,14 +178,15 @@ These use the default Material template and the older `custom.css` classes
 `.essay`, `.about-hero`). The `markdown` attribute on each `<div>` is required for
 the inner Markdown to render (this is what `md_in_html` enables).
 
-### Headed pages (stories, `stories/index.md`, `about.md`)
+### Headed pages (stories, essays, `stories/index.md`, `essays.md`, `about.md`)
 
 These carry `template: headed.html`, which puts the Modernist head (kicker,
 giant title, standfirst) above the ordinary Markdown body and aligns the two
 on a 1280px column. Front matter: `name` (the title and the page's one
 `<h1>`), `kicker` (`Story` on story pages) and optional `standfirst`
 (defaults to `description`). The Markdown has no H1. Inside `.m-body`,
-`site.css` gives story H2s and `.image-label`s the Modernist type.
+`site.css` gives story and essay H2s, `.image-label`s and the essay cards the
+Modernist type.
 
 ### Stories (`docs/stories/<Painting Name>/index.md`)
 
@@ -206,16 +207,16 @@ them.
 
 Essays follow a strict structure (this matches the writing style guidance below):
 
-1. H1 essay title (rendered by MkDocs as the page heading; the `.md-typeset h1` rule hides duplicate H1s in body content)
-2. `<div class="essay" markdown>` wrapper
-3. `<div class="essay-meta" markdown>` containing H2 essay title then H3 author and date, with no extra whitespace
+1. Front matter: `template: headed.html`, `name` (the essay title), `kicker: "Essay · Jonathan Gill · <Month Year>"` and `description` (shown as the standfirst). A title over 40 characters is set smaller on its own row.
+2. No H1 and no meta block in the Markdown: the head carries title, author and date
+3. `<div class="essay" markdown>` wrapper
 4. Body using H2 section headings and prose paragraphs
 5. Closing italic disclaimer: `*This is a personal essay. The views are my own.*`
 6. Closing `</div>` for the essay wrapper
 
-No horizontal rules, no border in the meta block, minimal whitespace between
-structural elements. Keep the section count low: a section that restates an earlier
-one should be merged into it, not kept for symmetry.
+No horizontal rules, minimal whitespace between structural elements. Keep the
+section count low: a section that restates an earlier one should be merged into
+it, not kept for symmetry.
 
 Add new essays to the `essay-list` on `essays.md` as an `essay-card` with title,
 author and date, and a one-line summary, and add them to the `nav:` block.

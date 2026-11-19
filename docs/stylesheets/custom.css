@@ -348,26 +348,6 @@
   text-align: left;
 }
 
-.essay-meta {
-  text-align: center;
-  margin-bottom: 1.5rem;
-}
-
-.essay-meta h2 {
-  font-size: 1.6rem;
-  margin-bottom: 0.2rem;
-  line-height: 1.3;
-}
-
-.essay-meta h3 {
-  font-size: 1rem;
-  margin-top: 0;
-  margin-bottom: 0;
-  font-weight: normal;
-  color: var(--sienna);
-  letter-spacing: 0.04em;
-}
-
 .essay h2 {
   font-size: 1.4rem;
   margin-top: 2.5rem;
