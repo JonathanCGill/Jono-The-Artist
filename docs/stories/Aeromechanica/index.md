@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "Aeromechanica"
+kicker: "Story"
 description: >-
   An invented aviation company assembled out of its own paperwork: wartime specimen plates, blueprints, a cocoa-powered airliner, and the family album that gives the whole history away.
 ---
-
-# Aeromechanica
 
 <div class="story" markdown>
 

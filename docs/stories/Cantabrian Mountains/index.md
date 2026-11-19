@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "Cantabrian Mountains"
+kicker: "Story"
 description: >-
   A portmanteau of farm scenes from northern Spain: stone farmsteads, floral abundance, a gigantes figure, and sunflowers that were never there.
 ---
-
-# Cantabrian Mountains
 
 <div class="story" markdown>
 

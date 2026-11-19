@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "The Know Where Series"
+kicker: "Story"
 description: >-
   Three paintings and seven drawings following a pilgrim from a town square to a formal garden outside Bedlam, a boat on the Yamuna, back onto the road and into a town centre full of sheep.
 ---
-
-# The Know Where Series
 
 <div class="story" markdown>
 

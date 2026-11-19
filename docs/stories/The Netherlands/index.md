@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "The Netherlands"
+kicker: "Story"
 description: >-
   Seven pictures from the Netherlands and not one of them the country you would recognise from a brochure.
 ---
-
-# The Netherlands
 
 <div class="story" markdown>
 

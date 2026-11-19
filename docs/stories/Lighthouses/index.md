@@ -1,9 +1,10 @@
 ---
+template: headed.html
+name: "Lighthouses"
+kicker: "Story"
 description: >-
   The same building drawn six times: a record, a trap, a crop, a home, a mark to steer by, and somewhere to stand and wave from.
 ---
-
-# Lighthouses
 
 <div class="story" markdown>
 

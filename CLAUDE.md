@@ -50,6 +50,7 @@ There is no application code. The repository is content (Markdown, images), them
 │   ├── home.html           # Full-bleed template: index, collection, catalogue, The Last Holiday story
 │   ├── series.html         # Series template: ruled works grid + viewer, driven by front matter
 │   ├── hilltown.html       # Hill Town template: Modernist head, sub-nav, Markdown body in .m-page
+│   ├── headed.html         # Modernist head above a Markdown page: stories, stories index, About
 │   └── partials/
 │       ├── header.html     # "Jono" + series, Stories, About nav
 │       └── logo.html       # Logo with real dimensions and meaningful alt text
@@ -177,12 +178,21 @@ These use the default Material template and the older `custom.css` classes
 `.essay`, `.about-hero`). The `markdown` attribute on each `<div>` is required for
 the inner Markdown to render (this is what `md_in_html` enables).
 
+### Headed pages (stories, `stories/index.md`, `about.md`)
+
+These carry `template: headed.html`, which puts the Modernist head (kicker,
+giant title, standfirst) above the ordinary Markdown body and aligns the two
+on a 1280px column. Front matter: `name` (the title and the page's one
+`<h1>`), `kicker` (`Story` on story pages) and optional `standfirst`
+(defaults to `description`). The Markdown has no H1. Inside `.m-body`,
+`site.css` gives story H2s and `.image-label`s the Modernist type.
+
 ### Stories (`docs/stories/<Painting Name>/index.md`)
 
 Story pages live in their own folder so the source photographs sit next to the page
 that uses them. Layout:
 
-- H1 title (hidden by CSS but used as the MkDocs page heading)
+- `template: headed.html` with `name` and `kicker: "Story"` (no H1 in the Markdown)
 - `<div class="story" markdown>` wrapper
 - A leading `<div class="story-image">` showing the finished painting (with an `.image-label`)
 - `<div class="story-images story-images--three">` grid of source photographs, each in a `<div class="story-image">` with an `.image-label`
