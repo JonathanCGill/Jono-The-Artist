@@ -3,10 +3,10 @@ template: hilltown.html
 name: "Explore the map"
 kicker: "Hill Town · Interactive"
 standfirst: "Search the map, tap places, switch layers and measure the walk."
-description: "Explore Hilltown on an interactive map: search, tap places, switch layers and measure distances."
+description: "Explore Hill Town on an interactive map: search, tap places, switch layers and measure distances."
 ---
 
-<iframe src="hilltown-maps.html" title="Interactive map of Hilltown" loading="lazy"></iframe>
+<iframe src="hilltown-maps.html" title="Interactive map of Hill Town" loading="lazy"></iframe>
 
 [Open the map full screen in a new tab](explore/hilltown-maps.html){ target="_blank" rel="noopener" }
 

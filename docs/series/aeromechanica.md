@@ -3,7 +3,7 @@ template: series.html
 title: "Aeromechanica"
 description: "Aeromechanica: creatures fitted with the airframes of real aircraft, painted and drawn by Jonathan Gill."
 name: "Aeromechanica"
-blurb: "Creatures fitted with the airframes of real aircraft. A small war fought by birds, beetles and hornets, the Allied ones built at Hilltown and the Axis ones by Aeromechanik GmbH, and a cocoa-powered airliner built at Hilltown after the war. Half engineering, half nonsense, all impractical."
+blurb: "Creatures fitted with the airframes of real aircraft. A small war fought by birds, beetles and hornets, the Allied ones built at Hill Town and the Axis ones by Aeromechanik GmbH, and a cocoa-powered airliner built at Hill Town after the war. Half engineering, half nonsense, all impractical."
 see_also: { name: "Hill Town, home of Aeromechanica International", url: "/Hilltown/" }
 next: { name: "Rurban", url: "/series/rurban/" }
 works:
@@ -14,7 +14,7 @@ works:
     h: 2166
     alt: "Avis Aeromechanica Chocolatus, an acrylic painting of a bird fitted with an aircraft airframe"
     meta: "1000 × 750 mm · Acryla Gouache · Canvas · 2026"
-    note: "The cocoa-powered commercial airliner, built in the Aeromechanica Aircraft factory at Hilltown. Sister to the Musculus."
+    note: "The cocoa-powered commercial airliner, built in the Aeromechanica Aircraft factory at Hill Town. Sister to the Musculus."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Musculus"
     slug: "aeromechanica-musculus"
@@ -23,7 +23,7 @@ works:
     h: 2597
     alt: "Aeromechanica Musculus, a cocoa-powered double-decker biomechanical airliner climbing away from Ringway, Manchester, at night, past the control tower and lit tower blocks, with the dark Pennine hills behind"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "The flagship. A cocoa-powered double-decker built at Hilltown for five hundred, designed with whales in mind."
+    note: "The flagship. A cocoa-powered double-decker built at Hill Town for five hundred, designed with whales in mind."
     story: "/stories/Aeromechanica/"
   - title: "Libellula Aviatica"
     slug: "libellula-aviatica"
@@ -32,7 +32,7 @@ works:
     h: 1963
     alt: "Libellula Aviatica, a dragonfly given the airframe of a biplane"
     meta: "Acryla Gouache · Canvas · 2026"
-    note: "Allied. A dragonfly given the airframe of a biplane, built at Hilltown."
+    note: "Allied. A dragonfly given the airframe of a biplane, built at Hill Town."
     story: "/stories/Aeromechanica/"
   - title: "Chocolatus Airframe Cutaway"
     slug: "chocolatus-airframe-cutaway"
@@ -92,7 +92,7 @@ works:
     h: 1779
     alt: "Lucanus Aeromechanica Avronis, a stag beetle on an Avro airframe"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "Allied. A stag beetle on the airframe of an Avro, built at Hilltown."
+    note: "Allied. A stag beetle on the airframe of an Avro, built at Hill Town."
     story: "/stories/Aeromechanica/"
   - title: "Culex Aeromechanica De Havillandii"
     slug: "culex-aeromechanica-de-havillandii"
@@ -101,7 +101,7 @@ works:
     h: 1984
     alt: "Culex Aeromechanica De Havillandii, a mosquito as a De Havilland Mosquito"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "Allied. A mosquito turned De Havilland Mosquito, built at Hilltown."
+    note: "Allied. A mosquito turned De Havilland Mosquito, built at Hill Town."
     story: "/stories/Aeromechanica/"
   - title: "Promachus Aeromechanicus Crucifer"
     slug: "promachus-aeromechanicus-crucifer"
@@ -136,7 +136,7 @@ works:
     h: 1832
     alt: "Avis Aeromechanica Paciferus, a swept-wing jet bird"
     meta: "A4 · Watercolour · Vellum · 2026"
-    note: "Jet age. A swept-wing jet bird, and the end of the war business at Hilltown."
+    note: "Jet age. A swept-wing jet bird, and the end of the war business at Hill Town."
     story: "/stories/Aeromechanica/"
   - title: "Aeromechanica Chocolatus Evolution"
     slug: "aeromechanica-chocolatus-evolution"

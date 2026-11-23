@@ -68,7 +68,7 @@ description: >-
       <tbody>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-01</td>
-      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner, built at Hilltown. Sister to the Musculus.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Avis Aeromechanica Chocolatus<small>The cocoa-powered commercial airliner, built at Hill Town. Sister to the Musculus.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size">1000 × 750 mm</td>
@@ -76,7 +76,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-02</td>
-      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats. Built at Hilltown.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Aeromechanica Musculus<small>The flagship. Whale-sized, double-decker, five hundred seats. Built at Hill Town.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -84,7 +84,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-03</td>
-      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>Allied. A dragonfly given the airframe of a biplane. RAF roundels. Built at Hilltown.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Libellula Aviatica<small>Allied. A dragonfly given the airframe of a biplane. RAF roundels. Built at Hill Town.</small></span></td>
       <td class="cat-spec" data-label="Medium">Acryla Gouache</td>
       <td class="cat-spec" data-label="Support">Canvas</td>
       <td class="cat-spec" data-label="Size"><span class="cat-blank">—</span></td>
@@ -132,7 +132,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-09</td>
-      <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe. Built at Hilltown.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Lucanus Aeromechanica Avronis<small>Allied. A stag beetle on an Avro airframe. Built at Hill Town.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -140,7 +140,7 @@ description: >-
     </tr>
     <tr>
       <td class="cat-ref" data-label="Ref">AM-10</td>
-      <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito. Built at Hilltown.</small></span></td>
+      <td data-label="Title"><span class="cat-title">Culex Aeromechanica De Havillandii<small>Allied. A mosquito turned De Havilland Mosquito. Built at Hill Town.</small></span></td>
       <td class="cat-spec" data-label="Medium">Watercolour</td>
       <td class="cat-spec" data-label="Support">Vellum</td>
       <td class="cat-spec" data-label="Size">A4</td>
@@ -191,7 +191,7 @@ description: >-
   </div>
   <div class="jono-catalog__group">
     <p class="jono-sublabel">Hill Town: acrylics on canvas</p>
-    <p class="jono-catalog__grouplead">Hilltown, a walled hill town on the Shropshire plain, home of Aeromechanica International. Two views of the same hill, 130 years apart.</p>
+    <p class="jono-catalog__grouplead">Hill Town, a walled hill town on the Shropshire plain, home of Aeromechanica International. Two views of the same hill, 130 years apart.</p>
     <table class="jono-cat-table">
       <thead><tr><th>Ref</th><th>Title</th><th>Medium</th><th>Support</th><th>Size</th><th>Year</th></tr></thead>
       <tbody>

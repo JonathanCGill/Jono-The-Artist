@@ -2,8 +2,8 @@
 template: hilltown.html
 name: "History"
 kicker: "Hill Town · History"
-standfirst: "A short and mostly accurate history of Hilltown, from the plague wall of 1348 to the next flood in 2052."
-description: "A short and mostly accurate history of Hilltown, from the Black Death wall of 1348 to the floods, the Dutch, railway time and Aeromechanica International."
+standfirst: "A short and mostly accurate history of Hill Town, from the plague wall of 1348 to the next flood in 2052."
+description: "A short and mostly accurate history of Hill Town, from the Black Death wall of 1348 to the floods, the Dutch, railway time and Aeromechanica International."
 ---
 
 ## 1348: up the hill, and a very big hole
@@ -20,23 +20,23 @@ The quarrymen were last in the queue for a house on the hill. So they stayed in 
 
 ## 1450: St Jude's, and a small spelling issue
 
-By 1450 the town had finished a cathedral on the west terrace and named it after St Jude, who looked after them when they had all felt homeless. Strictly speaking, St Jude is the patron saint of hopeless causes. Hilltown has always considered this close enough.
+By 1450 the town had finished a cathedral on the west terrace and named it after St Jude, who looked after them when they had all felt homeless. Strictly speaking, St Jude is the patron saint of hopeless causes. Hill Town has always considered this close enough.
 
-The stone came from the quarry, naturally, so Moletown got deeper. This became a pattern. Every time Hilltown built something important, Moletown got bigger. The Moles have never complained, because it is their stone.
+The stone came from the quarry, naturally, so Moletown got deeper. This became a pattern. Every time Hill Town built something important, Moletown got bigger. The Moles have never complained, because it is their stone.
 
 It was not technically a cathedral at first, more a large church with ambitions. That changed after the flood of 20 October 1460, when a visiting bishop was stranded on the hill for three weeks. He was still there on St Jude's Day, 28 October, said mass, was well fed, and agreed on the spot that it was clearly a cathedral.
 
 St Jude's still draws pilgrims along the Pilgrims' Way. They come with hopeless causes: students the week before exams, people with planning applications, and supporters of the local football team.
 
-It is also said that Jesus and his disciples walk the Pilgrims' Way, finding their way to Emmaus. In Luke's gospel it is two disciples on a seven-mile walk out of Jerusalem, so the Hilltown version has rather more people and a much longer route. Nobody has seen it happen yet. The Clock Inn keeps a table by the window, just in case.
+It is also said that Jesus and his disciples walk the Pilgrims' Way, finding their way to Emmaus. In Luke's gospel it is two disciples on a seven-mile walk out of Jerusalem, so the Hill Town version has rather more people and a much longer route. Nobody has seen it happen yet. The Clock Inn keeps a table by the window, just in case.
 
-## The sundial: Hilltown Mean Time
+## The sundial: Hill Town Mean Time
 
-Hilltown is famous for telling the time with the whole hill. The castle at the top casts the shadow, and the twelve old watch posts on the wall became hour stones. When the plague went, nobody saw the point in wasting good stones.
+Hill Town is famous for telling the time with the whole hill. The castle at the top casts the shadow, and the twelve old watch posts on the wall became hour stones. When the plague went, nobody saw the point in wasting good stones.
 
-It is accurate to a reasonable degree of inaccuracy. In summer you will be within the hour. In winter the sun sits low, the shadow runs off the hill and into the next parish, and the farmers there have had to learn Hilltown time as well. On cloudy days, which in Shropshire is most of them, the town runs on opinion.
+It is accurate to a reasonable degree of inaccuracy. In summer you will be within the hour. In winter the sun sits low, the shadow runs off the hill and into the next parish, and the farmers there have had to learn Hill Town time as well. On cloudy days, which in Shropshire is most of them, the town runs on opinion.
 
-There is also a fixed error nobody can do anything about. Hilltown sits about 2.7 degrees west of Greenwich, so the sun arrives roughly 11 minutes after it does in London. The town regards this as London's problem.
+There is also a fixed error nobody can do anything about. Hill Town sits about 2.7 degrees west of Greenwich, so the sun arrives roughly 11 minutes after it does in London. The town regards this as London's problem.
 
 On grey days the older residents still set lunch by the ducks. They fly across the hill at about the same time every day, give or take, which makes them about as reliable as the sundial.
 
@@ -44,9 +44,9 @@ On grey days the older residents still set lunch by the ducks. They fly across t
 
 The plain floods every 84 years, 7 months and 6 days, regular as a bus timetable and more reliable. The next one is due on 31 December 2052, so New Year's Eve is cancelled in advance.
 
-Nobody knows why the interval is so exact. Theories include the hill, the moon and Moletown, which the Moles find offensive. Hilltown, being on a hill, stays dry. Moletown, being a hole, fills up.
+Nobody knows why the interval is so exact. Theories include the hill, the moon and Moletown, which the Moles find offensive. Hill Town, being on a hill, stays dry. Moletown, being a hole, fills up.
 
-The town's answer is the Lift. When the water comes, all of Moletown moves up the hill and sleeps in Hilltown's spare rooms for a few weeks. Most people see one Lift in their lifetime. The unlucky ones see two and tell you about the first one at length.
+The town's answer is the Lift. When the water comes, all of Moletown moves up the hill and sleeps in Hill Town's spare rooms for a few weeks. Most people see one Lift in their lifetime. The unlucky ones see two and tell you about the first one at length.
 
 Two dates cause arguments. Until 1752 the English year started on 25 March, so the 1630 flood is recorded in the town book as 1 January 1629. Then in September 1752 Britain dropped eleven days from the calendar to catch up with Europe. The flood did not. Whether the 1799 flood arrived on time is still being discussed in the Clock Inn.
 
@@ -70,17 +70,17 @@ He built the dams, dug the reservoirs and put up the original windmills to pump 
 
 Part of his fee was paid in tulip bulbs, which at the time were worth more than houses. Then, in February 1637, the Dutch tulip market collapsed and the bulbs were worth about as much as onions. Van der Molen did the only sensible thing and planted them. The tulip fields have been there ever since.
 
-He married a Hilltown woman, stayed, and is the reason a surprising number of people in town are tall and very direct. His windmills have long gone, but their grandchildren still turn in the Turbine Fields, now moved politely out of the way of the runway.
+He married a Hill Town woman, stayed, and is the reason a surprising number of people in town are tall and very direct. His windmills have long gone, but their grandchildren still turn in the Turbine Fields, now moved politely out of the way of the runway.
 
 ## Railway time, and other local stubbornness
 
-When the railway reached Moletown in Victorian times, it arrived on London time, like every other railway in the country. Hilltown declined. The hill had been telling the time perfectly well for five hundred years, give or take an hour.
+When the railway reached Moletown in Victorian times, it arrived on London time, like every other railway in the country. Hill Town declined. The hill had been telling the time perfectly well for five hundred years, give or take an hour.
 
-For decades the station kept two clocks: one for London and one for Hilltown, about 11 minutes slower plus whatever the sun was doing. Timetables carried a note asking passengers not to argue with the guard. Parliament made Greenwich time the legal standard in 1880. Hilltown read the Act, noted it, and carried on.
+For decades the station kept two clocks: one for London and one for Hill Town, about 11 minutes slower plus whatever the sun was doing. Timetables carried a note asking passengers not to argue with the guard. Parliament made Greenwich time the legal standard in 1880. Hill Town read the Act, noted it, and carried on.
 
-The railway was built for the quarry, so the first passengers rode in empty stone wagons on the way back. Years later the line was carried on to the airport, giving Hilltown a station of its own outside the wall.
+The railway was built for the quarry, so the first passengers rode in empty stone wagons on the way back. Years later the line was carried on to the airport, giving Hill Town a station of its own outside the wall.
 
-There is still no line between Hilltown and Moletown. The town council's view is that the people need to keep fit. So there is the Station Walk instead, 5.8 km with a numbered post every kilometre, so that you know exactly how far you have suffered.
+There is still no line between Hill Town and Moletown. The town council's view is that the people need to keep fit. So there is the Station Walk instead, 5.8 km with a numbered post every kilometre, so that you know exactly how far you have suffered.
 
 ## 1917: the aerodrome
 
@@ -94,7 +94,7 @@ Between the wars the hangars were let to a small firm that built aircraft nobody
 
 In 1939 the Air Ministry came back, laid concrete over the grass and put up proper hangars. Aeromechanica moved into them and spent the war building aircraft for the Allies, each one drawn first on a specimen plate, as if it had been caught rather than made.
 
-The other side's aircraft were built by Aeromechanik GmbH, a stand-alone division of the Aeromechanica Group. Stand-alone is doing a lot of work in that sentence. The two never shared a factory or a board meeting, but they did share a drawing style, a ruled title box and, by an accident nobody has explained, a scale of 1:72. Hilltown has always said it knew nothing about it. Moletown has always said Hilltown would say that.
+The other side's aircraft were built by Aeromechanik GmbH, a stand-alone division of the Aeromechanica Group. Stand-alone is doing a lot of work in that sentence. The two never shared a factory or a board meeting, but they did share a drawing style, a ruled title box and, by an accident nobody has explained, a scale of 1:72. Hill Town has always said it knew nothing about it. Moletown has always said Hill Town would say that.
 
 When the war ended the concrete stayed. The town had an aerodrome it had never asked for, run by a company it did not entirely trust, and it would take another flood before anyone thought of making it an airport.
 
@@ -106,16 +106,16 @@ The terminal was built with a woven roof shaped like a bird's nest. The ducks mo
 
 It was only meant to serve the factory. Then one foggy night a flight from Amsterdam was diverted in, and the town decided that one international arrival made it an international airport. Van der Molen would have approved. Aeromechanica International has been the name ever since.
 
-The airport brought new rules. Aircraft may not fly over Hilltown below 4,000 feet, officially for safety and unofficially because a plane's shadow across the hill makes the sundial show the wrong time. Every go-around turns north, away from the town. The crash probability lines were drawn round the runway, and the wind turbines were moved out of the way.
+The airport brought new rules. Aircraft may not fly over Hill Town below 4,000 feet, officially for safety and unofficially because a plane's shadow across the hill makes the sundial show the wrong time. Every go-around turns north, away from the town. The crash probability lines were drawn round the runway, and the wind turbines were moved out of the way.
 
-The railway was extended to the terminal, and Hilltown finally had a reason to use London time. It still doesn't.
+The railway was extended to the terminal, and Hill Town finally had a reason to use London time. It still doesn't.
 
 ## Timeline
 
 | When | What |
 | --- | --- |
 | 31 Dec 2052 | Next flood due |
-| 2020s | Station Walk opens between Hilltown and Moletown |
+| 2020s | Station Walk opens between Hill Town and Moletown |
 | Late 1970s | Diverted Amsterdam flight; the airport goes international |
 | 1970s | Aeromechanica Aircraft builds the factory, runway and Bird's Nest Terminal |
 | 1968 | Flood; farmland around the aerodrome sold off |
@@ -123,7 +123,7 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 | Between the wars | Aeromechanica rents the hangars |
 | 1918 | The Royal Flying Corps becomes the Royal Air Force |
 | 1917 | Royal Flying Corps aerodrome opens on the plain |
-| 1880 | Greenwich time becomes law. Hilltown carries on regardless |
+| 1880 | Greenwich time becomes law. Hill Town carries on regardless |
 | Victorian era | Railway reaches Moletown for the quarry |
 | 1752 | Britain drops eleven days. The floods do not |
 | 1637 | Tulip prices collapse; the tulip fields are planted |
@@ -132,10 +132,10 @@ The railway was extended to the terminal, and Hilltown finally had a reason to u
 | 1460 | Stranded bishop makes St Jude's a cathedral |
 | 1450 | St Jude's finished |
 | 1376 | First recorded flood |
-| 1348 | Hilltown founded; wall built; Moletown dug |
+| 1348 | Hill Town founded; wall built; Moletown dug |
 
 ### What is real and what is invented
 
 - **Real:** the Black Death reaching England in 1348; St Jude as patron saint of hopeless causes, feast day 28 October; Dutch drainage engineers in the Fens from the 1630s; the tulip crash of February 1637; the English year starting on 25 March until 1752; the eleven days dropped in September 1752; railways running on London time; Greenwich time becoming law in 1880; Shropshire being about 11 minutes behind Greenwich by the sun; Royal Flying Corps aerodromes in Shropshire in the First World War, such as Tern Hill (1916) and Shawbury (1917); the Royal Flying Corps becoming the Royal Air Force on 1 April 1918.
-- **Invented:** Hilltown, Moletown, the flood cycle, Van der Molen, the stranded bishop, the missing silver, the diverted flight, the aerodrome, Aeromechanica and Aeromechanik GmbH.
-- **Worth knowing:** leaving goods at a boundary with coins in vinegar is documented from Eyam in Derbyshire in 1665–66, so Hilltown is about 300 years early. Flood dates before 1752 are counted on today's calendar.
+- **Invented:** Hill Town, Moletown, the flood cycle, Van der Molen, the stranded bishop, the missing silver, the diverted flight, the aerodrome, Aeromechanica and Aeromechanik GmbH.
+- **Worth knowing:** leaving goods at a boundary with coins in vinegar is documented from Eyam in Derbyshire in 1665–66, so Hill Town is about 300 years early. Flood dates before 1752 are counted on today's calendar.

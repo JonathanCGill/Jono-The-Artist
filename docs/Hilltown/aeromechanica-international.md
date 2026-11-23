@@ -3,7 +3,7 @@ template: hilltown.html
 name: "Aeromechanica International"
 kicker: "Hill Town · The airport"
 standfirst: "From a mown strip for the Royal Flying Corps in 1917 to an international airport, by way of one diverted flight from Amsterdam."
-description: "Aeromechanica International, the airport at Hilltown: from a 1917 aerodrome to an international airport, and its fictional approach and aerodrome charts."
+description: "Aeromechanica International, the airport at Hill Town: from a 1917 aerodrome to an international airport, and its fictional approach and aerodrome charts."
 ---
 
 ## 1917: the aerodrome
@@ -18,7 +18,7 @@ Between the wars the hangars were let to a small firm that built aircraft nobody
 
 In 1939 the Air Ministry came back, laid concrete over the grass and put up proper hangars. Aeromechanica moved into them and spent the war building aircraft for the Allies, each one drawn first on a specimen plate, as if it had been caught rather than made.
 
-The other side's aircraft were built by Aeromechanik GmbH, a stand-alone division of the Aeromechanica Group. Stand-alone is doing a lot of work in that sentence. The two never shared a factory or a board meeting, but they did share a drawing style, a ruled title box and, by an accident nobody has explained, a scale of 1:72. Hilltown has always said it knew nothing about it. Moletown has always said Hilltown would say that.
+The other side's aircraft were built by Aeromechanik GmbH, a stand-alone division of the Aeromechanica Group. Stand-alone is doing a lot of work in that sentence. The two never shared a factory or a board meeting, but they did share a drawing style, a ruled title box and, by an accident nobody has explained, a scale of 1:72. Hill Town has always said it knew nothing about it. Moletown has always said Hill Town would say that.
 
 When the war ended the concrete stayed. The town had an aerodrome it had never asked for, run by a company it did not entirely trust, and it would take another flood before anyone thought of making it an airport.
 
@@ -30,9 +30,9 @@ The terminal was built with a woven roof shaped like a bird's nest. The ducks mo
 
 It was only meant to serve the factory. Then one foggy night a flight from Amsterdam was diverted in, and the town decided that one international arrival made it an international airport. Van der Molen would have approved. Aeromechanica International has been the name ever since.
 
-The airport brought new rules. Aircraft may not fly over Hilltown below 4,000 feet, officially for safety and unofficially because a plane's shadow across the hill makes the sundial show the wrong time. Every go-around turns north, away from the town. The crash probability lines were drawn round the runway, and the wind turbines were moved out of the way.
+The airport brought new rules. Aircraft may not fly over Hill Town below 4,000 feet, officially for safety and unofficially because a plane's shadow across the hill makes the sundial show the wrong time. Every go-around turns north, away from the town. The crash probability lines were drawn round the runway, and the wind turbines were moved out of the way.
 
-The railway was extended to the terminal, and Hilltown finally had a reason to use London time. It still doesn't.
+The railway was extended to the terminal, and Hill Town finally had a reason to use London time. It still doesn't.
 
 ## The charts
 

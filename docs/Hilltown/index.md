@@ -2,8 +2,8 @@
 template: hilltown.html
 name: "Hill Town"
 kicker: "Place · Shropshire plain"
-standfirst: "Hilltown was founded in 1348, when the farmers of a fertile plain walled themselves onto a hill full of water to keep out the Black Death. The stone for the wall came from a pit on the plain to the south-west, and the pit became Moletown. I painted the town twice, then drew the map, and the town kept growing from there."
-description: "Hill Town: Hilltown, a fictional walled hill town on the Shropshire plain, painted and mapped by Jonathan Gill. Two paintings, an Ordnance-style map, an interactive map, the history and the airport's pilot charts."
+standfirst: "Hill Town was founded in 1348, when the farmers of a fertile plain walled themselves onto a hill full of water to keep out the Black Death. The stone for the wall came from a pit on the plain to the south-west, and the pit became Moletown. I painted the town twice, then drew the map, and the town kept growing from there."
+description: "Hill Town, a fictional walled hill town on the Shropshire plain, painted and mapped by Jonathan Gill. Two paintings, an Ordnance-style map, an interactive map, the history and the airport's pilot charts."
 ---
 
 <div class="m-figs" markdown>
