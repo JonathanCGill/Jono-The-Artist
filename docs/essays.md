@@ -77,8 +77,8 @@ On how AI outputs mimic careful reasoning while humans default to fast acceptanc
 
 <div class="social-links" markdown>
 
+<a href="mailto:jonathan@jonoart.co.za"><i class="fa-solid fa-envelope"></i> jonathan@jonoart.co.za</a>
 <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
 <a href="https://www.instagram.com/jonathangi11/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
-<a href="mailto:jonathan@jonoart.co.za"><i class="fa-solid fa-envelope"></i> jonathan@jonoart.co.za</a>
 
 </div>

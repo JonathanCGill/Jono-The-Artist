@@ -19,7 +19,7 @@ description: >-
 
   <div class="jono-catalog__about">
     <p class="jono-sublabel">About this catalogue</p>
-    <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3, A2 and A1 are standard sizes (210 × 297 mm, 297 × 420 mm, 420 × 594 mm and 594 × 841 mm). Most pieces are available as originals or prints; to enquire about a specific reference, email <a href="mailto:jonathan@jonoart.co.za">jonathan@jonoart.co.za</a> or get in touch through the links below.</p>
+    <p class="jono-catalog__lead">A working inventory of the paintings and drawings, prepared for galleries. Title, medium, support, size and year for every piece. Acrylic and Holbein Acryla Gouache on canvas, watercolour on paper and vellum. Where a detail has not been recorded it is left blank rather than guessed. Years are taken from each work's file record. Sizes given as A4, A3, A2 and A1 are standard sizes (210 × 297 mm, 297 × 420 mm, 420 × 594 mm and 594 × 841 mm). Most pieces are available as originals or prints; to enquire about a specific reference, email <a href="mailto:jonathan@jonoart.co.za">jonathan@jonoart.co.za</a>.</p>
 
     <div class="jono-catalog__meta">
       <span class="jono-catalog__count">82 works catalogued</span>
@@ -766,9 +766,9 @@ description: >-
   </div>
 
   <div class="social-links" style="margin-top:72px">
+    <a href="mailto:jonathan@jonoart.co.za"><i class="fa-solid fa-envelope"></i> jonathan@jonoart.co.za</a>
     <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
     <a href="https://www.instagram.com/jonathangi11/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
-    <a href="mailto:jonathan@jonoart.co.za"><i class="fa-solid fa-envelope"></i> jonathan@jonoart.co.za</a>
   </div>
 
 </section>
