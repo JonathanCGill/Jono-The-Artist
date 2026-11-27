@@ -37,7 +37,7 @@ description: >-
       <a class="m-door" href="/series/parareal/">
         <div class="m-door__img"><img loading="lazy" decoding="async" src="/acrylic/A-Starling-Reformation-at-Five-to-Midnight.jpg" width="2190" height="2952" alt="A Starling's Reformation at Five to Midnight, a surreal acrylic painting"></div>
         <div class="m-door__body">
-          <div class="m-door__row"><span class="m-door__name">Parareal</span><span class="m-door__count">7 works →</span></div>
+          <div class="m-door__row"><span class="m-door__name">Parareal</span><span class="m-door__count">8 works →</span></div>
           <span class="m-door__line">The same world, seen from a different seat.</span>
         </div>
       </a>

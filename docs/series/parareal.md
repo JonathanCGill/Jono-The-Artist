@@ -68,4 +68,12 @@ works:
     alt: "Emmaus, a painting of a road through a field of poppies at night, leading past an Emmaus signpost to a village and church under the full Moon"
     meta: "1000 × 750 mm · Acryla Gouache & Chromashine · Canvas"
     note: "The road to Emmaus at night, through the poppies to the village under a full Moon."
+  - title: "Deflections"
+    slug: "deflections"
+    src: "/acrylic/Deflections.jpg"
+    w: 3021
+    h: 2296
+    alt: "Deflections, an acryla gouache painting of a woman in a long pink dress and white headscarf on a wooden footbridge over a lily pond, her reflection broken up among the lily pads, an arum lily and reeds in the foreground and trees and ferns behind"
+    meta: "A2 · Acryla Gouache & Chromashine · Canvas Board · 2026"
+    note: "The ponds at Arderne Gardens, Claremont: bridges, lilies and still water. The reflection is the deflection."
 ---
