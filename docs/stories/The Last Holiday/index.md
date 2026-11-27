@@ -67,7 +67,10 @@ description: >-
       <h2>This painting is an original.</h2>
       <p>One canvas, one owner. Ask about it any time.</p>
     </div>
-    <a class="m-button" href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Message on Instagram →</a>
+    <div class="m-banner__actions">
+      <a class="m-button" href="mailto:jonathan@jonoart.co.za">Email jonathan@jonoart.co.za →</a>
+      <a class="m-button" href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Message on Instagram →</a>
+    </div>
   </div>
 </section>
 

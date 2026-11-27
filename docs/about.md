@@ -45,6 +45,7 @@ Galleries and collectors can browse the full [catalogue](catalogue.md): title, m
 
 <a href="https://www.facebook.com/jonathan.charles.gill/" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook</a>
 <a href="https://www.instagram.com/jonathangi11/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
+<a href="mailto:jonathan@jonoart.co.za"><i class="fa-solid fa-envelope"></i> jonathan@jonoart.co.za</a>
 
 </div>
 
