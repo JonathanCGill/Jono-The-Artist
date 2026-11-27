@@ -17,6 +17,7 @@
   var meta = viewer.querySelector('.m-viewer__meta');
   var note = viewer.querySelector('.m-viewer__note');
   var story = viewer.querySelector('.m-viewer__story');
+  var enquire = viewer.querySelector('.m-viewer__enquire');
   var closeBtn = viewer.querySelector('.m-viewer__close');
   var idx = null;
   var opener = null;
@@ -45,6 +46,7 @@
     note.hidden = !w.note;
     if (w.story) story.href = w.story;
     story.hidden = !w.story;
+    enquire.href = 'mailto:jonathan@jonoart.co.za?subject=' + encodeURIComponent('Enquiry: ' + w.title);
     setHash(w.slug);
     preload(idx + 1);
     preload(idx - 1);

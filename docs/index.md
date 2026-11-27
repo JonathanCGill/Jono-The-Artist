@@ -72,7 +72,10 @@ description: >-
     <h2>Original paintings.</h2>
     <div class="m-banner__body">
       <p>Every piece is a one-off, real paint on canvas or paper. No pressure. If something speaks to you, send a message.</p>
-      <a class="m-button" href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Message on Instagram →</a>
+      <div class="m-banner__actions">
+        <a class="m-button" href="mailto:jonathan@jonoart.co.za">Email jonathan@jonoart.co.za →</a>
+        <a class="m-button" href="https://www.instagram.com/jonathangi11/" target="_blank" rel="noopener">Message on Instagram →</a>
+      </div>
     </div>
   </div>
 </section>
