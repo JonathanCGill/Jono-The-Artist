@@ -3,10 +3,10 @@ template: hilltown.html
 name: "The Ordnance Map"
 kicker: "Hill Town · Map"
 standfirst: "The A2 map of the hill, the quarry, the flood plain and the airport, and the two ink sketches it grew from."
-description: "The Ordnance-style map of Hilltown: the walled hill, Moletown quarry, the flood plain and Aeromechanica International, with detail crops, the ink sketches it grew from and an A2 print file."
+description: "The Ordnance-style map of Hill Town: the walled hill, Moletown quarry, the flood plain and Aeromechanica International, with detail crops, the ink sketches it grew from and an A2 print file."
 ---
 
-[![Ordnance-style map of Hilltown, showing the walled hill, Moletown quarry and the airport](maps/hilltown-ordnance-map.jpg){ width="2800" height="1979" }](maps/hilltown-ordnance-map-a2.pdf)
+[![Ordnance-style map of Hill Town, showing the walled hill, Moletown quarry and the airport](maps/hilltown-ordnance-map.jpg){ width="2800" height="1979" }](maps/hilltown-ordnance-map-a2.pdf)
 
 [Download the A2 print file (PDF)](maps/hilltown-ordnance-map-a2.pdf)
 
@@ -15,8 +15,8 @@ description: "The Ordnance-style map of Hilltown: the walled hill, Moletown quar
 <div class="m-figs" markdown>
 
 <figure markdown>
-![Map detail of the walled town of Hilltown, with the clock spiral, the castle, the falls and St Jude's Cathedral](maps/detail-hilltown.jpg){ loading=lazy width="1600" height="1600" }
-<figcaption>Hilltown: the wall, the clock spiral, the castle, the falls and St Jude's Cathedral.</figcaption>
+![Map detail of the walled town of Hill Town, with the clock spiral, the castle, the falls and St Jude's Cathedral](maps/detail-hilltown.jpg){ loading=lazy width="1600" height="1600" }
+<figcaption>Hill Town: the wall, the clock spiral, the castle, the falls and St Jude's Cathedral.</figcaption>
 </figure>
 
 <figure markdown>
@@ -40,12 +40,12 @@ The map grew from two ink drawings and the painting. The first sketch fixed the 
 <div class="m-figs" markdown>
 
 <figure markdown>
-![First ink sketch of Hilltown in plan, showing the wall, the spiral street, the quarry and the plain](sketches/sketch-1-plan.jpg){ loading=lazy width="788" height="1400" }
+![First ink sketch of Hill Town in plan, showing the wall, the spiral street, the quarry and the plain](sketches/sketch-1-plan.jpg){ loading=lazy width="788" height="1400" }
 <figcaption>Sketch 1: the plan.</figcaption>
 </figure>
 
 <figure markdown>
-![Second ink sketch of Hilltown in cross-section, showing the water held in the hill, the falls and the water cycle](sketches/sketch-2-section.jpg){ loading=lazy width="788" height="1400" }
+![Second ink sketch of Hill Town in cross-section, showing the water held in the hill, the falls and the water cycle](sketches/sketch-2-section.jpg){ loading=lazy width="788" height="1400" }
 <figcaption>Sketch 2: the cross-section, with the water cycle.</figcaption>
 </figure>
 
